@@ -23,15 +23,7 @@ Archivio-Audiovisivo/
 ├── 04_LINGUAGGIO_AUDIOVISIVO/
 ├── 05_REGIA/
 ├── 06_MONTAGGIO/
-├── 07_FOTOGRAFIA/
-├── 08_SUONO/
-├── 09_SCRITTURA_E_NARRAZIONE/
-├── 10_GENERI_CINEMATOGRAFICI/
-├── 11_TELEVISIONE_E_SERIALITA/
-├── 12_DIGITALE_E_NUOVI_MEDIA/
-├── 13_DIDATTICA_DELL_AUDIOVISIVO/
-├── 14_ARTICOLI_E_SAGGI/
-└── 15_FONTI_E_BIBLIOGRAFIA/
+
 ```
 
 Le cartelle potranno essere ampliate o riorganizzate quando la quantità e la natura dei materiali lo renderanno necessario.
