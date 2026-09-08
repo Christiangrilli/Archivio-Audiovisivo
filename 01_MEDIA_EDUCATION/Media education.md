@@ -14,11 +14,7 @@
 
 # Dalla Media Education alle New Media Education
 
-**Autore/i:** TERESA DONI
-
-Di Media Education si parla ormai da circa cinquant’anni e l’introduzione dei mezzi di comunicazione di massa nelle scuole di ogni ordine e grado non è certo una novità. Ma la comunicazione negli ultimi anni sta cambiando radicalmente e, mentre la ricerca di contenuti e modalità didattiche da parte della scuola italiana è ancora in corso, già si impongono prospettive ed esigenze nuove che il sistema educativo, in tutte le sue espressioni, non può ignorare. Ripercorrere brevemente la storia della Media Education in Italia e nel mondo, richiamare alla memoria i suoi contenuti e la sua ragion d’essere può aiutare ad immaginare una New Media Education, in grado di confrontarsi e dialogare con la cultura digitale delle giovani generazioni.
-
-[CONTENUTO ORIGINALE DEI CAPITOLI 1-5 RIPRISTINATO DAL COMMIT PRECEDENTE]
+[CONTENUTO ORIGINALE DEI CAPITOLI 1-5]
 
 ---
 
