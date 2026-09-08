@@ -2,7 +2,7 @@
 
 > **Archivio di materiali sull'audiovisivo — sezione Media Education**
 >
-> Questo file raccoglie e organizza una selezione di articoli e saggi forniti dall'utente. I primi cinque capitoli costituiscono il nucleo originario del file *Media education.md*; il sesto integra la sintesi analitica di Elio Ugenti, *Operare con le immagini e con i media in contesti d'apprendimento*.
+> Questo file raccoglie e organizza una selezione di articoli e saggi sull'educazione ai media. 
 
 ## Indice
 
