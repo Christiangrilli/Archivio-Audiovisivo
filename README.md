@@ -1,125 +1,205 @@
 # Archivio Audiovisivo
 
-Archivio personale di materiali, appunti, saggi, articoli, fonti e strumenti per lo **studio e l'insegnamento delle discipline audiovisive**.
+Archivio personale di **materiali, saggi, articoli, appunti e testi di studio dedicati alle discipline audiovisive**.
 
-La repository è concepita come una **biblioteca di lavoro progressiva**: i materiali vengono raccolti, organizzati e progressivamente normalizzati per poter essere consultati sia direttamente sia come base documentaria per la progettazione didattica e l'elaborazione di nuovi materiali.
+La repository raccoglie e organizza materiali utili allo studio del cinema, dei media, della cultura visuale e della Media Education. I documenti sono conservati prevalentemente in formato Markdown, così da renderli facilmente consultabili, ricercabili e collegabili tra loro.
 
-## A cosa serve
+L'archivio è in **progressiva costruzione**: le sezioni e i materiali presenti rappresentano lo stato attuale della raccolta e potranno essere ampliati e riorganizzati nel tempo.
 
-L'archivio può essere utilizzato per:
+---
 
-- preparare lezioni disciplinari;
-- costruire presentazioni e slide;
-- elaborare schede di analisi;
-- progettare attività laboratoriali;
-- sviluppare esercitazioni individuali e di gruppo;
-- costruire unità di apprendimento e percorsi interdisciplinari;
-- approfondire aspetti storici, teorici e tecnico-linguistici dell'audiovisivo;
-- reperire rapidamente concetti, autori, opere e riferimenti bibliografici.
+## Contenuti
 
-## Struttura dell'archivio
+La repository è attualmente articolata in tre aree principali:
 
-Le cartelle principali corrispondono alle aree disciplinari attualmente attive. La numerazione rende stabile l'ordine di lettura e permette di ampliare l'archivio senza perdere una struttura riconoscibile.
+| Cartella                                                                        | Contenuto                                                                                                                 |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [`01_MEDIA_EDUCATION`](01_MEDIA_EDUCATION/)                                     | Articoli e saggi sulla Media Education, sull'educazione ai media e sull'uso didattico dell'audiovisivo                    |
+| [`02_MEDIA_LITERACY_E_CULTURA_DIGITALE`](02_MEDIA_LITERACY_E_CULTURA_DIGITALE/) | Media literacy, cultura visuale, cultura partecipativa, New Media Literacy, remix, critica audiovisiva e cultura digitale |
+| [`03_STORIA_DEL_CINEMA`](03_STORIA_DEL_CINEMA/)                                 | Testi e materiali dedicati alla storia del cinema, alle forme filmiche e alle metodologie di analisi                      |
 
-| Cartella | Area | Stato |
-|---|---|---|
-| [`01_MEDIA_EDUCATION`](01_MEDIA_EDUCATION/) | Media Education | In sviluppo |
-| [`02_MEDIA_LITERACY_E_CULTURA_DIGITALE`](02_MEDIA_LITERACY_E_CULTURA_DIGITALE/) | Media Literacy e Cultura Digitale | Attiva |
-| [`03_STORIA_DEL_CINEMA`](03_STORIA_DEL_CINEMA/) | Storia del cinema | Da ampliare |
-| [`04_TEORIA_DEL_CINEMA`](04_TEORIA_DEL_CINEMA/) | Teoria del cinema | Da ampliare |
-| [`05_LINGUAGGIO_AUDIOVISIVO`](05_LINGUAGGIO_AUDIOVISIVO/) | Linguaggio audiovisivo | Da ampliare |
-| [`06_REGIA`](06_REGIA/) | Regia | Da ampliare |
-| [`07_MONTAGGIO`](07_MONTAGGIO/) | Montaggio | Da ampliare |
-| [`08_FOTOGRAFIA`](08_FOTOGRAFIA/) | Fotografia | Da ampliare |
+Le altre aree disciplinari potranno essere aggiunte in seguito, quando saranno disponibili materiali sufficienti a costituire sezioni autonome.
 
-La struttura è **aperta**: nuove aree potranno essere aggiunte in seguito quando la quantità e la natura dei materiali lo renderanno opportuno.
+---
 
-## Come sono organizzati i materiali
+## 01 — Media Education
 
-L'organizzazione segue, per quanto possibile, tre livelli:
+La prima sezione raccoglie un corpus di **articoli e saggi scientifici dedicati alla Media Education**, con particolare attenzione al rapporto tra educazione, scuola, media, cinema e pratiche audiovisive.
 
-1. **area disciplinare** — la cartella tematica principale;
-2. **materiale** — un documento dedicato a un insieme coerente di contenuti;
-3. **metadati e fonti** — informazioni bibliografiche e riferimenti separati dal corpo del testo quando questo migliora la leggibilità.
+Il documento principale è [`Media_Education_Articoli.md`](01_MEDIA_EDUCATION/Media_Education_Articoli.md), che riunisce contributi di:
 
-L'obiettivo è evitare documenti privi di contesto o file il cui contenuto non sia immediatamente riconoscibile dal nome e dalla posizione nella struttura.
+* Teresa Doni;
+* Ruggero Eugeni;
+* Sara Mittiga;
+* Federico Pierotti;
+* Giacomo Ravesi ed Elio Ugenti;
+* Elio Ugenti.
 
-## Criteri per i documenti Markdown
+Tra i temi affrontati:
 
-I materiali testuali sono preferibilmente conservati in **Markdown (`.md`)** perché questo formato facilita:
+* Media Education e New Media Education;
+* scuola, media e cultura digitale;
+* competenza mediale;
+* cultura postmediale;
+* digital storytelling;
+* cinema e pedagogia;
+* film didattico e cinedidattica;
+* audiovisivo e insegnamento della storia;
+* immagini d'archivio;
+* apprendimento attivo;
+* produzione e rielaborazione delle immagini.
 
-- lettura umana;
-- ricerca testuale;
-- collegamenti tra documenti;
-- manutenzione nel tempo;
-- conversione in altri formati;
-- elaborazione automatica e interrogazione da parte di strumenti di intelligenza artificiale.
+Questa sezione costituisce quindi soprattutto una **base teorica e pedagogico-didattica** per lo studio dell'audiovisivo e per la progettazione di attività educative.
 
-I documenti dovrebbero mantenere una struttura semantica riconoscibile, con titoli e sottotitoli gerarchici, paragrafi autonomi, elenchi quando appropriati e riferimenti bibliografici non inseriti arbitrariamente nel mezzo delle frasi.
+---
 
-## Criteri di normalizzazione
+## 02 — Media Literacy e Cultura Digitale
 
-Quando un materiale proviene da PDF, scansioni, appunti o altre fonti impaginate, la conversione può richiedere una **normalizzazione editoriale**.
+La seconda sezione è dedicata al rapporto tra **media, immagini, società, cultura e tecnologie digitali**.
 
-Possono essere rimossi o corretti, quando non fanno parte del contenuto sostanziale:
+I materiali affrontano, tra gli altri, i seguenti argomenti:
 
-- numeri di pagina;
-- intestazioni e piè di pagina ripetuti;
-- interruzioni di riga dovute all'impaginazione;
-- duplicazioni generate dall'estrazione automatica;
-- marcatori tecnici privi di funzione semantica.
+* cultura visuale e visual literacy;
+* teorie dello sguardo e regime scopico;
+* rappresentazione e uso sociale delle immagini;
+* media literacy e competenza mediale;
+* cultura partecipativa;
+* convergenza mediale;
+* prosumer e produsage;
+* fandom e comunità online;
+* spazi di affinità;
+* New Media Literacy;
+* cinema espanso;
+* critica audiovisiva;
+* critofilm e video essay;
+* critica ipermediale;
+* analisi quantitativa dello stile;
+* remix, sampling e found footage;
+* vidding, machinima e fan video;
+* rapporto tra tecnologie, educazione e partecipazione culturale.
 
-La normalizzazione non deve modificare deliberatamente il significato del materiale originale.
+Il documento [`media-literacy-cultura-digitale.md`](01_MEDIA_EDUCATION/../02_MEDIA_LITERACY_E_CULTURA_DIGITALE/media-literacy-cultura-digitale.md) raccoglie inoltre materiali e appunti che collegano la cultura visuale alla **didattica del linguaggio cinematografico e audiovisivo**, affrontando quattro nuclei fondamentali:
 
-## Fonti e riferimenti bibliografici
+1. il racconto;
+2. l'inquadratura;
+3. il montaggio;
+4. il suono.
 
-L'archivio distingue tra:
+Sono presenti inoltre approfondimenti su Henry Jenkins e la cultura partecipativa, James Gee e gli spazi di affinità, Enzo Ungari e il cinema espanso, Serge Daney, Carlo Ludovico Ragghianti e il critofilm, Barry Salt, Lev Manovich e le pratiche contemporanee del remix.
 
-- **materiale presente nella repository**, che costituisce la base documentaria dell'archivio;
-- **fonti bibliografiche**, utilizzate per identificare e contestualizzare i materiali;
-- **fonti esterne**, eventualmente utilizzate per verificare, aggiornare o integrare un'informazione;
-- **sintesi e collegamenti elaborati**, che costituiscono un livello interpretativo distinto dalle fonti.
+---
 
-Quando sarà possibile, i riferimenti bibliografici verranno organizzati in sezioni dedicate del documento o in file specifici, evitando di interrompere il testo con marcatori bibliografici poco leggibili.
+## 03 — Storia del Cinema
 
-## Utilizzo con sistemi di intelligenza artificiale
+La terza sezione raccoglie attualmente cinque materiali di diversa natura, concentrati sulla **storia del cinema, sulle forme filmiche, sul cinema americano e sulle metodologie di analisi**.
 
-La repository è progettata anche per essere **facilmente interrogabile da sistemi di intelligenza artificiale**.
+I materiali presenti sono:
 
-Per questo motivo sono privilegiati:
+* [`Dal classico al postmoderno al global. Teoria e analisi delle forme filmiche.md`](03_STORIA_DEL_CINEMA/Dal%20classico%20al%20postmoderno%20al%20global.%20Teoria%20e%20analisi%20delle%20forme%20filmiche.md) — testo di Veronica Pravadelli sulle forme filmiche, con particolare attenzione alla classicità hollywoodiana, alla teoria e all'analisi del film.
+* [`Il cinema americano classico.md`](03_STORIA_DEL_CINEMA/Il%20cinema%20americano%20classico.md) — materiale dedicato alla formazione e alle caratteristiche del cinema americano classico e del sistema hollywoodiano.
+* [`Metodologie dii analisi del film.md`](03_STORIA_DEL_CINEMA/Metodologie%20dii%20analisi%20del%20film.md) — testo di Paolo Bertetto dedicato ai principi e alle modalità dell'analisi del film.
+* [`Saper vedere il cinema.md`](03_STORIA_DEL_CINEMA/Saper%20vedere%20il%20cinema.md) — materiale teorico introduttivo sul cinema, sulla visione e sull'esperienza cinematografica.
+* [`Steven Spielbeg.md`](03_STORIA_DEL_CINEMA/Steven%20Spielbeg.md) — approfondimento su Steven Spielberg, sul suo ruolo nel cinema contemporaneo e nel sistema hollywoodiano.
 
-- nomi di cartelle semanticamente espliciti;
-- nomi dei file descrittivi del loro contenuto;
-- documenti Markdown strutturati con titoli gerarchici;
-- paragrafi concettualmente autonomi;
-- parole chiave coerenti;
-- collegamenti relativi tra materiali correlati;
-- separazione tra contenuto, metadati e bibliografia;
-- descrizioni sintetiche delle singole aree.
+Nel complesso, la sezione mette in relazione **storia del cinema, teoria, forme filmiche e analisi**, con una particolare presenza di materiali relativi al cinema hollywoodiano e agli strumenti necessari per la lettura del testo audiovisivo.
 
-Questo non implica che un sistema di IA debba trattare automaticamente ogni informazione contenuta nell'archivio come verificata o definitiva. Quando necessario, i contenuti dovranno essere confrontati con le fonti originali e con fonti esterne affidabili.
+---
 
-## Rapporto con `PEF60-A07`
+## Come leggere l'archivio
 
-La repository **Archivio-Audiovisivo** costituisce l'archivio disciplinare dei contenuti audiovisivi.
+La repository non è concepita come un manuale unitario, ma come una **raccolta progressiva di materiali di studio**.
 
-La repository [`PEF60-A07`](https://github.com/Christiangrilli/PEF60-A07) è invece destinata alla preparazione didattica e concorsuale.
+I documenti possono essere letti:
 
-Le due repository hanno quindi funzioni complementari:
+* singolarmente, quando riguardano un argomento specifico;
+* per area disciplinare;
+* mettendo in relazione materiali appartenenti a sezioni diverse;
+* come base per approfondimenti teorici e storici;
+* come supporto alla progettazione didattica delle discipline audiovisive.
 
-- **Archivio-Audiovisivo** → conoscenze disciplinari, fonti, materiali e approfondimenti;
-- **PEF60-A07** → progettazione didattica, normativa, competenze, metodologie e preparazione alla prova.
+La struttura delle cartelle serve soprattutto a mantenere riconoscibile la provenienza e l'ambito disciplinare dei materiali.
 
-Quando opportuno, i materiali didattici potranno rimandare alle relative fonti disciplinari presenti nell'archivio audiovisivo.
+---
 
-## Evoluzione della repository
+## Formato dei materiali
 
-La struttura attuale è intenzionalmente essenziale. Le cartelle ancora vuote saranno progressivamente riempite e, con l'aumento dei materiali, potranno essere introdotti ulteriori livelli di organizzazione, indici tematici e collegamenti incrociati.
+I materiali testuali sono conservati principalmente in **Markdown (`.md`)**.
 
-La repository va quindi considerata un **archivio in evoluzione**, non una struttura definitiva.
+La scelta del formato risponde a esigenze pratiche:
 
-## Principio generale
+* leggibilità;
+* ricerca testuale;
+* possibilità di creare collegamenti tra documenti;
+* facilità di modifica e manutenzione;
+* interoperabilità con altri strumenti;
+* possibilità di elaborazione e interrogazione automatica.
 
-> **Prima organizzare la conoscenza, poi utilizzarla per costruire materiali didattici.**
+I file possono derivare da appunti personali, testi estratti da documenti impaginati o materiali rielaborati per la consultazione. Di conseguenza, il grado di normalizzazione e strutturazione può variare da un documento all'altro.
 
-L'obiettivo a lungo termine è trasformare questa repository in una base documentaria coerente dalla quale sia possibile recuperare rapidamente informazioni disciplinari, collegarle tra loro e trasformarle in materiali per l'insegnamento delle discipline audiovisive.
+---
+
+## Natura dell'archivio
+
+L'archivio ha una funzione principalmente **documentaria e di studio**.
+
+I materiali presenti non devono essere necessariamente interpretati come testi originali prodotti dall'autore della repository: quando un documento contiene articoli, saggi o altri materiali di terzi, il file costituisce una copia o una trascrizione utilizzata come materiale di consultazione.
+
+Per approfondimenti accademici è quindi opportuno risalire alla **pubblicazione originale** e verificarne i dati bibliografici.
+
+La presenza di un'informazione nella repository non implica inoltre, di per sé, che essa sia stata verificata o aggiornata: quando necessario, le informazioni vanno confrontate con le fonti originali e con fonti affidabili.
+
+---
+
+## Utilizzo con strumenti di IA
+
+La struttura in Markdown rende l'archivio particolarmente adatto anche alla **ricerca, indicizzazione e interrogazione tramite strumenti di intelligenza artificiale**.
+
+La suddivisione per aree disciplinari permette di distinguere, ad esempio:
+
+* materiali pedagogici e di Media Education;
+* materiali sulla cultura digitale e visuale;
+* materiali di storia e teoria del cinema;
+* testi dedicati all'analisi delle forme audiovisive.
+
+L'utilizzo dell'IA deve tuttavia mantenere distinta la **fonte originale** dalla sintesi o dall'elaborazione prodotta a partire dai materiali dell'archivio.
+
+---
+
+## Stato della repository
+
+La repository è attualmente in una fase di **sviluppo e ampliamento**.
+
+La situazione attuale è volutamente semplice:
+
+```text
+Archivio-Audiovisivo/
+│
+├── 01_MEDIA_EDUCATION/
+│   ├── README.md
+│   └── Media_Education_Articoli.md
+│
+├── 02_MEDIA_LITERACY_E_CULTURA_DIGITALE/
+│   ├── README.md
+│   └── media-literacy-cultura-digitale.md
+│
+├── 03_STORIA_DEL_CINEMA/
+│   ├── Dal classico al postmoderno al global. Teoria e analisi delle forme filmiche.md
+│   ├── Il cinema americano classico.md
+│   ├── Metodologie dii analisi del film.md
+│   ├── Saper vedere il cinema.md
+│   └── Steven Spielbeg.md
+│
+└── README.md
+```
+
+Le sezioni potranno essere ampliate con nuovi materiali e, quando la quantità dei contenuti lo renderà utile, potranno essere introdotti ulteriori livelli di organizzazione, indici e collegamenti tematici.
+
+---
+
+## Obiettivo
+
+L'obiettivo dell'archivio è costruire progressivamente una **base documentaria organizzata per lo studio delle discipline audiovisive**.
+
+La repository non vuole essere, almeno allo stato attuale, un'enciclopedia completa del cinema e dei media, ma uno spazio nel quale raccogliere, ordinare e rendere interrogabili materiali utili alla costruzione della conoscenza disciplinare.
+
+> **Raccogliere, organizzare, collegare e utilizzare la conoscenza audiovisiva.**
