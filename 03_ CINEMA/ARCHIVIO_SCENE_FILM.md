@@ -34,6 +34,7 @@ L'indice verrà aggiornato progressivamente con l'inserimento delle scene.
 - Soggettiva
 
 ### Messa in scena
+- Direzione degli attori
 - Messa in scena
 - Recitazione
 - Scenografia
@@ -77,6 +78,7 @@ L'indice verrà aggiornato progressivamente con l'inserimento delle scene.
 - Musica e immagini
 
 ### Narrazione e linguaggio cinematografico
+- Metacinema / cinema nel cinema
 - Focalizzazione
 - Punto di vista
 - Narratore
@@ -186,6 +188,12 @@ I tag devono essere utilizzati in modo coerente per rendere più facile la ricer
 - #composizione
 - #messa-in-scena
 - #recitazione
+- #direzione-attori
+- #metacinema
+- #cinema-nel-cinema
+- #ripetizione
+- #gerarchia
+- #formato
 - #spazio
 - #luce
 - #colore
@@ -1293,3 +1301,99 @@ Per non trattare tutti gli esempi come equivalenti, il nucleo iniziale dell'arch
 20. Akerman — voce, fuori campo e dispositivo.
 
 Questa priorità non indica una gerarchia di valore cinematografico: indica soltanto la **chiarezza con cui il procedimento audiovisivo può essere isolato e discusso in un contesto scolastico**.
+
+
+---
+
+## 36. *El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set
+
+### Identificazione
+- **Film:** *El ser querido*.
+- **Regia:** Rodrigo Sorogoyen.
+- **Anno:** 2026.
+- **Scena:** sequenza del pranzo/cena girata sul set del film nel film: gli attori devono ripetere più volte la scena del pasto, mentre Esteban Martínez (Javier Bardem) interviene continuamente sulla loro recitazione e perde progressivamente il controllo. Emilia (Victoria Luengo) è coinvolta nella situazione anche come attrice e come figlia del regista.
+- **Collocazione indicata:** 1:17:00–1:32:00 (minutaggio fornito dall'utente; può variare secondo edizione o piattaforma).
+- **Durata indicativa:** circa 15 minuti. Il regista ha confermato che la sequenza occupa circa 15 minuti nel montaggio definitivo e che le riprese sono durate cinque giorni.
+- **Nota di identificazione:** non confondere questa sequenza con il lungo piano della scena iniziale al ristorante. Qui si tratta della scena della preparazione/recitazione del pasto sul set del film diretto da Esteban.
+
+### Indicizzazione
+- **Concetto principale:** direzione degli attori e costruzione della performance attraverso la ripetizione.
+- **Concetti secondari:** metacinema; film nel film; rapporto regista-attori; messa in scena del set; gerarchia e potere sul luogo di lavoro; recitazione; ripetizione delle prove e delle riprese; escalation drammatica; montaggio; formati e supporti dell'immagine.
+- **Tag:** #messa-in-scena #recitazione #direzione-attori #metacinema #cinema-nel-cinema #ripetizione #gerarchia #dialogo #montaggio #colore #formato #punto-di-vista
+- **Livello didattico:** Intermedio / Avanzato.
+- **Uso consigliato:** analisi della direzione degli attori; introduzione al metacinema; discussione sul rapporto tra potere, responsabilità e organizzazione del lavoro sul set.
+
+### Tecniche e aspetti formali
+- **Messa in scena:** il set cinematografico diventa lo spazio principale dell'azione. La scena rappresentata dagli attori dentro il film e la situazione vissuta dai personaggi sul set si sovrappongono progressivamente: il lavoro di recitazione non è più separabile dal conflitto personale e professionale.
+- **Direzione degli attori:** Esteban interrompe e corregge ripetutamente gli interpreti, cercando una determinata qualità del gesto e della performance. La ripetizione rende visibile il potere del regista nel definire che cosa debba apparire credibile o naturale.
+- **Inquadratura e composizione:** la sequenza è costruita attraverso un insieme articolato di soluzioni visive. Sorogoyen parla di un'escalation stilistica e di un impiego di molteplici risorse formali. Non si attribuiscono qui scale di piano o movimenti specifici non verificati direttamente sul frammento.
+- **Movimento di macchina:** da verificare attraverso la visione diretta del frammento; non classificare genericamente la sequenza come piano-sequenza.
+- **Montaggio:** il montaggio contribuisce alla progressione della tensione e all'organizzazione di una scena corale con numerosi attori. Sorogoyen ha sottolineato la complessità del lavoro di montaggio svolto da Alberto del Campo. Per un'analisi puntuale di raccordi, durata dei piani e alternanza delle inquadrature è necessaria una visione ravvicinata del frammento.
+- **Suono:** il dialogo e le indicazioni impartite sul set sono centrali per comprendere la dinamica di potere. Da verificare direttamente l'eventuale uso di rumori, pause, sovrapposizioni e variazioni del paesaggio sonoro.
+- **Fotografia e formato:** Sorogoyen spiega che il film alterna digitale, pellicola, bianco e nero e formato 4:3. Nella sequenza della cena la sperimentazione formale raggiunge il culmine; il regista descrive il finale come un confronto in bianco e nero. La scelta dei formati non è un semplice ornamento: accompagna l'intensificarsi del conflitto.
+- **Continuità produttiva:** il direttore della fotografia Alejandro de Pablo riferisce che la scena è stata girata in cinque giorni, con condizioni meteorologiche variabili, usando simultaneamente più cineprese analogiche e digitali da angolazioni differenti. La continuità tra le riprese costituiva una difficoltà tecnica rilevante.
+
+### Analisi della scena
+La sequenza mette in scena un procedimento tipico del lavoro cinematografico — ripetere una scena fino a ottenere la performance desiderata — e ne porta progressivamente in superficie la dimensione conflittuale. All'inizio la ripetizione degli errori, le correzioni del regista e la situazione paradossale del pasto ricreato più volte possono produrre un effetto comico. La progressiva esasperazione di Esteban modifica però il tono: ciò che sembrava una normale ricerca di precisione diventa una situazione di pressione e intimidazione.
+
+Il punto centrale non è soltanto che il regista pretende una recitazione migliore, ma che rivendica il potere di stabilire unilateralmente che cosa sia una performance convincente. La richiesta di naturalezza diventa così paradossale: agli attori viene chiesto di apparire spontanei attraverso un processo di controllo, ripetizione e correzione. La scena rende visibile la natura costruita della recitazione cinematografica e la tensione tra spontaneità dell'interprete e forma imposta dalla regia.
+
+Il film nel film consente inoltre una sovrapposizione tra il conflitto professionale e quello familiare. Esteban dirige Emilia come attrice, ma il rapporto di autorità sul set è attraversato dalla relazione irrisolta tra padre e figlia. La gerarchia professionale del regista si somma quindi a quella familiare e di genere. Sorogoyen ha esplicitamente collegato il progetto ai temi del potere e della gerarchia nel rapporto padre-figlia, oltre che alla trasformazione dei comportamenti accettati sui set contemporanei.
+
+Sul piano formale, la sequenza costituisce il culmine della sperimentazione del film: il passaggio tra supporti, formati e bianco e nero accompagna l'aumento della tensione. Sorogoyen la definisce il momento più violento della storia e descrive il finale come un duello in bianco e nero. È quindi possibile leggere la trasformazione stilistica come una traduzione audiovisiva del conflitto, non come un semplice esercizio virtuosistico.
+
+### Perché è didatticamente utile
+La scena è efficace perché rende osservabile un processo che normalmente resta dietro le quinte: la direzione degli attori. Gli studenti possono vedere come una performance venga costruita attraverso indicazioni, ripetizioni, correzioni e rapporti di potere. La sequenza permette inoltre di distinguere la recitazione spontanea dalla recitazione cinematografica, che è sempre il risultato di una costruzione e di una selezione.
+
+È anche un esempio particolarmente ricco di metacinema: il film racconta un set cinematografico e mostra come si produce una scena, mentre utilizza questa situazione per sviluppare il conflitto tra i personaggi. La forma audiovisiva e il contenuto narrativo si riflettono l'uno nell'altro.
+
+### Obiettivo didattico
+Al termine dell'attività, lo studente dovrebbe essere in grado di:
+1. descrivere il ruolo del regista nella direzione degli attori;
+2. riconoscere la ripetizione come fase del processo produttivo e come elemento di costruzione drammatica;
+3. distinguere il livello della scena recitata nel film dal livello della situazione vissuta dai personaggi sul set;
+4. spiegare come il rapporto di potere tra regista e interpreti contribuisca alla costruzione della scena;
+5. collegare le trasformazioni formali (formato, colore, bianco e nero) all'evoluzione del conflitto narrativo.
+
+### Come utilizzarla in classe
+Proporre una prima visione integrale del frammento senza fornire anticipazioni. Chiedere agli studenti di annotare quando cambia il tono della sequenza e quali comportamenti producono tale cambiamento. In una seconda visione, concentrarsi sulle istruzioni di Esteban, sulle reazioni degli attori e sulla posizione di Emilia all'interno del set.
+
+La discussione può essere organizzata su tre livelli:
+- **Produzione:** che cosa comporta ripetere una scena? Quali problemi di continuità e coordinamento emergono quando una sequenza coinvolge molti interpreti?
+- **Linguaggio:** come cambiano il tono e la percezione della scena? Quali scelte visive segnalano il passaggio dalla comicità alla tensione?
+- **Interpretazione:** dove finisce la direzione artistica e dove comincia l'abuso di potere? La richiesta di una recitazione naturale può diventare una forma di controllo?
+
+### Domande da porre agli studenti
+1. Perché la ripetizione della scena del pasto produce inizialmente un effetto quasi comico e poi diventa fonte di tensione?
+2. Qual è la differenza tra chiedere a un attore di correggere un gesto e imporgli una determinata idea di naturalezza?
+3. In che modo il fatto che Esteban sia contemporaneamente regista e padre di Emilia modifica il significato delle sue indicazioni?
+4. Quali elementi della sequenza fanno capire che stiamo assistendo a un film nel film?
+5. Come si può collegare la trasformazione del linguaggio visivo al crescendo del conflitto?
+
+### Concetti che permette di spiegare
+- Direzione degli attori e costruzione della performance.
+- Ripetizione, prova e ciak nel processo produttivo.
+- Metacinema e rappresentazione del set.
+- Messa in scena e gerarchia dei ruoli.
+- Rapporto tra forma audiovisiva e tensione drammatica.
+- Continuità cinematografica e riprese multi-camera.
+
+### Collegamenti
+- **Teoria e bibliografia:** David Bordwell, Kristin Thompson e Jeff Smith, *Film Art: An Introduction*, sezioni su mise-en-scène, recitazione, messa in scena e stile; Vsevolod Pudovkin, *Film Technique and Film Acting*, per la riflessione sulla costruzione della performance cinematografica; James Naremore, *Acting in the Cinema* (1988), per lo studio della recitazione come elemento del linguaggio filmico.
+- **Altre scene dell'archivio:** *Gli ultimi fuochi* — cinema nel cinema; *8½* — rappresentazione del processo creativo e del set; *The Grand Budapest Hotel* — composizione e controllo della messa in scena.
+- **Autori/registi:** Rodrigo Sorogoyen; confronto possibile con film che rappresentano il lavoro cinematografico e la direzione degli attori.
+
+### Note didattiche
+- **Contenuti sensibili / avvertenze:** linguaggio aggressivo, intimidazione e dinamiche di abuso di potere sul luogo di lavoro; opportuno contestualizzare la scena e distinguere il conflitto drammatico dalla normalizzazione di comportamenti abusivi.
+- **Necessità di contestualizzazione:** spiegare brevemente il rapporto tra Esteban ed Emilia e il fatto che la scena rappresentata sul set appartiene al film che Esteban sta dirigendo.
+- **Durata consigliata del frammento:** l'intera sequenza indicata dall'utente (circa 15 minuti); per una lezione più breve si può selezionare il passaggio in cui la ripetizione comica si trasforma in tensione, verificandone il punto esatto sulla copia utilizzata.
+- **Limite dell'analisi:** i dati di produzione e le intenzioni dichiarate dal regista sono documentati dalle fonti elencate. L'analisi puntuale di scale dei piani, movimenti di macchina, raccordi e trattamento sonoro resta da completare sulla visione diretta del frammento.
+
+### Fonti
+- Rodrigo Sorogoyen, intervista a Cineuropa, 18 maggio 2026: https://cineuropa.org/es/interview/491283 — dichiarazioni su gerarchia padre-figlia, sperimentazione formale, formati e funzione della sequenza della cena.
+- Rodrigo Sorogoyen, intervista a Beatriz Martínez, *Infobae*, 3 settembre 2026: https://www.infobae.com/espana/cultura/2026/09/03/entrevista-a-rodrigo-sorogoyen-director-de-el-ser-querido-la-violencia-del-hombre-es-el-mayor-motivo-de-dolor-en-esta-sociedad/ — dichiarazioni su potere, racconto, sguardo e lavoro con gli attori.
+- Movistar Plus Comunicación, presentazione al Festival di Cannes, 17 maggio 2026: https://www.movistarplus.es/comunicacion/notas-de-prensa/asi-fue-la-presentacion-de-la-pelicula-original-movistar-plus-el-ser-querido-en-el-festival-de-cannes/ — conferma della durata di circa 15 minuti e dei cinque giorni di riprese.
+- Alejandro de Pablo, AEC, intervista ad AFCinema: https://www.afcinema.com/Interview-with-Alejandro-de-Pablo-AEC-about-his-work-on-El-ser-querido-The-Beloved-by-Rodrigo-Sorogoyen.html — dettagli sulla continuità, sulle condizioni di ripresa e sull'impiego simultaneo di camere analogiche e digitali da angolazioni differenti.
+- A Contracorriente Films, *Making of El ser querido | La secuencia de la caballa*: https://www.youtube.com/watch?v=bqNxpn-QJUM — materiale audiovisivo di produzione dedicato alla costruzione della sequenza.
+- *JustWatch Guides*, “Cómo se hizo la escena de la comida de El ser querido”: https://guides.justwatch.com/es/escena-ser-querido-como-se-hizo — approfondimento sul lavoro preparatorio e sulla costruzione della scena.
+
