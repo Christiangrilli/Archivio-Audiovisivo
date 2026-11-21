@@ -24,6 +24,7 @@ Quando una scena viene inserita nell'archivio, il concetto principale deve esser
 L'indice verrà aggiornato progressivamente con l'inserimento delle scene.
 
 ### Inquadratura e composizione
+- Spazio tra i personaggi / spazio intermedio
 - Campo / controcampo
 - Profondità di campo
 - Piano sequenza
@@ -1397,3 +1398,96 @@ La discussione può essere organizzata su tre livelli:
 - A Contracorriente Films, *Making of El ser querido | La secuencia de la caballa*: https://www.youtube.com/watch?v=bqNxpn-QJUM — materiale audiovisivo di produzione dedicato alla costruzione della sequenza.
 - *JustWatch Guides*, “Cómo se hizo la escena de la comida de El ser querido”: https://guides.justwatch.com/es/escena-ser-querido-como-se-hizo — approfondimento sul lavoro preparatorio e sulla costruzione della scena.
 
+
+
+---
+
+## 37. *Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille
+
+### Identificazione
+- **Film:** *Il disprezzo* (*Le Mépris*).
+- **Regia:** Jean-Luc Godard.
+- **Anno:** 1963.
+- **Scena:** nella lunga sequenza dell'appartamento, Paul (Michel Piccoli) e Camille (Brigitte Bardot) siedono ai lati di un tavolo e discutono del loro rapporto. La macchina da presa si sposta lateralmente da un personaggio all'altro, attraversando visivamente lo spazio che li separa e passando davanti alla lampada collocata tra loro.
+- **Collocazione:** la conversazione al tavolo è indicata in uno studio di analisi audiovisiva intorno a 01:02:01–01:04:27. Il minutaggio può variare secondo edizione e distribuzione; verificare sulla copia utilizzata in classe.
+- **Durata indicativa:** circa 2 minuti e 26 secondi per il segmento individuato nello studio; da verificare sulla copia.
+- **Contesto:** il frammento appartiene alla lunga sequenza domestica in cui il deterioramento del rapporto tra Paul e Camille viene tradotto nell'organizzazione degli spazi dell'appartamento.
+
+### Indicizzazione
+- **Concetto principale:** carrellata laterale e costruzione dello spazio tra i personaggi.
+- **Concetti secondari:** rifiuto del campo/controcampo classico; piano-sequenza; durata; composizione; spazio negativo; ostacolo visivo; movimento di macchina non subordinato al dialogo; rapporto tra forma e conflitto drammatico.
+- **Tag:** #movimento-di-macchina #carrellata #travelling #spazio #composizione #inquadratura #messa-in-scena #dialogo #piano-sequenza #cinema-moderno #fuori-campo #narrazione
+- **Livello didattico:** Intermedio / Avanzato.
+- **Uso consigliato:** analisi formale; confronto tra découpage classico e cinema moderno; introduzione alla funzione espressiva del movimento di macchina.
+
+### Tecniche e aspetti formali
+- **Messa in scena:** Paul e Camille sono disposti ai lati del tavolo. La lampada che occupa il primo piano/intervallo tra i due diventa un elemento di separazione visiva. La disposizione dei corpi e degli oggetti rende concreta la distanza affettiva della coppia.
+- **Inquadratura e composizione:** la scena organizza il rapporto tra i personaggi attraverso la distanza e lo spazio intermedio. La lampada attraversata dalla traiettoria della macchina da presa non è soltanto un elemento d'arredo: interrompe e filtra la visione dei due interlocutori.
+- **Movimento di macchina:** carrellata laterale (travelling) che procede da un personaggio all'altro e ritorna, seguendo un percorso che rende percepibile lo spazio tra loro. È importante non confonderla con una semplice panoramica: la macchina da presa trasla lateralmente nello spazio. La bibliografia consultata specifica proprio la natura di tracking laterale del movimento.
+- **Montaggio:** il segmento è costruito come un movimento continuo, senza ricorrere alla normale alternanza di campi e controcampi che scompone la conversazione in una successione di reazioni e battute. La continuità del movimento rende percepibile la durata dell'interazione.
+- **Suono:** il dialogo è il principale elemento sonoro del frammento. La relazione tra chi parla e ciò che l'immagine mostra non coincide sempre in modo meccanico: il movimento della macchina da presa non si limita a illustrare ogni battuta.
+- **Dialogo:** la conversazione riguarda la crisi del rapporto tra i due. Il contenuto verbale è importante, ma il suo effetto è inseparabile dalla distanza fisica, dagli ostacoli e dalla scelta di non adottare il découpage dialogico convenzionale.
+- **Fotografia e luce:** la lampada assume un rilievo compositivo e scenico, oltre alla sua funzione pratica. La sua presenza nel percorso visivo della macchina da presa contribuisce a dividere il quadro.
+- **Spazio:** lo spazio intermedio diventa il vero oggetto dell'inquadratura. La macchina da presa non lo elimina attraverso il montaggio, ma lo percorre e lo impone all'attenzione dello spettatore.
+
+### Analisi della scena
+In una scena dialogica convenzionale, il confronto tra due personaggi viene spesso organizzato attraverso il campo/controcampo: un'inquadratura mostra il primo interlocutore, quella successiva il secondo, e il montaggio costruisce una relazione di alternanza tra parola, ascolto e reazione. Godard sceglie una soluzione diversa. Invece di frammentare la conversazione in una serie di inquadrature alternate, mantiene la continuità del piano e fa scorrere lateralmente la macchina da presa tra Paul e Camille.
+
+Il movimento rende visibile ciò che il découpage classico tende spesso a neutralizzare: lo spazio che separa i due interlocutori. La macchina da presa deve attraversarlo ogni volta, passando davanti alla lampada che occupa il centro della composizione. Lo spazio non è quindi un contenitore neutro del dialogo, ma una componente attiva della messa in scena e una possibile figura della distanza emotiva che si è prodotta nella coppia.
+
+Un aspetto decisivo è che la macchina da presa non funziona come un semplice indicatore di turno: non si limita a inquadrare automaticamente chi sta parlando. Il suo movimento possiede una propria durata e una relativa autonomia rispetto alla successione delle battute. In questo modo lo spettatore è portato a osservare non soltanto i volti e le parole, ma il rapporto spaziale che li lega e contemporaneamente li divide.
+
+La scena permette inoltre di riflettere sul rapporto tra continuità e montaggio. L'assenza del consueto campo/controcampo non significa assenza di organizzazione formale: la continuità del piano, la traiettoria della macchina da presa, la disposizione dei corpi e la lampada producono una precisa articolazione visiva. È una forma di organizzazione interna all'inquadratura, talvolta descritta come una sorta di montaggio interno al piano.
+
+### Perché è didatticamente utile
+Il frammento consente di mostrare in modo molto chiaro che il movimento di macchina non serve soltanto a seguire un'azione o a rendere dinamica un'inquadratura. Può anche costruire una relazione tra i personaggi e attribuire valore espressivo allo spazio che li separa.
+
+È particolarmente efficace per mettere a confronto due modi di rappresentare una conversazione: il découpage classico basato sul campo/controcampo e la soluzione di Godard, che mantiene i personaggi nella continuità di un piano e rende visibile lo spazio intermedio. Gli studenti possono così comprendere che una scelta formale modifica il modo in cui lo spettatore percepisce una relazione, anche quando il contenuto del dialogo rimane invariato.
+
+### Obiettivo didattico
+Al termine dell'attività, lo studente dovrebbe essere in grado di:
+1. distinguere una carrellata laterale da una panoramica;
+2. riconoscere la funzione del campo/controcampo nella costruzione di una scena dialogica;
+3. descrivere come un movimento di macchina possa sostituire o modificare il découpage convenzionale;
+4. analizzare la funzione espressiva dello spazio tra i personaggi;
+5. collegare la composizione dell'inquadratura e il movimento di macchina alla rappresentazione di un conflitto.
+
+### Come utilizzarla in classe
+Proporre il frammento senza anticipare la soluzione tecnica adottata da Godard. Durante la prima visione chiedere agli studenti di concentrarsi sul percorso della macchina da presa e di annotare se essa segue sempre il personaggio che parla.
+
+Nella seconda visione, invitare la classe a osservare la lampada e lo spazio attraversato dalla macchina da presa. Successivamente, confrontare il frammento con una scena dialogica costruita attraverso il campo/controcampo, chiedendo quali differenze emergano nel ritmo, nella percezione dello spazio e nel rapporto con i personaggi.
+
+Una possibile attività consiste nel progettare la stessa conversazione in due modi: prima attraverso un découpage classico con campi e controcampi, poi in un'unica inquadratura con movimento laterale. Gli studenti possono discutere quali informazioni e quali effetti espressivi vengono privilegiati o sacrificati dalle due soluzioni.
+
+### Domande da porre agli studenti
+1. Perché Godard non utilizza il consueto campo/controcampo per rappresentare questa conversazione?
+2. La macchina da presa si sposta sempre verso il personaggio che sta parlando?
+3. Che funzione assume la lampada collocata tra Paul e Camille?
+4. Che cosa ci fa percepire il movimento laterale che sarebbe meno evidente in una successione di campi e controcampi?
+5. In che modo lo spazio tra i personaggi contribuisce a rappresentare la crisi del loro rapporto?
+
+### Concetti che permette di spiegare
+- Carrellata laterale / travelling.
+- Campo/controcampo e découpage della scena dialogica.
+- Piano continuo e organizzazione interna dell'inquadratura.
+- Spazio intermedio e spazio negativo.
+- Rapporto tra movimento di macchina e conflitto drammatico.
+- Relazione tra forma audiovisiva e significato.
+
+### Collegamenti
+- **Teoria e bibliografia:** David Bordwell, Kristin Thompson e Jeff Smith, *Film Art: An Introduction*, per messa in scena, cinematografia e montaggio; Peter Verstraten, *Film Narratology* (2009), per l'analisi del movimento di macchina e del suo impatto narrativo; Alain Bergala, *Nul mieux que Godard* (1999), per la riflessione sullo spazio e sulle forze che circolano tra i personaggi in *Le Mépris*.
+- **Altre scene dell'archivio:** *Susanna* — découpage classico e campo/controcampo; *Gli ultimi fuochi* — costruzione della scena attraverso il découpage; *L'avventura* — durata e autonomia dello spazio nel cinema moderno.
+- **Autori/registi:** Jean-Luc Godard; confronto con il découpage classico hollywoodiano e con il cinema moderno.
+
+### Note didattiche
+- **Contenuti sensibili / avvertenze:** il frammento si concentra su una crisi di coppia e su un dialogo conflittuale; non presenta particolari criticità per la visione scolastica, ma va contestualizzato.
+- **Necessità di contestualizzazione:** è utile spiegare brevemente che Paul e Camille sono una coppia in crisi e che la lunga sequenza dell'appartamento mette in relazione la disposizione degli ambienti con il progressivo allontanamento tra i personaggi.
+- **Durata consigliata del frammento:** circa 2 minuti e 26 secondi per il segmento indicato nello studio audiovisivo; verificare il minutaggio sulla copia utilizzata.
+- **Precisazione terminologica:** definire il movimento come carrellata laterale / travelling, non come panoramica. La macchina da presa trasla nello spazio; non ruota semplicemente sul proprio asse.
+
+### Fonti
+- “An Audiovisual Analysis of the 'Apartment Scene' in Jean-Luc Godard’s *Le Mépris*”, studio di analisi audiovisiva, con descrizione del segmento al tavolo e indicazione temporale 01:02:01–01:04:27: https://www.academia.edu/7605551/An_Audiovisual_Analysis_of_the_Apartment_Scene_in_Jean_Luc_Godard_s_Le_Me_pris
+- “Essaying the Forms of Popular Cinema: Godard, Farocki, and the Principle of Shot/Countershot”, in *The Essay Film: Dialogue, Politics, Utopia*, Columbia University Press, 2016: https://www.academia.edu/34179837/Essaying_the_Forms_of_Popular_Cinema_Godard_Farocki_and_the_Principle_of_Shot_Countershot
+- Peter Verstraten, *Film Narratology*, University of Toronto Press, 2009, in particolare la discussione del movimento laterale della macchina da presa in *Le Mépris*.
+- “Le Mépris: Analysis of mise-en-scène”, *Offscreen*, con precisazione terminologica sul movimento laterale (tracking, non pan): https://offscreen.com/view/mepris_analysis
+- “Fashioning Rebellion”, *Senses of Cinema* (2022), sull'uso dello spazio vuoto e della distanza tra Paul e Camille: https://www.sensesofcinema.com/2022/forms-that-think-jean-luc-godard/fashioning-rebellion/
