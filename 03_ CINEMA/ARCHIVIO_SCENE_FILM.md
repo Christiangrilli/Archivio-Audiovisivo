@@ -1356,22 +1356,79 @@ A conclusione, descrivono il raccordo fra il bacio sul televisore e quello di El
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scene:** prime apparizioni dei dinosauri.
-- **Concetto principale:** fuori campo e rivelazione dell'immagine.
-- **Concetti secondari:** suspense, effetti speciali, CGI, spettacolo.
-- **Tag:** #fuori-campo #inquadratura #suspense #messa-in-scena
+- **Sequenza:** il primo attacco del Tyrannosaurus rex al recinto, durante il temporale: l'attesa nell'auto, le vibrazioni nel bicchiere d'acqua, la scomparsa della capra, la comparsa dell'animale e l'attacco ai veicoli.
+- **Concetto principale:** suspense attraverso il fuori campo e la rivelazione progressiva.
+- **Concetti secondari:** suono fuori campo, dettaglio, punto di vista, profondità, illuminazione, animatronics, CGI, montaggio, spazio diegetico.
+- **Tag:** #fuori-campo #suspense #suono #inquadratura #effetti-visivi #messa-in-scena #punto-di-vista
 - **Livello:** Base / Intermedio.
-- **Uso:** confronto.
+- **Uso consigliato:** confrontare la gestione della minaccia invisibile in *Lo squalo* con la progressiva apparizione di una creatura che il film può finalmente mostrare.
+- **Attenzione ai contenuti:** la sequenza contiene un attacco violento e la morte di un personaggio; selezionare il frammento in rapporto all'età e alla sensibilità della classe.
+- **Stato:** **DA COMPLETARE** — delimitare il segmento e controllare la durata sulla copia utilizzata in classe.
 
-### Analisi
-La comparazione con *Lo squalo* permette di osservare due strategie di gestione della minaccia: mantenere l'elemento pericoloso fuori campo e costruire l'attesa attraverso le reazioni, oppure mostrarlo progressivamente all'interno dell'inquadratura.
+### Contesto essenziale
+Durante il temporale, il gruppo di visitatori resta bloccato nelle jeep davanti al recinto del Tyrannosaurus rex. La corrente è interrotta e il sistema di sicurezza non funziona. L'animale non si mostra subito: i personaggi avvertono prima i suoi passi, vedono vibrare l'acqua in un bicchiere e si accorgono che la capra lasciata come esca è scomparsa. Solo in seguito il dinosauro entra nel campo visivo e attacca i veicoli.
 
-La tecnologia degli effetti speciali modifica le possibilità dello spettacolo, ma non elimina il problema propriamente registico di decidere **quando** e **come** mostrare l'oggetto dello sguardo.
+### Analisi formale
+La sequenza costruisce l'attesa attraverso una progressione di indizi sensoriali. Il primo segnale non è un'immagine del dinosauro, ma un rumore grave e ritmico che si avvicina. Il dettaglio del bicchiere d'acqua rende visibile la vibrazione prodotta dai passi: un movimento minimo, osservato in primo piano, traduce in immagine una forza che ancora non vediamo. La minaccia viene quindi percepita attraverso un effetto fisico prima che attraverso la sua causa.
+
+Il suono assume una funzione decisiva. Pioggia, tuoni, passi e richiami dell'animale costruiscono uno spazio sonoro più ampio di quello visibile. La creatura sembra occupare il fuori campo e avvicinarsi da una zona che i personaggi non riescono a controllare. La sequenza non si affida a una musica continua per indicare allo spettatore come reagire: lascia emergere i rumori ambientali e gli effetti sonori, che rendono percepibile la presenza del dinosauro.
+
+Anche la scomparsa della capra è un'informazione narrativa. Prima vediamo il punto in cui l'animale era legato, poi il posto vuoto; la gamba che cade sul tetto della jeep trasforma l'assenza in una prova materiale dell'attacco. La rivelazione del Tyrannosaurus avviene dopo una serie di indizi e non coincide con la fine della suspense: quando il dinosauro entra in campo, la minaccia cambia forma e diventa un problema di sopravvivenza immediata.
+
+La pioggia, il buio e la vegetazione limitano la visibilità e frammentano il corpo dell'animale. Il film alterna immagini parziali, dettagli, reazioni dei personaggi e apparizioni più ampie. Il fuori campo non è quindi soltanto uno spazio vuoto: è un luogo attivo, dal quale provengono rumori e conseguenze. Quando il dinosauro viene mostrato, la credibilità dell'incontro dipende dalla coerenza dello spazio diegetico e dall'integrazione fra attori, scenografia, animatronic e immagini digitali. Non è corretto attribuire l'intera sequenza alla CGI: il film combina tecniche differenti.
+
+### Evidenze da far osservare
+1. Qual è il primo segnale della presenza del Tyrannosaurus: visivo o sonoro?
+2. Come il bicchiere d'acqua trasforma un suono in un dettaglio visibile.
+3. Quale funzione narrativa ha il posto vuoto della capra e quando compare la prova del suo destino.
+4. Come pioggia, buio e vegetazione limitano la visibilità.
+5. In quali momenti vediamo l'animale per intero e in quali soltanto parti del corpo o conseguenze della sua presenza.
+6. Come cambia la funzione del fuori campo dopo la prima apparizione.
+
+### Perché è didatticamente utile
+La sequenza permette di distinguere la costruzione dell'attesa dalla rivelazione della minaccia. Gli studenti possono osservare come un film organizzi l'informazione attraverso suono, dettagli, reazioni e fuori campo, e come la comparsa del mostro non elimini la suspense ma la trasformi in azione. Il confronto con *Lo squalo* consente di discutere due strategie diverse: mantenere a lungo la minaccia invisibile oppure mostrarla dopo una preparazione progressiva.
 
 ### Obiettivo didattico
-Comprendere la differenza fra «mostrare» e «far immaginare» e analizzare il ruolo del fuori campo nella suspense.
+Al termine dell'attività, lo studente sa individuare gli indizi sonori e visivi che anticipano la comparsa del Tyrannosaurus, descrivere la funzione del fuori campo e spiegare come la rivelazione progressiva modifichi la costruzione della suspense.
 
----
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare il frammento senza anticipare il momento in cui il dinosauro appare. Chiedere agli studenti di annotare il primo segnale che indica la presenza di qualcosa fuori campo.
+2. **Seconda visione:** concentrarsi sul bicchiere, sulla capra e sui rumori dei passi, mettendo in relazione ogni indizio con l'informazione che fornisce.
+3. **Analisi del suono:** ascoltare il frammento senza immagini e provare a ricostruire la posizione e la distanza della minaccia.
+4. **Analisi della rivelazione:** individuare il momento in cui il dinosauro entra in campo e confrontare la tensione prima e dopo la comparsa.
+5. **Confronto:** mettere in relazione la sequenza con l'attacco iniziale di *Lo squalo*, distinguendo la presenza suggerita dalla presenza mostrata.
+6. **Rielaborazione:** progettare una breve scena di suspense in cui un oggetto si muove o vibra prima che lo spettatore scopra la causa.
+
+### Domande per gli studenti
+1. Perché il film mostra il bicchiere prima di mostrare il dinosauro?
+2. Che cosa ci comunica il posto vuoto della capra?
+3. Quali informazioni arrivano dal suono e quali dall'immagine?
+4. Il fuori campo scompare quando il dinosauro viene mostrato oppure continua a essere importante?
+5. Quali differenze noti fra questa sequenza e il primo attacco di *Lo squalo*?
+
+### Verifica formativa
+Gli studenti ricostruiscono la progressione della suspense in una tabella di cinque fasi:
+1. rumore e vibrazione;
+2. dettaglio del bicchiere;
+3. assenza della capra;
+4. comparsa della prova dell'attacco;
+5. rivelazione del dinosauro e attacco ai veicoli.
+
+Per ogni fase indicano **che cosa vede lo spettatore**, **che cosa sente**, **che cosa può dedurre** e **quale informazione resta ancora fuori campo**.
+
+**Criteri:** individuazione corretta degli indizi, distinzione fra suono e immagine, comprensione della progressione informativa, uso preciso dei termini fuori campo e rivelazione.
+
+### Collegamenti
+- **Minaccia fuori campo:** *Lo squalo* — attacco di Chrissie e punto di vista subacqueo.
+- **Suspense e spazio:** *Gli uccelli* (*The Birds*) — presenza della minaccia e reazioni dei personaggi.
+- **Suono e anticipazione:** *Incontri ravvicinati del terzo tipo* — suono come informazione e codice.
+- **Effetti visivi e credibilità:** *Blade Runner* — integrazione di scenografia, miniature e interventi ottici.
+
+### Fonti e riferimenti
+- William Whittington, «Lost in Sensation: Reevaluating the Role of Cinematic Sound in the Digital Age», in Carol Vernallis, Amy Herzog e John Richardson (a cura di), *The Oxford Handbook of Sound and Image in Digital Media*, Oxford University Press, 2013. Analizza il bicchiere d'acqua, i passi e il ruolo del suono nel creare una presenza fuori campo: https://dalena.github.io/art5001/supplements/The_Oxford_Handbook_of_Sound_and_Image_in_Digital_Media_%282013%29.pdf
+- Emily Alder, «Jurassic Plants: The Botanical Worlds of Spielberg’s *Jurassic Park* (1993)», *ISLE: Interdisciplinary Studies in Literature and Environment*, 32, n. 2, 2025, pp. 398–419, DOI: 10.1093/isle/isad075. Analizza la funzione della vegetazione e del suono nel nascondere e rivelare il Tyrannosaurus: https://doi.org/10.1093/isle/isad075
+- BBC, «How Steven Spielberg felt that *Jurassic Park* was “Jaws on land”», per il rapporto fra attesa, suono e rivelazione del dinosauro: https://www.bbc.com/culture/article/20230609-how-steven-spielberg-felt-that-jurassic-park-was-jaws-on-land
+- American Film Institute, materiali sul cinema di Spielberg e sulla costruzione della suspense in *Jurassic Park*.
 
 ## 13. *Minority Report* (Steven Spielberg, 2002)
 [↑ Torna all'indice](#indice-interattivo)
