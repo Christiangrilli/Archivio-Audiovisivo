@@ -1,0 +1,57 @@
+{
+  "name": "cinearchivio",
+  "version": "1.0.0",
+  "description": "Atlante didattico del cinema",
+  "main": "electron/main.js",
+  "author": "Cinearchivio",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "electron .",
+    "dist:mac": "electron-builder --mac dmg"
+  },
+  "devDependencies": {
+    "electron": "^39.2.7",
+    "electron-builder": "^26.0.12"
+  },
+  "build": {
+    "appId": "it.cinearchivio.desktop",
+    "productName": "Cinearchivio",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "index.html",
+      "styles.css",
+      "app.js",
+      "electron/**/*"
+    ],
+    "mac": {
+      "category": "public.app-category.education",
+      "target": [
+        {
+          "target": "dmg",
+          "arch": [
+            "arm64",
+            "x64"
+          ]
+        }
+      ]
+    },
+    "dmg": {
+      "signAndEditExecutable": false,
+      "contents": [
+        {
+          "x": 130,
+          "y": 180,
+          "type": "file"
+        },
+        {
+          "x": 410,
+          "y": 180,
+          "type": "link",
+          "path": "/Applications"
+        }
+      ]
+    }
+  }
+}
