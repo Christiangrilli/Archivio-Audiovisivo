@@ -474,7 +474,7 @@ La presenza di un film in questa lista significa che la fonte lo utilizza come e
 - **Esempio:** luce naturale e controllo della fotografia.
 - **Concetti:** luce naturale, esposizione, fotografia.
 
-### *1917* (Sam Mendes, 2019)
+### *Birdman* (Alejandro González Iñárritu, 2014)
 - **Fonte:** *grammatica-audiovisivo*
 - **Esempio:** simulazione del piano sequenza mediante giunzioni nascoste.
 - **Concetti:** piano sequenza, long take, montaggio invisibile, raccordo nascosto.
@@ -1039,30 +1039,52 @@ Comprendere come una convenzione della grammatica audiovisiva possa essere modif
 
 ---
 
-## 20. *1917* (Sam Mendes, 2019)
+## 20. *Birdman* (Alejandro González Iñárritu, 2014)
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scene:** sequenze costruite come un unico piano-sequenza apparente attraverso raccordi nascosti.
-- **Concetto principale:** piano-sequenza simulato e montaggio invisibile.
-- **Concetti secondari:** long take, raccordo nascosto, continuità, tempo.
-- **Tag:** #movimento-di-macchina #montaggio #continuità #spazio #tempo
+- **Film:** *Birdman or (The Unexpected Virtue of Ignorance)* (*Birdman*).
+- **Regia:** Alejandro González Iñárritu.
+- **Anno:** 2014.
+- **Scena:** sequenze che seguono Riggan e gli altri personaggi negli spazi del teatro, attraverso corridoi, camerini, palcoscenico e ambienti adiacenti. Per l'attività didattica è opportuno selezionare un segmento circoscritto in cui il movimento della macchina da presa attraversa più ambienti senza un taglio immediatamente percepibile.
+- **Concetto principale:** piano-sequenza apparente e montaggio nascosto.
+- **Concetti secondari:** long take, continuità simulata, raccordo nascosto, movimento di macchina, coreografia degli attori, blocking, gestione dello spazio e del tempo.
+- **Tag:** #piano-sequenza #long-take #montaggio #continuità #raccordo #movimento-di-macchina #spazio #tempo #messa-in-scena
 - **Livello:** Intermedio.
 - **Uso:** analisi tecnica e confronto.
 
 ### Analisi
-La forma del film produce l'impressione di una continuità temporale quasi ininterrotta, pur ricorrendo a giunzioni nascoste. La scena è particolarmente utile per distinguere il concetto di piano-sequenza da quello di «effetto piano-sequenza»: ciò che appare come un'unica ripresa può essere costruito attraverso il montaggio.
+*Birdman* costruisce per gran parte della sua durata l'impressione di un'unica ripresa continua. Questa continuità è un effetto ottenuto attraverso la combinazione di lunghi segmenti girati in presa diretta, movimenti di macchina coreografati, raccordi nascosti e interventi digitali. La macchina da presa segue i personaggi negli spazi del teatro, li abbandona e li ritrova, attraversa soglie e corridoi e mantiene in movimento il punto di osservazione.
+
+È importante non definire il film un vero piano-sequenza integrale: la continuità percepita è il risultato di più riprese assemblate in modo da rendere poco visibili le giunzioni. Il film permette quindi di distinguere il piano-sequenza propriamente detto dall'effetto di piano-sequenza prodotto dal montaggio. La mobilità della macchina da presa, inoltre, non è un semplice virtuosismo: contribuisce a legare gli ambienti del teatro e a mantenere lo spettatore vicino all'esperienza dei personaggi.
+
+### Perché è didatticamente utile
+È un esempio particolarmente efficace per mostrare che la sensazione di continuità non coincide necessariamente con l'assenza di montaggio. Consente di osservare insieme il lavoro della macchina da presa, la coreografia degli attori, il blocking e la costruzione dei raccordi invisibili.
 
 ### Obiettivo didattico
-Saper distinguere long take, piano-sequenza e simulazione della continuità attraverso il montaggio.
+Saper distinguere piano-sequenza, long take e piano-sequenza apparente; individuare gli indizi visivi che possono segnalare un raccordo nascosto e spiegare come movimento di macchina e messa in scena contribuiscano alla continuità.
+
+### Come utilizzarla in classe
+Proporre un frammento circoscritto ambientato negli spazi del teatro. Alla prima visione chiedere agli studenti di descrivere il percorso della macchina da presa e gli spostamenti dei personaggi, senza anticipare la presenza dei tagli. Alla seconda visione invitarli a individuare i punti in cui potrebbe essere stata realizzata una giunzione: passaggi ravvicinati davanti a superfici scure, attraversamenti di soglie, panoramiche rapide o momenti in cui l'immagine perde temporaneamente dettagli riconoscibili. Chiarire che questi sono indizi da verificare, non la prova automatica di un taglio.
 
 ### Domande
-1. Che cosa ci fa percepire la scena come continua?
-2. Dove potrebbe essere nascosto il montaggio?
-3. La percezione dello spettatore coincide necessariamente con la tecnica utilizzata?
+1. In che modo la macchina da presa collega gli ambienti del teatro?
+2. Quali movimenti dei personaggi e della macchina contribuiscono a mantenere la continuità?
+3. Quali elementi potrebbero nascondere una giunzione tra due riprese?
+4. Che differenza c'è tra la durata di una singola ripresa e la continuità che percepiamo guardando il film?
 
----
+### Collegamenti
+- *Rope*: continuità apparente e giunzioni nascoste, con una diversa soluzione tecnica e produttiva.
+- *Touch of Evil*: piano-sequenza, movimento e organizzazione dello spazio.
+- *The Magnificent Ambersons*: long take e distribuzione dell'informazione attraverso la messa in scena.
+- *The Shining*: movimento di macchina e costruzione della percezione dello spazio.
 
+### Fonti
+- Emmanuel Lubezki, intervista tecnica su *Birdman*, ARRI: https://www.arri.com/news-en/emmanuel-lubezki-asc-amc-on-birdman
+- David Bordwell, “BIRDMAN: Following Riggan’s orders”, *Observations on Film Art*: https://www.davidbordwell.net/blog/2015/02/23/birdman-following-riggans-orders/
+- Celestino Deleyto e María del Mar Azcona, studio accademico su *Birdman*, long take e continuità digitale: https://zaguan.unizar.es/record/130995/files/texto_completo.pdf
+
+**Stato:** DA COMPLETARE — individuare e verificare sulla copia scelta il frammento preciso da proiettare e il relativo timecode.
 ## 21. *Fight Club* (David Fincher, 1999)
 [↑ Torna all'indice](#indice-interattivo)
 
@@ -1314,7 +1336,7 @@ Per non trattare tutti gli esempi come equivalenti, il nucleo iniziale dell'arch
 2. *Lo squalo* — movimento di macchina e suspense.
 3. *Jurassic Park* — fuori campo e rivelazione.
 4. *The Grand Budapest Hotel* — composizione e simmetria.
-5. *1917* — piano-sequenza apparente e montaggio nascosto.
+5. *Birdman* — piano-sequenza apparente e montaggio nascosto.
 6. *Il settimo sigillo* — scavalcamento dell'asse.
 7. *Shining* — geometria dell'inquadratura.
 8. *E.T.* — intertestualità e costruzione dell'empatia.
@@ -1602,7 +1624,7 @@ Hitchcock organizza il film come una successione di lunghi piani che simulano un
 Distinguere long take, piano-sequenza e montaggio mascherato; riconoscere come movimento di macchina e coreografia degli attori possano sostituire parte della frammentazione del découpage.
 
 ### Come utilizzarla in classe
-Far individuare agli studenti i momenti in cui il film potrebbe aver effettuato un cambio di bobina. Successivamente confrontare la scena con *1917*, già presente nell'archivio.
+Far individuare agli studenti i momenti in cui il film potrebbe aver effettuato un cambio di bobina. Successivamente confrontare la scena con *Birdman*, già presente nell'archivio.
 
 ### Domande
 1. Perché questa regia dà l'impressione di essere continua?
@@ -1610,7 +1632,7 @@ Far individuare agli studenti i momenti in cui il film potrebbe aver effettuato 
 3. Cosa cambia nella percezione dello spazio quando la macchina da presa non interrompe l'azione?
 
 ### Collegamenti
-- *1917*: continuità simulata.
+- *Birdman*: continuità simulata.
 - *Lo squalo*: long take e movimento nello spazio.
 - Cinema classico e rapporto fra macchina da presa e spazio scenico.
 
@@ -2362,7 +2384,7 @@ Far ricostruire agli studenti la geografia della scena con frecce su una pianta 
 ### Collegamenti
 - *Breathless*: continuità contro discontinuità.
 - *Rope*: continuità apparente attraverso il movimento.
-- *1917*: continuità come immersione.
+- *Birdman*: continuità come immersione.
 
 ### Fonti
 Bordwell e Thompson, studi sulla continuità classica e sulla costruzione dello spazio filmico; ricerca contemporanea sulla frammentazione e sulla ricostruzione dello spazio attraverso il montaggio. citeturn216999search3
@@ -2524,7 +2546,7 @@ La ricerca contemporanea sulla plasticità dello spazio filmico considera la fra
 *Rear Window* → *Vertigo* → *Psycho* → *Rashomon*
 
 ### 7. Long take / piano-sequenza
-*The Last Laugh* → *The Magnificent Ambersons* → *Rope* → *Touch of Evil* → *1917*
+*The Last Laugh* → *The Magnificent Ambersons* → *Rope* → *Touch of Evil* → *Birdman*
 
 
 ## 30. *The Godfather / Il padrino* (Francis Ford Coppola, 1972)
@@ -2621,7 +2643,7 @@ Far tracciare agli studenti il percorso di Danny e chiedere cosa apprendono dell
 ### Collegamenti
 - *Rope*.
 - *Touch of Evil*.
-- *1917*.
+- *Birdman*.
 - *The Last Laugh*.
 
 ### Fonti
@@ -2763,7 +2785,7 @@ Disegnare due personaggi, tracciare l'asse e segnare le posizioni della macchina
 *M* → *The Conversation* → *The Graduate* → *Apocalypse Now* → *Blow Out*
 
 ### Movimento di macchina
-*The Last Laugh* → *The Shining* → *Rope* → *Touch of Evil* → *1917*
+*The Last Laugh* → *The Shining* → *Rope* → *Touch of Evil* → *Birdman*
 
 ### Temporalità e narrazione non lineare
 *I quattrocento colpi* → *Memento* → *Rashomon* → *Mulholland Drive*
