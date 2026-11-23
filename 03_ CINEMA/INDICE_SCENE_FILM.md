@@ -33,7 +33,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set)
 - [*Psycho* (Alfred Hitchcock, 1960)](ARCHIVIO_SCENE_FILM.md#38-psycho-alfred-hitchcock-1960)
 - [*Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)](ARCHIVIO_SCENE_FILM.md#39-rope-nodo-alla-gola-alfred-hitchcock-1948)
-- [*Fino all'ultimo respiro* (*À bout de souffle / Breathless*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-fino-allultimo-respiro-a-bout-de-souffle-breathless-jean-luc-godard-1960)
+- [*Fino all'ultimo respiro* (*À bout de souffle / Breathless*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-fino-allultimo-respiro-à-bout-de-souffle-breathless-jean-luc-godard-1960)
 - [*Blow Out* (Brian De Palma, 1981)](ARCHIVIO_SCENE_FILM.md#43-blow-out-brian-de-palma-1981)
 - [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962)
 - [*La corazzata Potëmkin* (*Bronenosets Potemkin*, Sergej Ejzenštejn, 1925)](ARCHIVIO_SCENE_FILM.md#47-la-corazzata-potëmkin-bronenosets-potemkin-sergej-ejzenštejn-1925)
@@ -130,7 +130,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set)
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](ARCHIVIO_SCENE_FILM.md#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille)
 - [*Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)](ARCHIVIO_SCENE_FILM.md#39-rope-nodo-alla-gola-alfred-hitchcock-1948)
-- [*Fino all'ultimo respiro* (*À bout de souffle / Breathless*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-fino-allultimo-respiro-a-bout-de-souffle-breathless-jean-luc-godard-1960)
+- [*Fino all'ultimo respiro* (*À bout de souffle / Breathless*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-fino-allultimo-respiro-à-bout-de-souffle-breathless-jean-luc-godard-1960)
 - [*L'infernale Quinlan* (*Touch of Evil*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#41-linfernale-quinlan-touch-of-evil-orson-welles-1958)
 - [*The Birds* (*Gli uccelli*, Alfred Hitchcock, 1963)](ARCHIVIO_SCENE_FILM.md#46-the-birds-gli-uccelli-alfred-hitchcock-1963)
 - [*L'uomo con la macchina da presa* (*Chelovek s kino-apparatom*, Dziga Vertov, 1929)](ARCHIVIO_SCENE_FILM.md#48-luomo-con-la-macchina-da-presa-chelovek-s-kino-apparatom-dziga-vertov-1929)
@@ -225,7 +225,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set)
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](ARCHIVIO_SCENE_FILM.md#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille)
 - [*Psycho* (Alfred Hitchcock, 1960)](ARCHIVIO_SCENE_FILM.md#38-psycho-alfred-hitchcock-1960)
-- [*Fino all'ultimo respiro* (*À bout de souffle / Breathless*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-fino-allultimo-respiro-a-bout-de-souffle-breathless-jean-luc-godard-1960)
+- [*Fino all'ultimo respiro* (*À bout de souffle / Breathless*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-fino-allultimo-respiro-à-bout-de-souffle-breathless-jean-luc-godard-1960)
 - [*L'infernale Quinlan* (*Touch of Evil*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#41-linfernale-quinlan-touch-of-evil-orson-welles-1958)
 - [*La conversazione* (*The Conversation*, Francis Ford Coppola, 1974)](ARCHIVIO_SCENE_FILM.md#42-la-conversazione-the-conversation-francis-ford-coppola-1974)
 - [*Blow Out* (Brian De Palma, 1981)](ARCHIVIO_SCENE_FILM.md#43-blow-out-brian-de-palma-1981)
@@ -299,7 +299,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*E.T. l'extra-terrestre* (Steven Spielberg, 1982) — silhouette e controluce](ARCHIVIO_SCENE_FILM.md#88-et-lextra-terrestre-steven-spielberg-1982-silhouette-controluce-ed-effetti-ottici) — fotografia e composizione.
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set) — direzione degli attori e costruzione della performance attraverso la ripetizione.
 - [*Fight Club* (David Fincher, 1999)](ARCHIVIO_SCENE_FILM.md#21-fight-club-david-fincher-1999) — inserti di singolo fotogramma e anticipazione narrativa.
-- [*Fino all'ultimo respiro* (*À bout de souffle / Breathless*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-fino-allultimo-respiro-a-bout-de-souffle-breathless-jean-luc-godard-1960) — jump cut.
+- [*Fino all'ultimo respiro* (*À bout de souffle / Breathless*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-fino-allultimo-respiro-à-bout-de-souffle-breathless-jean-luc-godard-1960) — jump cut.
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976) — découpage e costruzione della scena.
 - [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — piano-sequenza al Copacabana](ARCHIVIO_SCENE_FILM.md#93-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-il-piano-sequenza-al-copacabana) — piano-sequenza e movimento di macchina.
 - [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — voice-over](ARCHIVIO_SCENE_FILM.md#74-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-voice-over) — voice-over narrativo.
