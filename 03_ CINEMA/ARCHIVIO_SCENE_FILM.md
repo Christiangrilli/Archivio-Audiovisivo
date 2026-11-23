@@ -919,27 +919,73 @@ Gli studenti compilano una tabella a due colonne, una per ciascuno spazio, regis
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scene:** ricerca di Anna sull'isola; camminate e attese dei personaggi.
+- **Sequenza:** la ricerca di Anna sull'isola di Lisca Bianca dopo la sua scomparsa. Il frammento comprende gli spostamenti di Sandro e Claudia fra le rocce, alcuni incontri con gli altri membri del gruppo e momenti in cui il paesaggio sembra prevalere sull'azione.
 - **Concetto principale:** spazio e durata nel cinema moderno.
-- **Concetti secondari:** indebolimento della causalità, movimento, attesa, immagine ottica.
-- **Tag:** #spazio #tempo #movimento-di-macchina #narrazione #punto-di-vista
-- **Livello:** Avanzato.
-- **Uso:** confronto fra cinema classico e moderno.
+- **Concetti secondari:** discontinuità spaziale, asse d'azione, profondità, fuori campo, tempo morto, ellissi, rapporto fra figura e paesaggio, indebolimento della causalità.
+- **Tag:** #spazio #tempo #movimento-di-macchina #narrazione #punto-di-vista #continuità #asse-dell-azione
+- **Livello:** Intermedio / Avanzato.
+- **Uso consigliato:** confrontare la costruzione dello spazio nel découpage classico con una sequenza che sospende la continuità e lascia emergere la durata e il paesaggio.
+- **Stato:** **DA COMPLETARE** — selezionare un frammento circoscritto della ricerca sull'isola e controllare i passaggi di montaggio sulla copia utilizzata in classe.
 
-### Analisi
-Le passeggiate, le attese e gli spostamenti non sono sempre subordinati a un'immediata progressione dell'azione. Il tempo della rappresentazione può quindi acquisire un'autonomia rispetto alla necessità di far avanzare rapidamente la trama.
+### Contesto essenziale
+Durante una gita in barca alle isole Eolie, Anna scompare su Lisca Bianca. Il gruppo comincia a cercarla, ma la ricerca non conduce a una soluzione: gli spostamenti si ripetono, le informazioni non chiariscono che cosa sia accaduto e il racconto progressivamente sposta l'attenzione su Claudia e Sandro. Per l'analisi è sufficiente presentare la scomparsa e spiegare che il frammento scelto segue la ricerca sull'isola.
 
-La scena è utile per introdurre la differenza fra una narrazione organizzata principalmente intorno alla causalità dell'azione e una forma cinematografica in cui spazio, durata e percezione assumono un peso autonomo.
+### Analisi formale
+La sequenza non organizza la ricerca come una progressione lineare verso la soluzione di un enigma. I personaggi si muovono fra rocce, sentieri e scogliere, ma gli spostamenti non producono sempre nuove informazioni. Il paesaggio non è un semplice sfondo: occupa una parte rilevante dell'immagine, condiziona i percorsi e può continuare a essere osservato anche quando i personaggi escono dall'inquadratura. La macchina da presa non si affretta a ristabilire la continuità mostrando ogni volta dove siano andati i personaggi; in alcuni momenti lascia che il luogo mantenga una propria presenza visiva.
+
+Selim Eyuboglu, nella sua tesi dedicata al film, individua nella ricerca sull'isola due passaggi in cui viene disorientata la continuità dell'asse. In uno, dopo uno scambio di sguardi fra Sandro e Claudia, un taglio mostra un vecchio pescatore e la successiva inquadratura non conferma la direzione d'incontro che lo spettatore si aspetta: il movimento del pescatore e quello di Sandro risultano difficili da ricomporre. In un altro passaggio, Sandro guarda nella direzione in cui Claudia è uscita dal quadro, ma il taglio successivo mostra un dettaglio di una cavità nella roccia e poi Claudia che si lava il viso, prima che Sandro ricompaia alle sue spalle. Il montaggio non offre immediatamente il raccordo atteso e rende instabile la ricostruzione dello spazio.
+
+Questi scarti non vanno confusi con una generica «mancanza di regole». Il film utilizza convenzioni riconoscibili e le sospende in punti precisi, facendo percepire allo spettatore il carattere costruito della continuità. La durata dei piani, gli spostamenti non risolutivi e l'attenzione accordata agli elementi naturali contribuiscono inoltre a rallentare la funzione narrativa della ricerca. Il tempo non è soltanto quello necessario a trovare Anna: diventa tempo di osservazione, attesa e incertezza.
+
+### Evidenze da far osservare
+1. Quanto spazio occupa il paesaggio rispetto ai corpi dei personaggi.
+2. Se la macchina da presa segue sempre i personaggi quando escono dal quadro oppure lascia permanere l'inquadratura sul luogo.
+3. In quali passaggi il montaggio non conferma la direzione o l'attesa prodotta dall'inquadratura precedente.
+4. Come vengono collegati lo sguardo di Sandro e le immagini successive.
+5. Quali informazioni nuove forniscono gli spostamenti e quali, invece, non contribuiscono a risolvere la scomparsa.
+6. Come cambia la percezione del tempo rispetto a una scena d'azione costruita secondo una progressione causale.
+
+### Perché è didatticamente utile
+La sequenza permette di mostrare che la continuità spaziale non è una proprietà naturale delle immagini, ma un effetto costruito attraverso inquadrature, direzioni, raccordi e movimenti. Gli scarti di asse sono particolarmente utili per confrontare la grammatica classica con una scelta moderna che rende percepibile l'instabilità dello spazio. Allo stesso tempo, la ricerca che non avanza consente di discutere il tempo morto e il rapporto fra azione narrativa e osservazione del paesaggio.
 
 ### Obiettivo didattico
-Riconoscere alcune caratteristiche del cinema moderno e comprendere il rapporto fra durata e narrazione.
+Al termine dell'attività, lo studente sa ricostruire la disposizione dei personaggi in un breve frammento, riconoscere un raccordo che disorienta la continuità dell'asse e spiegare come durata, paesaggio e informazioni trattenute modifichino la funzione narrativa della sequenza.
+
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare il frammento senza spiegare la funzione degli scarti di montaggio. Chiedere agli studenti di seguire i movimenti dei personaggi e di descrivere il luogo.
+2. **Mappa dello spazio:** disegnare una pianta molto semplice dell'area, segnando le direzioni di movimento e le posizioni dei personaggi quando sono riconoscibili.
+3. **Seconda visione:** fermarsi sui passaggi in cui il taglio non conferma l'aspettativa spaziale generata dall'inquadratura precedente.
+4. **Confronto:** mostrare un dialogo classico costruito con raccordi di sguardo e campo/controcampo e chiedere quali informazioni spaziali vengono rese più stabili.
+5. **Analisi della durata:** individuare i momenti in cui il paesaggio resta visibile senza che l'azione narrativa proceda in modo evidente.
+6. **Rielaborazione:** realizzare due storyboard della stessa breve ricerca: uno con continuità classica e uno che introduca uno scarto spaziale controllato, motivando l'effetto desiderato.
+
+### Domande per gli studenti
+1. La macchina da presa segue sempre i personaggi oppure talvolta lascia che il paesaggio resti in campo?
+2. Quale aspettativa crea lo sguardo di Sandro e perché il taglio successivo la disattende?
+3. In che modo la direzione dei movimenti rende difficile ricostruire lo spazio?
+4. Quali differenze noti rispetto a un campo/controcampo classico?
+5. La durata della ricerca serve soltanto a raccontare il tempo necessario per trovare Anna oppure produce un'esperienza di attesa e incertezza?
+
+### Verifica formativa
+Consegnare agli studenti una breve sequenza di fotogrammi del frammento e chiedere di:
+- ricostruire le direzioni di movimento dei personaggi;
+- individuare il passaggio in cui l'aspettativa spaziale viene disattesa;
+- distinguere un raccordo che mantiene la continuità da uno che la rende instabile;
+- commentare in 4–5 righe il rapporto fra durata, paesaggio e avanzamento dell'azione.
+
+**Criteri:** precisione nella ricostruzione dello spazio, uso corretto del lessico, individuazione di evidenze, distinzione fra discontinuità e errore tecnico, capacità di collegare la forma all'esperienza dello spettatore.
 
 ### Collegamenti
-- *L'eclisse*.
-- *La dolce vita*.
-- Teoria dell'immagine-tempo e del cinema moderno.
+- **Spazio classico e continuità:** *Susanna* — raccordo sul movimento e leggibilità dell'azione.
+- **Scavalcamento dell'asse:** *Il settimo sigillo* — rottura deliberata della continuità spaziale.
+- **Durata e spazio urbano:** *L'eclisse* — movimento della macchina da presa e autonomia del paesaggio.
+- **Fuori campo e indagine:** *Blow-Up* — rapporto fra ciò che l'immagine mostra e ciò che lascia indeterminato.
 
----
+### Fonti e riferimenti
+- Selim Eyuboglu, *Four Films Crossing the Boundaries of Modernism and Postmodernism*, tesi di dottorato, University of Kent, capitolo «Late-Modernism and Beyond: Antonioni’s *L’avventura*», in particolare pp. 161–165. Analizza gli scarti di asse nella ricerca sull'isola, la discontinuità spaziale e il rapporto fra macchina da presa e paesaggio: https://kar.kent.ac.uk/86123/1/DX097967.pdf
+- Laura Rascaroli e John David Rhodes (a cura di), *Antonioni: Centenary Essays*, BFI/Palgrave, per il quadro critico del cinema di Antonioni e la sua trasformazione del rapporto fra spazio, durata e narrazione.
+- BFI, «L’avventura: the film that redefined the cinema», per la scomparsa di Anna e la progressiva trasformazione della ricerca in una narrazione aperta: https://www.bfi.org.uk/sight-and-sound/features/l-avventura-michelangelo-antonioni-1960-greatest-films-poll
+- BFI, «The 5 loneliest landscapes in the films of Michelangelo Antonioni», per la funzione del paesaggio isolato dell'isola nella costruzione dell'atmosfera del film: https://www.bfi.org.uk/lists/landscapes-locations-michelangelo-antonioni
 
 ## 7. *L'eclisse* (Michelangelo Antonioni, 1962)
 [↑ Torna all'indice](#indice-interattivo)
