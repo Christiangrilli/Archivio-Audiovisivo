@@ -3464,7 +3464,7 @@ Concludono distinguendo l'azione fisica dell'omicidio dalla sua costruzione perc
 - **Tag:** #piano-sequenza #long-take #movimento-di-macchina #spazio #messa-in-scena #continuità #montaggio
 - **Livello:** Avanzato.
 - **Uso consigliato:** distinguere la durata di una ripresa dalla continuità apparente dell'intero film e mostrare come la macchina da presa possa svolgere funzioni normalmente affidate al montaggio.
-- **Stato:** **DA COMPLETARE** — verificare il frammento e identificare sulla copia scelta almeno una giunzione nascosta e una giunzione visibile.
+**Stato:** DA COMPLETARE — verificare il frammento e identificare sulla copia scelta almeno una giunzione nascosta e una giunzione visibile.
 
 ### Contesto essenziale
 Brandon e Phillip strangolano il compagno David Kentley e nascondono il corpo in un grande baule al centro del salotto. Poco dopo organizzano una festa nello stesso appartamento, invitando amici e familiari della vittima. Il film si svolge quasi interamente in tempo continuo e in un unico ambiente, trasformando l'appartamento in uno spazio nel quale la presenza del cadavere è costantemente percepibile, anche quando nessuno lo nomina.
@@ -3544,7 +3544,7 @@ Gli studenti ricostruiscono il percorso della macchina da presa nel piano inizia
 - **Tag:** #jump-cut #montaggio #spazio #tempo #punto-di-vista #suono #continuità
 - **Livello:** Base / Intermedio.
 - **Uso consigliato:** introdurre il jump cut attraverso una scena in cui la situazione e il dialogo sembrano proseguire, ma il tempo e il movimento vengono interrotti da tagli percepibili.
-- **Stato:** **DA COMPLETARE** — delimitare il segmento della conversazione in automobile e verificare la successione dei tagli sulla copia scelta.
+**Stato:** DA COMPLETARE — delimitare il segmento della conversazione in automobile e verificare la successione dei tagli sulla copia scelta.
 
 ### Contesto essenziale
 Michel Poiccard è in fuga dopo aver ucciso un poliziotto. A Parigi incontra Patricia, una giovane americana che vende il *New York Herald Tribune*. I due attraversano la città in automobile e parlano della loro relazione. Michel osserva Patricia e commenta il suo aspetto; la macchina da presa insiste su primi piani e dettagli, mentre il paesaggio urbano cambia alle loro spalle.
@@ -3709,7 +3709,7 @@ A conclusione, scrivono un breve commento spiegando come la durata e il fuori ca
 - **Tag:** #suono #punto-di-ascolto #fuori-campo #montaggio #ripetizione #narrazione #registrazione
 - **Livello:** Intermedio / Avanzato.
 - **Uso consigliato:** analizzare come la stessa registrazione possa assumere significati differenti attraverso selezione, isolamento, ripetizione e variazione dell'intonazione.
-- **Stato:** **DA COMPLETARE** — verificare il frammento di registrazione e almeno due sessioni di riascolto sulla copia scelta; distinguere le immagini della conversazione originaria dalle ricostruzioni mentali di Harry.
+**Stato:** DA COMPLETARE — verificare il frammento di registrazione e almeno due sessioni di riascolto sulla copia scelta; distinguere le immagini della conversazione originaria dalle ricostruzioni mentali di Harry.
 
 ### Contesto essenziale
 Harry Caul è un esperto di sorveglianza incaricato di registrare una coppia che attraversa Union Square. La piazza è affollata e rumorosa; la conversazione è frammentaria e viene raccolta attraverso più microfoni. Tornato nel laboratorio, Harry riascolta il materiale e cerca di ricostruire le parole mancanti. Una frase sembra rivelare che l'uomo potrebbe essere in pericolo, ma il significato del dialogo dipende dal contesto e dall'intonazione con cui viene pronunciato.
