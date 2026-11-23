@@ -2013,6 +2013,38 @@ Far annotare quali informazioni sociali emergono senza essere esplicitate dal di
 - Mark Shiel, *Italian Neorealism: Rebuilding the Cinematic City*, Columbia UP.
 - Frank P. Tomasulo, «Bicycle Thieves: A Re-Reading», *Cinema Journal*.
 
+### Obiettivo didattico
+Analizzare come lo spazio urbano contribuisca alla costruzione narrativa e sociale della sequenza.
+
+### Evidenze da osservare
+- Varietà degli ambienti attraversati: strade, mercati e spazi pubblici.
+- Rapporto fra i corpi dei protagonisti e la densità della città.
+- In che modo la ricerca della bicicletta determina gli spostamenti.
+- Attività quotidiane e figure urbane che non sono semplici elementi decorativi.
+
+### Attività guidata
+Disegnare una mappa schematica degli spazi attraversati nel frammento. Accanto a ogni ambiente, annotare un'informazione sociale o narrativa che emerge dalle immagini, senza essere dichiarata nei dialoghi.
+
+### Domande
+1. In che modo la città ostacola o facilita la ricerca?
+2. Quali dettagli fanno percepire la condizione economica dei personaggi?
+3. La città è uno sfondo o una componente attiva della narrazione?
+4. Che cosa andrebbe perduto girando la sequenza in uno studio?
+
+### Verifica formativa
+Scrivere un breve paragrafo che colleghi due dettagli spaziali a una funzione narrativa o sociale.
+
+### Nota didattica
+Non ridurre il neorealismo alla presenza di esterni reali o di attori non professionisti. La sequenza del mercato di Piazza Vittorio permette di lavorare sulla mobilità impedita, sulla relazione padre-figlio e sulla città come spazio materiale e sociale.
+
+### Stato della scheda
+DA COMPLETARE: analisi e attività presenti; da delimitare il frammento e verificare la durata sulla copia scelta.
+
+### Fonti
+- Millicent Marcus, *Italian Film in the Light of Neorealism*, Princeton University Press.
+- Mark Shiel, *Italian Neorealism: Rebuilding the Cinematic City*, Columbia University Press.
+- Timothy Corrigan, *Describing Cinema*, Oxford University Press, 2024, cap. 2, «Describing . . . The Pedestrian: The Bicycle Thieves», pp. 37–44. DOI: https://doi.org/10.1093/oso/9780197625354.003.0003.
+
 ## 15. *M – Il mostro di Düsseldorf* (*M*, Fritz Lang, 1931)
 [↑ Torna all'indice](#indice-interattivo)
 - **Scena:** il fischio associato al criminale e la progressiva ricerca del colpevole.
@@ -2034,6 +2066,38 @@ Prima visione con attenzione alle immagini; seconda concentrata soltanto sul suo
 - Samm Deighan, *M*, Liverpool University Press.
 - Analisi del passaggio dal muto al sonoro e del cinema di Fritz Lang; fonte accademica: [JSTOR](https://www.jstor.org/stable/j.ctv13841zs).
 
+### Obiettivo didattico
+Spiegare come un motivo sonoro ricorrente possa identificare un personaggio, anticiparne la presenza e diventare un indizio narrativo anche senza mostrarne la fonte.
+
+### Evidenze da osservare e ascoltare
+- Il fischio della melodia di Grieg associato a Hans Beckert.
+- Il rapporto fra la prima comparsa del motivo e il successivo riconoscimento da parte del venditore cieco.
+- Il passaggio dall'ascolto dello spettatore all'uso del suono come indizio da parte di un personaggio.
+- La gestione selettiva di suoni, voci e silenzi.
+
+### Attività guidata
+Prima visione concentrata sull'immagine; seconda sull'ascolto. Annotare le ricorrenze del fischio e distinguere se la fonte è visibile, fuori campo o ricordata dai personaggi. Ricostruire la catena: suono → memoria → riconoscimento → identificazione.
+
+### Domande
+1. Che cosa ci permette di sapere il fischio prima che il personaggio sia riconosciuto?
+2. Il suono accompagna l'azione o produce informazione narrativa?
+3. Perché il venditore cieco può riconoscere il criminale attraverso l'ascolto?
+4. Quale differenza c'è fra un suono ascoltato soltanto dallo spettatore e uno ascoltato anche dai personaggi?
+
+### Verifica formativa
+Classificare tre momenti indicando fonte sonora, posizione rispetto al campo visivo, personaggi che possono ascoltarla e informazione prodotta.
+
+### Nota terminologica
+Il fischio è un suono diegetico associato al personaggio e funziona come motivo ricorrente/leitmotiv. Non va definito automaticamente voice-over o musica extradiegetica. Il suo valore dipende anche dal riconoscimento acustico da parte dei personaggi.
+
+### Stato della scheda
+DA COMPLETARE: nucleo analitico solido; da delimitare il frammento e verificarne la durata sulla copia utilizzata.
+
+### Fonti
+- Colin Gardner, «The Multiplicity is Among Us: Silence and the Machinic Phylum in Fritz Lang’s M (1931)», in *Chaoid Cinema*, Edinburgh University Press, 2021, pp. 22–53. DOI: https://doi.org/10.3366/edinburgh/9781474494021.003.0002.
+- Katherine Roper, studio sul suono e la ricezione di *M*, *Colloquia Germanica*, 2011.
+- Yale Film Archive, *M* (1931), film notes: https://web.library.yale.edu/film/notes/fn00049.
+
 ## 16. *I quattrocento colpi* (*Les Quatre Cents Coups*, François Truffaut, 1959)
 [↑ Torna all'indice](#indice-interattivo)
 - **Scena:** fuga di Antoine e freeze frame conclusivo sulla spiaggia.
@@ -2054,6 +2118,38 @@ Fermare il film un istante prima del freeze frame e chiedere agli studenti di pr
 ### Fonti
 - Richard Neupert, *A History of the French New Wave Cinema*.
 - [JSTOR, storia della Nouvelle Vague](https://www.jstor.org/stable/jj.36106136).
+
+### Obiettivo didattico
+Distinguere il freeze frame da un normale arresto dell'azione e spiegare come movimento, zoom, immobilizzazione dell'immagine e sguardo in macchina costruiscano la chiusura del film.
+
+### Evidenze da osservare
+- La corsa di Antoine verso il mare.
+- Il progressivo avvicinamento al volto.
+- L'arresto dell'immagine sul volto del protagonista.
+- Il rapporto fra lo sguardo di Antoine e lo spettatore.
+
+### Attività guidata
+Mostrare il finale senza anticipare la tecnica. In una seconda visione distinguere: movimento del personaggio, movimento della macchina, immobilizzazione del fotogramma. Far poi progettare due finali alternativi, uno con prosecuzione dell'azione e uno con stacco immediato al nero.
+
+### Domande
+1. Quando termina il movimento del personaggio e quando si arresta l'immagine?
+2. Zoom e freeze frame sono la stessa operazione?
+3. Che cosa comunica lo sguardo rivolto verso la macchina da presa?
+4. La vicenda di Antoine si conclude oppure resta aperta?
+5. Il film chiude la storia o il proprio discorso sul personaggio?
+
+### Verifica formativa
+Descrivere il finale utilizzando correttamente zoom, freeze frame, sguardo in macchina e finale aperto, collegando ogni termine a un'evidenza.
+
+### Nota critica
+Occorre distinguere la chiusura del discorso filmico dalla risoluzione della vicenda: l'immagine congelata produce una conclusione formale netta, mentre il futuro di Antoine resta indeterminato.
+
+### Stato della scheda
+DA COMPLETARE: scena e analisi individuate; da verificare durata e timecode dell'edizione impiegata.
+
+### Fonti
+- Richard Neupert, *A History of the French New Wave Cinema*, University of Wisconsin Press.
+- «How Films End», *P.O.V. — A Danish Journal of Film Studies*, n. 2: https://pov.imv.au.dk/Issue_02/section_3/artc3B.html.
 
 ## 17. *Singin' in the Rain* (*Cantando sotto la pioggia*, Stanley Donen e Gene Kelly, 1952)
 [↑ Torna all'indice](#indice-interattivo)
@@ -2118,6 +2214,39 @@ Prima descrivere senza interpretare: linee, masse, scala, luce, movimento. Poi c
 - Thomas Elsaesser, *A German History of Film*.
 - *A Critical History of German Film*, capitolo «Metropolis (1927) or Technology and Sex», [JSTOR](https://www.jstor.org/stable/10.7722/j.ctt16314jf.10).
 
+### Obiettivo didattico
+Analizzare come composizione, scenografia, scala e montaggio trasformino una macchina industriale in una figura simbolica, distinguendo lo spazio rappresentato dalla visione soggettiva di Freder.
+
+### Evidenze da osservare
+- Il passaggio dalla macchina industriale alla visione del Moloch.
+- La disposizione dei lavoratori rispetto alla macchina.
+- La scala monumentale dell'apparato e la riduzione dei corpi umani.
+- Il montaggio che collega l'incidente industriale alla visione allucinatoria.
+
+### Attività guidata
+Prima visione descrittiva. Nella seconda, dividere il foglio in due colonne: «spazio industriale mostrato» e «immagini della visione di Freder». Individuare gli elementi visivi che rendono possibile la trasformazione simbolica.
+
+### Domande
+1. Quando la macchina smette di essere soltanto un oggetto industriale?
+2. La figura del Moloch appartiene allo spazio oggettivo o alla percezione di Freder?
+3. Quali scelte di scala, composizione e montaggio costruiscono l'immagine del sacrificio?
+4. In che modo i lavoratori vengono rappresentati come massa?
+5. Quale idea del rapporto fra tecnologia e lavoro produce la scena?
+
+### Verifica formativa
+Descrivere un fotogramma individuando almeno tre elementi formali e spiegando come concorrano alla costruzione dell'allegoria.
+
+### Nota didattica
+La trasformazione in Moloch è legata alla focalizzazione di Freder: non va presentata come descrizione oggettiva della macchina. La scena consente inoltre di introdurre scenografia, composizione e rapporto fra corpi e architettura.
+
+### Stato della scheda
+DA COMPLETARE: scena ben identificata; da verificare durata e timecode della copia utilizzata.
+
+### Fonti
+- Thomas Elsaesser, *Metropolis*, BFI Film Classics.
+- Andrew Hageman, «Science Fiction, Ecological Futures, and the Topography of Fritz Lang’s Metropolis», *Ecozona*, 2012.
+- Michael Minden e Holger Bachmann (a cura di), *Fritz Lang’s Metropolis: Cinematic Visions of Technology and Fear*, Camden House, 2000.
+
 ## 20. *Citizen Kane* (*Quarto potere*, Orson Welles, 1941)
 [↑ Torna all'indice](#indice-interattivo)
 - **Scena:** una scena costruita su più piani di profondità, da utilizzare per analizzare la profondità di campo e la composizione in profondità.
@@ -2138,6 +2267,43 @@ Fermare alcuni fotogrammi e numerare i piani di profondità. Chiedere: quante in
 ### Fonti
 - Robert Kolker, capitolo su *Citizen Kane* in *Closely Watched Films*.
 - Studi sul realismo espressivo di Welles, [JSTOR](https://www.jstor.org/stable/10.1525/j.ctt7zw19h).
+
+### Precisazione sulla scena
+Per rendere l'esempio verificabile, si propone la sequenza in cui la decisione dei genitori di Kane viene formalizzata mentre il giovane Charles è visibile all'esterno, sullo sfondo, oltre la finestra. La scena mette in relazione primo piano, piano intermedio e profondità dello spazio.
+
+### Obiettivo didattico
+Riconoscere la profondità di campo e spiegare come la disposizione simultanea di più azioni su piani differenti organizzi l'informazione senza ricorrere immediatamente al découpage.
+
+### Evidenze da osservare
+- La leggibilità dei diversi piani dell'immagine.
+- La presenza del bambino sullo sfondo mentre gli adulti discutono in primo piano.
+- La finestra come elemento che separa e collega spazi differenti.
+- La distribuzione dell'informazione narrativa nello stesso quadro.
+
+### Attività guidata
+Proiettare un fotogramma e individuare gli elementi in primo piano, sul piano intermedio e sullo sfondo. Ricostruire poi la scena con uno storyboard ipotetico di cinque inquadrature e confrontare la distribuzione dell'informazione.
+
+### Domande
+1. Quali azioni avvengono contemporaneamente nei diversi piani?
+2. Dove si concentra inizialmente l'attenzione e perché?
+3. Che cosa cambia se il bambino sullo sfondo viene isolato con un'inquadratura autonoma?
+4. Profondità di campo e profondità dello spazio rappresentato coincidono?
+5. Come la composizione rende visibile il rapporto di potere fra adulti e bambino?
+
+### Verifica formativa
+Consegnare un fotogramma e chiedere di numerare i piani di profondità, descrivere le azioni e spiegare quale relazione narrativa viene costruita dalla loro compresenza.
+
+### Nota tecnica
+Non confondere profondità di campo e campo lungo: la prima riguarda l'estensione della zona nitida, il secondo è una scala di inquadratura. La resa della profondità dipende dalla combinazione di messa a fuoco, illuminazione, ottiche, scenografia e composizione.
+
+### Stato della scheda
+DA COMPLETARE: la scena è stata precisata; da verificare sulla copia scelta la leggibilità effettiva dei piani e la durata del frammento.
+
+### Fonti
+- BFI, «20 inspired visual moments in Citizen Kane», sezione sulla deep-focus photography: https://www.bfi.org.uk/features/20-inspired-visual-moments-citizen-kane.
+- Robert Kolker, *A Cinema of Loneliness*, Oxford University Press.
+- David Bordwell e Kristin Thompson, *Film Art: An Introduction*, sezioni su profondità di campo, composizione e messa in scena.
+
 
 ---
 
