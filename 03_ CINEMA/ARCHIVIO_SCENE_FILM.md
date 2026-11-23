@@ -3628,40 +3628,82 @@ Dividere la classe in gruppi e assegnare una testimonianza a ciascun gruppo. Ogn
 
 ---
 
-## 45. *2001: A Space Odyssey* (*2001: Odissea nello spazio*, Stanley Kubrick, 1968)
+## 45. *Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** lancio dell'osso da parte della scimmia e successivo passaggio alla navicella nello spazio.
-- **Concetto principale:** match cut e montaggio per associazione.
-- **Concetti secondari:** ellissi, analogia visiva, tempo storico, raccordo di forma, metafora.
-- **Tag:** #montaggio #raccordo #ellissi #tempo #narrazione
+- **Sequenza:** nell'ufficio del Cairo, T. E. Lawrence spegne con un soffio il fiammifero che ha appena acceso; il taglio successivo mostra il sole che sorge sul deserto.
+- **Concetto principale:** raccordo concettuale (*subject match cut*) e transizione spazio-temporale.
+- **Concetti secondari:** ellissi, analogia, suono-ponte, montaggio, passaggio interno/esterno, luce, significato prodotto dal taglio.
+- **Tag:** #montaggio #match-cut #ellissi #suono #luce #narrazione #composizione
 - **Livello:** Base / Intermedio.
-- **Uso consigliato:** introduzione / analisi.
+- **Uso consigliato:** confrontare un raccordo concettuale con un match cut fondato su una somiglianza grafica più evidente, come quello osso-satellite di *2001: Odissea nello spazio*.
+- **Stato:** **DA COMPLETARE** — verificare il frammento sulla copia utilizzata e osservare il punto esatto del taglio e la sovrapposizione sonora.
 
-### Analisi
-Un movimento ascendente dell'osso viene associato visivamente alla forma della navicella spaziale. Il raccordo crea una gigantesca ellissi temporale e collega due oggetti separati da milioni di anni di storia diegetica. Il montaggio non garantisce quindi soltanto continuità: può produrre un rapporto concettuale fra immagini.
+### Contesto essenziale
+Lawrence si trova al Cairo, nell'ufficio di Mr. Dryden, che gli affida la missione nel deserto. Durante il dialogo, Lawrence accende un fiammifero e lo spegne con un soffio. Il film taglia direttamente all'alba sul deserto: il gesto minimo compiuto in una stanza diventa una transizione verso un paesaggio immenso e verso una nuova fase del racconto.
+
+### Analisi formale
+Il taglio collega due immagini che non condividono uno spazio o un tempo narrativo continuo: un fiammifero che si spegne in un interno e il sole che sorge su un paesaggio desertico. La relazione non è un raccordo sul movimento, perché il gesto di Lawrence non prosegue materialmente nell'inquadratura successiva; non è nemmeno un match cut grafico perfettamente simmetrico. Il legame è soprattutto concettuale: la piccola fiamma che si estingue viene associata alla luce del sole che appare all'orizzonte.
+
+Il taglio produce una grande ellissi spaziale e temporale. Invece di mostrare il viaggio dal Cairo alla penisola arabica, il film trasferisce lo spettatore direttamente nel deserto. Il passaggio da interno a esterno, da uno spazio chiuso a un paesaggio aperto, coincide con l'inizio della missione di Lawrence. Il montaggio comprime il viaggio e, nello stesso tempo, attribuisce al personaggio una nuova dimensione narrativa.
+
+Il suono contribuisce alla transizione. Il soffio di Lawrence e il passaggio al paesaggio desertico sono collegati da una continuità acustica che rende il taglio più incisivo. L'effetto non dipende soltanto dalla somiglianza fra fiamma e sole: il suono accompagna il salto e contribuisce a far percepire il passaggio come un unico gesto audiovisivo.
+
+La storia produttiva del taglio è particolarmente utile per la didattica. Nella sceneggiatura la transizione era prevista come una dissolvenza. Durante il montaggio, Anne V. Coates e David Lean videro le due immagini unite da un taglio diretto e decisero di mantenerlo, rifinendone la durata. Coates raccontò di aver tolto due fotogrammi dal piano in uscita. Un passaggio che avrebbe dovuto essere graduale divenne così una delle transizioni più celebri della storia del montaggio.
+
+È importante distinguere questo procedimento dal match cut osso-satellite di *2001*. Nel film di Kubrick il raccordo è sostenuto da una somiglianza grafica e dinamica fra due oggetti; in *Lawrence d'Arabia* prevale una relazione concettuale fra fiamma e sole, sostenuta da un'ellissi e da un ponte sonoro. Entrambi i tagli producono un salto enorme, ma lo fanno attraverso strategie differenti.
+
+### Evidenze da far osservare
+1. Come viene inquadrato il fiammifero prima di essere spento.
+2. Quale gesto compie Lawrence e in quale momento avviene il taglio.
+3. Quali somiglianze e differenze esistono fra la fiamma e il sole.
+4. Come cambia lo spazio fra le due inquadrature.
+5. Quale funzione svolge il suono nel passaggio.
+6. Quale porzione di tempo e di viaggio viene eliminata dal montaggio.
 
 ### Perché è didatticamente utile
-È uno dei modi più immediati per spiegare che il raccordo può essere costruito anche sulla forma e non soltanto sul movimento o sullo sguardo.
+La scena permette di distinguere il match cut grafico dal raccordo concettuale. Gli studenti possono osservare che un taglio può collegare immagini non simili nella forma, ma associate da un'idea, un gesto o un significato. È inoltre un esempio particolarmente chiaro di ellissi: il film evita di mostrare un lungo spostamento e trasforma il taglio in un passaggio narrativo.
 
 ### Obiettivo didattico
-Riconoscere un match cut e distinguere raccordo narrativo, raccordo di movimento e raccordo per analogia visiva.
+Al termine dell'attività, lo studente sa descrivere un raccordo concettuale, distinguere la somiglianza grafica dall'analogia tematica e spiegare come il taglio e il suono costruiscano un'ellissi spazio-temporale.
 
 ### Come utilizzarla in classe
-Mostrare esclusivamente i due frammenti consecutivi e chiedere agli studenti di descrivere il rapporto che li unisce prima di introdurre il termine match cut.
+1. **Prima visione:** mostrare il frammento senza anticipare la funzione del taglio. Chiedere agli studenti che cosa collega il fiammifero al sole.
+2. **Scomposizione:** fermare l'immagine prima e dopo il taglio e confrontare forma, luce, colore e posizione.
+3. **Analisi sonora:** riascoltare il passaggio concentrandosi sul soffio e sul suono che accompagna l'alba.
+4. **Analisi narrativa:** chiedere quale viaggio venga omesso e quale nuova fase della storia cominci.
+5. **Confronto:** mostrare il match cut osso-satellite di *2001* e individuare le differenze fra somiglianza grafica e associazione concettuale.
+6. **Rielaborazione:** progettare una transizione fra due luoghi lontani collegati da un gesto, un suono o un'idea, senza utilizzare dissolvenze.
 
-### Domande
-1. Perché Kubrick collega proprio questi due oggetti?
-2. Che cosa permette di raccontare il taglio senza mostrare?
-3. Il montaggio qui collega soltanto due immagini o formula anche un'idea?
+### Domande per gli studenti
+1. Perché il film taglia dal fiammifero al sole invece di mostrare il viaggio?
+2. Qual è la relazione fra le due immagini: forma, luce, gesto o significato?
+3. Quale funzione svolge il suono nel passaggio?
+4. Perché è più preciso parlare di raccordo concettuale che di raccordo sul movimento?
+5. Qual è la differenza rispetto al taglio osso-satellite di *2001*?
+
+### Verifica formativa
+Gli studenti consegnano due fotogrammi, uno prima e uno dopo il taglio, e compilano una scheda con:
+- elementi visivi in comune;
+- differenze di spazio e tempo;
+- gesto che precede il taglio;
+- funzione del suono;
+- significato prodotto dall'accostamento.
+
+**Criteri:** riconoscimento dell'ellissi, distinzione fra match cut grafico e raccordo concettuale, capacità di descrivere la funzione del suono e di motivare l'interpretazione.
 
 ### Collegamenti
-- *The Godfather Part II*: ellissi e continuità narrativa.
-- *Fight Club*: montaggio visibile.
-- Teoria del montaggio per associazione.
+- **Match cut grafico e ellissi:** *2001: Odissea nello spazio* — osso e satellite.
+- **Raccordo sul movimento:** *Susanna* — gesto del fiammifero e continuità dell'azione.
+- **Montaggio concettuale:** *La corazzata Potëmkin* — accostamento di immagini e produzione di significato.
+- **Suono-ponte:** *Apocalypse Now* — sovrapposizioni sonore fra spazi e tempi differenti.
 
----
+### Fonti e riferimenti
+- Anne V. Coates, intervista di Gary Crowdus, «The Editing of *Lawrence of Arabia*: An Interview with Anne V. Coates», *Cinéaste*, 34, n. 2, 2009, pp. 48–53. Coates racconta che la sceneggiatura prevedeva una dissolvenza, ma che lei e David Lean decisero di mantenere il taglio diretto e lo rifinirono togliendo due fotogrammi: https://psi329.cankaya.edu.tr/uploads/files/Crowdus%2C%20The%20Editing%20of%20Lawrence%20of%20Arabia.pdf
+- BFI, «Anne V. Coates (1925–2018), veteran editor behind legendary *Lawrence of Arabia* cut», 2018. Ricostruisce la nascita del taglio dal fiammifero all'alba: https://www.bfi.org.uk/features/anne-v-coates-lawrence-arabia-editor-1925-2018
+- Patrick Fahy, «Watching *Lawrence of Arabia* for the first time: the story of the world premiere», *BFI*, 20 novembre 2012, per la descrizione della transizione fra fiammifero e alba: https://www.bfi.org.uk/features/watching-lawrence-arabia-first-time-story-world-premiere
+- Robert Bolt, sceneggiatura di *Lawrence of Arabia*, per il fatto che la transizione era originariamente indicata come dissolvenza: https://www.davidlean.com/downloads/LOA%20Screenplay.pdf
 
 ## 46. *The Birds* (*Gli uccelli*, Alfred Hitchcock, 1963)
 [↑ Torna all'indice](#indice-interattivo)
