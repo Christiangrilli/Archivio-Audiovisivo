@@ -24,8 +24,8 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976)
 - [*Rocco e i suoi fratelli* (Luchino Visconti, 1960)](ARCHIVIO_SCENE_FILM.md#4-rocco-e-i-suoi-fratelli-luchino-visconti-1960)
 - [*Il grande Gatsby* (Baz Luhrmann, 2013)](ARCHIVIO_SCENE_FILM.md#16-il-grande-gatsby-baz-luhrmann-2013)
-- [*Indiana Jones* — sequenza della pistola](ARCHIVIO_SCENE_FILM.md#17-indiana-jones-sequenza-della-pistola)
-- [*Il settimo sigillo* (Ingmar Bergman, 1957)](ARCHIVIO_SCENE_FILM.md#18-il-settimo-sigillo-ingmar-bergman-1957)
+- [*I predatori dell'arca perduta*](ARCHIVIO_SCENE_FILM.md#17-i-predatori-dellarca-perduta-raiders-of-the-lost-ark-steven-spielberg-1981)
+- [*Il settimo sigillo* (Ingmar Bergman, 1957)](ARCHIVIO_SCENE_FILM.md#18-il-settimo-sigillo-det-sjunde-inseglet-ingmar-bergman-1957)
 - [*Se mi lasci ti cancello* (*Eternal Sunshine of the Spotless Mind*, Michel Gondry, 2004)](ARCHIVIO_SCENE_FILM.md#19-se-mi-lasci-ti-cancello-eternal-sunshine-of-the-spotless-mind-michel-gondry-2004)
 - [*Birdman* (Alejandro González Iñárritu, 2014)](ARCHIVIO_SCENE_FILM.md#20-birdman-alejandro-gonzález-iñárritu-2014)
 - [*Fight Club* (David Fincher, 1999)](ARCHIVIO_SCENE_FILM.md#21-fight-club-david-fincher-1999)
@@ -68,16 +68,16 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Minority Report* (Steven Spielberg, 2002)](ARCHIVIO_SCENE_FILM.md#13-minority-report-steven-spielberg-2002)
 - [*Ready Player One* (Steven Spielberg, 2018)](ARCHIVIO_SCENE_FILM.md#14-ready-player-one-steven-spielberg-2018)
 - [*Moulin Rouge!* (Baz Luhrmann, 2001)](ARCHIVIO_SCENE_FILM.md#15-moulin-rouge-baz-luhrmann-2001)
-- [*Indiana Jones* — sequenza della pistola](ARCHIVIO_SCENE_FILM.md#17-indiana-jones-sequenza-della-pistola)
-- [*Il settimo sigillo* (Ingmar Bergman, 1957)](ARCHIVIO_SCENE_FILM.md#18-il-settimo-sigillo-ingmar-bergman-1957)
+- [*I predatori dell'arca perduta*](ARCHIVIO_SCENE_FILM.md#17-i-predatori-dellarca-perduta-raiders-of-the-lost-ark-steven-spielberg-1981)
+- [*Il settimo sigillo* (Ingmar Bergman, 1957)](ARCHIVIO_SCENE_FILM.md#18-il-settimo-sigillo-det-sjunde-inseglet-ingmar-bergman-1957)
 - [*The Grand Budapest Hotel* (Wes Anderson, 2014)](ARCHIVIO_SCENE_FILM.md#22-the-grand-budapest-hotel-wes-anderson-2014)
 - [*Quarto potere* (*Citizen Kane*, Orson Welles, 1941)](ARCHIVIO_SCENE_FILM.md#23-quarto-potere-citizen-kane-orson-welles-1941)
 - [*Shining* (Stanley Kubrick, 1980)](ARCHIVIO_SCENE_FILM.md#24-shining-stanley-kubrick-1980)
-- [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-stanley-kubrick-1968)
+- [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-2001-a-space-odyssey-stanley-kubrick-1968)
 - [*Dunkirk* (Christopher Nolan, 2017) / *Tenet* (Christopher Nolan, 2020)](ARCHIVIO_SCENE_FILM.md#27-dunkirk-christopher-nolan-2017-tenet-christopher-nolan-2020)
-- [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant---redivivo-alejandro-g-iñárritu-2015)
+- [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant---redivivo-the-revenant-alejandro-g-iñárritu-2015)
 - [*La nascita di una nazione* (*The Birth of a Nation*, D. W. Griffith, 1915)](ARCHIVIO_SCENE_FILM.md#30-la-nascita-di-una-nazione-the-birth-of-a-nation-d-w-griffith-1915)
-- [*Wall-E* (Andrew Stanton, 2008)](ARCHIVIO_SCENE_FILM.md#32-wall-e-andrew-stanton-2008)
+- [*WALL-E* (Andrew Stanton, 2008)](ARCHIVIO_SCENE_FILM.md#32-wall-e-andrew-stanton-2008)
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set)
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](ARCHIVIO_SCENE_FILM.md#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille)
 - [*Psycho* (Alfred Hitchcock, 1960)](ARCHIVIO_SCENE_FILM.md#38-psycho-alfred-hitchcock-1960)
@@ -111,22 +111,22 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*8½* (Federico Fellini, 1963)](ARCHIVIO_SCENE_FILM.md#8-8½-federico-fellini-1963)
 - [*Mulholland Drive* (David Lynch, 2001)](ARCHIVIO_SCENE_FILM.md#9-mulholland-drive-david-lynch-2001)
 - [*Lo squalo* (*Jaws*, Steven Spielberg, 1975)](ARCHIVIO_SCENE_FILM.md#10-lo-squalo-jaws-steven-spielberg-1975)
-- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#11-et-lextra-terrestre-steven-spielberg-1982)
+- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#11-et-lextra-terrestre-et-the-extra-terrestrial-steven-spielberg-1982)
 - [*Jurassic Park* (Steven Spielberg, 1993)](ARCHIVIO_SCENE_FILM.md#12-jurassic-park-steven-spielberg-1993)
 - [*Minority Report* (Steven Spielberg, 2002)](ARCHIVIO_SCENE_FILM.md#13-minority-report-steven-spielberg-2002)
 - [*Ready Player One* (Steven Spielberg, 2018)](ARCHIVIO_SCENE_FILM.md#14-ready-player-one-steven-spielberg-2018)
 - [*Moulin Rouge!* (Baz Luhrmann, 2001)](ARCHIVIO_SCENE_FILM.md#15-moulin-rouge-baz-luhrmann-2001)
 - [*Il grande Gatsby* (Baz Luhrmann, 2013)](ARCHIVIO_SCENE_FILM.md#16-il-grande-gatsby-baz-luhrmann-2013)
-- [*Il settimo sigillo* (Ingmar Bergman, 1957)](ARCHIVIO_SCENE_FILM.md#18-il-settimo-sigillo-ingmar-bergman-1957)
+- [*Il settimo sigillo* (Ingmar Bergman, 1957)](ARCHIVIO_SCENE_FILM.md#18-il-settimo-sigillo-det-sjunde-inseglet-ingmar-bergman-1957)
 - [*Se mi lasci ti cancello* (*Eternal Sunshine of the Spotless Mind*, Michel Gondry, 2004)](ARCHIVIO_SCENE_FILM.md#19-se-mi-lasci-ti-cancello-eternal-sunshine-of-the-spotless-mind-michel-gondry-2004)
 - [*Birdman* (Alejandro González Iñárritu, 2014)](ARCHIVIO_SCENE_FILM.md#20-birdman-alejandro-gonzález-iñárritu-2014)
 - [*The Grand Budapest Hotel* (Wes Anderson, 2014)](ARCHIVIO_SCENE_FILM.md#22-the-grand-budapest-hotel-wes-anderson-2014)
 - [*Quarto potere* (*Citizen Kane*, Orson Welles, 1941)](ARCHIVIO_SCENE_FILM.md#23-quarto-potere-citizen-kane-orson-welles-1941)
 - [*Shining* (Stanley Kubrick, 1980)](ARCHIVIO_SCENE_FILM.md#24-shining-stanley-kubrick-1980)
-- [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-stanley-kubrick-1968)
+- [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-2001-a-space-odyssey-stanley-kubrick-1968)
 - [*Io non ho paura* (Gabriele Salvatores, 2003)](ARCHIVIO_SCENE_FILM.md#28-io-non-ho-paura-gabriele-salvatores-2003)
-- [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant---redivivo-alejandro-g-iñárritu-2015)
-- [*News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)](ARCHIVIO_SCENE_FILM.md#34-news-from-home-chantal-akerman-1976-jeanne-dielman-chantal-akerman-1975)
+- [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant---redivivo-the-revenant-alejandro-g-iñárritu-2015)
+- [*News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)](ARCHIVIO_SCENE_FILM.md#34-news-from-home-chantal-akerman-1976-jeanne-dielman-23-quai-du-commerce-1080-bruxelles-chantal-akerman-1975)
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set)
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](ARCHIVIO_SCENE_FILM.md#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille)
 - [*Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)](ARCHIVIO_SCENE_FILM.md#39-rope-nodo-alla-gola-alfred-hitchcock-1948)
@@ -181,7 +181,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — piano-sequenza al Copacabana](ARCHIVIO_SCENE_FILM.md#93-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-il-piano-sequenza-al-copacabana)
 ### Suono, dialogo e musica (17)
 
-- [*News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)](ARCHIVIO_SCENE_FILM.md#34-news-from-home-chantal-akerman-1976-jeanne-dielman-chantal-akerman-1975)
+- [*News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)](ARCHIVIO_SCENE_FILM.md#34-news-from-home-chantal-akerman-1976-jeanne-dielman-23-quai-du-commerce-1080-bruxelles-chantal-akerman-1975)
 - [*Psycho* (Alfred Hitchcock, 1960)](ARCHIVIO_SCENE_FILM.md#38-psycho-alfred-hitchcock-1960)
 - [*The Conversation* (*La conversazione*, Francis Ford Coppola, 1974)](ARCHIVIO_SCENE_FILM.md#42-the-conversation-la-conversazione-francis-ford-coppola-1974)
 - [*Blow Out* (Brian De Palma, 1981)](ARCHIVIO_SCENE_FILM.md#43-blow-out-brian-de-palma-1981)
@@ -209,7 +209,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*8½* (Federico Fellini, 1963)](ARCHIVIO_SCENE_FILM.md#8-8½-federico-fellini-1963)
 - [*Mulholland Drive* (David Lynch, 2001)](ARCHIVIO_SCENE_FILM.md#9-mulholland-drive-david-lynch-2001)
 - [*Lo squalo* (*Jaws*, Steven Spielberg, 1975)](ARCHIVIO_SCENE_FILM.md#10-lo-squalo-jaws-steven-spielberg-1975)
-- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#11-et-lextra-terrestre-steven-spielberg-1982)
+- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#11-et-lextra-terrestre-et-the-extra-terrestrial-steven-spielberg-1982)
 - [*Jurassic Park* (Steven Spielberg, 1993)](ARCHIVIO_SCENE_FILM.md#12-jurassic-park-steven-spielberg-1993)
 - [*Minority Report* (Steven Spielberg, 2002)](ARCHIVIO_SCENE_FILM.md#13-minority-report-steven-spielberg-2002)
 - [*Ready Player One* (Steven Spielberg, 2018)](ARCHIVIO_SCENE_FILM.md#14-ready-player-one-steven-spielberg-2018)
@@ -219,8 +219,8 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Dunkirk* (Christopher Nolan, 2017) / *Tenet* (Christopher Nolan, 2020)](ARCHIVIO_SCENE_FILM.md#27-dunkirk-christopher-nolan-2017-tenet-christopher-nolan-2020)
 - [*La nascita di una nazione* (*The Birth of a Nation*, D. W. Griffith, 1915)](ARCHIVIO_SCENE_FILM.md#30-la-nascita-di-una-nazione-the-birth-of-a-nation-d-w-griffith-1915)
 - [*Intolerance* (D. W. Griffith, 1916)](ARCHIVIO_SCENE_FILM.md#31-intolerance-d-w-griffith-1916)
-- [*Wall-E* (Andrew Stanton, 2008)](ARCHIVIO_SCENE_FILM.md#32-wall-e-andrew-stanton-2008)
-- [*News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)](ARCHIVIO_SCENE_FILM.md#34-news-from-home-chantal-akerman-1976-jeanne-dielman-chantal-akerman-1975)
+- [*WALL-E* (Andrew Stanton, 2008)](ARCHIVIO_SCENE_FILM.md#32-wall-e-andrew-stanton-2008)
+- [*News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)](ARCHIVIO_SCENE_FILM.md#34-news-from-home-chantal-akerman-1976-jeanne-dielman-23-quai-du-commerce-1080-bruxelles-chantal-akerman-1975)
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set)
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](ARCHIVIO_SCENE_FILM.md#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille)
 - [*Psycho* (Alfred Hitchcock, 1960)](ARCHIVIO_SCENE_FILM.md#38-psycho-alfred-hitchcock-1960)
@@ -259,7 +259,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*8½* (Federico Fellini, 1963)](ARCHIVIO_SCENE_FILM.md#8-8½-federico-fellini-1963)
 - [*The Grand Budapest Hotel* (Wes Anderson, 2014)](ARCHIVIO_SCENE_FILM.md#22-the-grand-budapest-hotel-wes-anderson-2014)
 - [*Io non ho paura* (Gabriele Salvatores, 2003)](ARCHIVIO_SCENE_FILM.md#28-io-non-ho-paura-gabriele-salvatores-2003)
-- [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant---redivivo-alejandro-g-iñárritu-2015)
+- [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant---redivivo-the-revenant-alejandro-g-iñárritu-2015)
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set)
 - [*Metropolis* (Fritz Lang, 1927)](ARCHIVIO_SCENE_FILM.md#54-metropolis-fritz-lang-1927)
 - [*Blow-Up* (Michelangelo Antonioni, 1966)](ARCHIVIO_SCENE_FILM.md#62-blow-up-michelangelo-antonioni-1966)
@@ -275,7 +275,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 
 
 - [*2001: A Space Odyssey* (*2001: Odissea nello spazio*, Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#45-2001-a-space-odyssey-2001-odissea-nello-spazio-stanley-kubrick-1968) — match cut e montaggio per associazione.
-- [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-stanley-kubrick-1968) — geometria dell'inquadratura.
+- [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-2001-a-space-odyssey-stanley-kubrick-1968) — match cut osso-satellite ed ellissi temporale.
 - [*8½* (Federico Fellini, 1963)](ARCHIVIO_SCENE_FILM.md#8-8½-federico-fellini-1963) — soggettività e spazio mentale.
 - [*À bout de souffle / Fino all'ultimo respiro* (Jean-Luc Godard, 1960) — SCHEda DI CONFRONTO](ARCHIVIO_SCENE_FILM.md#61-à-bout-de-souffle-fino-allultimo-respiro-jean-luc-godard-1960-scheda-di-confronto) — jump cut.
 - [*Ace in the Hole / L'asso nella manica* (Billy Wilder, 1951)](ARCHIVIO_SCENE_FILM.md#80-ace-in-the-hole-lasso-nella-manica-billy-wilder-1951-messa-in-scena-dello-spettacolo-mediatico) — spettacolo mediatico e messa in scena della folla.
@@ -291,7 +291,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Close Encounters of the Third Kind / Incontri ravvicinati del terzo tipo* (Steven Spielberg, 1977)](ARCHIVIO_SCENE_FILM.md#89-close-encounters-of-the-third-kind-incontri-ravvicinati-del-terzo-tipo-steven-spielberg-1977-suono-come-linguaggio) — suono come linguaggio.
 - [*Come le foglie al vento* (*Written on the Wind*, Douglas Sirk, 1956)](ARCHIVIO_SCENE_FILM.md#5-come-le-foglie-al-vento-written-on-the-wind-douglas-sirk-1956) — stile melodrammatico e composizione.
 - [*Dunkirk* (Christopher Nolan, 2017) / *Tenet* (Christopher Nolan, 2020)](ARCHIVIO_SCENE_FILM.md#27-dunkirk-christopher-nolan-2017-tenet-christopher-nolan-2020) — tecnica di ripresa e percezione del movimento.
-- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#11-et-lextra-terrestre-steven-spielberg-1982) — identificazione e messa in scena della relazione.
+- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#11-et-lextra-terrestre-et-the-extra-terrestrial-steven-spielberg-1982) — montaggio alternato e intertestualità.
 - [*E.T. l'extra-terrestre* (Steven Spielberg, 1982) — silhouette e controluce](ARCHIVIO_SCENE_FILM.md#88-et-lextra-terrestre-steven-spielberg-1982-silhouette-controluce-ed-effetti-ottici) — fotografia e composizione.
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set) — direzione degli attori e costruzione della performance attraverso la ripetizione.
 - [*Fight Club* (David Fincher, 1999)](ARCHIVIO_SCENE_FILM.md#21-fight-club-david-fincher-1999) — montaggio visibile.
@@ -304,12 +304,12 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963)](ARCHIVIO_SCENE_FILM.md#64-il-disprezzo-le-mépris-jean-luc-godard-1963) — spazio della conversazione e rifiuto del découpage classico.
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](ARCHIVIO_SCENE_FILM.md#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille) — carrellata laterale e costruzione dello spazio tra i personaggi.
 - [*Il Gattopardo* (Luchino Visconti, 1963)](ARCHIVIO_SCENE_FILM.md#3-il-gattopardo-luchino-visconti-1963) — punto di vista e fuori campo.
-- [*Il grande Gatsby* (Baz Luhrmann, 2013)](ARCHIVIO_SCENE_FILM.md#16-il-grande-gatsby-baz-luhrmann-2013) — continuità e raccordo.
-- [*Il grande Gatsby* e *The Grand Budapest Hotel*: confronto sulla composizione](ARCHIVIO_SCENE_FILM.md#26-il-grande-gatsby-e-the-grand-budapest-hotel-confronto-sulla-composizione)
-- [*Il settimo sigillo* (Ingmar Bergman, 1957)](ARCHIVIO_SCENE_FILM.md#18-il-settimo-sigillo-ingmar-bergman-1957) — asse dell'azione e scavalcamento di campo.
-- [*Indiana Jones* — sequenza della pistola](ARCHIVIO_SCENE_FILM.md#17-indiana-jones-sequenza-della-pistola) — continuità e gerarchia dell'informazione.
+- [*Il grande Gatsby* (Baz Luhrmann, 2013)](ARCHIVIO_SCENE_FILM.md#16-il-grande-gatsby-baz-luhrmann-2013) — montaggio audiovisivo, musica e sovraccarico sensoriale.
+- [*Il grande Gatsby* e *The Grand Budapest Hotel*: confronto sulla composizione e sullo spazio spettacolare](ARCHIVIO_SCENE_FILM.md#26-il-grande-gatsby-e-the-grand-budapest-hotel-confronto-sulla-composizione-e-sullo-spazio-spettacolare)
+- [*Il settimo sigillo* (Ingmar Bergman, 1957)](ARCHIVIO_SCENE_FILM.md#18-il-settimo-sigillo-det-sjunde-inseglet-ingmar-bergman-1957) — composizione, luce e messa in scena dello scontro.
+- [*I predatori dell'arca perduta*](ARCHIVIO_SCENE_FILM.md#17-i-predatori-dellarca-perduta-raiders-of-the-lost-ark-steven-spielberg-1981) — tempo comico e rovesciamento dell'aspettativa.
 - [*Intolerance* (D. W. Griffith, 1916)](ARCHIVIO_SCENE_FILM.md#31-intolerance-d-w-griffith-1916) — montaggio parallelo.
-- [*Io non ho paura* (Gabriele Salvatores, 2003)](ARCHIVIO_SCENE_FILM.md#28-io-non-ho-paura-gabriele-salvatores-2003) — luce e temperatura colore.
+- [*Io non ho paura* (Gabriele Salvatores, 2003)](ARCHIVIO_SCENE_FILM.md#28-io-non-ho-paura-gabriele-salvatores-2003) — contrasto luce-colore e punto di vista infantile.
 - [*Jaws / Lo squalo* (Steven Spielberg, 1975)](ARCHIVIO_SCENE_FILM.md#56-jaws-lo-squalo-steven-spielberg-1975) — suspense attraverso informazione e punto di vista.
 - [*Jurassic Park* (Steven Spielberg, 1993)](ARCHIVIO_SCENE_FILM.md#12-jurassic-park-steven-spielberg-1993) — fuori campo e rivelazione dell'immagine.
 - [*L'avventura* (Michelangelo Antonioni, 1960)](ARCHIVIO_SCENE_FILM.md#6-lavventura-michelangelo-antonioni-1960) — spazio e durata nel cinema moderno.
@@ -329,7 +329,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Minority Report* (Steven Spielberg, 2002)](ARCHIVIO_SCENE_FILM.md#13-minority-report-steven-spielberg-2002) — interfaccia e immagine mediata.
 - [*Moulin Rouge!* (Baz Luhrmann, 2001)](ARCHIVIO_SCENE_FILM.md#15-moulin-rouge-baz-luhrmann-2001) — costruzione dello spazio cinematografico.
 - [*Mulholland Drive* (David Lynch, 2001)](ARCHIVIO_SCENE_FILM.md#9-mulholland-drive-david-lynch-2001) — ambiguità narrativa e statuto dell'immagine.
-- [*News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)](ARCHIVIO_SCENE_FILM.md#34-news-from-home-chantal-akerman-1976-jeanne-dielman-chantal-akerman-1975) — voce e fuori campo.
+- [*News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)](ARCHIVIO_SCENE_FILM.md#34-news-from-home-chantal-akerman-1976-jeanne-dielman-23-quai-du-commerce-1080-bruxelles-chantal-akerman-1975) — voice-over, voce fuori campo e spazio sonoro.
 - [*Ombre rosse* (*Stagecoach*, John Ford, 1939)](ARCHIVIO_SCENE_FILM.md#59-ombre-rosse-stagecoach-john-ford-1939) — costruzione dello spazio d'azione nel cinema classico.
 - [*Persona* (Ingmar Bergman, 1966)](ARCHIVIO_SCENE_FILM.md#53-persona-ingmar-bergman-1966) — primo piano come forma espressiva.
 - [*Piano sequenza / The Magnificent Ambersons* (Orson Welles, 1942)](ARCHIVIO_SCENE_FILM.md#60-piano-sequenza-the-magnificent-ambersons-orson-welles-1942) — piano-sequenza e continuità spaziale.
@@ -338,7 +338,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Rashomon* (Akira Kurosawa, 1950)](ARCHIVIO_SCENE_FILM.md#44-rashomon-akira-kurosawa-1950) — focalizzazione multipla / narrazione a prospettive divergenti.
 - [*Ready Player One* (Steven Spielberg, 2018)](ARCHIVIO_SCENE_FILM.md#14-ready-player-one-steven-spielberg-2018) — intermedialità e spazio virtuale.
 - [*Rear Window / La finestra sul cortile* (Alfred Hitchcock, 1954) — SCHEDA OPERATIVA: REGOLA DEI 180°](ARCHIVIO_SCENE_FILM.md#71-rear-window-la-finestra-sul-cortile-alfred-hitchcock-1954-scheda-operativa-regola-dei-180) — regola dei 180° e continuità dello spazio.
-- [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant---redivivo-alejandro-g-iñárritu-2015) — luce naturale.
+- [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant---redivivo-the-revenant-alejandro-g-iñárritu-2015) — luce naturale e macchina da presa immersiva.
 - [*Rocco e i suoi fratelli* (Luchino Visconti, 1960)](ARCHIVIO_SCENE_FILM.md#4-rocco-e-i-suoi-fratelli-luchino-visconti-1960) — messa in scena del corpo e del melodramma.
 - [*Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)](ARCHIVIO_SCENE_FILM.md#39-rope-nodo-alla-gola-alfred-hitchcock-1948) — long take e continuità apparente.
 - [*Se mi lasci ti cancello* (*Eternal Sunshine of the Spotless Mind*, Michel Gondry, 2004)](ARCHIVIO_SCENE_FILM.md#19-se-mi-lasci-ti-cancello-eternal-sunshine-of-the-spotless-mind-michel-gondry-2004) — spazio mentale e disorientamento.
@@ -356,7 +356,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*The Graduate / Il laureato* (Mike Nichols, 1967) — carrello e composizione](ARCHIVIO_SCENE_FILM.md#78-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione) — blocking e composizione dei corpi nello spazio.
 - [*The Grand Budapest Hotel* (Wes Anderson, 2014)](ARCHIVIO_SCENE_FILM.md#22-the-grand-budapest-hotel-wes-anderson-2014) — composizione dell'inquadratura.
 - [*The Long Goodbye / Il lungo addio* (Robert Altman, 1973)](ARCHIVIO_SCENE_FILM.md#92-the-long-goodbye-il-lungo-addio-robert-altman-1973-dialoghi-sovrapposti-e-spazio-sonoro) — dialoghi sovrapposti e spazio sonoro.
-- [*The Quiet Man* (John Ford, 1952) / *E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#33-the-quiet-man-john-ford-1952-et-lextra-terrestre-steven-spielberg-1982)
+- [*Un uomo tranquillo* (*The Quiet Man*) / *E.T. l'extra-terrestre*](ARCHIVIO_SCENE_FILM.md#33-un-uomo-tranquillo-the-quiet-man-john-ford-1952-et-lextra-terrestre-et-the-extra-terrestrial-steven-spielberg-1982)
 - [*The Searchers* (John Ford, 1956) — formato e rapporto d'aspetto](ARCHIVIO_SCENE_FILM.md#76-the-searchers-john-ford-1956-formato-e-rapporto-daspetto) — rapporto d'aspetto e composizione panoramica.
 - [*The Searchers / Sentieri selvaggi* (John Ford, 1956)](ARCHIVIO_SCENE_FILM.md#70-the-searchers-sentieri-selvaggi-john-ford-1956) — soglia e composizione dell'inquadratura.
 - [*The Shining* (Stanley Kubrick, 1980)](ARCHIVIO_SCENE_FILM.md#67-the-shining-stanley-kubrick-1980) — movimento di macchina e soggettività spaziale.
@@ -366,7 +366,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Touch of Evil* (*L'infernale Quinlan*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#41-touch-of-evil-linfernale-quinlan-orson-welles-1958) — piano-sequenza / long take.
 - [*Toy Story* (John Lasseter, 1995)](ARCHIVIO_SCENE_FILM.md#79-toy-story-john-lasseter-1995-macchina-da-presa-virtuale-e-scala-dello-sguardo) — macchina da presa virtuale e scala dello sguardo.
 - [*Vertigo* (Alfred Hitchcock, 1958) — Dolly zoom](ARCHIVIO_SCENE_FILM.md#72-vertigo-alfred-hitchcock-1958-dolly-zoom) — dolly zoom / travelling compensato.
-- [*Wall-E* (Andrew Stanton, 2008)](ARCHIVIO_SCENE_FILM.md#32-wall-e-andrew-stanton-2008) — citazione cinematografica e intertestualità.
+- [*WALL-E* (Andrew Stanton, 2008)](ARCHIVIO_SCENE_FILM.md#32-wall-e-andrew-stanton-2008) — *Hello, Dolly!*, musica e immagine.
 ## Percorso di lavoro
 
 1. **Scegli il concetto** da affrontare e individua una o più scene nell'indice tematico.
