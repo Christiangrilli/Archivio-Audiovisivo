@@ -41,7 +41,7 @@ cinearchivio/
 
 L'app è statica e non richiede un backend o un processo di build. Per provarla in locale è sufficiente servirla con un server HTTP nella cartella della repository (ad esempio l'estensione Live Server di Visual Studio Code). L'apertura diretta come file locale può impedire il caricamento del Markdown remoto per le regole CORS del browser.
 
-Per pubblicarla, configurare GitHub Pages scegliendo come sorgente il branch e la cartella `/(root)`, quindi rendere disponibile la directory `/cinearchivio` all'indirizzo del sito Pages. In alternativa si potrà impostare in seguito una pipeline di deploy dedicata.
+Per pubblicarla è predisposto il workflow `.github/workflows/deploy-cinearchivio.yml`: dopo l'integrazione in `main`, il workflow carica la sola cartella `cinearchivio/` e la distribuisce tramite GitHub Pages. L'indirizzo previsto è la root del sito Pages del repository. Il primo deploy va controllato nella scheda Actions e nelle impostazioni Pages del repository.
 
 ## Fonte dati
 
