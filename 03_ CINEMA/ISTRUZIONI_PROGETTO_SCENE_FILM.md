@@ -2,6 +2,7 @@
 
 **Repository:** [Christiangrilli/Archivio-Audiovisivo](https://github.com/Christiangrilli/Archivio-Audiovisivo)  
 **Cartella di lavoro:** `03_ CINEMA/`  
+**Indice di navigazione:** [`INDICE_SCENE_FILM.md`](INDICE_SCENE_FILM.md)  
 **Documento centrale:** [`ARCHIVIO_SCENE_FILM.md`](ARCHIVIO_SCENE_FILM.md)  
 **Guida metodologica:** [`GUIDA_OPERATIVA_DIDATTICA.md`](GUIDA_OPERATIVA_DIDATTICA.md)
 
@@ -31,9 +32,10 @@ Lavorare nel repository `Christiangrilli/Archivio-Audiovisivo`, nella cartella `
 
 Documenti centrali:
 
-1. `ARCHIVIO_SCENE_FILM.md`: repertorio principale delle scene, indice interattivo per concetto e per film, schede analitiche e collegamenti.
-2. `GUIDA_OPERATIVA_DIDATTICA.md`: metodo di scelta delle scene, protocollo di visione attiva, struttura della lezione, obiettivi, valutazione, inclusione, modello delle schede e criteri di qualità.
-3. `ISTRUZIONI_PROGETTO_SCENE_FILM.md`: presente documento, memoria operativa e regole di continuità del progetto.
+1. `INDICE_SCENE_FILM.md`: pagina di ingresso, ricerca per concetto e indice alfabetico dei film, con collegamenti diretti alle schede.
+2. `ARCHIVIO_SCENE_FILM.md`: repertorio principale delle scene, indice interattivo per concetto e per film, schede analitiche e collegamenti.
+3. `GUIDA_OPERATIVA_DIDATTICA.md`: metodo di scelta delle scene, protocollo di visione attiva, struttura della lezione, obiettivi, valutazione, inclusione, modello delle schede e criteri di qualità.
+4. `ISTRUZIONI_PROGETTO_SCENE_FILM.md`: presente documento, memoria operativa e regole di continuità del progetto.
 
 Quando utile, aggiungere documenti autonomi (percorsi didattici, repertori di esercizi, schede di visione, lezioni pronte), collegandoli dall'indice o dalla guida. Non duplicare inutilmente le informazioni già presenti.
 
