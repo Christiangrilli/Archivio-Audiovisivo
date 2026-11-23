@@ -8,6 +8,8 @@ Le scene sono indicizzate per film, autore, concetti audiovisivi, tecniche forma
 
 ---
 
+> **Documento di riferimento del progetto:** [Istruzioni permanenti SCENE FILM](ISTRUZIONI_PROGETTO_SCENE_FILM.md) — definisce finalità, struttura delle schede, standard di ricerca, metodo didattico, regole di aggiornamento e priorità di revisione.
+
 ## COME UTILIZZARE L'ARCHIVIO
 
 L'archivio può essere interrogato secondo due direzioni:
