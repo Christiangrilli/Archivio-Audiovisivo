@@ -1068,25 +1068,75 @@ A conclusione, scrivono un breve commento sul modo in cui il finale sposta l'att
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scene:** passaggi fra realtà, immaginazione e sogno; costruzione dello spazio mentale di Guido.
-- **Concetto principale:** soggettività e spazio mentale.
-- **Concetti secondari:** sogno, temporalità, luce espressiva, movimento di macchina, metanarrazione.
-- **Tag:** #punto-di-vista #narrazione #tempo #spazio #luce
-- **Livello:** Intermedio / Avanzato.
-- **Uso:** analisi narrativa e formale.
+- **Sequenza:** il sogno iniziale di Guido, intrappolato in un'automobile bloccata nel traffico dentro un tunnel. Dopo aver cercato di liberarsi dall'abitacolo, Guido esce dal finestrino e vola sopra le auto; una corda legata alla caviglia lo trattiene e lo trascina verso il basso. Il risveglio rivela retrospettivamente che la sequenza era un sogno.
+- **Concetto principale:** rappresentazione audiovisiva della soggettività e del sogno.
+- **Concetti secondari:** punto di vista, movimento di macchina, fermo immagine, ritmo, suono, transizione fra sogno e realtà, montaggio, narrazione soggettiva.
+- **Tag:** #punto-di-vista #soggettiva #montaggio #movimento-di-macchina #suono #narrazione #sogno
+- **Livello:** Intermedio.
+- **Uso consigliato:** mostrare come il cinema possa far vivere allo spettatore una percezione soggettiva senza segnalare subito che ciò che vede appartiene a un sogno.
+- **Stato:** **DA COMPLETARE** — verificare la delimitazione della sequenza e la sua durata sulla copia utilizzata in classe; non inserire timecode senza controllo.
 
-### Analisi
-Il film mette in crisi la separazione stabile fra livelli dell'esperienza di Guido. Il passaggio da un piano all'altro non viene sempre segnalato secondo una grammatica realistica: lo spazio e il tempo possono essere modellati secondo la soggettività del protagonista.
+### Contesto essenziale
+Guido Anselmi è un regista in crisi creativa, incapace di trovare una direzione per il film che dovrebbe realizzare. Il film si apre con un sogno nel quale Guido è intrappolato in un ingorgo automobilistico. L'esperienza di soffocamento e la fuga impossibile anticipano la condizione psicologica del protagonista: pressione, immobilità e desiderio di liberazione. Soltanto quando Guido si sveglia nel letto dello stabilimento termale lo spettatore comprende che la sequenza precedente non era un evento realistico.
+
+### Analisi formale
+La sequenza inizia collocando lo spettatore dietro Guido, all'interno dell'automobile. La macchina da presa si sposta poi lateralmente e mostra gli occupanti delle vetture vicine, spesso immobili e con espressioni enigmatiche. Gli sguardi degli altri automobilisti contribuiscono a creare una sensazione di esposizione e disagio: Guido è bloccato, osservato e incapace di comunicare con chi lo circonda.
+
+La progressione visiva costruisce una condizione di claustrofobia. Il traffico non è soltanto un ostacolo narrativo: diventa una figura della paralisi del protagonista. Quando i fumi invadono l'abitacolo, il bisogno di uscire si trasforma in un'azione impossibile secondo le leggi della realtà. Guido evade dal finestrino e comincia a volare sopra le automobili, passando da uno spazio chiuso e congestionato a uno spazio aperto e apparentemente libero.
+
+Il volo non viene introdotto da una dissolvenza o da un'altra convenzione che segnali esplicitamente il sogno. Il film lascia che lo spettatore accetti per alcuni istanti la trasformazione dell'immagine. La corda legata alla caviglia, che lo tira verso il basso, interrompe la libertà del volo e riporta il corpo di Guido sotto il controllo degli altri. Il risveglio nel letto dello stabilimento termale chiude il circuito e rivela lo statuto onirico della sequenza.
+
+Il movimento della macchina da presa, i momenti di immobilità e i brevi fermi immagine non sono semplici decorazioni surrealiste: contribuiscono a riprodurre una percezione instabile, nella quale lo spettatore non dispone ancora di tutte le informazioni necessarie per interpretare ciò che vede. La sequenza non è interamente una soggettiva ottica: la macchina da presa alterna una posizione vicina a Guido a inquadrature che mostrano gli altri personaggi e il suo corpo dall'esterno. È più preciso parlare di narrazione soggettiva o di filtraggio attraverso l'esperienza del protagonista.
+
+### Evidenze da far osservare
+1. Da quale posizione viene presentato inizialmente Guido e quali elementi dello spazio vediamo.
+2. Come la macchina da presa passa dall'abitacolo agli altri automobilisti.
+3. Quali dettagli contribuiscono a costruire la sensazione di soffocamento.
+4. In quale momento la sequenza abbandona le leggi fisiche della realtà.
+5. Come viene rappresentato il passaggio dall'ingorgo al volo e poi alla caduta.
+6. Quale informazione fornisce il risveglio e come modifica retrospettivamente la lettura delle immagini precedenti.
+
+### Perché è didatticamente utile
+Il sogno iniziale consente di discutere come un film costruisca la soggettività senza dover ricorrere costantemente a soggettive ottiche. Lo spettatore viene coinvolto nell'esperienza di Guido attraverso inquadrature, movimenti, ritmo e trasformazioni dello spazio. È inoltre un esempio efficace di rivelazione retrospettiva: il risveglio modifica il significato di ciò che abbiamo appena visto.
 
 ### Obiettivo didattico
-Comprendere come il linguaggio audiovisivo possa rendere percepibile una dimensione mentale senza ricorrere necessariamente a una spiegazione verbale.
+Al termine dell'attività, lo studente sa individuare gli elementi formali che costruiscono una sequenza onirica, distinguere la soggettiva ottica dalla narrazione soggettiva e spiegare come il risveglio modifichi la comprensione delle immagini precedenti.
 
-### Domande
-1. Come capiamo che il livello narrativo è cambiato?
-2. Quali elementi visivi segnalano il passaggio?
-3. Chi controlla l'accesso dello spettatore alle informazioni?
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare la sequenza senza anticipare che si tratta di un sogno. Chiedere agli studenti di descrivere ciò che accade e di segnalare il momento in cui la scena sembra cambiare natura.
+2. **Seconda visione:** annotare i movimenti della macchina da presa e i passaggi fra Guido, gli altri automobilisti e lo spazio esterno.
+3. **Analisi del suono:** individuare i suoni presenti nell'abitacolo, il respiro, i rumori del traffico e gli eventuali cambiamenti durante il volo.
+4. **Analisi della rivelazione:** fermarsi sul risveglio e chiedere agli studenti quali immagini precedenti vengono reinterpretate.
+5. **Rielaborazione:** progettare una breve sequenza di 5–6 inquadrature che faccia percepire un sogno senza utilizzare dissolvenze o didascalie esplicative.
 
----
+### Domande per gli studenti
+1. Quali elementi fanno percepire la situazione come claustrofobica?
+2. La macchina da presa mostra sempre ciò che Guido vede con i propri occhi?
+3. Quali cambiamenti visivi indicano che le leggi della realtà non sono più rispettate?
+4. Perché il film non segnala subito che si tratta di un sogno?
+5. Che cosa cambia nella nostra interpretazione quando Guido si sveglia?
+
+### Verifica formativa
+Gli studenti realizzano una breve mappa in quattro fasi:
+1. ingorgo e immobilità;
+2. soffocamento e tentativo di fuga;
+3. volo e ritorno forzato verso terra;
+4. risveglio.
+
+Per ogni fase indicano un elemento visivo, un elemento sonoro e la funzione narrativa o percettiva che svolge. In una breve nota devono spiegare la differenza fra soggettiva ottica e narrazione filtrata dall'esperienza di Guido.
+
+**Criteri:** ricostruzione corretta della sequenza, capacità di individuare le trasformazioni dello spazio, uso preciso dei termini, distinzione fra punto di vista e soggettiva ottica, comprensione della rivelazione finale.
+
+### Collegamenti
+- **Sogno e realtà:** *Il posto delle fragole* — memoria, sogno e passaggio fra livelli temporali.
+- **Soggettività e montaggio:** *Il Gattopardo* — punto di vista del Principe e flashback.
+- **Fermo immagine e discontinuità:** *I quattrocento colpi* — uso del fermo immagine come scelta espressiva.
+- **Cinema e autorappresentazione:** *The Fabelmans* — il cinema come rielaborazione dell'esperienza personale.
+
+### Fonti e riferimenti
+- Robert Shail, «8½ (1963)», in Sarah Barrow, Sabine Haenni e John White (a cura di), *The Routledge Encyclopedia of Films*, Routledge, 2015. L'analisi descrive l'apertura nel traffico, i movimenti di macchina, i fermi immagine, il volo e il risveglio che rivela il sogno: https://api.pageplace.de/preview/DT0400.9781317682615_A23895110/preview-9781317682615_A23895110.pdf
+- Kinolab, «8½: Opening Sequence», scheda didattica che cataloga i procedimenti formali della sequenza: https://kinolab.org/FilmClip.php?id=3217
+- D.A. Miller, *8½*, BFI Film Classics, Palgrave Macmillan, 2008, per la struttura soggettiva e autoriflessiva del film.
 
 ## 9. *Mulholland Drive* (David Lynch, 2001)
 [↑ Torna all'indice](#indice-interattivo)
