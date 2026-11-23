@@ -3292,8 +3292,7 @@ Consegnare una serie di fotogrammi inventati o forniti dal docente e chiedere ag
 - *L'uomo con la macchina da presa* — il cinema che riflette sul proprio dispositivo.
 
 ### Fonti
-- AFI Catalog, scheda di *The Fabelmans*: https://catalog.afi.com/
-- Steven Spielberg, interviste e materiali di produzione sul rapporto autobiografico con il cinema.
+- Amblin, scheda ufficiale di *The Fabelmans*: https://amblin.com/movie/the-fabelmans/
 - Studi sul film nel film e sull'immagine come documento.
 
 **Stato:** DA COMPLETARE — verificare il segmento preciso e distinguere i passaggi di ripresa, visione e montaggio.
@@ -3338,55 +3337,56 @@ Il film contiene linguaggio razzista e stereotipi etnici pronunciati dal protago
 - *La regola del gioco* — posizione dei corpi e gerarchie.
 
 ### Fonti
-- Warner Bros., materiali ufficiali del film.
-- Studi sulla messa in scena e sulla rappresentazione dello spazio domestico nel cinema di Clint Eastwood.
+- AFI Catalog, scheda e materiali di produzione di *Gran Torino*: https://catalog.afi.com/Film/55490-GRAN-TORINO
+- Christa van Raalte, “Reflections on Mortality: The Imagery of Mirrors in Clint Eastwood’s *Gran Torino*”, *Journal of Popular Film and Television*, 49.3, 2021: https://eprints.bournemouth.ac.uk/35290/
+- Mediateca Toscana, scheda di verifica del film: https://www.mediatecatoscana.it/wp-content/uploads/2020/03/Gran-Torino_Scheda_verifiche.pdf
 
 **Stato:** DA VERIFICARE — scegliere due scene precise e controllare che il confronto sia sostenuto dalle inquadrature selezionate.
 
 ---
 
-## 50. *Million Dollar Baby* (Clint Eastwood, 2004) — montaggio ellittico e trasformazione del corpo
+## 50. *Million Dollar Baby* (Clint Eastwood, 2004) — scala dei piani e intensificazione del dialogo
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** sequenze di allenamento di Maggie nella palestra di Frankie.
-- **Concetto principale:** montaggio ellittico e compressione del tempo.
-- **Concetti secondari:** ripetizione, gesto, ritmo, musica, progressione narrativa, corpo.
-- **Tag:** #montaggio #ellissi #ritmo #musica #corpo #narrazione
+- **Scena:** Frankie trova Maggie ad allenarsi da sola nella palestra, durante la notte; i due discutono della possibilità che lui la alleni.
+- **Concetto principale:** variazione della scala dei piani e intensificazione drammatica.
+- **Concetti secondari:** campo/controcampo, composizione, blocking, recitazione, movimento di macchina, rapporto tra gesto e dialogo.
+- **Tag:** #inquadratura #scala-dei-piani #montaggio #dialogo #recitazione #messa-in-scena
 - **Livello:** Base / Intermedio.
 
 ### Analisi
-Le sequenze di allenamento condensano in una successione di immagini un periodo di lavoro che nella storia occupa molto più tempo del frammento mostrato. La ripetizione dei gesti, la variazione degli esercizi e la progressione della preparazione permettono allo spettatore di inferire il passare del tempo senza assistere a ogni singola sessione.
+La sequenza è costruita soprattutto attraverso il confronto verbale tra Frankie e Maggie. I cambiamenti nella scala dei piani accompagnano l'evoluzione dello scambio: i personaggi vengono progressivamente isolati nell'inquadratura e il quadro si stringe nei momenti in cui la tensione emotiva aumenta. La macchina da presa si avvicina con discrezione, senza trasformare il dialogo in un'esibizione di virtuosismo.
 
-Il montaggio seleziona momenti significativi e li dispone secondo una progressione: non racconta ogni allenamento, ma costruisce la percezione del cambiamento fisico e tecnico della protagonista.
+La disposizione dei corpi e la presenza del sacco da boxe contribuiscono alla composizione: il luogo dell'allenamento rimane parte attiva della scena, mentre i gesti e le reazioni degli attori rendono visibile il progressivo cambiamento di Frankie. La variazione dell'inquadratura accompagna quindi una trasformazione narrativa che avviene soprattutto attraverso la parola e l'ascolto.
 
 ### Perché è didatticamente utile
-È un esempio chiaro per introdurre l'ellissi temporale e distinguere la durata della storia dalla durata del racconto.
+È un esempio preciso per osservare come la scala dei piani possa intensificare un dialogo e come la macchina da presa possa modificare gradualmente la distanza dallo spettatore senza movimenti vistosi.
 
 ### Obiettivo didattico
-Individuare le informazioni che permettono di ricostruire il passare del tempo e spiegare come il montaggio sintetizzi un processo.
+Riconoscere le variazioni della scala dei piani e spiegare come inquadratura, composizione e recitazione contribuiscano alla progressione emotiva di una scena dialogica.
 
 ### Attività
-Proporre agli studenti di trasformare una breve azione ripetitiva in una sequenza di 5–7 inquadrature, eliminando i passaggi non necessari ma conservando la percezione della progressione.
+Fermare la sequenza in tre momenti: inizio del confronto, momento di maggiore tensione e accordo finale. Gli studenti confrontano la dimensione dei personaggi nel quadro, la posizione del sacco e la distanza tra i corpi.
 
 ### Domande
-1. Quanto tempo sembra trascorrere nella storia?
-2. Quali ripetizioni vengono mantenute e quali eliminate?
-3. In che modo il ritmo del montaggio comunica il miglioramento della protagonista?
+1. Quando la macchina da presa si avvicina ai personaggi?
+2. Che cosa cambia nella composizione quando un personaggio viene isolato?
+3. In che modo il gesto finale modifica il tono della scena?
 
 ### Attenzioni didattiche
-Il film affronta temi di violenza, disabilità e fine vita. Per una lezione sul montaggio è preferibile utilizzare il materiale di allenamento, senza ricorrere alle sequenze più traumatiche.
+Il film affronta temi di violenza, disabilità e fine vita. La scena della palestra consente di lavorare sulla forma senza ricorrere alle sequenze più traumatiche.
 
 ### Collegamenti
-- *The Graduate* — ellissi e musica.
-- *Rocky* — montaggio dell'allenamento.
-- *Memento* — organizzazione non lineare del tempo.
+- *Susanna* — scala dei piani e costruzione del dialogo.
+- *The Apartment* — variazioni dell'inquadratura in rapporto ai rapporti tra personaggi.
+- *The Graduate* — blocking e isolamento del protagonista.
 
 ### Fonti
-- Les Grignoux, dossier pedagogico su *Million Dollar Baby* e analisi di sequenza: https://www.grignoux.be/dossiers/208/documents
-- AFI Catalog, scheda del film: https://catalog.afi.com/
+- Les Grignoux, dossier pedagogico con analisi dettagliata della sequenza notturna in palestra: https://www.grignoux.be/dossiers/208/analyse
+- Les Grignoux, scheda pedagogica e analisi del film: https://www.grignoux.be/dossiers/212/31_Million_Dollar_Baby
 
-**Stato:** DA COMPLETARE — individuare un segmento di allenamento circoscritto e verificare la durata.
+**Stato:** DA COMPLETARE — selezionare il segmento preciso e verificare il timecode sull'edizione scelta.
 
 ---
 
@@ -3471,8 +3471,8 @@ La sequenza contiene situazioni di pericolo e morte. Selezionare un frammento ad
 - *Intolerance* — simultaneità e montaggio delle linee narrative.
 
 ### Fonti
-- AFI Catalog, scheda di *Titanic*: https://catalog.afi.com/
-- BFI, materiali sul film e sul montaggio di James Cameron.
+- AFI Catalog, scheda di *Titanic* con crediti di montaggio e fotografia: https://catalog.afi.com/Film/55202-titanic
+- BFI, scheda del film: https://www.bfi.org.uk/film/aa4a1930-21de-51ce-9700-6acaf2d59437/titanic
 
 **Stato:** DA COMPLETARE — delimitare la porzione della sequenza e controllare la simultaneità degli eventi nel montaggio scelto.
 
@@ -3727,8 +3727,9 @@ Disegnare una pianta semplificata del percorso compiuto dalla macchina da presa.
 - *The Long Goodbye* — macchina da presa mobile e spazio sonoro.
 
 ### Fonti
-- Studi sulla Steadicam e sulla collaborazione tra Martin Scorsese e il direttore della fotografia Michael Ballhaus.
-- Analisi del piano-sequenza del Copacabana in *Goodfellas*.
+- AFI Catalog, nota sul tracking shot del Copacabana: https://catalog.afi.com/Film/55206-GOODFELLAS
+- Matt Mulcahey, intervista all'operatore Larry McConkey sullo Steadicam shot: https://filmmakermagazine.com/93916-steadicam-operator-larry-mcconkey-on-filming-the-goodfellas-copacabana-tracking-shot-and-the-early-days-of-steadicam/
+- CineMontage, intervista al fonico Tom Fleischman sul missaggio della sequenza: https://cinemontage.org/tom-fleischman-goodfellas/
 
 **Stato:** DA COMPLETARE — controllare il punto di inizio e fine del piano-sequenza e il timecode sull'edizione scelta.
 
