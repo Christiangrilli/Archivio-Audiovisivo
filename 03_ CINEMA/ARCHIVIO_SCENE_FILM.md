@@ -1993,7 +1993,7 @@ Dividere il foglio in «cosa vedo» e «come il film me lo fa vedere». Chiedere
 
 ## 14. *Ladri di biciclette* (*Bicycle Thieves*, Vittorio De Sica, 1948)
 [↑ Torna all'indice](#indice-interattivo)
-- **Scena:** ricerca della bicicletta per Roma, con particolare attenzione ai mercati e agli spazi urbani attraversati da Antonio e Bruno.
+- **Scena:** sequenza del mercato di Piazza Vittorio, in cui Antonio e Bruno cercano la bicicletta rubata. Il frammento consente di osservare la mobilità dei protagonisti e il rapporto fra ricerca, folla e spazio urbano.
 - **Concetto principale:** spazio urbano nel neorealismo.
 - **Concetti secondari:** location, pedinamento, durata, realtà sociale, punto di vista.
 - **Tag:** #spazio #messa-in-scena #punto-di-vista #narrazione #tempo
