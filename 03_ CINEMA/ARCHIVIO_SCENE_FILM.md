@@ -2502,15 +2502,82 @@ Gli studenti compilano una tabella comparativa con le voci:
 ## 27. *Dunkirk* (Christopher Nolan, 2017) / *Tenet* (Christopher Nolan, 2020)
 [↑ Torna all'indice](#indice-interattivo)
 
-### Concetto comune
-- **Concetto principale:** tecnica di ripresa e percezione del movimento.
-- **Concetti secondari:** otturatore, motion blur, temporalità audiovisiva.
-- **Tag:** #movimento-di-macchina #tempo #inquadratura
+### Identificazione
+- **Primo esempio:** sequenze aeree di *Dunkirk*, in particolare il combattimento fra gli Spitfire e gli aerei tedeschi, ripreso con camere IMAX montate sugli aeroplani e all'interno delle cabine.
+- **Secondo esempio:** inseguimento sull'autostrada di *Tenet*, in cui oggetti e veicoli si muovono secondo direzioni temporali opposte e alcune azioni sono state riprese sia in avanti sia all'indietro.
+- **Concetto principale:** costruzione della percezione del movimento attraverso ripresa e messa in scena.
+- **Concetti secondari:** camera mobile, grande formato, punto di vista, ripresa inversa, effetti pratici, montaggio, temporalità, orientamento dello spettatore.
+- **Tag:** #movimento-di-macchina #tempo #inquadratura #imax #ripresa-inversa #effetti-visivi #montaggio
+- **Livello:** Intermedio / Avanzato.
+- **Uso consigliato:** confrontare due strategie differenti: l'immersione fisica nella dinamica di un evento e la rappresentazione di un'azione che procede in direzioni temporali opposte.
+- **Stato:** **DA COMPLETARE** — selezionare due frammenti brevi e verificare la loro durata e i passaggi di montaggio sulle copie disponibili.
 
-### Uso didattico
-Le due opere possono essere utilizzate per introdurre il rapporto fra parametri della ripresa e resa percettiva del movimento. È importante distinguere ciò che è direttamente osservabile — la diversa resa del movimento — dalla spiegazione tecnica dei parametri fotografici, che va accompagnata da un riferimento alla cinematografia e non dedotta soltanto dall'impressione visiva.
+### Contesto essenziale
+*Dunkirk* racconta l'evacuazione delle truppe alleate dalla costa francese nel 1940, intrecciando tre linee temporali: terra, mare e aria. Le sequenze aeree sono costruite per collocare lo spettatore vicino ai piloti e alla loro percezione del combattimento.
 
----
+*Tenet* introduce il concetto di inversione temporale: alcuni personaggi e oggetti si muovono in direzione opposta rispetto al flusso temporale ordinario. Nell'inseguimento sull'autostrada, veicoli e oggetti sembrano muoversi all'indietro mentre i protagonisti agiscono secondo direzioni temporali differenti.
+
+### Analisi comparativa
+In *Dunkirk*, il movimento viene costruito attraverso una macchina da presa fisicamente vicina all'azione. Hoyte van Hoytema e Christopher Nolan utilizzano camere IMAX montate sugli aerei e sistemi ottici appositamente progettati per riprendere l'interno e l'esterno dei velivoli. L'obiettivo dichiarato era collocare lo spettatore nella condizione percettiva dei piloti e dei soldati, privilegiando un'esperienza visiva immersiva e immediata. Il movimento non viene osservato da una posizione esterna e distante: la macchina da presa entra nello spazio dell'azione e ne segue le variazioni.
+
+In *Tenet*, invece, il movimento diventa un problema di orientamento temporale. Durante l'inseguimento, alcuni oggetti e veicoli sembrano muoversi in direzione opposta rispetto agli altri. Per ottenere l'effetto, la produzione ha utilizzato riprese eseguite in entrambe le direzioni e ha modificato tecnicamente le camere IMAX affinché potessero funzionare anche al contrario. Gli effetti visivi digitali e pratici sono stati combinati per rendere leggibile l'interazione fra azioni invertite e non invertite.
+
+Il confronto non deve essere ridotto alla differenza fra «movimento normale» e «movimento rallentato». In *Dunkirk* la macchina da presa cerca di rendere fisicamente percepibile la vicinanza all'azione; in *Tenet* la ripresa e il montaggio devono rendere comprensibile un sistema temporale nel quale le direzioni dei movimenti non coincidono. Lo spettatore è coinvolto in due esperienze differenti: immersione e disorientamento.
+
+È importante non attribuire automaticamente l'effetto a un particolare valore dell'otturatore o alla velocità dei fotogrammi. Per spiegare la resa del movimento occorre distinguere ciò che è osservabile nella sequenza dalle informazioni produttive: in questi due esempi la documentazione disponibile riguarda soprattutto il formato IMAX, il posizionamento delle camere e la possibilità di riprendere in entrambe le direzioni.
+
+### Evidenze da far osservare
+1. In *Dunkirk*, da quale posizione vengono riprese le manovre degli aerei e quanto la macchina da presa è vicina ai piloti.
+2. Quali elementi rendono percepibile il movimento dell'aereo rispetto al paesaggio e agli altri velivoli.
+3. In *Tenet*, quali oggetti o veicoli sembrano muoversi in direzione opposta.
+4. Come il montaggio alterna personaggi che agiscono secondo direzioni temporali differenti.
+5. Quali indizi permettono allo spettatore di distinguere azioni invertite e non invertite.
+6. Come cambia la percezione del movimento fra immersione fisica e disorientamento temporale.
+
+### Perché è didatticamente utile
+La coppia permette di discutere la relazione fra tecnologia di ripresa e percezione dello spettatore senza ridurre la tecnica a un elenco di parametri. Gli studenti possono osservare come la posizione della macchina da presa, la direzione della ripresa e il montaggio determinino il modo in cui il movimento viene compreso. È inoltre utile per introdurre il rapporto fra effetti pratici, ripresa analogica e post-produzione digitale.
+
+### Obiettivo didattico
+Al termine dell'attività, lo studente sa descrivere la posizione e la funzione della macchina da presa nelle due sequenze, riconoscere il procedimento della ripresa inversa e spiegare come il montaggio orienti o disorienti la percezione temporale.
+
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare i due frammenti senza anticipare il procedimento tecnico. Chiedere agli studenti di descrivere che cosa rende particolare il movimento in ciascuno.
+2. **Analisi di Dunkirk:** individuare la posizione della macchina da presa, il rapporto con il pilota e la vicinanza agli elementi in movimento.
+3. **Analisi di Tenet:** segnare su una linea temporale quali azioni sembrano procedere in avanti e quali all'indietro.
+4. **Confronto:** distinguere il movimento della macchina da presa dal movimento degli oggetti rappresentati e dal movimento prodotto dal montaggio.
+5. **Rielaborazione:** progettare una breve azione in cui un oggetto venga ripreso in avanti e all'indietro, indicando quali elementi devono restare coerenti perché lo spettatore comprenda il procedimento.
+
+### Domande per gli studenti
+1. In che modo la macchina da presa di *Dunkirk* cerca di avvicinare lo spettatore all'esperienza del pilota?
+2. Quali elementi della scena di *Tenet* fanno percepire un movimento temporalmente invertito?
+3. Qual è la differenza fra riprendere un'azione al contrario e mostrarla al contrario in montaggio?
+4. Perché in *Tenet* è necessario coordinare attori, oggetti e veicoli che seguono direzioni temporali diverse?
+5. Quale delle due sequenze produce un maggiore senso di immersione e quale un maggiore disorientamento? Motiva con evidenze.
+
+### Verifica formativa
+Gli studenti compilano una tabella comparativa con:
+- posizione della macchina da presa;
+- direzione del movimento;
+- rapporto fra macchina da presa e personaggi;
+- eventuale ripresa inversa;
+- ruolo del montaggio;
+- effetto percettivo sullo spettatore.
+
+A conclusione, spiegano in un breve testo perché non è sufficiente parlare genericamente di «velocità» per descrivere il movimento nelle due sequenze.
+
+**Criteri:** precisione descrittiva, distinzione fra ripresa e montaggio, riconoscimento della ripresa inversa, capacità di collegare tecnica ed effetto percettivo.
+
+### Collegamenti
+- **Movimento e immersione:** *Lo squalo* — macchina da presa subacquea e punto di vista della minaccia.
+- **Ripresa inversa e movimento:** *Tenet* — sequenze di combattimento invertito.
+- **Piano-sequenza e immersione:** *Birdman* — continuità apparente e movimento della camera.
+- **Montaggio e tempo:** *2001: Odissea nello spazio* — ellissi di milioni di anni in un singolo taglio.
+
+### Fonti e riferimenti
+- Hoyte van Hoytema, intervista su *Dunkirk*, *British Cinematographer*. Descrive l'impiego di camere IMAX montate sugli aerei, le riprese in cabina e la scelta di mantenere la macchina da presa vicina all'azione: https://britishcinematographer.co.uk/hoyte-van-hoytema-fsf-nsc-asc-dunkirk/
+- American Society of Cinematographers, «Dunkirk Discussion at ASC Clubhouse with van Hoytema and Sasaki», 5 dicembre 2017. Approfondisce le camere IMAX, i supporti speciali e la costruzione di un punto di vista immersivo: https://theasc.com/news/dunkirk-discussion-at-asc-clubhouse-with-van-hoytema-and-sasaki/
+- «Tenet Production Info», *in70mm.com*. Intervista a Hoyte van Hoytema sulla modifica delle camere IMAX per poter girare anche all'indietro: https://www.in70mm.com/presents/1970_imax/2021_tenet/press/index.htm
+- Andrew Jackson, «fxpodcast #326: Andrew Jackson on Tenet», *fxguide*. Descrive la ripresa in avanti e all'indietro, gli effetti pratici e digitali e la pianificazione delle sequenze invertite: https://www.fxguide.com/fxpodcasts/andrew-jackson-on-tenet/
 
 ## 28. *Io non ho paura* (Gabriele Salvatores, 2003)
 [↑ Torna all'indice](#indice-interattivo)
