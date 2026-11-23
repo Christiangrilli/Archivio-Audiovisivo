@@ -991,25 +991,78 @@ Consegnare agli studenti una breve sequenza di fotogrammi del frammento e chiede
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** Vittoria seguita dalla macchina da presa negli spazi urbani dell'EUR e di Roma.
-- **Concetto principale:** spazio urbano e movimento di macchina.
-- **Concetti secondari:** durata, percezione, soggettività, modernità.
-- **Tag:** #spazio #movimento-di-macchina #tempo #punto-di-vista
-- **Livello:** Avanzato.
-- **Uso:** analisi del cinema moderno.
+- **Sequenza:** il montaggio conclusivo del film, ambientato nel quartiere EUR di Roma. Vittoria e Piero hanno concordato un appuntamento, ma non arrivano; la macchina da presa registra il luogo, i passanti, gli oggetti e il progressivo passaggio dal giorno alla sera.
+- **Concetto principale:** autonomia dello spazio e della durata rispetto all'azione narrativa.
+- **Concetti secondari:** tempo morto, montaggio ellittico, fuori campo, paesaggio urbano, inquadratura, assenza dei protagonisti, suono e silenzio.
+- **Tag:** #spazio #tempo #montaggio #fuori-campo #paesaggio #inquadratura #narrazione
+- **Livello:** Intermedio / Avanzato.
+- **Uso consigliato:** mostrare come il film possa spostare il centro dell'attenzione dai personaggi allo spazio, lasciando che la durata e i dettagli urbani diventino materia della sequenza.
+- **Stato:** **DA COMPLETARE** — verificare l'inizio e la fine del montaggio conclusivo sull'edizione utilizzata in classe; il riferimento ai circa sette minuti deriva dalle fonti critiche e non sostituisce il controllo della copia.
 
-### Analisi
-Il movimento attraverso la città non serve soltanto a trasferire il personaggio da un luogo a un altro. Lo spazio urbano diventa materia della rappresentazione: architetture, vuoti, distanze e percorsi assumono un rilievo autonomo.
+### Contesto essenziale
+Vittoria e Piero hanno stabilito di incontrarsi in un incrocio del quartiere EUR, ma nessuno dei due si presenta. Dopo aver seguito per tutto il film la loro relazione, lo spettatore si aspetta che l'appuntamento produca un nuovo incontro o una conclusione narrativa. Antonioni sceglie invece di mostrare il luogo senza i protagonisti: passanti, mezzi, oggetti e dettagli dello spazio urbano occupano il posto che fino a quel momento era stato riservato alla coppia.
+
+### Analisi formale
+Il finale non mostra l'esito dell'appuntamento e non fornisce una spiegazione psicologica dell'assenza. La macchina da presa resta nel luogo in cui Vittoria e Piero avrebbero dovuto incontrarsi e registra ciò che accade intorno: persone che attraversano la strada, un autobus, un'infermiera con un bambino, un sistema di irrigazione, oggetti e dettagli architettonici. Alcune figure possono ricordare i protagonisti, ma non sono loro. Il montaggio porta così in primo piano una serie di presenze anonime e di frammenti del quartiere.
+
+La macchina da presa non funziona più come strumento che segue l'azione dei personaggi. Diventa relativamente autonoma: osserva lo spazio, attende, si sposta fra dettagli e inquadrature più ampie, lascia che il tempo trascorra. Il luogo continua a esistere anche senza la coppia e non viene più organizzato soltanto in funzione della loro vicenda. Il finale non è un semplice «tempo morto» da intendere come assenza di significato: la durata permette allo spettatore di osservare ciò che normalmente resterebbe subordinato all'azione principale.
+
+Anche il suono contribuisce al cambiamento di registro. Il progressivo rarefarsi della colonna sonora e i momenti di silenzio separano il finale dal racconto sentimentale precedente. La sequenza non chiude il film attraverso una soluzione, ma trasforma l'attesa in un'esperienza percettiva. L'ultimo spazio urbano e la luce artificiale del lampione sostituiscono la conclusione centrata sui personaggi.
+
+È utile distinguere questa sequenza da una semplice panoramica descrittiva della città. Il montaggio riprende luoghi e oggetti già apparsi nel film, ma li mostra senza la presenza dei protagonisti e senza che siano più legati a un'azione da portare a termine. Lo spettatore è invitato a riconoscere, confrontare e interrogare dettagli che prima sembravano secondari.
+
+### Evidenze da far osservare
+1. Quali elementi del luogo erano già comparsi durante il film e quali vengono mostrati per la prima volta.
+2. Quando la macchina da presa segue una persona e quando invece resta sullo spazio dopo la sua uscita dal quadro.
+3. Come si alternano inquadrature ampie, dettagli di oggetti e immagini di passanti.
+4. Quali figure possono essere scambiate per Vittoria o Piero e come il film disattende questa aspettativa.
+5. Come cambia la luce e quali indizi segnano il passaggio dal giorno alla sera.
+6. In quali momenti la colonna sonora si rarefà e quali suoni ambientali restano percepibili.
+
+### Perché è didatticamente utile
+La sequenza è un esempio particolarmente efficace di autonomia dello spazio filmico e della durata. Permette di discutere la funzione del tempo morto senza ridurlo a una pausa priva di contenuto: l'inquadratura può continuare a produrre significato anche quando il personaggio è uscito dal quadro e l'azione narrativa sembra essersi arrestata. È inoltre utile per riflettere sul rapporto fra spettatore e racconto: il finale sposta l'attenzione dalla domanda «che cosa accadrà ai protagonisti?» a «che cosa vediamo quando i protagonisti non ci sono più?».
 
 ### Obiettivo didattico
-Analizzare il rapporto fra personaggio, macchina da presa e spazio urbano.
+Al termine dell'attività, lo studente sa descrivere la struttura del montaggio conclusivo, riconoscere almeno tre elementi dello spazio urbano e spiegare come la permanenza della macchina da presa e la durata delle inquadrature rendano lo spazio autonomo rispetto alla vicenda dei protagonisti.
+
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare il finale senza anticipare la scelta di Antonioni. Chiedere agli studenti che cosa si aspettavano dopo il mancato appuntamento.
+2. **Seconda visione:** dividere la sequenza in blocchi, annotando per ciascuno il soggetto dell'inquadratura: persona, oggetto, architettura, strada o spazio vuoto.
+3. **Mappa del luogo:** individuare gli elementi che ritornano e quelli che assumono una funzione nuova perché i protagonisti sono assenti.
+4. **Analisi della durata:** confrontare un'inquadratura che segue un passante con una che resta sullo spazio dopo la sua uscita dal quadro.
+5. **Analisi sonora:** annotare i momenti di silenzio, i rumori ambientali e l'eventuale musica.
+6. **Rielaborazione:** realizzare un breve video di 60–90 secondi in cui un luogo quotidiano venga ripreso senza mostrare il protagonista; la sequenza deve suggerire un'attesa o un'assenza attraverso inquadrature, durata e suono.
+
+### Domande per gli studenti
+1. Perché il film non mostra l'incontro fra Vittoria e Piero?
+2. Che cosa diventa il soggetto della sequenza quando i protagonisti non arrivano?
+3. La macchina da presa continua a seguire i personaggi oppure comincia a osservare lo spazio in modo autonomo?
+4. Quale differenza c'è fra un'inquadratura che serve a far avanzare la trama e una che permette di osservare un luogo?
+5. In che modo il silenzio e il passaggio dal giorno alla notte contribuiscono alla conclusione?
+
+### Verifica formativa
+Gli studenti compilano una mappa della sequenza in 6–8 blocchi, indicando per ciascuno:
+- elemento principale inquadrato;
+- presenza o assenza di persone;
+- movimento della macchina da presa;
+- durata percepita e funzione del blocco;
+- eventuale rapporto con un luogo o oggetto già visto nel film.
+
+A conclusione, scrivono un breve commento sul modo in cui il finale sposta l'attenzione dai personaggi allo spazio urbano.
+
+**Criteri:** precisione descrittiva, riconoscimento della struttura del montaggio, uso di evidenze visive e sonore, capacità di spiegare la relazione fra durata e autonomia dello spazio.
 
 ### Collegamenti
-- *L'avventura*.
-- *La dolce vita*.
-- Cinema moderno italiano.
+- **Spazio e durata nel cinema moderno:** *L'avventura* — la ricerca di Anna e l'autonomia del paesaggio.
+- **Tempo morto e osservazione:** *Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles* — durata delle azioni quotidiane e spazio domestico.
+- **Paesaggio urbano:** *La dolce vita* — la città come ambiente narrativo e spettacolo.
+- **Fuori campo e assenza:** *Blow-Up* — ciò che resta invisibile o indeterminato rispetto all'immagine.
 
----
+### Fonti e riferimenti
+- Paul Tickell, «Wandering souls: the ending of *L’eclisse*», *Sight and Sound*, BFI, 1 luglio 2022. Analizza il montaggio finale, la scomparsa dei protagonisti e l'autonomia della macchina da presa: https://www.bfi.org.uk/sight-and-sound/features/wandering-souls-ending-leclisse
+- Archivio Michelangelo Antonioni, scheda *L'eclisse*, per la descrizione del film e della sequenza conclusiva nell'incrocio dell'EUR: https://www.archivioantonioni.it/digital-archive/detail/creativeWork/014/l-eclisse
+- Ron Peck, «L'eclisse», note di programma BFI Southbank, 20 maggio 2021 (ripubblicazione di un testo apparso in *Sight and Sound*, dicembre 1994), per il finale di sette minuti e il passaggio dal giorno alla notte: https://bfidatadigipres.github.io/big%20screen%20classics/2021/05/20/eclisse/
+- «A Geography of Fractured Desire: Michelangelo Antonioni’s *L’eclisse* (1962)», *Senses of Cinema*, 2022, per il rapporto fra paesaggio urbano, assenza e rarefazione del suono: https://www.sensesofcinema.com/2022/cteq/a-geography-of-fractured-desire-michelangelo-antonionis-leclisse-1962/
 
 ## 8. *8½* (Federico Fellini, 1963)
 [↑ Torna all'indice](#indice-interattivo)
