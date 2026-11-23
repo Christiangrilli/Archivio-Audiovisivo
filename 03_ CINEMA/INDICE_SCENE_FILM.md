@@ -25,7 +25,6 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Rocco e i suoi fratelli* (Luchino Visconti, 1960)](ARCHIVIO_SCENE_FILM.md#4-rocco-e-i-suoi-fratelli-luchino-visconti-1960)
 - [*Il grande Gatsby* (Baz Luhrmann, 2013)](ARCHIVIO_SCENE_FILM.md#16-il-grande-gatsby-baz-luhrmann-2013)
 - [*I predatori dell'arca perduta*](ARCHIVIO_SCENE_FILM.md#17-i-predatori-dellarca-perduta-raiders-of-the-lost-ark-steven-spielberg-1981)
-- [*Il settimo sigillo* (Ingmar Bergman, 1957)](ARCHIVIO_SCENE_FILM.md#18-il-settimo-sigillo-det-sjunde-inseglet-ingmar-bergman-1957)
 - [*Se mi lasci ti cancello* (*Eternal Sunshine of the Spotless Mind*, Michel Gondry, 2004)](ARCHIVIO_SCENE_FILM.md#19-se-mi-lasci-ti-cancello-eternal-sunshine-of-the-spotless-mind-michel-gondry-2004)
 - [*Birdman* (Alejandro González Iñárritu, 2014)](ARCHIVIO_SCENE_FILM.md#20-birdman-alejandro-gonzález-iñárritu-2014)
 - [*Fight Club* (David Fincher, 1999)](ARCHIVIO_SCENE_FILM.md#21-fight-club-david-fincher-1999)
@@ -58,7 +57,8 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*The Fabelmans* (Steven Spielberg, 2022) — film nel film e montaggio come rivelazione](ARCHIVIO_SCENE_FILM.md#83-the-fabelmans-steven-spielberg-2022-film-nel-film-e-montaggio-come-rivelazione)
 - [*Million Dollar Baby* (Clint Eastwood, 2004) — scala dei piani e intensificazione del dialogo](ARCHIVIO_SCENE_FILM.md#85-million-dollar-baby-clint-eastwood-2004-scala-dei-piani-e-intensificazione-del-dialogo)
 - [*Titanic* (James Cameron, 1997) — montaggio alternato](ARCHIVIO_SCENE_FILM.md#87-titanic-james-cameron-1997-montaggio-alternato-e-gestione-dello-spazio)
-### Inquadratura, composizione e profondità (38)
+- [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-2001-a-space-odyssey-stanley-kubrick-1968)
+### Inquadratura, composizione e profondità (39)
 
 - [*Susanna* (*Bringing Up Baby*, Howard Hawks, 1938)](ARCHIVIO_SCENE_FILM.md#1-susanna-bringing-up-baby-howard-hawks-1938)
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976)
@@ -99,7 +99,8 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Toy Story* (John Lasseter, 1995)](ARCHIVIO_SCENE_FILM.md#79-toy-story-john-lasseter-1995-macchina-da-presa-virtuale-e-scala-dello-sguardo)
 - [*E.T. l'extra-terrestre* (Steven Spielberg, 1982) — silhouette e controluce](ARCHIVIO_SCENE_FILM.md#88-et-lextra-terrestre-steven-spielberg-1982-silhouette-controluce-ed-effetti-ottici)
 - [*Million Dollar Baby* (Clint Eastwood, 2004)](ARCHIVIO_SCENE_FILM.md#85-million-dollar-baby-clint-eastwood-2004-scala-dei-piani-e-intensificazione-del-dialogo)
-### Spazio, messa in scena e recitazione (55)
+- [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962)
+### Spazio, messa in scena e recitazione (54)
 
 - [*Susanna* (*Bringing Up Baby*, Howard Hawks, 1938)](ARCHIVIO_SCENE_FILM.md#1-susanna-bringing-up-baby-howard-hawks-1938)
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976)
@@ -123,7 +124,6 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*The Grand Budapest Hotel* (Wes Anderson, 2014)](ARCHIVIO_SCENE_FILM.md#22-the-grand-budapest-hotel-wes-anderson-2014)
 - [*Quarto potere* (*Citizen Kane*, Orson Welles, 1941)](ARCHIVIO_SCENE_FILM.md#23-quarto-potere-citizen-kane-orson-welles-1941)
 - [*Shining* (Stanley Kubrick, 1980)](ARCHIVIO_SCENE_FILM.md#24-shining-stanley-kubrick-1980)
-- [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-2001-a-space-odyssey-stanley-kubrick-1968)
 - [*Io non ho paura* (Gabriele Salvatores, 2003)](ARCHIVIO_SCENE_FILM.md#28-io-non-ho-paura-gabriele-salvatores-2003)
 - [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant---redivivo-the-revenant-alejandro-g-iñárritu-2015)
 - [*News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)](ARCHIVIO_SCENE_FILM.md#34-news-from-home-chantal-akerman-1976-jeanne-dielman-23-quai-du-commerce-1080-bruxelles-chantal-akerman-1975)
@@ -131,7 +131,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](ARCHIVIO_SCENE_FILM.md#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille)
 - [*Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)](ARCHIVIO_SCENE_FILM.md#39-rope-nodo-alla-gola-alfred-hitchcock-1948)
 - [*Breathless* (*Fino all'ultimo respiro*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-breathless-fino-allultimo-respiro-jean-luc-godard-1960)
-- [*Touch of Evil* (*L'infernale Quinlan*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#41-touch-of-evil-linfernale-quinlan-orson-welles-1958)
+- [*L'infernale Quinlan* (*Touch of Evil*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#41-linfernale-quinlan-touch-of-evil-orson-welles-1958)
 - [*The Birds* (*Gli uccelli*, Alfred Hitchcock, 1963)](ARCHIVIO_SCENE_FILM.md#46-the-birds-gli-uccelli-alfred-hitchcock-1963)
 - [*L'uomo con la macchina da presa* (*Chelovek s kino-apparatom*, Dziga Vertov, 1929)](ARCHIVIO_SCENE_FILM.md#48-luomo-con-la-macchina-da-presa-chelovek-s-kino-apparatom-dziga-vertov-1929)
 - [*Ladri di biciclette* (*Bicycle Thieves*, Vittorio De Sica, 1948)](ARCHIVIO_SCENE_FILM.md#49-ladri-di-biciclette-bicycle-thieves-vittorio-de-sica-1948)
@@ -167,7 +167,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Dunkirk* (Christopher Nolan, 2017) / *Tenet* (Christopher Nolan, 2020)](ARCHIVIO_SCENE_FILM.md#27-dunkirk-christopher-nolan-2017-tenet-christopher-nolan-2020)
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](ARCHIVIO_SCENE_FILM.md#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille)
 - [*Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)](ARCHIVIO_SCENE_FILM.md#39-rope-nodo-alla-gola-alfred-hitchcock-1948)
-- [*Touch of Evil* (*L'infernale Quinlan*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#41-touch-of-evil-linfernale-quinlan-orson-welles-1958)
+- [*L'infernale Quinlan* (*Touch of Evil*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#41-linfernale-quinlan-touch-of-evil-orson-welles-1958)
 - [*L'uomo con la macchina da presa* (*Chelovek s kino-apparatom*, Dziga Vertov, 1929)](ARCHIVIO_SCENE_FILM.md#48-luomo-con-la-macchina-da-presa-chelovek-s-kino-apparatom-dziga-vertov-1929)
 - [*Singin' in the Rain* (*Cantando sotto la pioggia*, Stanley Donen e Gene Kelly, 1952)](ARCHIVIO_SCENE_FILM.md#52-singin-in-the-rain-cantando-sotto-la-pioggia-stanley-donen-e-gene-kelly-1952)
 - [*La regola del gioco* (*La Règle du jeu*, Jean Renoir, 1939)](ARCHIVIO_SCENE_FILM.md#58-la-regola-del-gioco-la-règle-du-jeu-jean-renoir-1939)
@@ -179,7 +179,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Taxi Driver* (Martin Scorsese, 1976)](ARCHIVIO_SCENE_FILM.md#82-taxi-driver-martin-scorsese-1976-movimento-di-macchina-e-voce-fuori-campo)
 - [*C'era una volta il West* (Sergio Leone, 1968)](ARCHIVIO_SCENE_FILM.md#91-cera-una-volta-il-west-sergio-leone-1968-durata-attesa-e-paesaggio-sonoro)
 - [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — piano-sequenza al Copacabana](ARCHIVIO_SCENE_FILM.md#93-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-il-piano-sequenza-al-copacabana)
-### Suono, dialogo e musica (17)
+### Suono, dialogo e musica (18)
 
 - [*News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)](ARCHIVIO_SCENE_FILM.md#34-news-from-home-chantal-akerman-1976-jeanne-dielman-23-quai-du-commerce-1080-bruxelles-chantal-akerman-1975)
 - [*Psycho* (Alfred Hitchcock, 1960)](ARCHIVIO_SCENE_FILM.md#38-psycho-alfred-hitchcock-1960)
@@ -199,7 +199,8 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*The Long Goodbye / Il lungo addio* (Robert Altman, 1973)](ARCHIVIO_SCENE_FILM.md#92-the-long-goodbye-il-lungo-addio-robert-altman-1973-dialoghi-sovrapposti-e-spazio-sonoro)
 - [*Close Encounters of the Third Kind / Incontri ravvicinati del terzo tipo* (Steven Spielberg, 1977)](ARCHIVIO_SCENE_FILM.md#89-close-encounters-of-the-third-kind-incontri-ravvicinati-del-terzo-tipo-steven-spielberg-1977-suono-come-linguaggio)
 - [*C'era una volta il West* (Sergio Leone, 1968)](ARCHIVIO_SCENE_FILM.md#91-cera-una-volta-il-west-sergio-leone-1968-durata-attesa-e-paesaggio-sonoro)
-### Narrazione, tempo e punto di vista (51)
+- [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962)
+### Narrazione, tempo e punto di vista (53)
 
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976)
 - [*Il Gattopardo* (Luchino Visconti, 1963)](ARCHIVIO_SCENE_FILM.md#3-il-gattopardo-luchino-visconti-1963)
@@ -225,7 +226,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](ARCHIVIO_SCENE_FILM.md#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille)
 - [*Psycho* (Alfred Hitchcock, 1960)](ARCHIVIO_SCENE_FILM.md#38-psycho-alfred-hitchcock-1960)
 - [*Breathless* (*Fino all'ultimo respiro*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-breathless-fino-allultimo-respiro-jean-luc-godard-1960)
-- [*Touch of Evil* (*L'infernale Quinlan*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#41-touch-of-evil-linfernale-quinlan-orson-welles-1958)
+- [*L'infernale Quinlan* (*Touch of Evil*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#41-linfernale-quinlan-touch-of-evil-orson-welles-1958)
 - [*The Conversation* (*La conversazione*, Francis Ford Coppola, 1974)](ARCHIVIO_SCENE_FILM.md#42-the-conversation-la-conversazione-francis-ford-coppola-1974)
 - [*Blow Out* (Brian De Palma, 1981)](ARCHIVIO_SCENE_FILM.md#43-blow-out-brian-de-palma-1981)
 - [*Rashomon* (Akira Kurosawa, 1950)](ARCHIVIO_SCENE_FILM.md#44-rashomon-akira-kurosawa-1950)
@@ -253,7 +254,8 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Ace in the Hole / L'asso nella manica* (Billy Wilder, 1951)](ARCHIVIO_SCENE_FILM.md#80-ace-in-the-hole-lasso-nella-manica-billy-wilder-1951-messa-in-scena-dello-spettacolo-mediatico)
 - [*Titanic* (James Cameron, 1997)](ARCHIVIO_SCENE_FILM.md#87-titanic-james-cameron-1997-montaggio-alternato-e-gestione-dello-spazio)
 - [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — piano-sequenza al Copacabana](ARCHIVIO_SCENE_FILM.md#93-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-il-piano-sequenza-al-copacabana)
-### Fotografia, luce e colore (12)
+- [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-2001-a-space-odyssey-stanley-kubrick-1968)
+### Fotografia, luce e colore (13)
 
 - [*Come le foglie al vento* (*Written on the Wind*, Douglas Sirk, 1956)](ARCHIVIO_SCENE_FILM.md#5-come-le-foglie-al-vento-written-on-the-wind-douglas-sirk-1956)
 - [*8½* (Federico Fellini, 1963)](ARCHIVIO_SCENE_FILM.md#8-8½-federico-fellini-1963)
@@ -274,8 +276,8 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 
 
 
-- [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962) — match cut e montaggio per associazione.
-- [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-2001-a-space-odyssey-stanley-kubrick-1968) — raccordo concettuale, ellissi e suono-ponte.
+- [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962) — raccordo concettuale, ellissi e suono-ponte.
+- [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-2001-a-space-odyssey-stanley-kubrick-1968) — match cut grafico osso-satellite ed ellissi temporale.
 - [*8½* (Federico Fellini, 1963)](ARCHIVIO_SCENE_FILM.md#8-8½-federico-fellini-1963) — soggettività e spazio mentale.
 - [*À bout de souffle / Fino all'ultimo respiro* (Jean-Luc Godard, 1960) — SCHEda DI CONFRONTO](ARCHIVIO_SCENE_FILM.md#61-à-bout-de-souffle-fino-allultimo-respiro-jean-luc-godard-1960-scheda-di-confronto) — jump cut.
 - [*Ace in the Hole / L'asso nella manica* (Billy Wilder, 1951)](ARCHIVIO_SCENE_FILM.md#80-ace-in-the-hole-lasso-nella-manica-billy-wilder-1951-messa-in-scena-dello-spettacolo-mediatico) — spettacolo mediatico e messa in scena della folla.
@@ -363,7 +365,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*The Silence of the Lambs / Il silenzio degli innocenti* (Jonathan Demme, 1991) — montaggio alternato e focalizzazione](ARCHIVIO_SCENE_FILM.md#77-the-silence-of-the-lambs-il-silenzio-degli-innocenti-jonathan-demme-1991-montaggio-alternato-e-focalizzazione) — montaggio alternato e falsa convergenza spaziale.
 - [*Titanic* (James Cameron, 1997)](ARCHIVIO_SCENE_FILM.md#87-titanic-james-cameron-1997-montaggio-alternato-e-gestione-dello-spazio) — montaggio alternato e spazio.
 - [*Tokyo Story / Viaggio a Tokyo* (Yasujirō Ozu, 1953)](ARCHIVIO_SCENE_FILM.md#57-tokyo-story-viaggio-a-tokyo-yasujirō-ozu-1953) — spazio e montaggio oltre la continuità classica.
-- [*Touch of Evil* (*L'infernale Quinlan*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#41-touch-of-evil-linfernale-quinlan-orson-welles-1958) — piano-sequenza / long take.
+- [*L'infernale Quinlan* (*Touch of Evil*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#41-linfernale-quinlan-touch-of-evil-orson-welles-1958) — piano-sequenza / long take.
 - [*Toy Story* (John Lasseter, 1995)](ARCHIVIO_SCENE_FILM.md#79-toy-story-john-lasseter-1995-macchina-da-presa-virtuale-e-scala-dello-sguardo) — macchina da presa virtuale e scala dello sguardo.
 - [*Vertigo* (Alfred Hitchcock, 1958) — Dolly zoom](ARCHIVIO_SCENE_FILM.md#72-vertigo-alfred-hitchcock-1958-dolly-zoom) — dolly zoom / travelling compensato.
 - [*WALL-E* (Andrew Stanton, 2008)](ARCHIVIO_SCENE_FILM.md#32-wall-e-andrew-stanton-2008) — *Hello, Dolly!*, musica e immagine.
@@ -394,3 +396,5 @@ Le schede sono organizzate per identificazione, indicizzazione, analisi formale,
 - [Archivio completo delle schede](ARCHIVIO_SCENE_FILM.md)
 - [Guida operativa didattica](GUIDA_OPERATIVA_DIDATTICA.md)
 - [Istruzioni permanenti](ISTRUZIONI_PROGETTO_SCENE_FILM.md)
+
+- [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962)
