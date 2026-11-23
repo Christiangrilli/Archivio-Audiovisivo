@@ -182,18 +182,25 @@ L'etichetta descrive lo stato documentale della scheda, non il valore artistico 
 
 ### Fotografia dello stato attuale (23 novembre 2026)
 
-Una ricognizione automatica delle 79 schede ha rilevato quante non presentano un campo esplicitamente etichettato con alcune voci operative. Il controllo cerca le etichette testuali: **non dimostra che il contenuto sia del tutto assente**, perché alcune schede possono esprimerlo in forma discorsiva o con un titolo diverso.
+La ricognizione dell'archivio individua **93 schede operative**. Il conteggio comprende anche schede di confronto fra più film o sequenze: non coincide quindi con il numero dei titoli cinematografici distinti. La verifica seguente cerca intestazioni esplicite e non certifica che un contenuto sia del tutto assente quando è espresso in forma discorsiva o sotto un titolo diverso.
 
-| Campo cercato | Schede senza etichetta esplicita |
-|---|---:|
-| Concetto principale | 2 |
-| Obiettivo didattico | 30 |
-| Attività | 51 |
-| Come utilizzarla in classe | 61 |
-| Domande da porre agli studenti | 62 |
-| Fonti | 47 |
+| Campo cercato | Schede con etichetta esplicita | Schede senza etichetta esplicita |
+|---|---:|---:|
+| Identificazione | 56 | 37 |
+| Analisi | 85 | 8 |
+| Obiettivo didattico | 67 | 26 |
+| Attività | 42 | 51 |
+| Domande | 60 | 33 |
+| Verifica formativa | 6 | 87 |
+| Collegamenti | 58 | 35 |
+| Fonti | 48 | 45 |
+| Stato della scheda | 16 | 77 |
 
-Questo dato suggerisce che la revisione non debba concentrarsi soltanto sull'aggiunta di nuove scene. La priorità è rendere le schede esistenti più omogenee e operative. In particolare, le schede più datate costituiscono il primo gruppo da integrare; le schede più recenti sono una base più vicina al formato di lavoro, ma vanno comunque verificate caso per caso.
+Fra le 16 schede con uno stato esplicito, **15 sono DA COMPLETARE e 1 è DA VERIFICARE; nessuna è contrassegnata PRONTA**. Le altre 77 non hanno ancora un'etichetta di stato: non vanno considerate automaticamente pronte. In particolare, l'assenza di una sezione autonoma di verifica formativa è una lacuna ricorrente.
+
+Il controllo è documentale, non una valutazione qualitativa automatica: una scheda può contenere un'attività o una verifica senza usare l'intestazione prevista. La revisione deve quindi procedere leggendo le schede, non limitandosi a uniformare le etichette.
+
+Il dato conferma che la priorità non è aggiungere altri film, ma completare l'apparato didattico delle schede esistenti, assegnare a ciascuna uno stato motivato e controllare i frammenti sulle copie effettivamente disponibili.
 
 ## 10. Distinzioni terminologiche da mantenere
 
