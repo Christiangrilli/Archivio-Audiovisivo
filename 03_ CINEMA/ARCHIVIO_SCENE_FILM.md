@@ -2583,17 +2583,76 @@ A conclusione, spiegano in un breve testo perché non è sufficiente parlare gen
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Esempio:** variazione della temperatura colore.
-- **Concetto principale:** luce e temperatura colore.
-- **Concetti secondari:** atmosfera, cromatismo, percezione.
-- **Tag:** #luce #colore #messa-in-scena
+- **Sequenza:** apertura del film, dal buio della cavità e dal movimento della macchina da presa verso l'esterno fino alla rivelazione del campo di grano, dei bambini e del paesaggio estivo.
+- **Concetto principale:** contrasto cromatico e luminoso fra spazio chiuso e paesaggio aperto.
+- **Concetti secondari:** punto di vista infantile, altezza della macchina da presa, chiaroscuro, esposizione, profondità, movimento, colore, paesaggio sonoro.
+- **Tag:** #luce #colore #spazio #punto-di-vista #movimento-di-macchina #messa-in-scena
 - **Livello:** Base / Intermedio.
-- **Uso:** introduzione alla fotografia cinematografica.
+- **Uso consigliato:** introdurre il rapporto fra luce, colore e punto di vista, osservando come il paesaggio venga percepito attraverso lo sguardo di un bambino.
+- **Stato:** **DA COMPLETARE** — verificare la delimitazione dell'apertura e il passaggio fra buio della cavità e paesaggio esterno sulla copia scelta.
+
+### Contesto essenziale
+Il film è ambientato nell'estate del 1978 in un piccolo paese del Sud Italia. Michele e gli altri bambini trascorrono le giornate correndo per le campagne. L'apertura introduce il contrasto fra il mondo luminoso e apparentemente libero dei campi e lo spazio buio e nascosto della cavità in cui si trova Filippo, il bambino rapito. La differenza fra i due ambienti anticipa il conflitto che Michele dovrà affrontare.
+
+### Analisi formale
+L'apertura costruisce un passaggio netto fra due condizioni visive. Il buio della cavità limita inizialmente la quantità di informazioni disponibili: lo spettatore percepisce uno spazio chiuso, difficile da decifrare, prima che la macchina da presa si muova verso la luce e riveli il paesaggio esterno. Il campo di grano appare luminoso, caldo e aperto; il cielo azzurro e la distesa gialla producono un'immagine di estate e libertà che contrasta con l'oscurità del nascondiglio.
+
+Il contrasto non va descritto genericamente come «temperatura colore» senza misurazioni o riferimenti tecnici. Ciò che è direttamente osservabile è la differenza fra dominanti cromatiche, livelli di luminosità, rapporto fra zone in luce e in ombra e quantità di spazio visibile. Il giallo dei campi, l'azzurro del cielo e il buio della cavità organizzano una polarità visiva fra apertura e chiusura, protezione e minaccia.
+
+La macchina da presa tende a mantenersi a un'altezza vicina a quella dei bambini. Questa scelta colloca lo spettatore in una posizione percettiva prossima a Michele e rende il paesaggio proporzionato alla sua esperienza. Il mondo degli adulti non viene assunto come punto di vista dominante: la narrazione si sviluppa attraverso ciò che il bambino può vedere, capire o immaginare.
+
+La differenza fra esterno e interno non è soltanto cromatica. Il campo aperto offre profondità e possibilità di movimento; la cavità è uno spazio ristretto, con una luce limitata e una visibilità parziale. Il film utilizza quindi la fotografia e la composizione per rendere percepibile la differenza fra il mondo quotidiano di Michele e il segreto che si nasconde sotto la superficie del paesaggio.
+
+### Evidenze da far osservare
+1. Da quale condizione luminosa parte la sequenza e come cambia quando si raggiunge l'esterno.
+2. Quali colori dominano il campo e il cielo.
+3. Quali dettagli restano invisibili nella cavità e diventano leggibili soltanto dopo il passaggio alla luce.
+4. A quale altezza si trova la macchina da presa rispetto ai bambini.
+5. Come cambiano profondità e possibilità di movimento fra spazio chiuso e paesaggio aperto.
+6. Quali suoni accompagnano il passaggio fra i due ambienti.
+
+### Perché è didatticamente utile
+La sequenza è adatta per introdurre la fotografia cinematografica attraverso elementi osservabili: luce, colore, contrasto, profondità e altezza della macchina da presa. Permette inoltre di mostrare che il punto di vista non dipende soltanto dalla soggettiva ottica, ma anche dalla posizione fisica da cui il film osserva il mondo.
 
 ### Obiettivo didattico
-Saper osservare la dominante cromatica di una scena e formulare ipotesi sulla sua funzione espressiva senza ridurla a un simbolismo automatico.
+Al termine dell'attività, lo studente sa descrivere il contrasto luminoso e cromatico fra due ambienti, riconoscere la funzione dell'altezza della macchina da presa e spiegare come la fotografia contribuisca a costruire il punto di vista infantile.
 
----
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare l'apertura senza introdurre il concetto di contrasto cromatico. Chiedere agli studenti di descrivere le sensazioni prodotte dal passaggio dal buio alla luce.
+2. **Analisi cromatica:** individuare i colori dominanti nei due ambienti e descrivere il rapporto fra giallo dei campi, azzurro del cielo e oscurità della cavità.
+3. **Analisi della luce:** confrontare le informazioni visibili nello spazio chiuso e in quello aperto.
+4. **Punto di vista:** osservare l'altezza della macchina da presa e confrontarla con una ripresa dall'alto o dall'altezza di un adulto.
+5. **Rielaborazione:** fotografare lo stesso luogo in due condizioni di luce differenti, cercando di mantenere costante l'inquadratura e annotando le differenze di colore e contrasto.
+
+### Domande per gli studenti
+1. Perché il film comincia con uno spazio buio e poi mostra il campo luminoso?
+2. Quali colori dominano il paesaggio esterno?
+3. In che modo il contrasto fra cavità e campo anticipa il conflitto narrativo?
+4. Perché la macchina da presa si mantiene spesso all'altezza dei bambini?
+5. Qual è la differenza fra descrivere una dominante cromatica e misurare tecnicamente la temperatura colore?
+
+### Verifica formativa
+Gli studenti scelgono due fotogrammi, uno della cavità e uno del paesaggio esterno, e li annotano indicando:
+- colori dominanti;
+- rapporto fra luce e ombra;
+- livello di dettaglio visibile;
+- profondità dello spazio;
+- altezza della macchina da presa;
+- effetto percettivo prodotto.
+
+**Criteri:** descrizione precisa delle differenze, uso corretto del lessico fotografico, distinzione fra osservazione e interpretazione, capacità di collegare luce e colore al punto di vista.
+
+### Collegamenti
+- **Contrasto luce/buio:** *Blade Runner* — chiaroscuro e costruzione dello spazio.
+- **Punto di vista infantile:** *E.T. l'extra-terrestre* — rapporto fra spettatore e percezione del bambino.
+- **Spazio aperto e chiuso:** *Shining* — corridoi, ambienti e percezione dello spazio.
+- **Colore e paesaggio:** *C'era una volta il West* — luce, paesaggio e attesa.
+
+### Fonti e riferimenti
+- Cineforum G. Verdi, «Io non ho paura», scheda di analisi del film, 2003. Descrive il contrasto fra giallo dei campi, azzurro del cielo e oscurità del pozzo, oltre alla scelta di mantenere la macchina da presa all'altezza dei bambini: https://www.cineverdi.it/assets/files/reviews/2366-io-non-ho-paura.pdf
+- Cinematografo, «Io non ho paura», scheda critica e tecnica. Riporta la fotografia di Italo Petriccione e il contrasto fra luce abbagliante del campo e buio del nascondiglio: https://www.cinematografo.it/film/io-non-ho-paura-x6oy1niz
+- Roberto Nepoti, recensione di *Io non ho paura*, *la Repubblica*, 9 febbraio 2003, riprodotta in una rassegna stampa del film, per il punto di vista ad altezza di bambino: https://www.mymovies.it/film/2003/iononhopaura/rassegnastampa/6421/
+- Gabriele Salvatores, intervista a *Cineuropa*, 8 febbraio 2003, sul paesaggio estivo e sul punto di vista del bambino: https://cineuropa.org/en/film/18285/rl/1/en/interview/52574/
 
 ## 29. *Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)
 [↑ Torna all'indice](#indice-interattivo)
