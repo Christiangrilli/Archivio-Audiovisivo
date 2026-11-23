@@ -191,14 +191,14 @@ La ricognizione dell'archivio individua **93 schede operative**. Le prime 34 sch
 | Obiettivo didattico | 74 | 19 |
 | Attività | 42 | 51 |
 | Domande | 87 | 6 |
-| Verifica formativa | 63 | 30 |
+| Verifica formativa | 60 | 33 |
 | Collegamenti | 83 | 10 |
 | Fonti | 80 | 13 |
-| Stato della scheda | 63 | 30 |
+| Stato della scheda | 60 | 33 |
 
-Fra le 63 schede con uno stato esplicito, **62 sono DA COMPLETARE e 1 è DA VERIFICARE; nessuna è contrassegnata PRONTA**. Le altre 30 non hanno ancora un'etichetta di stato: non vanno considerate automaticamente pronte. La verifica formativa è presente con un'intestazione esplicita in 63 schede, mentre 30 ne sono ancora prive.
+Fra le 60 schede con uno stato esplicito, **59 sono DA COMPLETARE e 1 è DA VERIFICARE; nessuna è contrassegnata PRONTA**. Le altre 33 non hanno ancora un'etichetta di stato: non vanno considerate automaticamente pronte. La verifica formativa è presente con un'intestazione esplicita in 60 schede, mentre 33 ne sono ancora prive.
 
-Il controllo è documentale, non una valutazione qualitativa automatica: una scheda può contenere un'attività o una verifica senza usare l'intestazione prevista. Le 63 verifiche esplicite comprendono anche quelle aggiunte e riformulate durante la revisione delle schede 1–34, 38, 39, 40, 41, 42 e 45. La revisione deve quindi procedere leggendo le schede, non limitandosi a uniformare le etichette.
+Il controllo è documentale, non una valutazione qualitativa automatica: una scheda può contenere un'attività o una verifica senza usare l'intestazione prevista. Le 60 verifiche esplicite comprendono anche quelle aggiunte e riformulate durante la revisione delle schede 1–34, 38, 39, 40, 41, 42 e 45. La revisione deve quindi procedere leggendo le schede, non limitandosi a uniformare le etichette.
 
 Il dato conferma che la priorità non è aggiungere altri film, ma completare l'apparato didattico delle schede esistenti, assegnare a ciascuna uno stato motivato e controllare i frammenti sulle copie effettivamente disponibili.
 
