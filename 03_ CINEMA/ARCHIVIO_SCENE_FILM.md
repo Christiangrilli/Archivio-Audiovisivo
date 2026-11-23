@@ -17,6 +17,22 @@ L'archivio può essere interrogato secondo due direzioni:
 
 Quando una scena viene inserita nell'archivio, il concetto principale deve essere distinto dai concetti secondari. Questo permette di individuare successivamente gli esempi più pertinenti per una specifica lezione.
 
+
+### Guida operativa per la progettazione delle lezioni
+
+Per trasformare una scheda in una lezione completa, consulta la [Guida operativa didattica](GUIDA_OPERATIVA_DIDATTICA.md). Contiene:
+
+- protocollo di visione attiva in più passaggi;
+- struttura di una lezione da 50–60 minuti;
+- criteri per scegliere e contestualizzare i frammenti;
+- obiettivi osservabili, attività e valutazione formativa;
+- accorgimenti per accessibilità e inclusione;
+- progressione didattica orientativa nel quinquennio;
+- modello standard per le nuove schede;
+- criteri di qualità e distinzioni terminologiche.
+
+**Nota sullo stato dell'archivio:** le schede non sono tutte ugualmente complete. La presenza di una scena nell'indice non significa automaticamente che sia pronta per essere proiettata e utilizzata senza ulteriore preparazione. Le schede vanno progressivamente verificate e integrate secondo il sistema PRONTA / DA COMPLETARE / DA VERIFICARE descritto nella guida.
+
 ---
 
 # INDICE INTERATTIVO
