@@ -2284,20 +2284,79 @@ Aggiungono una breve spiegazione del motivo per cui la scena può essere letta s
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scene/esempi:** inquadrature caratterizzate da simmetria, punto di fuga e organizzazione geometrica dello spazio.
-- **Concetto principale:** composizione geometrica.
-- **Concetti secondari:** prospettiva, simmetria, profondità, spazio perturbante.
-- **Tag:** #composizione #spazio #messa-in-scena #inquadratura
+- **Sequenza:** Danny percorre in triciclo i corridoi e gli ambienti del piano terra dell'Overlook Hotel, seguito da una macchina da presa posta a pochi centimetri dal pavimento.
+- **Concetto principale:** movimento di macchina e costruzione percettiva dello spazio.
+- **Concetti secondari:** Steadicam, prospettiva centrale, profondità, simmetria, punto di vista non attribuibile, paesaggio sonoro, suspense, spazio labirintico.
+- **Tag:** #composizione #spazio #movimento-di-macchina #steadicam #suono #punto-di-vista #suspense
 - **Livello:** Base / Intermedio.
-- **Uso:** analisi della composizione.
+- **Uso consigliato:** analizzare come il movimento della macchina da presa e il suono possano trasformare un corridoio quotidiano in uno spazio minaccioso.
+- **Stato:** **DA COMPLETARE** — verificare il segmento completo del primo percorso in triciclo e distinguere i diversi ambienti attraversati.
 
-### Analisi
-La geometria degli spazi dell'Overlook Hotel rende immediatamente leggibili assi, simmetrie e punti di fuga. La regolarità formale può essere messa in relazione con l'effetto perturbante prodotto dalla situazione narrativa.
+### Contesto essenziale
+Dopo l'arrivo della famiglia Torrance all'Overlook Hotel, Danny comincia a esplorare i corridoi con il suo triciclo. La macchina da presa lo segue da vicino, attraversando la hall, i corridoi e le superfici differenti del pavimento. La scena non presenta ancora un pericolo esplicito, ma introduce l'hotel come uno spazio complesso, nel quale ogni svolta può nascondere qualcosa.
+
+### Analisi formale
+La macchina da presa è collocata molto in basso, a pochi centimetri dal pavimento, e segue Danny con una Steadicam. Il movimento è fluido e stabile, ma la posizione dell'obiettivo è insolita: lo spettatore si trova vicino al livello del bambino e attraversa il corridoio insieme a lui. L'inquadratura mantiene Danny al centro o in prossimità del centro del quadro, mentre le linee prospettiche dell'architettura convergono verso il punto di fuga e accentuano la profondità.
+
+La macchina da presa non coincide perfettamente con una soggettiva ottica di Danny. Lo segue da una posizione ravvicinata, ma mostra il bambino dall'esterno e sembra possedere una mobilità autonoma. La sequenza crea così un punto di vista inquietante: siamo vicini al personaggio, ma non è chiaro chi o che cosa sostenga lo sguardo che lo accompagna. Il corridoio sembra essere osservato da una presenza che non si identifica con un personaggio visibile.
+
+Il suono delle ruote del triciclo cambia a seconda della superficie. Sul pavimento duro produce un rumore netto e ritmico; sul tappeto il suono si attenua quasi completamente. Il passaggio fra legno e moquette crea una struttura sonora ripetuta, che rende percepibile la materialità dello spazio e accompagna il movimento. La variazione del suono non è un dettaglio accessorio: contribuisce a far percepire le dimensioni e le caratteristiche degli ambienti.
+
+La sequenza alterna spazi ampi e corridoi più stretti. La prospettiva centrale e la ripetizione delle porte rendono leggibile la geometria dell'hotel, ma la continuità del percorso produce anche una sensazione di labirinto. La macchina da presa mostra progressivamente gli ambienti e, a ogni svolta, trattiene per un istante l'informazione su ciò che si trova oltre l'angolo. La suspense nasce dall'attesa di ciò che potrebbe apparire, anche quando non accade nulla.
+
+La scena è quindi un esempio di come il movimento di macchina possa costruire lo spazio senza bisogno di un montaggio rapido. La fluidità della Steadicam non rassicura: proprio perché lo sguardo continua a seguire Danny, lo spettatore percepisce l'hotel come un ambiente che osserva e accompagna il bambino.
+
+### Evidenze da far osservare
+1. A quale altezza si trova la macchina da presa rispetto al pavimento e al triciclo.
+2. Come le linee prospettiche dei corridoi conducono verso il punto di fuga.
+3. Quali differenze si notano fra ambienti ampi e corridoi stretti.
+4. Come cambia il suono delle ruote quando Danny passa dal legno al tappeto.
+5. Quali informazioni vengono trattenute prima che il triciclo svolti un angolo.
+6. Perché il punto di vista della macchina da presa non coincide del tutto con quello ottico di Danny.
+
+### Perché è didatticamente utile
+La sequenza permette di studiare insieme movimento di macchina, prospettiva e suono. Gli studenti possono verificare come la posizione dell'obiettivo condizioni la percezione dello spazio e come un elemento sonoro ripetuto possa rendere riconoscibile la superficie attraversata. È inoltre un esempio efficace per discutere la differenza fra soggettiva ottica e punto di vista mobile non attribuibile.
 
 ### Obiettivo didattico
-Comprendere come la composizione geometrica possa contribuire non solo alla leggibilità dello spazio, ma anche alla costruzione di un'atmosfera.
+Al termine dell'attività, lo studente sa descrivere il movimento della Steadicam, riconoscere la prospettiva centrale e spiegare come posizione della macchina da presa, geometria dei corridoi e variazioni del suono costruiscano una sensazione di suspense.
 
----
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare la sequenza senza anticipare la funzione della Steadicam. Chiedere agli studenti di descrivere da quale altezza sembra muoversi la macchina da presa.
+2. **Analisi dello spazio:** disegnare una pianta semplificata del percorso di Danny e segnare le svolte e i diversi ambienti.
+3. **Analisi prospettica:** fermare alcuni fotogrammi e individuare linee convergenti, punto di fuga e simmetrie.
+4. **Ascolto:** far riascoltare il frammento e segnare i passaggi fra superfici dure e tappeti, distinguendo il rumore delle ruote dalla musica.
+5. **Analisi del punto di vista:** discutere se la macchina da presa rappresenti lo sguardo di Danny o una presenza esterna che lo segue.
+6. **Rielaborazione:** realizzare un breve tracking shot a bassa altezza in un corridoio scolastico, registrando il cambiamento del suono fra pavimento e tappeto.
+
+### Domande per gli studenti
+1. Perché la macchina da presa viene collocata così vicino al pavimento?
+2. Quale effetto produce la prospettiva centrale?
+3. La macchina da presa vede ciò che vede Danny oppure lo segue dall'esterno?
+4. Come cambia il suono quando il triciclo passa dal legno al tappeto?
+5. Perché una sequenza in cui non accade nulla di minaccioso può comunque produrre suspense?
+
+### Verifica formativa
+Gli studenti realizzano una mappa del percorso e un'annotazione di tre fotogrammi. Devono indicare:
+- altezza e posizione della macchina da presa;
+- direzione del movimento;
+- linee prospettiche e punto di fuga;
+- superficie attraversata;
+- caratteristica del suono;
+- effetto percettivo prodotto.
+
+**Criteri:** precisione nella descrizione del movimento, riconoscimento della prospettiva, distinzione fra soggettiva e punto di vista, capacità di collegare suono e spazio.
+
+### Collegamenti
+- **Prospettiva centrale e geometria:** *The Grand Budapest Hotel* — composizione centrata e simmetria.
+- **Movimento di macchina e suspense:** *Lo squalo* — punto di vista subacqueo e minaccia fuori campo.
+- **Spazio labirintico:** *L'avventura* — disorientamento e autonomia del paesaggio.
+- **Steadicam e piano-sequenza:** *Goodfellas* — movimento continuo attraverso il Copacabana.
+
+### Fonti e riferimenti
+- Garrett Brown, «The Shining», testimonianza sulla realizzazione delle riprese con Steadicam a bassa altezza e sulla gestione del suono delle ruote: https://www.steadicamforum.com/index.php?topic=1916.0
+- Michael Koresky, «Kubrick's The Shining», *Film Comment*, per il modo in cui il tracking shot costruisce la geografia dell'hotel e trasforma lo spazio in una presenza: https://www.filmcomment.com/article/stanley-kubrick-the-shining/
+- Özge Onay, «Reading Stanley Kubrick’s The Shining Against the Backdrop of His Cinematic Expression», *CINEJ Cinema Journal*, 12, n. 1, 2024, per la funzione dello spazio, della Steadicam e del punto di vista nei corridoi: https://cinej.pitt.edu/ojs/cinej/article/download/621/747
+- Vivian Sobchack, *The Address of the Eye: A Phenomenology of Film Experience*, Princeton University Press, 1992, per la relazione fra corpo, movimento e percezione dello spettatore.
 
 ## 25. *2001: Odissea nello spazio* (Stanley Kubrick, 1968)
 [↑ Torna all'indice](#indice-interattivo)
