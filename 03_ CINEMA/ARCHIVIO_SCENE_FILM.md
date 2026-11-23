@@ -8,7 +8,7 @@ L'archivio non raccoglie semplicemente scene "significative" dal punto di vista 
 
 Le scene sono indicizzate per film, autore, concetti audiovisivi, tecniche formali, livello didattico e tipo di attività.
 
-Le schede operative sono numerate progressivamente da 1 a 93; le sezioni preliminari e le costellazioni didattiche restano fuori da questa numerazione.
+Le schede operative sono numerate progressivamente da 1 a 94; le sezioni preliminari e le costellazioni didattiche restano fuori da questa numerazione.
 
 ---
 
