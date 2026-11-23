@@ -546,72 +546,80 @@ Le indicazioni sulla durata e sul minutaggio restano volutamente non specificate
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Sequenza di riferimento:** incontro tra David Huxley e Susan Vance sul campo da golf e prime interazioni fra i due. Per un lavoro più circoscritto si può isolare il breve passaggio in cui il gesto di Susan viene ripreso attraverso un raccordo sul movimento; il punto esatto va individuato sulla copia utilizzata in classe.
-- **Concetto principale:** découpage classico e costruzione della continuità.
-- **Concetti secondari:** raccordo sul movimento (match on action), raccordo di sguardo, organizzazione dello spazio, asse d'azione, movimento di macchina, ritmo comico.
-- **Tag:** #inquadratura #montaggio #continuità #raccordo #spazio #découpage #commedia
+- **Sequenza principale:** Susan, seduta sulla scrivania del poliziotto, accende un fiammifero. Il gesto attraversa un taglio che Bordwell indica come esempio particolarmente nitido di raccordo sul movimento.
+- **Sequenza di confronto:** la scena sul campo da golf, nella quale i tagli presentano scarti di posizione e di postura fra un'inquadratura e l'altra.
+- **Concetto principale:** continuità del movimento e raccordo sul movimento (*match on action*).
+- **Concetti secondari:** continuità classica, raccordo di posizione, asse d'azione, discontinuità intenzionale, ritmo comico, attenzione dello spettatore.
+- **Tag:** #inquadratura #montaggio #continuità #raccordo-sul-movimento #spazio #découpage #commedia
 - **Livello:** Base / Intermedio.
-- **Uso consigliato:** introduzione alla continuità classica; confronto fra leggibilità spaziale e libertà del ritmo comico.
-- **Stato:** **DA COMPLETARE** — la sequenza e i passaggi da proiettare devono essere selezionati e verificati sull'edizione effettivamente disponibile; non sono indicati timecode non controllati.
+- **Uso consigliato:** introdurre il raccordo sul movimento e mostrare, attraverso il confronto interno allo stesso film, che la continuità non è una regola applicata meccanicamente.
+- **Stato:** **DA COMPLETARE** — i due frammenti devono essere individuati e delimitati sull'edizione effettivamente disponibile. Non sono indicati timecode non controllati.
 
 ### Contesto essenziale
-David Huxley è un paleontologo concentrato sul lavoro al museo; l'incontro con Susan Vance mette progressivamente in crisi la sua agenda e il suo comportamento controllato. Per l'analisi del linguaggio non è necessario riassumere l'intera trama: basta chiarire che i due personaggi si incontrano sul campo da golf e che il loro dialogo inaugura una dinamica di inseguimenti, equivoci e continui cambi di iniziativa.
+David Huxley, paleontologo concentrato sul lavoro al museo, incontra Susan Vance, il cui comportamento imprevedibile altera progressivamente i suoi programmi. Per l'analisi del linguaggio è sufficiente chiarire la situazione immediata dei due frammenti: nel primo Susan si trova nell'ufficio della polizia; nel secondo i personaggi sono sul campo da golf. Non occorre riassumere l'intera trama.
 
 ### Analisi formale
-La sequenza è utile per osservare come il découpage organizzi l'azione in una successione di inquadrature leggibili. La posizione dei personaggi, le direzioni degli sguardi e i movimenti del corpo forniscono allo spettatore indicazioni per ricostruire lo spazio e seguire lo scambio. Il raccordo sul movimento è un punto di osservazione particolarmente concreto: il gesto iniziato in un'inquadratura prosegue in quella successiva e il taglio tende così a essere percepito come continuità dell'azione.
+La scheda mette in relazione due comportamenti del montaggio all'interno dello stesso film. Nel frammento dell'ufficio, Susan, seduta sulla scrivania del poliziotto, accende un fiammifero: il gesto prosegue attraverso il taglio e lo spettatore lo percepisce come un'azione continua. David Bordwell richiama proprio questo passaggio come esempio di *match on action* ben riuscito. L'osservazione permette di spiegare che il raccordo non consiste semplicemente nel mostrare due immagini dello stesso personaggio: il movimento iniziato nella prima inquadratura trova una prosecuzione leggibile nella successiva.
 
-È importante, tuttavia, non trasformare *Susanna* in un esempio schematico di applicazione rigida delle regole. David Bordwell, commentando proprio il film, osserva che la sequenza del golf contiene anche raccordi volutamente irregolari: posizioni e posture dei personaggi possono cambiare in modo brusco da un'inquadratura all'altra. In altri passaggi Hawks realizza invece raccordi sul movimento molto precisi. Questa alternanza è didatticamente interessante: la continuità classica è un sistema di convenzioni e di aspettative, non una formula meccanica che ogni film applica senza variazioni.
+Bordwell collega il caso alla cosiddetta «regola dei due fotogrammi», secondo cui una piccola sovrapposizione del gesto fra le due inquadrature può aiutare lo spettatore ad assorbire il taglio e a percepire la continuità. È un'indicazione utile per discutere il montaggio, non una legge universale da applicare rigidamente a ogni raccordo.
 
-La comicità nasce anche dal rapporto fra chiarezza dell'azione e instabilità dei comportamenti. Lo spettatore riesce a seguire la situazione, mentre i personaggi perdono progressivamente il controllo degli eventi. Il ritmo non dipende soltanto dalla velocità dei dialoghi, ma anche dalla durata delle inquadrature, dai movimenti, dalle entrate e uscite dal quadro e dalla collocazione dei corpi nello spazio.
+La sequenza del golf offre un confronto di segno diverso. Bordwell osserva che i tagli presentano variazioni vistose: i caddie sembrano avanzare e arretrare, Susan e David appaiono in posture differenti e, in alcuni passaggi, si trovano in punti diversi del percorso. Questi scarti non impediscono necessariamente di seguire la situazione; contribuiscono invece al tono disinvolto e alla comicità della scena. Il confronto aiuta a distinguere la continuità come convenzione che orienta lo spettatore dalla possibilità di introdurre discontinuità controllate.
+
+Non bisogna quindi presentare il film come un modello di raccordi sempre perfetti. La sua utilità didattica sta proprio nell'accostamento fra un raccordo sul movimento particolarmente leggibile e una sequenza che gioca con gli scarti di continuità.
 
 ### Evidenze da far osservare
-Durante la seconda visione chiedere agli studenti di annotare soltanto elementi verificabili:
-1. dove si trovano David e Susan all'inizio del frammento e come cambia la loro posizione;
-2. in quale direzione si muovono o guardano i personaggi;
-3. se un gesto cominciato prima del taglio continua dopo il cambio d'inquadratura;
-4. quali tagli mantengono fluida l'azione e quali producono invece un piccolo scarto comico;
-5. quando il movimento della macchina da presa accompagna un personaggio o una variazione dell'azione.
+**Nel frammento dell'ufficio:**
+1. quale gesto compie Susan prima del taglio;
+2. in quale fase del gesto avviene il cambio d'inquadratura;
+3. come prosegue il movimento nella seconda inquadratura;
+4. quali elementi visivi permettono di riconoscere che si tratta della prosecuzione della stessa azione.
 
-Non assumere in anticipo che ogni passaggio rispetti l'asse o il raccordo: la verifica di eventuali scarti fa parte dell'esercizio.
+**Nel frammento del golf:**
+1. dove si trovano Susan, David e i caddie nei diversi piani;
+2. quali cambiamenti di postura o posizione si notano dopo i tagli;
+3. quali elementi restano sufficientemente stabili da mantenere comprensibile la situazione;
+4. se lo scarto produce confusione, ritmo comico o entrambe le cose.
+
+Le osservazioni vanno formulate dopo aver rivisto i frammenti: non si deve anticipare agli studenti la presenza di ogni singolo raccordo irregolare.
 
 ### Perché è didatticamente utile
-La scena permette di introdurre il découpage classico a partire da un caso concreto e, nello stesso tempo, di evitare una visione normativa del linguaggio cinematografico. Gli studenti possono riconoscere le convenzioni che rendono comprensibile lo spazio e poi accorgersi di come un regista possa giocare con quelle stesse convenzioni per produrre ritmo e comicità.
+La coppia di frammenti evita una concezione normativa del montaggio. Il primo consente di isolare un raccordo sul movimento e di descriverne il funzionamento; il secondo permette di osservare come una discontinuità possa essere tollerata, valorizzata o trasformata in effetto comico. Gli studenti imparano così a distinguere la descrizione di ciò che vedono dal giudizio secondo cui un taglio sarebbe «giusto» o «sbagliato».
 
 ### Obiettivo didattico
-Al termine dell'attività, lo studente sa descrivere la continuità spaziale di un breve scambio, individuare almeno un raccordo sul movimento o di sguardo e sostenere la propria osservazione con un elemento preciso della sequenza. Sa inoltre distinguere una discontinuità intenzionale da un errore di osservazione, motivando la risposta.
+Al termine dell'attività, lo studente sa riconoscere e descrivere un raccordo sul movimento, individuando il gesto che attraversa il taglio. Sa inoltre confrontarlo con almeno uno scarto di continuità, spiegando quali informazioni permettono comunque di seguire l'azione e quale effetto espressivo può produrre la discontinuità.
 
 ### Come utilizzarla in classe
-1. **Prima visione:** proiettare il frammento senza interromperlo e chiedere agli studenti di descrivere che cosa accade, senza introdurre subito i nomi delle tecniche.
-2. **Seconda visione:** concentrarsi sulle posizioni dei personaggi e sui gesti che attraversano il taglio.
-3. **Mappa dello spazio:** ricostruire con uno schema semplice la posizione relativa dei personaggi e le direzioni dei loro movimenti e sguardi.
-4. **Analisi del montaggio:** individuare un raccordo che rende fluida l'azione e, se presente nel frammento scelto, un taglio che introduce uno scarto comico.
-5. **Rielaborazione:** chiedere agli studenti di disegnare uno storyboard di 4–6 inquadrature per la stessa azione, mantenendo la continuità; in una seconda versione possono introdurre uno scarto controllato e spiegare quale effetto produce.
+1. **Prima visione:** mostrare il frammento dell'ufficio senza anticipare il concetto. Chiedere agli studenti di descrivere il gesto di Susan e il momento in cui cambia l'inquadratura.
+2. **Seconda visione:** fermarsi subito dopo il taglio e chiedere che cosa è cambiato e che cosa è rimasto continuo.
+3. **Scomposizione:** ricostruire il gesto in tre momenti — prima del taglio, durante il taglio, dopo il taglio — usando fotogrammi o disegni.
+4. **Confronto:** mostrare il frammento del golf e invitare gli studenti a individuare gli scarti di posizione e postura, senza chiamarli automaticamente errori.
+5. **Rielaborazione:** chiedere di progettare due versioni di una breve azione: una montata per mantenere la continuità e una con uno scarto intenzionale che produca un effetto comico o di sorpresa.
 
 ### Domande per gli studenti
-1. Quali informazioni ci permettono di capire dove si trovano i personaggi?
-2. Che cosa cambia fra un'inquadratura e la successiva: posizione, direzione dello sguardo, gesto o distanza?
-3. Individua un gesto che continua attraverso un taglio: che cosa rende leggibile il raccordo?
-4. Tutti i tagli mantengono la stessa fluidità? Se noti uno scarto, quale effetto produce sul ritmo o sulla comicità?
-5. In che modo la chiarezza dello spazio contribuisce a rendere comprensibile una situazione sempre più caotica?
+1. Quale gesto attraversa il taglio nel frammento dell'ufficio?
+2. Che cosa permette di percepire le due inquadrature come momenti della stessa azione?
+3. Nel frammento del golf, quali elementi cambiano in modo evidente da un'inquadratura all'altra?
+4. Perché uno scarto di continuità non coincide necessariamente con un errore?
+5. Quale differenza di effetto si produce fra il raccordo fluido dell'ufficio e i tagli irregolari del golf?
 
 ### Verifica formativa
-Consegnare agli studenti una breve sequenza di 4–6 fotogrammi, oppure uno storyboard ricavato dal frammento. Chiedere di:
-- descrivere l'ordine dell'azione;
-- riconoscere un raccordo sul movimento o di sguardo;
-- indicare un elemento che permette di ricostruire lo spazio;
-- spiegare in 3–5 righe l'effetto di un taglio particolarmente evidente.
+Consegnare agli studenti una coppia di brevi serie di fotogrammi, una relativa al gesto del fiammifero e una alla sequenza del golf. Chiedere di:
+- indicare il punto in cui avviene il taglio;
+- descrivere il movimento che continua nella seconda inquadratura;
+- segnalare un eventuale scarto di posizione o postura nella seconda serie;
+- spiegare in poche righe la differenza fra raccordo sul movimento e discontinuità intenzionale.
 
-**Criteri:** correttezza del lessico essenziale, precisione descrittiva, uso di evidenze visive, coerenza fra osservazione e interpretazione.
+**Criteri:** uso corretto dei termini essenziali, precisione nell'individuazione del gesto, capacità di descrivere ciò che cambia e ciò che resta stabile, distinzione fra osservazione e interpretazione.
 
 ### Collegamenti
 - **Continuità classica:** *Ombre rosse* (*Stagecoach*) — organizzazione dello spazio d'azione e raccordi.
-- **Rottura delle convenzioni:** *Fino all'ultimo respiro* (*À bout de souffle*) — discontinuità e jump cut.
+- **Discontinuità e montaggio visibile:** *Fino all'ultimo respiro* (*À bout de souffle*) — jump cut e discontinuità temporale.
 - **Continuità apparente:** *Rope* (*Nodo alla gola*) — durata, movimento di macchina e tagli mascherati.
-- **Approfondimento sul raccordo:** *His Girl Friday* — ritmo dialogico e organizzazione dei corpi nello spazio.
+- **Ritmo dialogico e messa in scena:** *La signora del venerdì* (*His Girl Friday*) — organizzazione dei corpi, dei dialoghi e delle entrate in campo.
 
 ### Fonti e riferimenti
-- David Bordwell, «Observations on film art: Hawks’ eyes», 2008, analisi dei raccordi sul movimento in *Bringing Up Baby* e delle discontinuità presenti nella sequenza del golf: https://www.davidbordwell.net/blog/2008/05/
-- Museum of Modern Art (MoMA), «Howard Hawks’s Bringing Up Baby», 1 marzo 2011, inquadramento del film e della poetica comica di Hawks: https://www.moma.org/explore/inside_out/2011/03/01/howard-hawkss-bringing-up-baby/
+- David Bordwell, «Some cuts I have known and loved», *Observations on Film Art*, 26 maggio 2008. Bordwell distingue il raccordo sul movimento di Susan che accende un fiammifero sulla scrivania del poliziotto dai tagli volutamente irregolari della sequenza del golf: https://www.davidbordwell.net/blog/2008/05/26/some-cuts-i-have-known-and-loved/
+- David Bordwell, «Graphic content ahead», *Observations on Film Art*, 25 maggio 2011. Ulteriori esempi di discontinuità di azione, posizione e ambientazione in *Bringing Up Baby*: https://www.davidbordwell.net/blog/2011/05/25/graphic-content-ahead/
 - David Bordwell, Janet Staiger e Kristin Thompson, *The Classical Hollywood Cinema: Film Style & Mode of Production to 1960*, Columbia University Press, 1985, per il quadro storico e teorico del découpage e della continuità classica.
 
 ## 2. *Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)
