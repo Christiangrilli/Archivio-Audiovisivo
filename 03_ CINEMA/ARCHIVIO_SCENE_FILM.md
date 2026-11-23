@@ -2972,17 +2972,76 @@ A conclusione, spiegano come *Hello, Dolly!* diventi un modello di comportamento
 - Ben Burtt, «WALL-E – The Definitive Interview», *Designing Sound*, 2009, sulla costruzione della voce e dei suoni dei robot: https://designingsound.org/2009/09/ben-burtt-special-wall-e-the-definitive-interview/
 - Robin S. Beauchamp, *Designing Sound for Animation*, Focal Press, per l'analisi della prima parte del film e del racconto audiovisivo costruito senza dialoghi.
 
-## 33. *The Quiet Man* (John Ford, 1952) / *E.T. l'extra-terrestre* (Steven Spielberg, 1982)
+## 33. *Un uomo tranquillo* (*The Quiet Man*, John Ford, 1952) / *E.T. l'extra-terrestre* (*E.T. the Extra-Terrestrial*, Steven Spielberg, 1982)
 [↑ Torna all'indice](#indice-interattivo)
 
-### Concetto principale
-- **Citazione e intertestualità.**
-- **Concetti secondari:** omaggio, riscrittura, memoria cinematografica.
+### Identificazione
+- **Primo esempio:** il frammento di *The Quiet Man* che E.T. guarda sul televisore, nel quale Sean Thornton (John Wayne) e Mary Kate Danaher (Maureen O'Hara) si baciano.
+- **Secondo esempio:** la sequenza della lezione di scienze in *E.T.*, in cui Elliott bacia una compagna mentre il montaggio alterna la sua azione alla visione del film da parte di E.T.
+- **Concetto principale:** citazione audiovisiva e intertestualità narrativa.
+- **Concetti secondari:** film nel film, musica diegetica, montaggio alternato, imitazione del gesto, memoria cinematografica, relazione fra immagine e comportamento.
+- **Tag:** #intertestualità #citazione #montaggio #musica #diegetico #narrazione
+- **Livello:** Base / Intermedio.
+- **Uso consigliato:** mostrare come un film precedente possa diventare un modello visivo e comportamentale per un personaggio di un altro film.
+- **Stato:** **DA COMPLETARE** — delimitare il frammento di *The Quiet Man* effettivamente mostrato sul televisore e verificare i passaggi di montaggio nella sequenza di *E.T.*
 
-### Uso didattico
-Le due scene possono essere presentate in successione per chiedere agli studenti di individuare quali elementi della situazione vengono ripresi e quali vengono trasformati. Il confronto permette di distinguere una semplice somiglianza da una citazione intenzionale.
+### Analisi comparativa
+In *E.T.* il frammento di *The Quiet Man* non è una semplice citazione per spettatori cinefili. È un'immagine che appartiene al mondo narrativo e che viene guardata da E.T. sul televisore. Il film di John Ford è quindi un film nel film: la sua immagine è inserita nella storia e diventa parte dell'esperienza del personaggio.
 
----
+Il gesto del bacio assume una funzione narrativa precisa. E.T. osserva Sean e Mary Kate e interpreta il contatto fisico come un segno di relazione. Il montaggio collega la scena televisiva all'azione di Elliott in classe: il ragazzo bacia una compagna mentre E.T. segue il film. L'accostamento suggerisce che il gesto visto sullo schermo viene trasmesso al comportamento di Elliott attraverso il legame telepatico fra i due.
+
+La citazione opera quindi su due livelli. Sul piano intertestuale, Spielberg richiama un film di John Ford e rende visibile la memoria del cinema classico all'interno di un film contemporaneo. Sul piano narrativo, il frammento di Ford diventa un modello che il personaggio utilizza per comprendere un comportamento umano. La citazione non è soltanto un omaggio: produce un effetto sulla storia.
+
+È utile distinguere il frammento diegetico dal resto della colonna sonora. Le immagini di *The Quiet Man* vengono riprodotte dal televisore e sono quindi parte dello spazio narrativo; il montaggio di *E.T.* alterna quel frammento con l'azione scolastica, creando una relazione fra due spazi e due tempi di visione. Il gesto del bacio funziona come elemento di raccordo e di corrispondenza.
+
+### Evidenze da far osservare
+1. Come viene introdotto il televisore nella scena di *E.T.*
+2. Quale gesto viene mostrato nel frammento di *The Quiet Man*.
+3. Quando il montaggio passa dal televisore alla classe.
+4. Quali elementi del gesto vengono ripresi da Elliott.
+5. Come la musica e il montaggio collegano le due situazioni.
+6. Quale funzione narrativa assume la citazione per E.T.
+
+### Perché è didatticamente utile
+Il confronto permette di spiegare la differenza fra citazione e somiglianza casuale. Gli studenti possono osservare che il film precedente non viene soltanto richiamato per creare un riferimento culturale: è inserito nella diegesi e diventa un elemento che modifica il comportamento dei personaggi. È inoltre un caso semplice per introdurre il film nel film e l'intertestualità.
+
+### Obiettivo didattico
+Al termine dell'attività, lo studente sa riconoscere una citazione cinematografica, distinguere il film nel film dalla narrazione principale e spiegare come il montaggio colleghi un gesto mostrato sul televisore a un'azione compiuta da un personaggio.
+
+### Come utilizzarla in classe
+1. Mostrare il frammento di *The Quiet Man* senza spiegare subito che sarà ripreso da *E.T.*
+2. Chiedere agli studenti di descrivere il gesto e la relazione fra i due personaggi.
+3. Mostrare la sequenza di *E.T.* e individuare il momento in cui il film di Ford appare sul televisore.
+4. Ricostruire il montaggio alternato fra televisore e classe.
+5. Discutere come la citazione diventi un modello di comportamento per E.T. ed Elliott.
+6. Chiedere agli studenti di individuare un'altra citazione cinematografica che svolga una funzione narrativa e non soltanto decorativa.
+
+### Domande per gli studenti
+1. Perché Spielberg inserisce proprio *The Quiet Man* nel televisore di E.T.?
+2. Quale gesto viene ripreso da Elliott?
+3. Qual è la differenza fra una citazione visiva e una citazione che modifica il comportamento di un personaggio?
+4. In che modo il montaggio rende comprensibile il legame fra E.T. ed Elliott?
+5. La conoscenza di *The Quiet Man* è necessaria per comprendere la scena oppure ne arricchisce il significato?
+
+### Verifica formativa
+Gli studenti realizzano una breve scheda comparativa con due fotogrammi:
+- uno tratto da *The Quiet Man*;
+- uno tratto da *E.T.*
+
+Indicano il gesto comune, il contesto narrativo di ciascuna immagine e la funzione della citazione nel film di Spielberg. Aggiungono una breve spiegazione del ruolo del televisore e del montaggio.
+
+**Criteri:** riconoscimento della citazione, distinzione fra i due livelli narrativi, individuazione del gesto ripreso, capacità di spiegare la funzione della citazione.
+
+### Collegamenti
+- **Film nel film:** *The Fabelmans* — immagini cinematografiche che influenzano la vita del protagonista.
+- **Intertestualità musicale:** *WALL-E* — *Hello, Dolly!* come modello di relazione.
+- **Montaggio alternato:** *E.T.* — scuola e casa come linee d'azione collegate.
+- **Memoria cinematografica:** *Nuovo Cinema Paradiso* — il cinema come archivio di immagini e gesti.
+
+### Fonti e riferimenti
+- American Film Institute, *AFI Catalog*, scheda di *The Quiet Man* (1952), per i dati del film e il contesto della relazione fra Sean e Mary Kate: https://catalog.afi.com/Film/50192-THE-QUIET-MAN
+- American Film Institute, *AFI Catalog*, scheda di *E.T. the Extra-Terrestrial* (1982), per la sequenza scolastica e il riferimento a *The Quiet Man*: https://catalog.afi.com/Film/56678-E-T-THEEXTRATERRESTRIAL
+- Steven Spielberg, commento audio al DVD di *E.T. the Extra-Terrestrial*, per la funzione della scena di *The Quiet Man* e il collegamento fra il bacio sul televisore e il comportamento di Elliott.
 
 ## 34. *News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)
 [↑ Torna all'indice](#indice-interattivo)
