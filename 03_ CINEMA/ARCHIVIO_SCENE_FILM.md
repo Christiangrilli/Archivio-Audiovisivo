@@ -2816,17 +2816,80 @@ Gli studenti ricostruiscono la sequenza in una tabella a due colonne e annotano:
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Esempio:** alternanza fra diverse linee narrative.
-- **Concetto principale:** montaggio parallelo.
-- **Concetti secondari:** temporalità, narrazione, alternanza, spettacolo.
-- **Tag:** #montaggio-parallelo #montaggio #narrazione #tempo
-- **Livello:** Avanzato.
-- **Uso:** storia del montaggio.
+- **Sequenza:** il montaggio conclusivo, in cui le quattro linee narrative — Babilonia, la Giudea al tempo di Cristo, la Francia del massacro di San Bartolomeo e la vicenda contemporanea — vengono alternate con ritmo progressivamente più serrato.
+- **Concetto principale:** montaggio parallelo tematico e costruzione di una simultaneità concettuale.
+- **Concetti secondari:** linee narrative multiple, ellissi, accelerazione del ritmo, motivo ricorrente della culla, raccordi associativi, montaggio alternato, climax.
+- **Tag:** #montaggio #montaggio-parallelo #narrazione #ritmo #ellissi #storia-del-cinema
+- **Livello:** Intermedio / Avanzato.
+- **Uso consigliato:** distinguere il montaggio alternato di azioni simultanee dal montaggio parallelo che collega eventi lontani nel tempo attraverso un tema comune.
+- **Stato:** **DA COMPLETARE** — selezionare un segmento breve del crescendo finale e verificare la successione delle quattro linee sulla copia scelta.
+
+### Contesto essenziale
+*Intolerance* intreccia quattro storie collocate in epoche e luoghi differenti: la caduta di Babilonia, la vicenda di Cristo, il massacro degli ugonotti nella Francia del Cinquecento e una storia contemporanea ambientata negli Stati Uniti. Le vicende non si svolgono nello stesso momento storico. Sono messe in relazione dal tema dell'intolleranza e dalla struttura del film, che passa progressivamente da una linea all'altra fino a intrecciare i rispettivi momenti culminanti.
+
+### Analisi formale
+Il film non racconta le quattro vicende in blocchi separati. Le alterna, interrompendo una linea narrativa per passare a un'altra e chiedendo allo spettatore di mantenere attiva la memoria delle storie precedenti. Nel finale, il ritmo dei passaggi aumenta: l'assedio di Babilonia, il massacro degli ugonotti, la crocifissione e la corsa per salvare l'uomo condannato a morte vengono montati in una successione sempre più serrata.
+
+Il procedimento non costruisce la simultaneità cronologica nel senso stretto del montaggio alternato classico. Gli eventi appartengono a epoche diverse e non possono avvenire nello stesso momento. La loro relazione è tematica e analogica: il montaggio li presenta come manifestazioni differenti di una stessa forma di intolleranza. Per questo è più preciso parlare di montaggio parallelo tematico, pur riconoscendo che il film utilizza anche l'alternanza e la progressiva accelerazione tipiche del montaggio alternato.
+
+La culla che Lillian Gish dondola fra le diverse storie funziona come motivo ricorrente e segno di punteggiatura. Le immagini della donna e della culla non appartengono a una delle quattro vicende come un normale evento narrativo: interrompono e collegano le linee, ricordando allo spettatore che il film sta costruendo una relazione fra epoche. Il motivo visivo dà unità a un racconto molto ampio e frammentato.
+
+La struttura è stata descritta da Griffith come quattro correnti che scorrono inizialmente separate, si avvicinano e accelerano fino a confluire in un unico flusso. Il finale traduce questa idea in un montaggio che aumenta la frequenza dei passaggi e produce una sensazione di urgenza. La forma non si limita a rappresentare il tema: lo costruisce attraverso l'accostamento delle immagini.
+
+È importante evitare di attribuire a *Intolerance* l'invenzione assoluta del montaggio parallelo. Il film porta a una scala eccezionale una tecnica già sperimentata da Griffith e da altri cineasti. La sua importanza storica sta nell'ampiezza della struttura e nell'ambizione di collegare quattro racconti lontani attraverso una tesi comune.
+
+### Evidenze da far osservare
+1. Quali sono le quattro linee narrative e a quale epoca appartiene ciascuna.
+2. In quale ordine il montaggio passa da una storia all'altra.
+3. Come aumenta la frequenza dei passaggi nel finale.
+4. Quale funzione svolge l'immagine della culla fra le diverse vicende.
+5. Quali somiglianze tematiche vengono suggerite dall'accostamento.
+6. Perché non è corretto parlare di simultaneità cronologica fra le quattro storie.
+
+### Perché è didatticamente utile
+La sequenza permette di distinguere montaggio alternato e montaggio parallelo, mostrando che l'accostamento di azioni non deve necessariamente indicare eventi simultanei. Il film costruisce una relazione tematica fra epoche lontane e utilizza il ritmo del montaggio per rendere percepibile una tesi. È inoltre un caso storico importante per discutere la complessità del racconto cinematografico e il ruolo della memoria dello spettatore.
 
 ### Obiettivo didattico
-Distinguere montaggio alternato e montaggio parallelo e comprendere come l'alternanza possa produrre rapporti narrativi e concettuali.
+Al termine dell'attività, lo studente sa riconoscere le quattro linee narrative, distinguere simultaneità cronologica e parallelismo tematico e spiegare come ritmo, ricorrenze visive e accostamento delle immagini costruiscano il significato del finale.
 
----
+### Come utilizzarla in classe
+1. **Prima contestualizzazione:** presentare le quattro epoche e i personaggi principali con una breve scheda, senza raccontare l'intero film.
+2. **Prima visione del frammento:** chiedere agli studenti di annotare ogni passaggio da una storia all'altra.
+3. **Mappa delle linee narrative:** costruire quattro colonne e registrare in quale ordine il montaggio le riprende.
+4. **Analisi del ritmo:** confrontare un passaggio iniziale e uno finale, osservando se la frequenza degli stacchi aumenta.
+5. **Analisi del motivo ricorrente:** individuare la culla e discutere quale funzione abbia nel collegare le storie.
+6. **Rielaborazione:** progettare un breve montaggio di tre eventi non contemporanei ma accomunati da un tema, spiegando come l'accostamento possa produrre un significato.
+
+### Domande per gli studenti
+1. Le quattro storie si svolgono nello stesso periodo storico?
+2. Che cosa le collega se non la simultaneità degli eventi?
+3. Perché il montaggio aumenta la frequenza dei passaggi nel finale?
+4. Quale funzione svolge la culla?
+5. Qual è la differenza fra alternare due azioni contemporanee e accostare eventi di epoche differenti?
+6. In che modo il montaggio trasforma una serie di racconti separati in una tesi comune?
+
+### Verifica formativa
+Gli studenti compilano una tabella con quattro colonne, una per ogni linea narrativa, e ricostruiscono almeno dodici passaggi del montaggio finale. Per ogni passaggio indicano:
+- epoca e luogo;
+- azione mostrata;
+- funzione del taglio;
+- rapporto tematico con la scena precedente;
+- eventuale presenza del motivo della culla.
+
+**Criteri:** corretta identificazione delle linee, distinzione fra simultaneità e parallelismo tematico, ricostruzione del ritmo, capacità di spiegare il significato prodotto dall'accostamento.
+
+### Collegamenti
+- **Montaggio alternato e simultaneità:** *La nascita di una nazione* — assedio della capanna e arrivo dei cavalieri.
+- **Montaggio parallelo e contrasto:** *Rocco e i suoi fratelli* — ring e Idroscalo.
+- **Montaggio intellettuale:** *La corazzata Potëmkin* — significato prodotto dall'accostamento.
+- **Ellissi temporale:** *2001: Odissea nello spazio* — salto dalla preistoria all'era spaziale.
+
+### Fonti e riferimenti
+- Benjamin Schrom, «Intolerance», *Library of Congress*, saggio sul film. Descrive le quattro linee narrative, i numerosi passaggi fra di esse e il ruolo della culla: https://www.loc.gov/static/programs/national-film-preservation-board/documents/intolerance.pdf
+- Michael North, «D. W. Griffith’s *Intolerance* and the Ever-Present Now», in *A Modernist Cinema: Film Art from 1914 to 1941*, Oxford University Press, 2021, pp. 33–48. Analizza il modo in cui il montaggio collega le quattro storie in un presente tematico comune: https://doi.org/10.1093/oso/9780199379453.003.0003
+- Eileen Bowser, prefazione a Theodore Huff, *Intolerance: A Shot-by-Shot Analysis*, Museum of Modern Art, 1966, per la complessità della struttura e la progressiva accelerazione delle quattro linee.
+- American Film Institute, *AFI Catalog*, scheda di *Intolerance* (1916), per dati produttivi, struttura e ricezione: https://catalog.afi.com/Film/16253-INTOLERANCE
+- Martin Scorsese, Jefferson Lecture, National Endowment for the Humanities, per una sintesi del montaggio conclusivo e della relazione fra le quattro storie: https://www.neh.gov/about/awards/jefferson-lecture/martin-scorsese-biography
 
 ## 32. *Wall-E* (Andrew Stanton, 2008)
 [↑ Torna all'indice](#indice-interattivo)
