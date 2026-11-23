@@ -155,6 +155,7 @@ Questa sequenza è una priorità di lavoro, non un vincolo assoluto: può cambia
 
 - L'archivio principale contiene circa 79 schede/heading di scena; il numero va ricontrollato perché la raccolta è in evoluzione e alcuni heading possono rappresentare schede di confronto o approfondimenti.
 - L'indice interattivo è stato riorganizzato con una selezione di esempi per concetto; gli anchor sono stati sottoposti a controllo automatico, ma è necessaria una revisione editoriale continua.
+- È stato creato `INDICE_SCENE_FILM.md` come pagina di ingresso autonoma, con ricerca per concetto e indice alfabetico delle 79 schede/nuclei di confronto. I collegamenti alle schede sono stati controllati (281 link tematici e alfabetici); tutte le 79 schede operative hanno un collegamento di ritorno all'indice. `ARCHIVIO_SCENE_FILM.md` mantiene i contenuti integrali e rimanda alla nuova pagina di navigazione.
 - È stata creata la guida operativa didattica con protocollo di visione, struttura della lezione, obiettivi, valutazione formativa, accessibilità, progressione nel quinquennio, modello di scheda e distinzioni terminologiche.
 - Cinque schede sono state recentemente integrate con obiettivi, evidenze, attività, domande, verifiche, note e fonti: `Ladri di biciclette`, `M`, `I quattrocento colpi`, `Metropolis`, `Citizen Kane`.
 - Queste cinque schede sono state lasciate nello stato **DA COMPLETARE**, perché i frammenti e i timecode devono ancora essere verificati sulle edizioni effettivamente utilizzate.
