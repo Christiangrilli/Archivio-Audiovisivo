@@ -36,7 +36,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)](ARCHIVIO_SCENE_FILM.md#39-rope-nodo-alla-gola-alfred-hitchcock-1948)
 - [*Breathless* (*Fino all'ultimo respiro*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-breathless-fino-allultimo-respiro-jean-luc-godard-1960)
 - [*Blow Out* (Brian De Palma, 1981)](ARCHIVIO_SCENE_FILM.md#43-blow-out-brian-de-palma-1981)
-- [*2001: A Space Odyssey* (*2001: Odissea nello spazio*, Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#45-2001-a-space-odyssey-2001-odissea-nello-spazio-stanley-kubrick-1968)
+- [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962)
 - [*La corazzata Potëmkin* (*Bronenosets Potemkin*, Sergej Ejzenštejn, 1925)](ARCHIVIO_SCENE_FILM.md#47-la-corazzata-potëmkin-bronenosets-potemkin-sergej-ejzenštejn-1925)
 - [*L'uomo con la macchina da presa* (*Chelovek s kino-apparatom*, Dziga Vertov, 1929)](ARCHIVIO_SCENE_FILM.md#48-luomo-con-la-macchina-da-presa-chelovek-s-kino-apparatom-dziga-vertov-1929)
 - [*M – Il mostro di Düsseldorf* (*M*, Fritz Lang, 1931)](ARCHIVIO_SCENE_FILM.md#50-m-il-mostro-di-düsseldorf-m-fritz-lang-1931)
@@ -229,7 +229,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*The Conversation* (*La conversazione*, Francis Ford Coppola, 1974)](ARCHIVIO_SCENE_FILM.md#42-the-conversation-la-conversazione-francis-ford-coppola-1974)
 - [*Blow Out* (Brian De Palma, 1981)](ARCHIVIO_SCENE_FILM.md#43-blow-out-brian-de-palma-1981)
 - [*Rashomon* (Akira Kurosawa, 1950)](ARCHIVIO_SCENE_FILM.md#44-rashomon-akira-kurosawa-1950)
-- [*2001: A Space Odyssey* (*2001: Odissea nello spazio*, Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#45-2001-a-space-odyssey-2001-odissea-nello-spazio-stanley-kubrick-1968)
+- [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962)
 - [*The Birds* (*Gli uccelli*, Alfred Hitchcock, 1963)](ARCHIVIO_SCENE_FILM.md#46-the-birds-gli-uccelli-alfred-hitchcock-1963)
 - [*La corazzata Potëmkin* (*Bronenosets Potemkin*, Sergej Ejzenštejn, 1925)](ARCHIVIO_SCENE_FILM.md#47-la-corazzata-potëmkin-bronenosets-potemkin-sergej-ejzenštejn-1925)
 - [*Ladri di biciclette* (*Bicycle Thieves*, Vittorio De Sica, 1948)](ARCHIVIO_SCENE_FILM.md#49-ladri-di-biciclette-bicycle-thieves-vittorio-de-sica-1948)
@@ -274,8 +274,8 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 
 
 
-- [*2001: A Space Odyssey* (*2001: Odissea nello spazio*, Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#45-2001-a-space-odyssey-2001-odissea-nello-spazio-stanley-kubrick-1968) — match cut e montaggio per associazione.
-- [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-2001-a-space-odyssey-stanley-kubrick-1968) — match cut osso-satellite ed ellissi temporale.
+- [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962) — match cut e montaggio per associazione.
+- [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-2001-a-space-odyssey-stanley-kubrick-1968) — raccordo concettuale, ellissi e suono-ponte.
 - [*8½* (Federico Fellini, 1963)](ARCHIVIO_SCENE_FILM.md#8-8½-federico-fellini-1963) — soggettività e spazio mentale.
 - [*À bout de souffle / Fino all'ultimo respiro* (Jean-Luc Godard, 1960) — SCHEda DI CONFRONTO](ARCHIVIO_SCENE_FILM.md#61-à-bout-de-souffle-fino-allultimo-respiro-jean-luc-godard-1960-scheda-di-confronto) — jump cut.
 - [*Ace in the Hole / L'asso nella manica* (Billy Wilder, 1951)](ARCHIVIO_SCENE_FILM.md#80-ace-in-the-hole-lasso-nella-manica-billy-wilder-1951-messa-in-scena-dello-spettacolo-mediatico) — spettacolo mediatico e messa in scena della folla.
