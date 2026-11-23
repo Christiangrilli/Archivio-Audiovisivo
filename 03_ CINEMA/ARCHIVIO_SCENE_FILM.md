@@ -2947,40 +2947,7 @@ Mostrare alcuni passaggi prima senza voice-over e poi con la voce. Chiedere qual
 - Studi su Scorsese e la struttura orale di *Goodfellas*.
 - Claudia Gorbman, studi sul rapporto fra voce, musica e narrazione cinematografica.
 
-## 40. *Pillow Talk* (Michael Gordon, 1959) — split screen
-[↑ Torna all'indice](#indice-interattivo)
-- **Scena:** apertura e prime telefonate fra Jan e Brad, con i due personaggi mostrati simultaneamente nei rispettivi appartamenti.
-- **Concetto principale:** split screen.
-- **Concetti secondari:** simultaneità, spazio narrativo, telefono, montaggio, composizione.
-- **Tag:** #split-screen #spazio #montaggio #simultaneità #composizione
-- **Livello:** Base.
-
-### Analisi della scena
-La divisione dello schermo permette di rappresentare simultaneamente due spazi separati collegati dalla conversazione telefonica. Il film non deve alternare sistematicamente i due interlocutori: li rende contemporaneamente presenti nel quadro. La tecnica modifica quindi il rapporto fra spazio, tempo e montaggio e rende visibile la simultaneità dell'azione.
-
-### Perché è didatticamente utile
-È un esempio immediatamente leggibile per introdurre lo **split screen** e confrontarlo con il tradizionale campo/controcampo telefonico.
-
-### Obiettivo didattico
-Comprendere come una singola superficie dell'immagine possa contenere contemporaneamente più spazi narrativi.
-
-### Attività
-Confrontare una telefonata costruita con campo/controcampo e la stessa situazione rappresentata con split screen.
-
-### Domande da porre agli studenti
-1. Cosa permette di vedere contemporaneamente lo split screen?
-2. Come cambia il montaggio quando i due personaggi sono già nello stesso quadro?
-3. Lo schermo diviso rappresenta uno spazio reale o una relazione narrativa?
-
-### Collegamenti
-- *The Conversation*.
-- *24* e televisione seriale.
-- *The Rules of the Game*: simultaneità senza divisione dello schermo.
-
-### Fonti
-- WJEC, *Pillow Talk* Film Factsheet, analisi della sequenza iniziale e dello split screen.
-
-## 41. *The Godfather* (Francis Ford Coppola, 1972) — low-key lighting
+## 40. *The Godfather* (Francis Ford Coppola, 1972) — low-key lighting
 [↑ Torna all'indice](#indice-interattivo)
 - **Scena:** Don Vito Corleone nel suo studio durante la scena iniziale.
 - **Concetto principale:** illuminazione low-key e chiaroscuro.
@@ -3014,7 +2981,7 @@ Oscurare progressivamente una fotografia della scena e chiedere quali elementi r
 - Studi accademici sulla cinematografia e illuminazione de *The Godfather*.
 - Ricerca sulla funzione psicologica della luce nel film.
 
-## 42. *The Searchers* (John Ford, 1956) — formato e rapporto d'aspetto
+## 41. *The Searchers* (John Ford, 1956) — formato e rapporto d'aspetto
 [↑ Torna all'indice](#indice-interattivo)
 - **Scena:** apertura sulla soglia della casa e panoramica iniziale sul paesaggio.
 - **Concetto principale:** rapporto d'aspetto e composizione panoramica.
@@ -3048,7 +3015,7 @@ Confrontare lo stesso fotogramma ritagliato in 4:3, 16:9 e panoramico e discuter
 - James E. Cutting, *Movies on Our Minds*, capitoli su tecnologia, formato e percezione.
 - Studi sul cinema panoramico e sulla composizione widescreen.
 
-## 43. *The Silence of the Lambs / Il silenzio degli innocenti* (Jonathan Demme, 1991) — montaggio alternato e focalizzazione
+## 42. *The Silence of the Lambs / Il silenzio degli innocenti* (Jonathan Demme, 1991) — montaggio alternato e focalizzazione
 [↑ Torna all'indice](#indice-interattivo)
 - **Scena:** FBI che irrompe nella casa e Clarice che entra contemporaneamente nell'abitazione sbagliata di Buffalo Bill.
 - **Concetto principale:** montaggio alternato e falsa convergenza spaziale.
@@ -3083,7 +3050,7 @@ Chiedere agli studenti, prima della rivelazione finale, di disegnare sulla piant
 - Vittorio Gallese et al., *The Empathic Screen*, capitolo sul montaggio e sul *Silence of the Lambs*.
 - Studi sulla continuità e sulla gestione cognitiva dell'informazione nel montaggio.
 
-## 44. *The Graduate / Il laureato* (Mike Nichols, 1967) — carrello e composizione
+## 43. *The Graduate / Il laureato* (Mike Nichols, 1967) — carrello e composizione
 [↑ Torna all'indice](#indice-interattivo)
 - **Scena:** Benjamin separato visivamente dagli adulti durante le feste e negli ambienti domestici, con movimenti che lo isolano o lo ricollocano nello spazio.
 - **Concetto principale:** blocking e composizione dei corpi nello spazio.
@@ -3119,6 +3086,652 @@ Fermare tre fotogrammi e chiedere agli studenti di indicare chi occupa il centro
 - Patrick Colm Hogan, *Style in Narrative*, capitolo sullo stile cinematografico.
 
 ---
+
+## 44. *Toy Story* (John Lasseter, 1995) — macchina da presa virtuale e scala dello sguardo
+[↑ Torna all'indice](#indice-interattivo)
+
+### Identificazione
+- **Scena:** sequenza degli omini verdi in ricognizione durante la festa di compleanno di Andy.
+- **Concetto principale:** macchina da presa virtuale e costruzione del punto di vista nell'animazione 3D.
+- **Concetti secondari:** scala, angolazione, movimento, profondità, staging, animazione del personaggio.
+- **Tag:** #animazione #camera-virtuale #punto-di-vista #scala #inquadratura #movimento-di-macchina
+- **Livello:** Base / Intermedio.
+
+### Analisi
+In *Toy Story* la macchina da presa non è un dispositivo fisico, ma una camera virtuale collocata in uno spazio tridimensionale costruito digitalmente. La sequenza degli omini verdi mostra come altezza, angolazione, distanza e movimento della camera possano rendere credibile il punto di vista di personaggi molto piccoli. La scala degli ambienti domestici viene percepita in rapporto ai corpi dei giocattoli: oggetti ordinari diventano ostacoli, ripari e punti di osservazione.
+
+La scena è utile anche per ricordare che l'animazione 3D non coincide con una libertà illimitata della camera: le scelte di inquadratura e montaggio continuano a organizzare l'informazione secondo principi riconoscibili del cinema dal vero.
+
+### Perché è didatticamente utile
+Permette di trasferire concetti di cinematografia tradizionale a un'immagine generata al computer e di discutere che cosa renda credibile una camera virtuale.
+
+### Obiettivo didattico
+Descrivere altezza, angolazione, scala e movimento della camera virtuale e spiegare come orientino lo spettatore nello spazio animato.
+
+### Attività
+Fermare tre fotogrammi e ricostruire la posizione ipotetica della camera rispetto agli omini e agli esseri umani. Gli studenti possono poi progettare la stessa azione da un punto di vista alto, basso e a livello del personaggio.
+
+### Domande
+1. Da quale altezza osserviamo gli ambienti?
+2. In che modo gli oggetti cambiano scala rispetto ai giocattoli?
+3. Quali movimenti fanno percepire lo spazio come tridimensionale?
+
+### Collegamenti
+- *E.T.* — punto di vista dei bambini e altezza della macchina da presa.
+- *Wall-E* — animazione 3D e citazione del linguaggio cinematografico.
+- *Jurassic Park* — costruzione della credibilità di un'immagine digitale.
+
+### Fonti
+- Pixar Animation Studios, pagina ufficiale di *Toy Story*: https://www.pixar.com/toy-story
+- Academy of Motion Picture Arts and Sciences, *Toy Story*: https://www.oscars.org/collection-highlights/toy-story
+- *Shaping Visual Narratives: Camera Structure in Animation*, studio sulla struttura della camera nell'animazione: https://fileserver-az.core.ac.uk/download/pdf/599619165.pdf
+
+**Stato:** DA COMPLETARE — selezionare il frammento preciso e verificare il timecode sulla copia utilizzata.
+
+---
+
+## 45. *Ace in the Hole / L'asso nella manica* (Billy Wilder, 1951) — messa in scena dello spettacolo mediatico
+[↑ Torna all'indice](#indice-interattivo)
+
+### Identificazione
+- **Scena:** progressiva trasformazione del salvataggio di Leo Minosa in un evento pubblico, con l'afflusso della folla e la costruzione del circo mediatico attorno alla grotta.
+- **Concetto principale:** messa in scena della folla e costruzione visiva dello spettacolo.
+- **Concetti secondari:** composizione, profondità, blocking, punto di vista, rapporto fra informazione e spettacolarizzazione.
+- **Tag:** #messa-in-scena #composizione #profondità #blocking #media #spettacolo
+- **Livello:** Intermedio.
+
+### Analisi
+Wilder mostra come un fatto di cronaca venga progressivamente trasformato in attrazione collettiva. La disposizione delle persone, l'organizzazione degli spazi attorno al luogo dell'incidente e la crescita delle attività commerciali fanno percepire visivamente la trasformazione della tragedia in spettacolo. La scena permette di osservare come la composizione non riguardi soltanto la posizione dei protagonisti, ma anche la costruzione di un ambiente sociale.
+
+Il film non si limita a denunciare il comportamento del giornalista: mette in scena una rete di interessi, curiosità e partecipazione che coinvolge anche il pubblico interno alla storia.
+
+### Perché è didatticamente utile
+Consente di analizzare il rapporto tra inquadratura, organizzazione della folla e costruzione dello spettacolo, collegando il linguaggio cinematografico alla rappresentazione dei media.
+
+### Obiettivo didattico
+Individuare come composizione, profondità e disposizione dei gruppi trasformino un evento in uno spettacolo osservabile dai personaggi e dallo spettatore.
+
+### Attività
+Realizzare una mappa della scena indicando il luogo dell'incidente, i personaggi, la folla, i mezzi di comunicazione e i punti di osservazione. Confrontare poi la mappa con un'inquadratura scelta dagli studenti.
+
+### Domande
+1. Chi occupa il centro dell'immagine e chi rimane ai margini?
+2. Come cambia la scena quando aumenta il numero degli spettatori interni?
+3. La macchina da presa ci colloca dentro la folla o ci invita a osservarla dall'esterno?
+
+### Collegamenti
+- *Quarto potere* — informazione, potere e costruzione del racconto.
+- *The Fabelmans* — immagine come documento e strumento di conoscenza.
+- *The Truman Show* — spettacolarizzazione della vita privata.
+
+### Fonti
+- BFI, scheda di *Ace in the Hole*: https://whatson.bfi.org.uk/Online/default.asp?BOparam%3A%3AWScontent%3A%3AloadArticle%3A%3Aarticle_id=7425E511-5A42-43FE-9B0D-E811EBB39769&doWork%3A%3AWScontent%3A%3AloadArticle=Load
+- The Criterion Collection, *Ace in the Hole*: https://www.criterion.com/films/829-ace-in-the-hole
+
+**Stato:** DA COMPLETARE — delimitare il frammento e verificare le inquadrature da usare.
+
+---
+
+## 46. *The Apartment / L'appartamento* (Billy Wilder, 1960) — composizione, prospettiva e spazio del lavoro
+[↑ Torna all'indice](#indice-interattivo)
+
+### Identificazione
+- **Scena:** apertura nell'ufficio della compagnia assicurativa, con la distesa di scrivanie che sembra proseguire fino al punto di fuga.
+- **Concetto principale:** composizione in profondità e prospettiva forzata.
+- **Concetti secondari:** scenografia, scala, ripetizione, punto di fuga, blocking, spazio sociale.
+- **Tag:** #composizione #profondità #prospettiva #scenografia #spazio #messa-in-scena
+- **Livello:** Base / Intermedio.
+
+### Analisi
+L'ufficio viene presentato come uno spazio smisurato, organizzato da file regolari di scrivanie che si ripetono verso il fondo. La scenografia utilizza una prospettiva forzata: gli elementi più lontani sono costruiti in scala ridotta per amplificare la profondità apparente dell'ambiente. Baxter appare così come una figura anonima all'interno di un sistema impersonale.
+
+La composizione trasforma lo spazio di lavoro in un'immagine dei rapporti gerarchici: l'individuo è visivamente ridotto dalla ripetizione e dalla dimensione dell'ambiente.
+
+### Perché è didatticamente utile
+È un esempio molto leggibile per spiegare come scenografia, prospettiva e composizione possano costruire un significato senza ricorrere al dialogo.
+
+### Obiettivo didattico
+Riconoscere punto di fuga, ripetizione degli elementi e prospettiva forzata e collegarli alla rappresentazione dello spazio sociale.
+
+### Attività
+Chiedere agli studenti di ridisegnare l'inquadratura semplificando le file di scrivanie e segnando linee convergenti, punto di fuga e dimensioni relative degli elementi.
+
+### Domande
+1. Perché l'ufficio sembra molto più grande di un normale ambiente di lavoro?
+2. Quale ruolo ha la ripetizione delle scrivanie?
+3. Come viene rappresentato il rapporto tra individuo e organizzazione?
+
+### Collegamenti
+- *Metropolis* — architettura e gerarchia sociale.
+- *Quarto potere* — profondità e organizzazione dell'inquadratura.
+- *The Grand Budapest Hotel* — scenografia e composizione come stile.
+
+### Fonti
+- BFI, scheda di *The Apartment*: https://www.bfi.org.uk/film/13f711b3-fee4-5ae2-ab0e-88c99bfeed9d/the-apartment
+- Library of Congress, saggio sul film nel National Film Registry: https://www.loc.gov/programs/national-film-preservation-board/film-registry/descriptions-and-essays/
+- BFI, note di programma su *The Apartment*: https://bfidatadigipres.github.io/big%20screen%20classics/2021/12/01/apartment/
+
+**Stato:** DA COMPLETARE — verificare la versione e scegliere il tratto esatto della sequenza iniziale.
+
+---
+
+## 47. *Taxi Driver* (Martin Scorsese, 1976) — movimento di macchina e voce fuori campo
+[↑ Torna all'indice](#indice-interattivo)
+
+### Identificazione
+- **Scena:** Travis parla al telefono con Betsy; durante la conversazione la macchina da presa si allontana da lui e inquadra il corridoio vuoto, mentre la sua voce continua fuori campo.
+- **Concetto principale:** movimento di macchina non motivato dall'azione e autonomia dell'enunciazione.
+- **Concetti secondari:** fuori campo, voce, punto di vista, spazio, soggettività, durata dell'inquadratura.
+- **Tag:** #movimento-di-macchina #fuori-campo #voce #punto-di-vista #spazio #enunciazione
+- **Livello:** Intermedio / Avanzato.
+
+### Analisi
+Durante la telefonata la macchina da presa abbandona Travis e si sposta verso un corridoio vuoto. Il dialogo continua, ma il personaggio esce dal quadro: il suono mantiene la sua presenza mentre l'immagine si concentra su uno spazio apparentemente secondario. Il movimento non è spiegato da un'azione che richieda di seguire un personaggio o un oggetto; rende percepibile la scelta della regia di sottrarre il volto di Travis allo sguardo.
+
+La scena è un esempio efficace di come il movimento di macchina possa commentare l'azione e modificare il rapporto tra immagine e suono, senza limitarsi a seguire ciò che accade.
+
+### Perché è didatticamente utile
+Permette di distinguere il movimento motivato da un'azione dal movimento che assume una funzione espressiva o enunciativa. Mostra inoltre che il fuori campo può essere costruito anche attraverso la permanenza della voce.
+
+### Obiettivo didattico
+Descrivere il movimento della macchina da presa e spiegare come la separazione fra immagine e voce modifichi il punto di attenzione dello spettatore.
+
+### Attività
+Riprodurre la scena e chiedere agli studenti di annotare il momento in cui Travis esce dal quadro, che cosa rimane visibile e quali informazioni continuano ad arrivare attraverso il suono.
+
+### Domande
+1. Perché la macchina da presa smette di mostrare Travis?
+2. La voce continua a essere comprensibile anche quando il personaggio non è inquadrato?
+3. Che effetto produce lo spazio vuoto?
+
+### Collegamenti
+- *The Conversation* — punto di ascolto e informazione sonora.
+- *L'eclisse* — autonomia dello spazio rispetto ai personaggi.
+- *Touch of Evil* — movimento di macchina come scelta espressiva.
+
+### Fonti
+- *Camera Movement in Narrative Cinema* (2007), analisi del movimento di macchina nella scena della telefonata: https://www.academia.edu/6840868/Camera_Movement_in_Narrative_Cinema_2007
+- Studio in PDF sulla camera movement in *Taxi Driver*: https://pure.au.dk/ws/portalfiles/portal/52113417/Camera_Movement_0910.pdf
+
+**Stato:** DA COMPLETARE — controllare il frammento e il timecode sull'edizione scelta.
+
+---
+
+## 48. *The Fabelmans* (Steven Spielberg, 2022) — film nel film e montaggio come rivelazione
+[↑ Torna all'indice](#indice-interattivo)
+
+### Identificazione
+- **Scena:** Sammy rivede e monta le riprese realizzate durante una gita familiare; il materiale filmato gli permette di notare un dettaglio che modifica il modo in cui comprende i rapporti tra i genitori.
+- **Concetto principale:** montaggio e costruzione di un punto di vista attraverso le immagini.
+- **Concetti secondari:** film nel film, immagine-documento, selezione, raccordo, memoria, rapporto tra ripresa e realtà.
+- **Tag:** #montaggio #metacinema #film-nel-film #punto-di-vista #immagine-documento #memoria
+- **Livello:** Intermedio.
+
+### Analisi
+La sequenza mostra che una ripresa non restituisce automaticamente una verità completa: il significato emerge quando Sammy osserva, seleziona e mette in relazione le immagini. Il materiale girato durante la gita acquista un valore diverso da quello che aveva nel momento della ripresa. Il montaggio diventa un'attività conoscitiva: permette di isolare un dettaglio, confrontarlo con altri momenti e riconoscere qualcosa che durante l'esperienza era rimasto nascosto.
+
+La scena è particolarmente utile per distinguere il documento audiovisivo dalla sua interpretazione. L'immagine registra un frammento di realtà, ma l'inquadratura, la selezione e l'ordine delle riprese ne orientano la lettura.
+
+### Perché è didatticamente utile
+Collega in modo diretto ripresa, montaggio, memoria e responsabilità dello sguardo. È anche un'occasione per discutere il rapporto tra immagini private e conoscenza degli altri.
+
+### Obiettivo didattico
+Spiegare come la selezione e l'accostamento di immagini possano produrre un'informazione o una rivelazione non evidente durante la ripresa.
+
+### Attività
+Consegnare una serie di fotogrammi inventati o forniti dal docente e chiedere agli studenti di costruire due montaggi differenti, esplicitando come cambia il significato.
+
+### Domande
+1. Che cosa vede Sammy solo quando rivede le immagini?
+2. La macchina da presa registra una realtà neutra?
+3. In che modo il montaggio trasforma una ripresa in una prova?
+
+### Collegamenti
+- *Blow-Up* — immagine e costruzione dell'indizio.
+- *Blow Out* — registrazione e interpretazione di immagini e suoni.
+- *L'uomo con la macchina da presa* — il cinema che riflette sul proprio dispositivo.
+
+### Fonti
+- AFI Catalog, scheda di *The Fabelmans*: https://catalog.afi.com/
+- Steven Spielberg, interviste e materiali di produzione sul rapporto autobiografico con il cinema.
+- Studi sul film nel film e sull'immagine come documento.
+
+**Stato:** DA COMPLETARE — verificare il segmento preciso e distinguere i passaggi di ripresa, visione e montaggio.
+
+---
+
+## 49. *Gran Torino* (Clint Eastwood, 2008) — composizione, soglia e trasformazione dei rapporti
+[↑ Torna all'indice](#indice-interattivo)
+
+### Identificazione
+- **Scena:** scene sul portico e davanti alla casa di Walt, da confrontare con i momenti successivi in cui Tao e Sue entrano progressivamente nel suo spazio.
+- **Concetto principale:** composizione dell'inquadratura e uso delle soglie.
+- **Concetti secondari:** blocking, profondità, spazio domestico, distanza, caratterizzazione attraverso la messa in scena.
+- **Tag:** #composizione #spazio #blocking #messa-in-scena #soglia #personaggio
+- **Livello:** Base / Intermedio.
+
+### Analisi
+Il portico, la porta e il giardino definiscono una soglia tra spazio privato e spazio condiviso. Nelle prime scene Walt tende a occupare il proprio ambiente come un territorio da difendere; la collocazione dei personaggi ai margini o all'esterno del suo spazio rende visibile la distanza. Nel corso del film, l'accesso di Tao e Sue agli ambienti di Walt modifica gradualmente questa organizzazione.
+
+La lettura deve basarsi sul confronto di inquadrature effettivamente selezionate: non si tratta di attribuire un significato fisso a ogni posizione, ma di osservare come la composizione cambi insieme alle relazioni tra i personaggi.
+
+### Perché è didatticamente utile
+Consente di lavorare sulla funzione narrativa dello spazio domestico e sul modo in cui porte, recinzioni e portici possono diventare elementi della messa in scena.
+
+### Obiettivo didattico
+Confrontare due inquadrature e descrivere come posizione, distanza e accesso allo spazio rappresentino l'evoluzione di un rapporto.
+
+### Attività
+Costruire una piccola mappa degli spazi della casa e segnare dove si collocano Walt, Tao e Sue in due momenti diversi del film. Discutere quali cambiamenti sono visibili.
+
+### Domande
+1. Chi può entrare nello spazio di Walt e in quali momenti?
+2. Come vengono usate porte, recinzioni e portico?
+3. La composizione conferma o modifica la distanza tra i personaggi?
+
+### Attenzioni didattiche
+Il film contiene linguaggio razzista e stereotipi etnici pronunciati dal protagonista. Se si sceglie di affrontarli, occorre contestualizzarli e distinguere la rappresentazione del pregiudizio dalla sua approvazione. La scena va selezionata in modo da non riprodurre insulti gratuiti o trasformarli in materiale comico.
+
+### Collegamenti
+- *The Searchers* — soglia domestica e rapporto con l'esterno.
+- *The Apartment* — spazio privato e spazio sociale.
+- *La regola del gioco* — posizione dei corpi e gerarchie.
+
+### Fonti
+- Warner Bros., materiali ufficiali del film.
+- Studi sulla messa in scena e sulla rappresentazione dello spazio domestico nel cinema di Clint Eastwood.
+
+**Stato:** DA VERIFICARE — scegliere due scene precise e controllare che il confronto sia sostenuto dalle inquadrature selezionate.
+
+---
+
+## 50. *Million Dollar Baby* (Clint Eastwood, 2004) — montaggio ellittico e trasformazione del corpo
+[↑ Torna all'indice](#indice-interattivo)
+
+### Identificazione
+- **Scena:** sequenze di allenamento di Maggie nella palestra di Frankie.
+- **Concetto principale:** montaggio ellittico e compressione del tempo.
+- **Concetti secondari:** ripetizione, gesto, ritmo, musica, progressione narrativa, corpo.
+- **Tag:** #montaggio #ellissi #ritmo #musica #corpo #narrazione
+- **Livello:** Base / Intermedio.
+
+### Analisi
+Le sequenze di allenamento condensano in una successione di immagini un periodo di lavoro che nella storia occupa molto più tempo del frammento mostrato. La ripetizione dei gesti, la variazione degli esercizi e la progressione della preparazione permettono allo spettatore di inferire il passare del tempo senza assistere a ogni singola sessione.
+
+Il montaggio seleziona momenti significativi e li dispone secondo una progressione: non racconta ogni allenamento, ma costruisce la percezione del cambiamento fisico e tecnico della protagonista.
+
+### Perché è didatticamente utile
+È un esempio chiaro per introdurre l'ellissi temporale e distinguere la durata della storia dalla durata del racconto.
+
+### Obiettivo didattico
+Individuare le informazioni che permettono di ricostruire il passare del tempo e spiegare come il montaggio sintetizzi un processo.
+
+### Attività
+Proporre agli studenti di trasformare una breve azione ripetitiva in una sequenza di 5–7 inquadrature, eliminando i passaggi non necessari ma conservando la percezione della progressione.
+
+### Domande
+1. Quanto tempo sembra trascorrere nella storia?
+2. Quali ripetizioni vengono mantenute e quali eliminate?
+3. In che modo il ritmo del montaggio comunica il miglioramento della protagonista?
+
+### Attenzioni didattiche
+Il film affronta temi di violenza, disabilità e fine vita. Per una lezione sul montaggio è preferibile utilizzare il materiale di allenamento, senza ricorrere alle sequenze più traumatiche.
+
+### Collegamenti
+- *The Graduate* — ellissi e musica.
+- *Rocky* — montaggio dell'allenamento.
+- *Memento* — organizzazione non lineare del tempo.
+
+### Fonti
+- Les Grignoux, dossier pedagogico su *Million Dollar Baby* e analisi di sequenza: https://www.grignoux.be/dossiers/208/documents
+- AFI Catalog, scheda del film: https://catalog.afi.com/
+
+**Stato:** DA COMPLETARE — individuare un segmento di allenamento circoscritto e verificare la durata.
+
+---
+
+## 51. *Catch Me If You Can / Prova a prendermi* (Steven Spielberg, 2002) — titoli di testa, animazione e grafica in movimento
+[↑ Torna all'indice](#indice-interattivo)
+
+### Identificazione
+- **Scena:** sequenza animata dei titoli di testa.
+- **Concetto principale:** motion graphics e funzione narrativa dei titoli di testa.
+- **Concetti secondari:** animazione 2D, tipografia, silhouette, colore, musica, anticipazione narrativa.
+- **Tag:** #motion-graphics #titoli-di-testa #animazione #grafica #musica #montaggio
+- **Livello:** Base.
+
+### Analisi
+La sequenza dei titoli mette in scena una figura in fuga e un inseguitore attraverso silhouette, forme geometriche, cambi di ambiente e trasformazioni grafiche. I nomi dei protagonisti e dei membri del cast sono integrati nella composizione: la tipografia non è un elemento sovrapposto in modo neutro, ma parte dell'animazione.
+
+La musica jazz di John Williams contribuisce a definire il tono leggero e dinamico del racconto. Il motivo dell'inseguimento anticipa visivamente il rapporto tra Frank e l'agente Hanratty, presentando in forma sintetica la struttura del film.
+
+### Perché è didatticamente utile
+È un esempio particolarmente efficace per una lezione sui titoli di testa e sulla grafica audiovisiva: mostra come immagini, tipografia, movimento e musica possano introdurre personaggi e tono narrativo prima dell'inizio della vicenda.
+
+### Obiettivo didattico
+Analizzare la relazione tra tipografia, animazione, ritmo musicale e anticipazione narrativa in una sequenza di titoli.
+
+### Attività
+Progettare una breve apertura animata per un film immaginario, utilizzando una silhouette, due colori, una famiglia tipografica e un motivo musicale. La consegna deve richiedere che il titolo partecipi alla composizione.
+
+### Domande
+1. Come viene rappresentato il rapporto tra inseguitore e fuggitivo?
+2. I titoli sono leggibili senza interrompere l'azione?
+3. In che modo la musica contribuisce al tono della sequenza?
+
+### Collegamenti
+- *Catch Me If You Can* può essere confrontato con i titoli di Saul Bass.
+- *The Fabelmans* — immagine in movimento e racconto del cinema.
+- *L'uomo con la macchina da presa* — grafica e autoriflessività del dispositivo.
+
+### Fonti
+- Nexus Studios, scheda di produzione dei titoli di testa: https://nexusstudios.com/work/catch-me-if-you-can/
+- Cooper Hewitt, Smithsonian Design Museum, analisi dei titoli di testa: https://www.cooperhewitt.org/2012/08/24/never-fast-forward-the-credits/
+- *Senses of Cinema*, saggio sulle sequenze di titoli rétro: https://www.sensesofcinema.com/2003/feature-articles/retro_titles/
+
+**Stato:** DA COMPLETARE — verificare la versione dei titoli e isolare il segmento da mostrare.
+
+---
+
+## 52. *Titanic* (James Cameron, 1997) — montaggio alternato e gestione dello spazio
+[↑ Torna all'indice](#indice-interattivo)
+
+### Identificazione
+- **Scena:** sequenza dell'affondamento, limitatamente al passaggio tra le diverse aree della nave e le azioni simultanee di passeggeri ed equipaggio.
+- **Concetto principale:** montaggio alternato di linee d'azione simultanee.
+- **Concetti secondari:** spazio narrativo, suspense, scala, ritmo, gestione dell'informazione, suono.
+- **Tag:** #montaggio-alternato #spazio #suspense #ritmo #suono #narrazione
+- **Livello:** Intermedio.
+
+### Analisi
+Durante l'affondamento il montaggio passa tra luoghi diversi della nave e gruppi di personaggi impegnati in azioni simultanee. La successione delle inquadrature permette allo spettatore di costruire una geografia mentale dell'evento e di percepire la dimensione collettiva della catastrofe. Il ritmo e la frequenza dei passaggi tra le linee d'azione aumentano la tensione, mentre il suono contribuisce a collegare ambienti separati.
+
+Non basta definire la sequenza «montaggio alternato»: occorre verificare quali azioni siano effettivamente simultanee e quali siano invece accostate per produrre un rapporto tematico o emotivo.
+
+### Perché è didatticamente utile
+Permette di discutere come il montaggio organizzi uno spazio complesso e distribuisca l'attenzione tra più personaggi e ambienti.
+
+### Obiettivo didattico
+Ricostruire le linee d'azione alternate e distinguere simultaneità narrativa, successione temporale e parallelismo tematico.
+
+### Attività
+Disegnare una pianta semplificata della nave e associare a ogni ambiente le inquadrature del frammento. Gli studenti dovranno poi ricostruire l'ordine dei passaggi e motivare la funzione di ciascun taglio.
+
+### Domande
+1. Quali azioni avvengono nello stesso momento?
+2. Come capiamo dove si trovano i personaggi?
+3. Il montaggio aumenta la suspense o rende più chiara la geografia dell'evento?
+
+### Attenzioni didattiche
+La sequenza contiene situazioni di pericolo e morte. Selezionare un frammento adeguato all'età e al contesto della classe.
+
+### Collegamenti
+- *Il padrino* — montaggio parallelo e costruzione del contrasto.
+- *Il silenzio degli innocenti* — montaggio alternato e falsa convergenza spaziale.
+- *Intolerance* — simultaneità e montaggio delle linee narrative.
+
+### Fonti
+- AFI Catalog, scheda di *Titanic*: https://catalog.afi.com/
+- BFI, materiali sul film e sul montaggio di James Cameron.
+
+**Stato:** DA COMPLETARE — delimitare la porzione della sequenza e controllare la simultaneità degli eventi nel montaggio scelto.
+
+---
+
+## 53. *E.T. l'extra-terrestre* (Steven Spielberg, 1982) — silhouette, controluce ed effetti ottici
+[↑ Torna all'indice](#indice-interattivo)
+
+### Identificazione
+- **Scena:** volo delle biciclette davanti alla luna.
+- **Concetto principale:** composizione in silhouette e controluce.
+- **Concetti secondari:** effetti visivi ottici, movimento, scala, musica, sincronizzazione audiovisiva.
+- **Tag:** #controluce #silhouette #composizione #effetti-visivi #movimento-di-macchina #musica
+- **Livello:** Base / Intermedio.
+
+### Analisi
+La sequenza culmina nell'immagine delle biciclette in silhouette davanti alla luna. La leggibilità grafica della composizione dipende dalla semplificazione delle forme: i personaggi e le biciclette diventano sagome scure, separate dal fondo luminoso. Il controluce permette di riconoscere immediatamente il profilo dell'azione e trasforma il movimento in un'immagine iconica.
+
+La sequenza consente inoltre di discutere il rapporto tra ripresa, modellini, compositing ottico ed effetti visivi. È importante non attribuire l'intera immagine a un'unica tecnica: la costruzione dell'effetto combina più elementi produttivi e interventi di post-produzione.
+
+### Perché è didatticamente utile
+Offre un esempio immediato di composizione per contrasto e permette di collegare fotografia, effetti visivi e musica.
+
+### Obiettivo didattico
+Descrivere come controluce, silhouette e disposizione degli elementi rendano leggibile un'immagine e ne rafforzino l'impatto.
+
+### Attività
+Realizzare una silhouette fotografica con una fonte luminosa sullo sfondo. In alternativa, creare un fotomontaggio in cui la figura sia riconoscibile attraverso il solo profilo.
+
+### Domande
+1. Quali dettagli vengono eliminati dal controluce?
+2. Perché la sagoma resta riconoscibile?
+3. Come cambia l'effetto della sequenza quando entra la musica?
+
+### Collegamenti
+- *The Searchers* — silhouette e paesaggio.
+- *Close Encounters of the Third Kind* — luce e suono come esperienza spettacolare.
+- *Blade Runner* — controluce e atmosfera.
+
+### Fonti
+- American Cinematographer, “The Cinematography of E.T.”: https://theasc.com/article/flashback-the-cinematography-of-e-t-1/
+- American Cinematographer, intervista a Dennis Muren: https://theasc.com/article/dennis-muren-asc-amc/
+- Los Angeles Philharmonic, materiali sulla musica di John Williams: https://www.laphil.com/works/excerpts-from-close-encounters-of-the-third-kind-williams
+
+**Stato:** DA COMPLETARE — verificare il segmento e distinguere gli elementi fotografici dagli interventi di effetti visivi.
+
+---
+
+## 54. *Close Encounters of the Third Kind / Incontri ravvicinati del terzo tipo* (Steven Spielberg, 1977) — suono come linguaggio
+[↑ Torna all'indice](#indice-interattivo)
+
+### Identificazione
+- **Scena:** sequenza del contatto finale, quando il motivo di cinque note diventa uno strumento di comunicazione tra esseri umani e visitatori extraterrestri.
+- **Concetto principale:** funzione narrativa del suono e della musica come codice comunicativo.
+- **Concetti secondari:** motivo musicale, ripetizione, chiamata e risposta, suono diegetico, sincronizzazione audiovisiva.
+- **Tag:** #suono #musica #diegetico #motivo-musicale #sincronizzazione #narrazione
+- **Livello:** Base / Intermedio.
+
+### Analisi
+Il motivo di cinque note non funziona soltanto come colonna sonora: all'interno della storia diventa un codice condiviso, ripetuto e riconosciuto dai personaggi e dagli extraterrestri. Il suono passa così da elemento atmosferico a strumento di comunicazione. La sequenza organizza l'ascolto e la visione come un processo di apprendimento reciproco: una frase musicale viene proposta, ripetuta e trasformata in risposta.
+
+È utile distinguere la musica che accompagna emotivamente le immagini dal suono che appartiene all'azione e produce conseguenze nel mondo narrativo. In questo caso il motivo musicale assume una funzione diegetica e narrativa.
+
+### Perché è didatticamente utile
+È uno dei casi più chiari per spiegare come il suono possa avere una funzione attiva nella storia e non limitarsi ad accompagnare l'immagine.
+
+### Obiettivo didattico
+Distinguere musica di commento e suono diegetico e spiegare come la ripetizione di un motivo possa diventare un codice narrativo.
+
+### Attività
+Ascoltare il motivo senza immagini e chiedere agli studenti di descriverne struttura e ripetizioni. In seguito mostrare il frammento e ricostruire il meccanismo di chiamata e risposta.
+
+### Domande
+1. Quando la musica diventa parte dell'azione?
+2. Come viene riconosciuto il codice sonoro?
+3. Che cosa cambierebbe se il motivo fosse soltanto extradiegetico?
+
+### Collegamenti
+- *Lo squalo* — motivo musicale e anticipazione.
+- *The Conversation* — suono come informazione e indizio.
+- *E.T.* — sincronizzazione tra musica, immagine e movimento.
+
+### Fonti
+- Los Angeles Philharmonic, analisi del motivo di cinque note: https://www.laphil.com/works/excerpts-from-close-encounters-of-the-third-kind-williams
+- Siskel Film Center, presentazione del film e della partitura: https://www.siskelfilmcenter.org/close-encounters-third-kind
+
+**Stato:** DA COMPLETARE — scegliere il frammento e distinguere con precisione musica diegetica, riproduzione elettronica e partitura.
+
+---
+
+## 55. *Blade Runner* (Ridley Scott, 1982) — fotografia, scenografia e costruzione del mondo
+[↑ Torna all'indice](#indice-interattivo)
+
+### Identificazione
+- **Scena:** apertura del film e panoramica sulla Los Angeles del 2019.
+- **Concetto principale:** costruzione del mondo diegetico attraverso scenografia, luce e fotografia.
+- **Concetti secondari:** chiaroscuro, controluce, fumo, profondità, miniature, matte painting, suono e musica.
+- **Tag:** #fotografia #luce #scenografia #world-building #chiaroscuro #effetti-visivi
+- **Livello:** Intermedio.
+
+### Analisi
+L'apertura presenta una città industriale e stratificata, dominata da strutture monumentali, fumo, luci artificiali e superfici riflettenti. La scenografia non svolge una funzione puramente decorativa: costruisce un ambiente riconoscibile e suggerisce rapporti di potere, disuguaglianze e trasformazioni tecnologiche. La fotografia di Jordan Cronenweth combina zone d'ombra, sorgenti luminose puntuali e atmosfere dense, mentre gli effetti visivi analogici integrano miniature e fondali.
+
+Il risultato non è una semplice rappresentazione del futuro, ma un mondo audiovisivo coerente in cui architettura, luce, colore, suono e musica concorrono alla costruzione dell'atmosfera.
+
+### Perché è didatticamente utile
+Permette di analizzare il world-building cinematografico e di mostrare come fotografia, scenografia ed effetti visivi collaborino alla costruzione di un ambiente narrativo.
+
+### Obiettivo didattico
+Individuare almeno tre scelte di scenografia o fotografia e spiegare come contribuiscano a definire il mondo del film.
+
+### Attività
+Scomporre un fotogramma dell'apertura in livelli: primo piano, piano intermedio, sfondo, fonti luminose, fumo e strutture architettoniche. Poi progettare un'immagine di una città futura utilizzando gli stessi livelli.
+
+### Domande
+1. Quali elementi rendono la città riconoscibile come ambiente industriale e tecnologico?
+2. Come viene utilizzata la luce per organizzare la profondità?
+3. Che rapporto si crea tra architettura, potere e condizione umana?
+
+### Collegamenti
+- *Metropolis* — città, architettura e gerarchia sociale.
+- *The Apartment* — scenografia come rappresentazione dello spazio sociale.
+- *2001: Odissea nello spazio* — costruzione visiva di un mondo tecnologico.
+
+### Fonti
+- BFI, scheda di *Blade Runner*: https://www.bfi.org.uk/film/ec064a2a-f7a8-536a-afa2-ed076aad151f/blade-runner
+- BFI, “Blade Runner: anatomy of a classic”: https://www.bfi.org.uk/features/blade-runner
+
+**Stato:** DA COMPLETARE — verificare il segmento iniziale e l'edizione da utilizzare.
+
+---
+
+## 56. *C'era una volta il West* (Sergio Leone, 1968) — durata, attesa e paesaggio sonoro
+[↑ Torna all'indice](#indice-interattivo)
+
+### Identificazione
+- **Scena:** sequenza iniziale alla stazione di Cattle Corner, dall'arrivo dei tre uomini fino all'attesa dell'arrivo del treno.
+- **Concetto principale:** costruzione della tensione attraverso durata, attesa e suono.
+- **Concetti secondari:** long take, composizione, blocking, suono ambientale, dettaglio, fuori campo, montaggio.
+- **Tag:** #durata #long-take #suono #paesaggio-sonoro #attesa #composizione #fuori-campo
+- **Livello:** Intermedio / Avanzato.
+
+### Analisi
+La sequenza iniziale dilata l'attesa e attribuisce valore narrativo a rumori, gesti minimi e dettagli dell'ambiente. Il vento, gli scricchiolii, il movimento degli oggetti e i suoni prodotti dai personaggi costruiscono un paesaggio sonoro che precede e accompagna l'azione. Il montaggio non accelera subito verso l'evento: lascia che lo spettatore osservi i tre uomini e comprenda progressivamente la loro disposizione nello spazio.
+
+La durata diventa così una risorsa drammatica. Il tempo dell'attesa non è un intervallo vuoto, ma un modo per costruire aspettativa e caratterizzare i personaggi prima che parlino.
+
+### Perché è didatticamente utile
+È un esempio straordinario per lavorare su durata, attesa, suono ambientale e rapporto tra dettaglio e spazio. Permette anche di discutere la differenza tra ritmo veloce e tensione.
+
+### Obiettivo didattico
+Descrivere come durata, ripetizione dei gesti, dettagli e suono costruiscano tensione senza ricorrere a un montaggio rapido.
+
+### Attività
+Visione con audio e successiva visione concentrata sul suono: gli studenti compilano una mappa degli eventi sonori, distinguendo rumori ambientali, suoni prodotti dai personaggi, silenzi e musica.
+
+### Domande
+1. Quali suoni attirano l'attenzione prima dell'arrivo del treno?
+2. Perché la sequenza può risultare tesa pur contenendo pochi eventi?
+3. Come cambia la percezione del tempo quando il montaggio insiste sui dettagli?
+
+### Collegamenti
+- *C'era una volta il West* → *The Good, the Bad and the Ugly*: attesa e costruzione del duello.
+- *Touch of Evil* — durata e organizzazione del movimento.
+- *The Conversation* — ascolto e attenzione ai dettagli sonori.
+- *Lo squalo* — suono come anticipazione della minaccia.
+
+### Fonti
+- Art of the Title, analisi della sequenza iniziale: https://cdn4.artofthetitle.com/title/once-upon-a-time-in-the-west/
+- Studi sul cinema di Sergio Leone e sulla costruzione della durata e del suono nel western all'italiana.
+
+**Stato:** DA COMPLETARE — individuare il punto iniziale e finale del frammento sulla copia scelta; la sequenza completa è lunga e può essere suddivisa in unità più brevi.
+
+---
+
+## 57. *The Long Goodbye / Il lungo addio* (Robert Altman, 1973) — dialoghi sovrapposti e spazio sonoro
+[↑ Torna all'indice](#indice-interattivo)
+
+### Identificazione
+- **Scena:** sequenze dell'interrogatorio di Marlowe e conversazioni negli ambienti collettivi, da selezionare per confrontare voci, riverbero e sovrapposizione del parlato.
+- **Concetto principale:** overlapping dialogue e costruzione dello spazio attraverso il suono.
+- **Concetti secondari:** voce fuori campo, intelligibilità, ambiente acustico, punto di ascolto, movimento di macchina, realismo.
+- **Tag:** #overlapping-dialogue #suono #dialogo #spazio-sonoro #punto-di-ascolto #movimento-di-macchina
+- **Livello:** Intermedio / Avanzato.
+
+### Analisi
+Altman costruisce spesso le conversazioni come un flusso non perfettamente ordinato: le voci possono sovrapporsi, alcune battute risultano meno intelligibili e il parlato non viene sempre isolato in primo piano. Lo spettatore deve scegliere a quale voce prestare attenzione, mentre il suono restituisce l'impressione di un ambiente abitato da più persone.
+
+Nel film, la parola di Marlowe non domina sempre lo spazio: può essere coperta, ignorata o perdere centralità rispetto alle voci e ai rumori circostanti. La costruzione sonora contribuisce così a rappresentare un protagonista che fatica a entrare in sintonia con il mondo che lo circonda.
+
+### Perché è didatticamente utile
+Consente di mostrare che la chiarezza del dialogo non è sempre l'obiettivo del missaggio. La sovrapposizione può produrre densità, realismo, confusione o marginalizzazione di un personaggio.
+
+### Obiettivo didattico
+Riconoscere il dialogo sovrapposto e descrivere come livelli sonori, riverbero e intelligibilità costruiscano la percezione dello spazio.
+
+### Attività
+Ascoltare un frammento senza guardare lo schermo e annotare quante voci sono presenti, quali sono comprensibili e quali restano sullo sfondo. Ripetere la visione per verificare il rapporto tra posizione dei personaggi e livello sonoro.
+
+### Domande
+1. Quale voce riusciamo a seguire e quale resta in secondo piano?
+2. La sovrapposizione rende la scena più realistica o più difficile da comprendere?
+3. Come viene costruito lo spazio anche quando non vediamo chi parla?
+
+### Collegamenti
+- *His Girl Friday* — sovrapposizione del dialogo come ritmo comico.
+- *The Conversation* — punto di ascolto e selezione dell'informazione.
+- *M* — voce e suono fuori campo.
+
+### Fonti
+- University of Michigan, *The Many Hats of Robert Altman: A Life in Cinema*, sezione su suono e musica: https://apps.lib.umich.edu/online-exhibits/exhibits/show/altman/altmanesque-sound---music
+- University of Michigan, materiali dell'Altman Archive sull'overlapping dialogue: https://deepblue.lib.umich.edu/bitstream/handle/2027.42/110220/Sound2.pdf?isAllowed=y&sequence=22
+- CineMontage, “Robert Altman: The Sound Crew’s Best Companion”: https://cinemontage.org/robert-altman/
+
+**Stato:** DA COMPLETARE — individuare una singola scena in cui la sovrapposizione sia chiaramente percepibile e controllare il missaggio dell'edizione scelta.
+
+---
+
+## 58. *Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — il piano-sequenza al Copacabana
+[↑ Torna all'indice](#indice-interattivo)
+
+### Identificazione
+- **Scena:** ingresso di Henry e Karen al Copacabana, dalla strada fino al tavolo attraverso l'ingresso di servizio e gli ambienti del locale.
+- **Concetto principale:** piano-sequenza e movimento di macchina come organizzazione dello spazio.
+- **Concetti secondari:** Steadicam, long take, profondità, blocking, fuori campo, continuità, punto di vista.
+- **Tag:** #piano-sequenza #long-take #steadicam #movimento-di-macchina #spazio #blocking #continuità
+- **Livello:** Base / Intermedio.
+
+### Analisi
+La macchina da presa accompagna Henry e Karen in un percorso che attraversa diversi ambienti del locale. Il movimento non si limita a registrare uno spostamento: permette allo spettatore di scoprire progressivamente gli spazi e rende visibile il potere sociale di Henry attraverso il modo in cui viene accolto e fatto avanzare.
+
+La continuità del movimento crea un'esperienza immersiva e collega l'organizzazione dello spazio alla relazione tra i personaggi. L'assenza di tagli percepibili durante il percorso rende possibile osservare come la macchina da presa, gli attori e gli elementi scenografici debbano essere coordinati.
+
+### Perché è didatticamente utile
+È un esempio chiaro di long take in cui il movimento della macchina da presa costruisce lo spazio e contribuisce alla caratterizzazione del protagonista. Si presta anche a un confronto con *Rope*, *Touch of Evil* e *Birdman*.
+
+### Obiettivo didattico
+Ricostruire il percorso della macchina da presa e spiegare come movimento, blocking e continuità organizzino lo spazio narrativo.
+
+### Attività
+Disegnare una pianta semplificata del percorso compiuto dalla macchina da presa. In un secondo momento, progettare uno storyboard che trasformi il piano-sequenza in una sequenza di cinque inquadrature e confrontare gli effetti delle due soluzioni.
+
+### Domande
+1. Quali ambienti attraversiamo insieme ai personaggi?
+2. In che modo il movimento della macchina da presa modifica la nostra percezione di Henry?
+3. Che cosa rende possibile seguire l'azione senza interromperla con il montaggio?
+
+### Collegamenti
+- *Rope* — continuità apparente e raccordi nascosti.
+- *Touch of Evil* — piano-sequenza e movimento nello spazio.
+- *Birdman* — continuità simulata e coreografia della macchina da presa.
+- *The Long Goodbye* — macchina da presa mobile e spazio sonoro.
+
+### Fonti
+- Studi sulla Steadicam e sulla collaborazione tra Martin Scorsese e il direttore della fotografia Michael Ballhaus.
+- Analisi del piano-sequenza del Copacabana in *Goodfellas*.
+
+**Stato:** DA COMPLETARE — controllare il punto di inizio e fine del piano-sequenza e il timecode sull'edizione scelta.
+
 # COSTELLAZIONI DIDATTICHE — AGGIORNAMENTO 3
 
 ### Zoom, travelling e deformazione prospettica
@@ -3138,6 +3751,21 @@ Fermare tre fotogrammi e chiedere agli studenti di indicare chi occupa il centro
 
 ### Illuminazione e costruzione del personaggio
 *Metropolis* → *The Godfather* → *The Shining*
+
+### Immagine, memoria e autoriflessività
+*The Fabelmans* → *Blow-Up* → *Blow Out* → *L'uomo con la macchina da presa*
+
+### Spazio sociale e messa in scena
+*The Apartment* → *Ace in the Hole* → *Gran Torino* → *Metropolis*
+
+### Suono come linguaggio e ambiente
+*Close Encounters of the Third Kind* → *The Conversation* → *The Long Goodbye* → *His Girl Friday*
+
+### Movimento, durata e attesa
+*C'era una volta il West* → *Goodfellas* → *Rope* → *Touch of Evil* → *Birdman*
+
+### Montaggio e compressione del tempo
+*Million Dollar Baby* → *The Graduate* → *Memento* → *Titanic*
 
 ### Tecniche di transizione ancora da coprire
 - match on action specifico
