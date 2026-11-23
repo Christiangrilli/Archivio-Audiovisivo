@@ -191,7 +191,7 @@ La ricognizione dell'archivio individua **93 schede operative**. Il conteggio co
 | Obiettivo didattico | 67 | 26 |
 | Attività | 42 | 51 |
 | Domande | 60 | 33 |
-| Verifica formativa | 6 | 87 |
+| Verifica formativa | 21 | 72 |
 | Collegamenti | 58 | 35 |
 | Fonti | 48 | 45 |
 | Stato della scheda | 16 | 77 |
