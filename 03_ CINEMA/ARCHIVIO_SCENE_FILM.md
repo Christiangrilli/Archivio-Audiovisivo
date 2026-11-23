@@ -1434,25 +1434,81 @@ Per ogni fase indicano **che cosa vede lo spettatore**, **che cosa sente**, **ch
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scene:** apertura; interfaccia visiva; manipolazione delle immagini del futuro; ambienti e schermi.
-- **Concetto principale:** interfaccia e immagine mediata.
-- **Concetti secondari:** schermo, punto di vista, display, premediazione, nuove tecnologie.
-- **Tag:** #inquadratura #punto-di-vista #spazio #narrazione
-- **Livello:** Intermedio / Avanzato.
-- **Uso:** media education e linguaggio audiovisivo contemporaneo.
+- **Sequenza:** John Anderton utilizza l'interfaccia gestuale della PreCrime per scorrere, ingrandire, spostare e confrontare le immagini delle visioni dei precog, alla ricerca di indizi utili a identificare un omicidio imminente.
+- **Concetto principale:** interfaccia diegetica e manipolazione dell'immagine in movimento.
+- **Concetti secondari:** gesture-based interaction, spazio informativo, display trasparente, montaggio interno, selezione dei dati, post-produzione, rapporto uomo-macchina.
+- **Tag:** #interfaccia #schermo #immagine-digitale #montaggio #punto-di-vista #media-education #tecnologia
+- **Livello:** Intermedio.
+- **Uso consigliato:** analizzare come il cinema rappresenti un'interfaccia e come le immagini diventino oggetti manipolabili all'interno dello spazio narrativo.
+- **Stato:** **DA COMPLETARE** — selezionare un frammento preciso della scena alla PreCrime e verificare la durata sulla copia disponibile.
 
-### Analisi
-Le immagini non sono semplicemente rappresentazioni da osservare: diventano superfici operative che il personaggio può manipolare. La scena permette quindi di discutere il passaggio dalla visione cinematografica tradizionale alla cultura degli schermi interattivi e delle interfacce.
+### Contesto essenziale
+Nel 2054, la polizia utilizza le visioni dei precog per individuare gli omicidi prima che avvengano. John Anderton, responsabile dell'unità PreCrime, consulta le immagini prodotte dai precog attraverso una grande superficie trasparente e curva. Indossa guanti con sensori e usa gesti delle mani per richiamare, spostare, ingrandire e mettere in relazione i frammenti visivi. L'interfaccia è parte del mondo narrativo, ma costituisce anche una rappresentazione cinematografica di un possibile rapporto futuro fra corpo e computer.
+
+### Analisi formale
+La scena trasforma lo schermo da superficie frontale da osservare a spazio di lavoro da attraversare e manipolare. Le immagini non vengono presentate come una sequenza lineare già montata: Anderton le seleziona, le ingrandisce, le sposta, le sovrappone e le confronta. Il personaggio si muove davanti al display come un direttore d'orchestra, e i gesti diventano comandi che modificano il flusso delle informazioni.
+
+L'interfaccia è costruita attraverso un linguaggio gestuale coerente. Un movimento della mano può far avanzare o arretrare le immagini, un altro può ingrandire un dettaglio o spostare una finestra. La coreografia non è soltanto un effetto scenografico: rende visibile il processo di selezione e interpretazione dei dati. Lo spettatore vede il personaggio pensare attraverso le immagini, isolando dettagli che potrebbero contribuire alla ricostruzione dell'evento.
+
+La scena ha anche una dimensione produttiva interessante. John Underkoffler, consulente tecnologico del film, progettò un vocabolario di gesti e addestrò gli attori a utilizzarlo. Durante le riprese, gli interpreti eseguivano i movimenti davanti a uno schermo che non conteneva ancora tutte le immagini definitive: i contenuti grafici e le finestre visive furono aggiunti in post-produzione. L'effetto finale nasce quindi dalla combinazione di gesti realmente coreografati, superfici scenografiche e compositing digitale.
+
+È importante distinguere tre livelli:
+1. **interfaccia diegetica:** il sistema informatico che esiste nel mondo del film;
+2. **azione performativa:** i gesti dell'attore, che rendono credibile l'interazione;
+3. **immagine cinematografica:** il modo in cui montaggio, inquadratura e post-produzione mostrano allo spettatore il funzionamento del sistema.
+
+La scena anticipa alcune forme di interazione gestuale e di spatial computing, ma non va trattata come una previsione tecnologica letteralmente realizzata. È una proposta di design costruita per essere leggibile e spettacolare all'interno del film.
+
+### Evidenze da far osservare
+1. Come è organizzata la superficie trasparente e quali informazioni contiene.
+2. Quali gesti corrispondono a spostamento, selezione, ingrandimento o eliminazione delle immagini.
+3. Come il corpo di Anderton entra nello spazio del display.
+4. In che modo il montaggio alterna il volto dell'attore, le mani e le immagini manipolate.
+5. Quali informazioni diventano leggibili soltanto dopo l'ingrandimento o il confronto fra più immagini.
+6. Come la scena rende visibile il processo di indagine e di interpretazione dei dati.
+
+### Perché è didatticamente utile
+La sequenza consente di collegare linguaggio audiovisivo e media education. Gli studenti possono analizzare un'interfaccia come elemento della messa in scena e, contemporaneamente, interrogare il modo in cui il cinema rappresenta la manipolazione delle immagini. È utile anche per discutere la differenza fra immagine come rappresentazione e immagine come dato operativo, cioè qualcosa che può essere selezionato, ordinato e trasformato.
 
 ### Obiettivo didattico
-Riconoscere come il cinema rappresenti e anticipi forme di interazione con le immagini e comprendere il rapporto fra dispositivo cinematografico e cultura digitale.
+Al termine dell'attività, lo studente sa descrivere il funzionamento narrativo di un'interfaccia diegetica, riconoscere i gesti che modificano le immagini e spiegare come recitazione, scenografia, montaggio e post-produzione costruiscano l'effetto di interazione.
+
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare la scena senza introdurre il contesto tecnologico. Chiedere agli studenti di annotare quali gesti compie Anderton e quali cambiamenti producono sullo schermo.
+2. **Mappatura dei comandi:** costruire una tabella con gesto, azione sul display e risultato informativo.
+3. **Analisi dell'inquadratura:** individuare i momenti in cui lo spettatore vede le mani, il volto, il display completo o un dettaglio delle immagini.
+4. **Confronto con il reale:** mostrare un esempio contemporaneo di interfaccia gestuale o spaziale e discutere somiglianze e differenze, senza considerare il film una previsione esatta.
+5. **Rielaborazione:** progettare una piccola interfaccia per consultare un archivio audiovisivo, disegnando tre gesti e specificando quali operazioni svolgono.
+
+### Domande per gli studenti
+1. In che modo Anderton interagisce con le immagini senza tastiera e mouse?
+2. Quali informazioni diventano disponibili attraverso l'ingrandimento e lo spostamento dei frammenti?
+3. Perché il corpo dell'attore è parte integrante dell'interfaccia?
+4. Che differenza c'è fra guardare un'immagine e manipolarla come dato?
+5. Quali aspetti della scena sono stati realizzati durante le riprese e quali aggiunti in post-produzione?
+
+### Verifica formativa
+Gli studenti realizzano una scheda di analisi dell'interfaccia con quattro voci:
+- gesto eseguito dall'attore;
+- operazione compiuta sul display;
+- informazione visiva resa disponibile;
+- funzione narrativa dell'operazione.
+
+A conclusione, progettano un'interfaccia semplificata per la consultazione di un archivio di immagini, indicando almeno tre gesti e le rispettive funzioni.
+
+**Criteri:** descrizione precisa dei gesti, comprensione della relazione fra corpo e interfaccia, distinzione fra dispositivo diegetico e dispositivo cinematografico, capacità di progettare una funzione coerente.
 
 ### Collegamenti
-- *Ready Player One*.
-- *La Galassia Lumière*.
-- Media literacy e intermedialità.
+- **Interfaccia e immagine digitale:** *Ready Player One* — ambiente virtuale e avatar.
+- **Immagini come prova:** *Blow-Up* — ingrandimento, dettaglio e interpretazione.
+- **Manipolazione delle immagini:** *The Conversation* — registrazione, ascolto e analisi del materiale.
+- **Cinema e tecnologia:** *The Fabelmans* — immagini come oggetti di lavoro e di conoscenza.
 
----
+### Fonti e riferimenti
+- MIT News, «MIT grad directs Spielberg in the science of moviemaking», 17 luglio 2002. Intervista a John Underkoffler sulla progettazione dell'interfaccia gestuale, sul linguaggio dei comandi e sull'aggiunta delle immagini in post-produzione: https://news.mit.edu/2002/underkoffler-0717
+- John Underkoffler, «Minority Report», portfolio e materiali di progetto sull'interfaccia gestuale ideata per il film: https://vimeo.com/126756877
+- John Underkoffler, intervista su *Salon*, 10 luglio 2002, sul progetto dell'interfaccia e sull'idea di un sistema simile alla direzione di un'orchestra: https://www.salon.com/2002/07/10/underkoffler_belker/
+- Paul Dourish e altri studi su interazione gestuale e spatial computing possono essere utilizzati per ampliare il confronto fra interfaccia cinematografica e interazione reale.
 
 ## 14. *Ready Player One* (Steven Spielberg, 2018)
 [↑ Torna all'indice](#indice-interattivo)
