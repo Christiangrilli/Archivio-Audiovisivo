@@ -75,7 +75,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Shining* (Stanley Kubrick, 1980)](ARCHIVIO_SCENE_FILM.md#24-shining-stanley-kubrick-1980)
 - [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-stanley-kubrick-1968)
 - [*Dunkirk* (Christopher Nolan, 2017) / *Tenet* (Christopher Nolan, 2020)](ARCHIVIO_SCENE_FILM.md#27-dunkirk-christopher-nolan-2017-tenet-christopher-nolan-2020)
-- [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant-redivivo-alejandro-g-iñárritu-2015)
+- [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant---redivivo-alejandro-g-iñárritu-2015)
 - [*La nascita di una nazione* (*The Birth of a Nation*, D. W. Griffith, 1915)](ARCHIVIO_SCENE_FILM.md#30-la-nascita-di-una-nazione-the-birth-of-a-nation-d-w-griffith-1915)
 - [*Wall-E* (Andrew Stanton, 2008)](ARCHIVIO_SCENE_FILM.md#32-wall-e-andrew-stanton-2008)
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set)
@@ -125,7 +125,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Shining* (Stanley Kubrick, 1980)](ARCHIVIO_SCENE_FILM.md#24-shining-stanley-kubrick-1980)
 - [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-stanley-kubrick-1968)
 - [*Io non ho paura* (Gabriele Salvatores, 2003)](ARCHIVIO_SCENE_FILM.md#28-io-non-ho-paura-gabriele-salvatores-2003)
-- [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant-redivivo-alejandro-g-iñárritu-2015)
+- [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant---redivivo-alejandro-g-iñárritu-2015)
 - [*News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)](ARCHIVIO_SCENE_FILM.md#34-news-from-home-chantal-akerman-1976-jeanne-dielman-chantal-akerman-1975)
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set)
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](ARCHIVIO_SCENE_FILM.md#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille)
@@ -259,7 +259,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*8½* (Federico Fellini, 1963)](ARCHIVIO_SCENE_FILM.md#8-8½-federico-fellini-1963)
 - [*The Grand Budapest Hotel* (Wes Anderson, 2014)](ARCHIVIO_SCENE_FILM.md#22-the-grand-budapest-hotel-wes-anderson-2014)
 - [*Io non ho paura* (Gabriele Salvatores, 2003)](ARCHIVIO_SCENE_FILM.md#28-io-non-ho-paura-gabriele-salvatores-2003)
-- [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant-redivivo-alejandro-g-iñárritu-2015)
+- [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant---redivivo-alejandro-g-iñárritu-2015)
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set)
 - [*Metropolis* (Fritz Lang, 1927)](ARCHIVIO_SCENE_FILM.md#19-metropolis-fritz-lang-1927)
 - [*Blow-Up* (Michelangelo Antonioni, 1966)](ARCHIVIO_SCENE_FILM.md#27-blow-up-michelangelo-antonioni-1966)
@@ -338,7 +338,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Rashomon* (Akira Kurosawa, 1950)](ARCHIVIO_SCENE_FILM.md#9-rashomon-akira-kurosawa-1950) — focalizzazione multipla / narrazione a prospettive divergenti.
 - [*Ready Player One* (Steven Spielberg, 2018)](ARCHIVIO_SCENE_FILM.md#14-ready-player-one-steven-spielberg-2018) — intermedialità e spazio virtuale.
 - [*Rear Window / La finestra sul cortile* (Alfred Hitchcock, 1954) — SCHEDA OPERATIVA: REGOLA DEI 180°](ARCHIVIO_SCENE_FILM.md#36-rear-window-la-finestra-sul-cortile-alfred-hitchcock-1954-scheda-operativa-regola-dei-180) — regola dei 180° e continuità dello spazio.
-- [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant-redivivo-alejandro-g-iñárritu-2015) — luce naturale.
+- [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant---redivivo-alejandro-g-iñárritu-2015) — luce naturale.
 - [*Rocco e i suoi fratelli* (Luchino Visconti, 1960)](ARCHIVIO_SCENE_FILM.md#4-rocco-e-i-suoi-fratelli-luchino-visconti-1960) — messa in scena del corpo e del melodramma.
 - [*Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)](ARCHIVIO_SCENE_FILM.md#4-rope-nodo-alla-gola-alfred-hitchcock-1948) — long take e continuità apparente.
 - [*Se mi lasci ti cancello* (*Eternal Sunshine of the Spotless Mind*, Michel Gondry, 2004)](ARCHIVIO_SCENE_FILM.md#19-se-mi-lasci-ti-cancello-eternal-sunshine-of-the-spotless-mind-michel-gondry-2004) — spazio mentale e disorientamento.
