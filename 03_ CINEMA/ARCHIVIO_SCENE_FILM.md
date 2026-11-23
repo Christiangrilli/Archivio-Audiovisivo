@@ -645,47 +645,73 @@ Le indicazioni sulla durata e sul minutaggio restano volutamente non specificate
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** sequenze nel museo, presentazione di David, incontro e dialoghi con Susan, fino alla conclusione nel museo.
-- **Concetto principale:** découpage classico e continuità spaziale.
-- **Concetti secondari:** campo/controcampo, raccordo di sguardo, raccordo sull'asse, establishing shot, motivazione narrativa, messa in scena.
-- **Tag:** #inquadratura #montaggio #continuità #raccordo #dialogo #messa-in-scena #spazio
+- **Sequenza di riferimento:** incontro tra David Huxley e Susan Vance sul campo da golf e prime interazioni fra i due. Per un lavoro più circoscritto si può isolare il breve passaggio in cui il gesto di Susan viene ripreso attraverso un raccordo sul movimento; il punto esatto va individuato sulla copia utilizzata in classe.
+- **Concetto principale:** découpage classico e costruzione della continuità.
+- **Concetti secondari:** raccordo sul movimento (match on action), raccordo di sguardo, organizzazione dello spazio, asse d'azione, movimento di macchina, ritmo comico.
+- **Tag:** #inquadratura #montaggio #continuità #raccordo #spazio #découpage #commedia
 - **Livello:** Base / Intermedio.
-- **Uso:** introduzione al découpage classico; analisi formale.
+- **Uso consigliato:** introduzione alla continuità classica; confronto fra leggibilità spaziale e libertà del ritmo comico.
+- **Stato:** **DA COMPLETARE** — la sequenza e i passaggi da proiettare devono essere selezionati e verificati sull'edizione effettivamente disponibile; non sono indicati timecode non controllati.
 
-### Analisi
-La scena permette di osservare il funzionamento della costruzione classica dello spazio: l'ambiente viene presentato in modo da orientare lo spettatore e le successive inquadrature frammentano l'azione senza compromettere la percezione dell'unità spaziale. Nei dialoghi, la posizione reciproca dei personaggi e la direzione degli sguardi vengono mantenute attraverso raccordi che rendono il montaggio poco percepibile.
+### Contesto essenziale
+David Huxley è un paleontologo concentrato sul lavoro al museo; l'incontro con Susan Vance mette progressivamente in crisi la sua agenda e il suo comportamento controllato. Per l'analisi del linguaggio non è necessario riassumere l'intera trama: basta chiarire che i due personaggi si incontrano sul campo da golf e che il loro dialogo inaugura una dinamica di inseguimenti, equivoci e continui cambi di iniziativa.
 
-La comicità non elimina questa organizzazione: al contrario, la rapidità degli scambi e la moltiplicazione degli eventi sono rese leggibili proprio grazie alla chiarezza della messa in scena e del découpage.
+### Analisi formale
+La sequenza è utile per osservare come il découpage organizzi l'azione in una successione di inquadrature leggibili. La posizione dei personaggi, le direzioni degli sguardi e i movimenti del corpo forniscono allo spettatore indicazioni per ricostruire lo spazio e seguire lo scambio. Il raccordo sul movimento è un punto di osservazione particolarmente concreto: il gesto iniziato in un'inquadratura prosegue in quella successiva e il taglio tende così a essere percepito come continuità dell'azione.
+
+È importante, tuttavia, non trasformare *Susanna* in un esempio schematico di applicazione rigida delle regole. David Bordwell, commentando proprio il film, osserva che la sequenza del golf contiene anche raccordi volutamente irregolari: posizioni e posture dei personaggi possono cambiare in modo brusco da un'inquadratura all'altra. In altri passaggi Hawks realizza invece raccordi sul movimento molto precisi. Questa alternanza è didatticamente interessante: la continuità classica è un sistema di convenzioni e di aspettative, non una formula meccanica che ogni film applica senza variazioni.
+
+La comicità nasce anche dal rapporto fra chiarezza dell'azione e instabilità dei comportamenti. Lo spettatore riesce a seguire la situazione, mentre i personaggi perdono progressivamente il controllo degli eventi. Il ritmo non dipende soltanto dalla velocità dei dialoghi, ma anche dalla durata delle inquadrature, dai movimenti, dalle entrate e uscite dal quadro e dalla collocazione dei corpi nello spazio.
+
+### Evidenze da far osservare
+Durante la seconda visione chiedere agli studenti di annotare soltanto elementi verificabili:
+1. dove si trovano David e Susan all'inizio del frammento e come cambia la loro posizione;
+2. in quale direzione si muovono o guardano i personaggi;
+3. se un gesto cominciato prima del taglio continua dopo il cambio d'inquadratura;
+4. quali tagli mantengono fluida l'azione e quali producono invece un piccolo scarto comico;
+5. quando il movimento della macchina da presa accompagna un personaggio o una variazione dell'azione.
+
+Non assumere in anticipo che ogni passaggio rispetti l'asse o il raccordo: la verifica di eventuali scarti fa parte dell'esercizio.
 
 ### Perché è didatticamente utile
-È un ottimo punto di partenza per mostrare che il «montaggio invisibile» non significa assenza di montaggio, ma costruzione di una continuità percettiva che permette allo spettatore di concentrarsi sull'azione.
+La scena permette di introdurre il découpage classico a partire da un caso concreto e, nello stesso tempo, di evitare una visione normativa del linguaggio cinematografico. Gli studenti possono riconoscere le convenzioni che rendono comprensibile lo spazio e poi accorgersi di come un regista possa giocare con quelle stesse convenzioni per produrre ritmo e comicità.
 
 ### Obiettivo didattico
-Lo studente deve riconoscere campo/controcampo, raccordi e organizzazione dello spazio e comprendere la funzione della continuità classica.
+Al termine dell'attività, lo studente sa descrivere la continuità spaziale di un breve scambio, individuare almeno un raccordo sul movimento o di sguardo e sostenere la propria osservazione con un elemento preciso della sequenza. Sa inoltre distinguere una discontinuità intenzionale da un errore di osservazione, motivando la risposta.
 
 ### Come utilizzarla in classe
-1. Prima visione senza interrompere.
-2. Seconda visione fermando il frammento nei cambi di inquadratura.
-3. Ricostruzione alla lavagna della posizione dei personaggi.
-4. Discussione: «Perché percepiamo lo spazio come continuo anche se la macchina da presa cambia posizione?».
+1. **Prima visione:** proiettare il frammento senza interromperlo e chiedere agli studenti di descrivere che cosa accade, senza introdurre subito i nomi delle tecniche.
+2. **Seconda visione:** concentrarsi sulle posizioni dei personaggi e sui gesti che attraversano il taglio.
+3. **Mappa dello spazio:** ricostruire con uno schema semplice la posizione relativa dei personaggi e le direzioni dei loro movimenti e sguardi.
+4. **Analisi del montaggio:** individuare un raccordo che rende fluida l'azione e, se presente nel frammento scelto, un taglio che introduce uno scarto comico.
+5. **Rielaborazione:** chiedere agli studenti di disegnare uno storyboard di 4–6 inquadrature per la stessa azione, mantenendo la continuità; in una seconda versione possono introdurre uno scarto controllato e spiegare quale effetto produce.
 
-### Concetti spiegabili
-- découpage classico;
-- raccordo di sguardo;
-- raccordo sull'asse;
-- continuità spaziale;
-- motivazione del montaggio.
+### Domande per gli studenti
+1. Quali informazioni ci permettono di capire dove si trovano i personaggi?
+2. Che cosa cambia fra un'inquadratura e la successiva: posizione, direzione dello sguardo, gesto o distanza?
+3. Individua un gesto che continua attraverso un taglio: che cosa rende leggibile il raccordo?
+4. Tutti i tagli mantengono la stessa fluidità? Se noti uno scarto, quale effetto produce sul ritmo o sulla comicità?
+5. In che modo la chiarezza dello spazio contribuisce a rendere comprensibile una situazione sempre più caotica?
+
+### Verifica formativa
+Consegnare agli studenti una breve sequenza di 4–6 fotogrammi, oppure uno storyboard ricavato dal frammento. Chiedere di:
+- descrivere l'ordine dell'azione;
+- riconoscere un raccordo sul movimento o di sguardo;
+- indicare un elemento che permette di ricostruire lo spazio;
+- spiegare in 3–5 righe l'effetto di un taglio particolarmente evidente.
+
+**Criteri:** correttezza del lessico essenziale, precisione descrittiva, uso di evidenze visive, coerenza fra osservazione e interpretazione.
 
 ### Collegamenti
-- **Teoria:** cinema classico hollywoodiano, découpage e continuità.
-- **Confronti:** *Casablanca*, *Gli ultimi fuochi*.
-- **Regista:** Howard Hawks.
-- **Forma:** screwball comedy.
+- **Continuità classica:** *Ombre rosse* (*Stagecoach*) — organizzazione dello spazio d'azione e raccordi.
+- **Rottura delle convenzioni:** *Fino all'ultimo respiro* (*À bout de souffle*) — discontinuità e jump cut.
+- **Continuità apparente:** *Rope* (*Nodo alla gola*) — durata, movimento di macchina e tagli mascherati.
+- **Approfondimento sul raccordo:** *His Girl Friday* — ritmo dialogico e organizzazione dei corpi nello spazio.
 
-### Note
-La scena contiene un forte ritmo dialogico e comico; è preferibile selezionare un frammento breve e autonomo.
-
----
+### Fonti e riferimenti
+- David Bordwell, «Observations on film art: Hawks’ eyes», 2008, analisi dei raccordi sul movimento in *Bringing Up Baby* e delle discontinuità presenti nella sequenza del golf: https://www.davidbordwell.net/blog/2008/05/
+- Museum of Modern Art (MoMA), «Howard Hawks’s Bringing Up Baby», 1 marzo 2011, inquadramento del film e della poetica comica di Hawks: https://www.moma.org/explore/inside_out/2011/03/01/howard-hawkss-bringing-up-baby/
+- David Bordwell, Janet Staiger e Kristin Thompson, *The Classical Hollywood Cinema: Film Style & Mode of Production to 1960*, Columbia University Press, 1985, per il quadro storico e teorico del découpage e della continuità classica.
 
 ## 2. *Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)
 [↑ Torna all'indice](#indice-interattivo)
