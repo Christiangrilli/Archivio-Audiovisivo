@@ -155,14 +155,14 @@ Questa sequenza è una priorità di lavoro, non un vincolo assoluto: può cambia
 
 ## 10. Stato del progetto al 23 novembre 2026 — ricognizione
 
-- L'archivio contiene **93 schede operative** (incluse le schede comparative), distribuite in più blocchi editoriali stratificati nel tempo. La numerazione non è ancora uniforme: non usare il numero della scheda come conteggio complessivo senza controllare la struttura.
+- L'archivio contiene **93 schede operative** (incluse le schede comparative), numerate progressivamente da 1 a 93. Le sezioni preliminari e le costellazioni didattiche non rientrano in questa numerazione.
 - L'indice contiene **93 destinazioni uniche** e **322 collegamenti** distribuiti fra i percorsi per concetto e l'elenco alfabetico. I sette conteggi dichiarati nelle categorie tematiche corrispondono al numero effettivo di voci elencate.
 - La verifica degli anchor ha individuato un collegamento non corretto per *Revenant - Redivivo*, da correggere nell'indice. Dopo la correzione, ripetere il controllo automatico di tutti i collegamenti.
 - La guida operativa è stata aggiornata con una fotografia documentale delle 93 schede: 16 presentano uno stato esplicito (15 **DA COMPLETARE**, 1 **DA VERIFICARE**); 77 non hanno ancora uno stato dichiarato. Nessuna scheda risulta contrassegnata **PRONTA**.
-- La carenza più evidente riguarda la verifica formativa: 21 schede presentano un'intestazione esplicita dedicata, mentre 72 non la riportano. Anche attività, fonti e collegamenti richiedono una revisione progressiva. Nella revisione sono state aggiunte verifiche formative alle schede 44–58, portando da 6 a 21 le schede con un'intestazione esplicita per la verifica.
+- La carenza più evidente riguarda la verifica formativa: 21 schede presentano un'intestazione esplicita dedicata, mentre 72 non la riportano. Anche attività, fonti e collegamenti richiedono una revisione progressiva. Nella revisione sono state aggiunte verifiche formative alle schede 79–93, portando da 6 a 21 le schede con un'intestazione esplicita per la verifica.
 - *Pillow Talk* è stato rimosso dall'archivio e dall'indice perché l'utente non desidera utilizzarlo. La menzione nelle preferenze editoriali serve soltanto a ricordare di non reinserirlo.
 - Le schede più recenti, numerate 44–58, hanno già obiettivi, attività, domande, collegamenti e fonti, ma restano da completare o verificare per la delimitazione del frammento e il controllo sulla copia scelta. Non inventare timecode.
-- Le priorità sono: uniformare la numerazione e la struttura dei blocchi; assegnare uno stato motivato a tutte le schede; completare verifiche formative e fonti; controllare i frammenti; aggiornare gli indici dopo ogni modifica.
+- Le priorità sono: assegnare uno stato motivato a tutte le schede; completare verifiche formative e fonti; controllare i frammenti; aggiornare gli indici dopo ogni modifica e preservare la numerazione progressiva.
 - Gli SHA dei file e i conteggi sono dati di ricognizione del momento: prima di ogni modifica recuperare sempre la versione corrente dal repository.
 ---
 
