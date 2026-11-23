@@ -57,8 +57,8 @@ L'indice esterno raccoglie:
 - [Criteri di selezione](#criteri-di-selezione)
 - [Tag standard](#tag-standard)
 - [Note sulle fonti](#note-sulle-fonti)
-- [Repertorio preliminare delle scene](#scene-già-presenti-nelle-fonti-dellarchivio)
-- [Schede operative](#schede-iniziali--scene-ricavate-dalle-fonti-della-repository)
+- [Repertorio preliminare delle scene](#repertorio-preliminare--scene-ricavate-dalle-fonti)
+- [Schede operative](#schede-operative--prima-selezione)
 - [Progressione didattica](#progressione-didattica-aggiornata)
 - [Mappa di copertura dei concetti](#mappa-di-copertura-dei-concetti)
 
