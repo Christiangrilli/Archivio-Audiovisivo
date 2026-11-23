@@ -203,3 +203,17 @@ L'obiettivo dell'archivio è costruire progressivamente una **base documentaria 
 La repository non vuole essere, almeno allo stato attuale, un'enciclopedia completa del cinema e dei media, ma uno spazio nel quale raccogliere, ordinare e rendere interrogabili materiali utili alla costruzione della conoscenza disciplinare.
 
 > **Raccogliere, organizzare, collegare e utilizzare la conoscenza audiovisiva.**
+
+---
+
+## SCENE FILM — Archivio didattico delle scene cinematografiche
+
+La cartella [`03_ CINEMA/`](03_%20CINEMA/) ospita il progetto **SCENE FILM**, un atlante di scene cinematografiche costruito per la progettazione e la conduzione delle lezioni di Discipline audiovisive (A-07).
+
+I documenti di riferimento sono:
+
+- [`ARCHIVIO_SCENE_FILM.md`](03_%20CINEMA/ARCHIVIO_SCENE_FILM.md) — repertorio delle scene, indice per concetti e film, analisi formali e schede didattiche.
+- [`GUIDA_OPERATIVA_DIDATTICA.md`](03_%20CINEMA/GUIDA_OPERATIVA_DIDATTICA.md) — protocollo di visione attiva, progettazione della lezione, obiettivi, valutazione, inclusione e modello delle attività.
+- [`ISTRUZIONI_PROGETTO_SCENE_FILM.md`](03_%20CINEMA/ISTRUZIONI_PROGETTO_SCENE_FILM.md) — finalità, standard editoriali e scientifici, regole di aggiornamento e stato del progetto.
+
+L'archivio non è una semplice filmografia: deve consentire di passare da un concetto audiovisivo a una scena osservabile, da quella scena a un'attività per gli studenti e dall'attività a una verifica dell'apprendimento.
