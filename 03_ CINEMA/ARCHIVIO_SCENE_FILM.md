@@ -1277,26 +1277,80 @@ Gli studenti compilano una tabella con quattro colonne: **inquadratura**, **posi
 - Warren Buckland, «Cutting to the Chase», 2020, capitolo dedicato alle strategie formali di *Jaws*: punto di vista ritardato dello squalo, spazio fuori campo e controllo dell'informazione: https://radar.brookes.ac.uk/radar/file/f175f5cf-7bfc-4c06-85e9-065b6e1145d2/1/Cutting%20to%20the%20chase%20-%209781501347528%20-%202020%20-%20Buckland.pdf
 - Giorgio Biancorosso, «The Shark in the Music», *The Musical Quarterly*, 94, nn. 1–3, 2011, pp. 306–333, DOI: 10.1093/musqtl/gdr008. Analizza la funzione preparatoria del tema musicale nella sequenza del primo attacco: https://doi.org/10.1093/musqtl/gdr008
 
-## 11. *E.T. l'extra-terrestre* (Steven Spielberg, 1982)
+## 11. *E.T. l'extra-terrestre* (*E.T. the Extra-Terrestrial*, Steven Spielberg, 1982)
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scene:** rane; simultaneità fra Elliott ed E.T.; primo incontro nel capanno; E.T. guarda *Tom & Jerry*.
-- **Concetto principale:** identificazione e messa in scena della relazione.
-- **Concetti secondari:** intertestualità, empatia, simultaneità, televisione, citazione.
-- **Tag:** #messa-in-scena #punto-di-vista #narrazione #dialogo
+- **Sequenza:** la liberazione delle rane durante la lezione di scienze, alternata alle azioni di E.T. a casa. La sequenza culmina nel parallelismo fra il bacio di John Wayne a Maureen O'Hara sul televisore e il bacio di Elliott alla compagna di classe.
+- **Concetto principale:** montaggio alternato e costruzione audiovisiva della simultaneità.
+- **Concetti secondari:** raccordo sul movimento, parallelismo, montaggio interno, punto di vista infantile, intertestualità, musica, legame empatico fra personaggi.
+- **Tag:** #montaggio #montaggio-alternato #raccordo-sul-movimento #intertestualità #punto-di-vista #musica #narrazione
 - **Livello:** Base / Intermedio.
-- **Uso:** analisi e confronto.
+- **Uso consigliato:** mostrare come il montaggio possa collegare azioni simultanee in luoghi diversi e trasformare un rapporto invisibile fra personaggi in una relazione percepibile attraverso immagini e gesti.
+- **Stato:** **DA COMPLETARE** — delimitare la sequenza e controllare i passaggi di montaggio sulla copia utilizzata in classe.
 
-### Analisi
-Spielberg costruisce il rapporto fra Elliott ed E.T. attraverso la disposizione dei corpi, il punto di vista e la progressiva trasformazione della creatura da oggetto sconosciuto a personaggio con cui lo spettatore può identificarsi.
+### Contesto essenziale
+Elliott è a scuola, mentre E.T. è rimasto solo a casa. I due sono legati da una connessione telepatica: quando E.T. beve birra, Elliott comincia a comportarsi come se fosse ubriaco. Durante una lezione in cui gli studenti devono dissezionare delle rane, Elliott decide di liberarle. A casa, E.T. osserva oggetti, fumetti e programmi televisivi che gli suggeriscono come comunicare con il proprio pianeta. La sequenza alterna i due ambienti e rende visibile il legame fra le loro azioni.
 
-La scena di *Tom & Jerry* è particolarmente utile per discutere come un'immagine interna alla diegesi possa diventare strumento per comunicare emozioni e costruire un rapporto fra personaggi.
+### Analisi formale
+La sequenza è costruita attraverso un montaggio alternato che passa dalla classe alla casa e viceversa. All'inizio gli stacchi collegano azioni parallele ma ancora distinte: E.T. beve birra e Elliott ne subisce gli effetti a scuola. La progressiva frequenza dei passaggi rende sempre più evidente la connessione fra i due personaggi e permette allo spettatore di seguire contemporaneamente due linee d'azione.
+
+Il montaggio non si limita a mostrare la simultaneità. Collega anche le scoperte dei personaggi: E.T. osserva un fumetto e gli oggetti domestici, cercando un modo per comunicare; Elliott guarda la rana nel barattolo e riconosce in essa una creatura viva che non vuole vedere dissezionata. Il montaggio accosta queste due prese di coscienza e suggerisce una corrispondenza fra il desiderio di E.T. di tornare a casa e la decisione di Elliott di liberare gli animali.
+
+Nella parte conclusiva, il film televisivo *The Quiet Man* (*Un uomo tranquillo*, John Ford, 1952) diventa un ulteriore livello di montaggio. E.T. guarda John Wayne e Maureen O'Hara sullo schermo; il film alterna i loro gesti a quelli di Elliott e della ragazza in classe. Il movimento del bacio viene ripreso e trasformato in una seconda situazione, nella quale Elliott imita il gesto visto sul televisore. La relazione fra immagine televisiva e azione scolastica è costruita attraverso corrispondenze di gesto e montaggio.
+
+La musica contribuisce a unificare i due spazi e a dare ritmo alla liberazione delle rane. È utile distinguere la musica extradiegetica che accompagna la sequenza dal film televisivo interno alla storia, che costituisce invece una fonte audiovisiva diegetica. Il televisore non è un semplice oggetto di scena: fornisce a E.T. un modello visivo che viene ripreso dall'azione di Elliott.
+
+### Evidenze da far osservare
+1. Quando il montaggio passa dalla classe alla casa e quale azione viene collegata.
+2. Come cambia la frequenza degli stacchi nel corso della sequenza.
+3. Quali dettagli visivi mettono in relazione la rana e il desiderio di E.T. di tornare a casa.
+4. In che modo il film televisivo *The Quiet Man* entra nella costruzione della sequenza.
+5. Quali gesti di John Wayne vengono ripresi da Elliott.
+6. Come la musica collega e ritma le due linee d'azione.
+
+### Perché è didatticamente utile
+È un esempio accessibile di montaggio alternato, perché la simultaneità fra due spazi è resa leggibile attraverso azioni e reazioni facilmente riconoscibili. La sequenza permette inoltre di mostrare che il montaggio può creare corrispondenze simboliche e gestuali, non soltanto raccontare due eventi che avvengono nello stesso momento. L'inserimento di *The Quiet Man* offre un'occasione concreta per parlare di intertestualità e di immagini televisive che influenzano il comportamento dei personaggi.
 
 ### Obiettivo didattico
-Analizzare come regia, montaggio e intertestualità contribuiscano alla costruzione dell'empatia.
+Al termine dell'attività, lo studente sa distinguere le due linee d'azione alternate, ricostruire il rapporto di simultaneità e individuare almeno una corrispondenza gestuale fra il film televisivo e l'azione di Elliott, spiegando la funzione narrativa del montaggio.
 
----
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare la sequenza senza anticipare il concetto di montaggio alternato. Chiedere agli studenti di individuare i due luoghi e i personaggi che vi agiscono.
+2. **Mappa delle azioni:** costruire due colonne, «scuola» e «casa», e annotare in ordine gli eventi mostrati.
+3. **Analisi della simultaneità:** individuare quali azioni sembrano avvenire nello stesso momento e quali invece sono semplicemente accostate.
+4. **Analisi intertestuale:** mostrare il frammento di *The Quiet Man* all'interno della sequenza e confrontare il gesto di John Wayne con quello di Elliott.
+5. **Analisi sonora:** distinguere la musica che accompagna il montaggio dai suoni e dalle immagini provenienti dal televisore.
+6. **Rielaborazione:** realizzare uno storyboard di sei inquadrature che alterni due azioni simultanee in luoghi diversi e includa un gesto che si ripete in entrambe.
+
+### Domande per gli studenti
+1. Quali sono le due linee d'azione e come vengono alternate?
+2. Perché il montaggio diventa progressivamente più serrato?
+3. Che cosa collega il gesto di liberare le rane al desiderio di E.T. di tornare a casa?
+4. Perché Spielberg inserisce *The Quiet Man* nella sequenza?
+5. Il gesto di Elliott è una semplice imitazione oppure assume un significato ulteriore grazie al montaggio?
+
+### Verifica formativa
+Gli studenti realizzano una linea temporale a due colonne (scuola/casa) con almeno otto passaggi, indicando per ciascuno:
+- luogo e personaggio;
+- azione rappresentata;
+- rapporto temporale con l'altra linea;
+- eventuale corrispondenza visiva o sonora.
+
+A conclusione, descrivono il raccordo fra il bacio sul televisore e quello di Elliott, spiegando come il montaggio produca il parallelismo.
+
+**Criteri:** ricostruzione corretta delle due linee d'azione, distinzione fra simultaneità e semplice successione, riconoscimento delle corrispondenze gestuali, uso appropriato del lessico, capacità di collegare il montaggio all'effetto narrativo.
+
+### Collegamenti
+- **Montaggio alternato e contrasto:** *Rocco e i suoi fratelli* — combattimento di Rocco e uccisione di Nadia.
+- **Montaggio alternato e costruzione del significato:** *Il padrino* — battesimo e omicidi.
+- **Immagini interne alla diegesi:** *Prova a prendermi* — titoli di testa e grafica in movimento.
+- **Suono e immagine televisiva:** *The Conversation* — mediazione tecnica e costruzione dell'informazione.
+
+### Fonti e riferimenti
+- American Film Institute, *AFI Catalog*, scheda di *E.T. the Extra-Terrestrial* e descrizione della sequenza delle rane e del parallelismo con *The Quiet Man*: https://catalog.afi.com/Film/56678-E-T-THEEXTRATERRESTRIAL
+- Roger Ebert, «Making contact: Spielberg's *Close Encounters* and *E.T.*», per la descrizione della sequenza delle rane, del televisore e del parallelismo con John Wayne e Maureen O'Hara: https://www.rogerebert.com/scanners/making-contact-spielbergs-close-encounters-and-et
+- Sceneggiatura di *E.T. the Extra-Terrestrial*, per la successione delle azioni alternate fra classe e casa: https://assets.scriptslug.com/live/pdf/scripts/e-t-the-extra-terrestrial-1982.pdf
 
 ## 12. *Jurassic Park* (Steven Spielberg, 1993)
 [↑ Torna all'indice](#indice-interattivo)
