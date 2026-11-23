@@ -233,7 +233,7 @@ Questa sezione raccoglie i principali esempi di scene, sequenze o frammenti cine
 
 La presenza di un film in questa lista significa che la fonte lo utilizza come esempio concreto; non significa automaticamente che la scena sia stata verificata fotogramma per fotogramma. Quando la fonte non identifica con precisione il frammento, la scheda completa dovrà essere costruita solo dopo una verifica della scena.
 
-## 1. Cinema classico, découpage e continuità
+## Cinema classico, découpage e continuità
 
 ### *Susanna* (*Bringing Up Baby*, Howard Hawks, 1938)
 - **Fonte:** *Dal classico al postmoderno al global*
@@ -256,7 +256,7 @@ La presenza di un film in questa lista significa che la fonte lo utilizza come e
 - **Scene/esempi:** utilizzati nel discorso sul noir/thriller e sul rapporto tra sguardo, suspense e spettatore.
 - **Concetti:** punto di vista, suspense, sguardo, identificazione.
 
-## 2. Messa in scena, melodramma e cinema moderno
+## Messa in scena, melodramma e cinema moderno
 
 ### *Come le foglie al vento* (*Written on the Wind*, Douglas Sirk, 1956)
 - **Fonte:** *Dal classico al postmoderno al global*
@@ -313,7 +313,7 @@ La presenza di un film in questa lista significa che la fonte lo utilizza come e
 - **Esempio:** uso della voce extradiegetica della regista.
 - **Concetti:** voice-over, voce extradiegetica, soggettività, dispositivo.
 
-## 3. Sguardo, découpage e analisi della scena
+## Sguardo, découpage e analisi della scena
 
 ### *Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)
 - **Fonte:** *Saper vedere il cinema*
@@ -336,7 +336,7 @@ La presenza di un film in questa lista significa che la fonte lo utilizza come e
 - **Scena/esempio:** inserimento di un'immagine di Griffith all'interno della sequenza del film.
 - **Concetti:** citazione cinematografica, intertestualità, storia del linguaggio, memoria del cinema.
 
-## 4. Spielberg: suspense, spazio e sguardo
+## Spielberg: suspense, spazio e sguardo
 
 ### *Lo squalo* (*Jaws*, Steven Spielberg, 1975)
 - **Fonte:** *Steven Spielberg*
@@ -369,7 +369,7 @@ La presenza di un film in questa lista significa che la fonte lo utilizza come e
 - **Scene individuate:** apertura nel mondo reale; ingresso in OASIS; sequenze che mescolano cinema e videogioco; costruzione visiva degli ambienti virtuali.
 - **Concetti:** finestra/inquadratura, schermo, videogioco, intermedialità, CGI, spazio virtuale, spettatorialità contemporanea.
 
-## 5. Esempi dalla grammatica audiovisiva
+## Esempi dalla grammatica audiovisiva
 
 ### *Il grande Budapest Hotel* (*The Grand Budapest Hotel*, Wes Anderson, 2014)
 - **Fonte:** *grammatica-audiovisivo*
@@ -521,7 +521,7 @@ La presenza di un film in questa lista significa che la fonte lo utilizza come e
 - **Esempio:** riferimento nel discorso sulla costruzione mentale della narrazione.
 - **Concetti:** narrazione, interpretazione, mondo diegetico.
 
-## 6. Nota sullo stato di questi esempi
+## Nota sullo stato di questi esempi
 
 Questi esempi costituiscono il **primo bacino di catalogazione ricavato dalle fonti già presenti nella repository**.
 
@@ -3133,35 +3133,42 @@ Questa triade può essere usata come **percorso comparativo** sul passaggio dal 
 
 # PRIORITÀ PER LE PRIME SCHEDE DA UTILIZZARE IN CLASSE
 
-Per non trattare tutti gli esempi come equivalenti, il nucleo iniziale dell'archivio può essere ordinato secondo una priorità didattica:
+La priorità è stata aggiornata dopo la revisione delle prime 34 schede. Non misura il valore artistico dei film: indica quanto chiaramente il procedimento audiovisivo può essere isolato, mostrato e discusso in una lezione.
 
 ### Priorità A — esempi particolarmente chiari
-1. *Susanna* — découpage classico e raccordi.
-2. *Lo squalo* — movimento di macchina e suspense.
-3. *Jurassic Park* — fuori campo e rivelazione.
-4. *The Grand Budapest Hotel* — composizione e simmetria.
-5. *Birdman* — piano-sequenza apparente e montaggio nascosto.
-6. *Il settimo sigillo* — scavalcamento dell'asse.
-7. *Shining* — geometria dell'inquadratura.
-8. *E.T.* — intertestualità e costruzione dell'empatia.
+1. *Susanna* — raccordo sul movimento e discontinuità intenzionale.
+2. *Lo squalo* — punto di vista della minaccia e suspense.
+3. *Jurassic Park* — fuori campo, indizi sonori e rivelazione.
+4. *The Grand Budapest Hotel* — simmetria, composizione e formato.
+5. *Shining* — Steadicam, prospettiva e paesaggio sonoro.
+6. *Quarto potere* — profondità di campo e messa in scena in profondità.
+7. *2001: Odissea nello spazio* — match cut ed ellissi temporale.
+8. *Birdman* — piano-sequenza apparente e montaggio mimato dal movimento.
 
 ### Priorità B — analisi intermedia
-9. *Gli ultimi fuochi* — découpage e metacinema.
-10. *Il Gattopardo* — punto di vista e fuori campo.
-11. *Rocco e i suoi fratelli* — melodramma e messa in scena.
-12. *Moulin Rouge!* — spazio cinematografico.
-13. *Quarto potere* — profondità della composizione.
-14. *Il grande Gatsby* — continuità e percezione.
+9. *E.T. l'extra-terrestre* — montaggio alternato e intertestualità.
+10. *Gli ultimi fuochi* — racconto per immagini, suspense e metacinema.
+11. *Il Gattopardo* — soggettiva, voce e flashback.
+12. *I predatori dell'arca perduta* — tempo comico e rovesciamento dell'aspettativa.
+13. *Moulin Rouge!* — cornice teatrale e spazio digitale.
+14. *Il grande Gatsby* — montaggio audiovisivo, musica e densità visiva.
+15. *WALL-E* — musica, immagine e citazione di *Hello, Dolly!*.
+16. *Il settimo sigillo* — composizione, luce e messa in scena simbolica.
+17. *Io non ho paura* — contrasto cromatico e punto di vista infantile.
+18. *Revenant - Redivivo* — luce naturale e macchina da presa immersiva.
 
 ### Priorità C — analisi avanzata
-15. *L'avventura* — durata e cinema moderno.
-16. *L'eclisse* — spazio urbano e immagine ottica.
-17. *8½* — soggettività e spazio mentale.
-18. *Mulholland Drive* — ambiguità e statuto dell'immagine.
-19. *Intolerance* — montaggio parallelo.
-20. Akerman — voce, fuori campo e dispositivo.
+19. *Rocco e i suoi fratelli* — montaggio alternato, contrasto e rappresentazione della violenza.
+20. *L'avventura* — discontinuità spaziale e durata.
+21. *L'eclisse* — autonomia dello spazio urbano.
+22. *8½* — soggettività e costruzione del sogno.
+23. *Mulholland Drive* — separazione fra corpo, voce e registrazione.
+24. *Se mi lasci ti cancello* — continuità spaziale impossibile.
+25. *Fight Club* — inserti di singolo fotogramma e anticipazione.
+26. *Intolerance* — montaggio parallelo tematico e quattro linee narrative.
+27. Akerman — voice-over, voce fuori campo e spazio sonoro.
 
-Questa priorità non indica una gerarchia di valore cinematografico: indica soltanto la **chiarezza con cui il procedimento audiovisivo può essere isolato e discusso in un contesto scolastico**.
+Questa selezione va intesa come percorso flessibile: la scelta finale dipende dall'obiettivo della lezione, dalla classe e dalla disponibilità dei frammenti.
 
 
 ---
