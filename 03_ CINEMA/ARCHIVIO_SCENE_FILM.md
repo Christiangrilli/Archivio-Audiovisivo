@@ -3133,7 +3133,7 @@ Questa triade può essere usata come **percorso comparativo** sul passaggio dal 
 
 # PRIORITÀ PER LE PRIME SCHEDE DA UTILIZZARE IN CLASSE
 
-La priorità è stata aggiornata dopo la revisione delle prime 34 schede. Non misura il valore artistico dei film: indica quanto chiaramente il procedimento audiovisivo può essere isolato, mostrato e discusso in una lezione.
+La priorità è stata aggiornata dopo la revisione di 37 schede: le prime 34, più le schede 38 (*Psycho*), 41 (*L'infernale Quinlan*) e 45 (*Lawrence d'Arabia*). Non misura il valore artistico dei film: indica quanto chiaramente il procedimento audiovisivo può essere isolato, mostrato e discusso in una lezione.
 
 ### Priorità A — esempi particolarmente chiari
 1. *Susanna* — raccordo sul movimento e discontinuità intenzionale.
@@ -3379,7 +3379,7 @@ Le seguenti schede sono state aggiunte a partire dalla filmografia fornita dall'
 - **Livello:** Intermedio.
 - **Uso consigliato:** analizzare come il montaggio possa suggerire un evento violento senza mostrarne direttamente il contatto fisico, e come il suono completi ciò che l'immagine frammenta.
 - **Attenzione ai contenuti:** la scena rappresenta un omicidio e contiene nudità parziale, urla e immagini di violenza. Valutare con attenzione l'estratto e la sua adeguatezza per la classe.
-- **Stato:** **DA COMPLETARE** — delimitare la sequenza e verificare sulla copia il numero di stacchi e il raccordo finale; i dati di produzione non sostituiscono l'analisi della versione effettivamente utilizzata.
+**Stato:** DA COMPLETARE — delimitare la sequenza e verificare sulla copia il numero di stacchi e il raccordo finale; i dati di produzione non sostituiscono l'analisi della versione effettivamente utilizzata.
 
 ### Contesto essenziale
 Marion Crane, dopo aver rubato una somma di denaro, si ferma al Bates Motel. Decide di restituire il denaro e di ricominciare la propria vita. Dopo aver fatto la doccia, viene aggredita da una figura che lo spettatore associa alla madre di Norman Bates. L'omicidio interrompe bruscamente il percorso narrativo di Marion e sposta il centro del film su Norman e sulla gestione del segreto.
@@ -3535,7 +3535,7 @@ Mostrare prima il frammento senza spiegazioni. Chiedere: «Che cosa vi sembra st
 - **Tag:** #piano-sequenza #long-take #movimento-di-macchina #suspense #spazio #fuori-campo #suono
 - **Livello:** Intermedio / Avanzato.
 - **Uso consigliato:** confrontare la suspense costruita con un montaggio frammentato con quella prodotta da una ripresa lunga che mantiene insieme più azioni e informazioni.
-- **Stato:** **DA COMPLETARE** — verificare quale versione del film viene utilizzata (montaggio originale o ricostruzione del 1998), poiché crediti e colonna sonora dell'apertura differiscono.
+**Stato:** DA COMPLETARE — verificare quale versione del film viene utilizzata (montaggio originale o ricostruzione del 1998), poiché crediti e colonna sonora dell'apertura differiscono.
 
 ### Contesto essenziale
 Il film si apre con un uomo che colloca una bomba nel bagagliaio di un'automobile. La macchina da presa segue poi l'auto attraverso una città di frontiera, mentre Vargas e la moglie Susie attraversano la stessa zona a piedi. Lo spettatore sa che la bomba è attiva e conosce il pericolo, mentre i personaggi proseguono ignari. La sequenza termina con l'esplosione dell'automobile, che avviene fuori campo.
@@ -3725,7 +3725,7 @@ Dividere la classe in gruppi e assegnare una testimonianza a ciascun gruppo. Ogn
 - **Tag:** #montaggio #match-cut #ellissi #suono #luce #narrazione #composizione
 - **Livello:** Base / Intermedio.
 - **Uso consigliato:** confrontare un raccordo concettuale con un match cut fondato su una somiglianza grafica più evidente, come quello osso-satellite di *2001: Odissea nello spazio*.
-- **Stato:** **DA COMPLETARE** — verificare il frammento sulla copia utilizzata e osservare il punto esatto del taglio e la sovrapposizione sonora.
+**Stato:** DA COMPLETARE — verificare il frammento sulla copia utilizzata e osservare il punto esatto del taglio e la sovrapposizione sonora.
 
 ### Contesto essenziale
 Lawrence si trova al Cairo, nell'ufficio di Mr. Dryden, che gli affida la missione nel deserto. Durante il dialogo, Lawrence accende un fiammifero e lo spegne con un soffio. Il film taglia direttamente all'alba sul deserto: il gesto minimo compiuto in una stanza diventa una transizione verso un paesaggio immenso e verso una nuova fase del racconto.
