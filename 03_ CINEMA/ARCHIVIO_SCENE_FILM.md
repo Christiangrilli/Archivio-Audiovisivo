@@ -1663,20 +1663,80 @@ Gli studenti realizzano uno storyboard di sei vignette che ricostruisca l'apertu
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** sequenza della festa con discontinuità nella posizione fisica degli elementi.
-- **Concetto principale:** continuità e raccordo.
-- **Concetti secondari:** errore di raccordo, attenzione spettatoriale, percezione.
-- **Tag:** #continuità #raccordo #montaggio #messa-in-scena
-- **Livello:** Base / Intermedio.
-- **Uso:** esercitazione.
+- **Sequenza:** la prima grande festa nella villa di Gatsby, dall'ingresso di Nick nella residenza fino al momento in cui la festa si rivela come un ambiente di spettacolo, musica, danza e incontri.
+- **Concetto principale:** montaggio audiovisivo e costruzione del sovraccarico sensoriale.
+- **Concetti secondari:** ritmo, movimento di macchina, composizione, profondità, musica pop e jazz, montaggio al beat, punto di vista, messa in scena.
+- **Tag:** #montaggio #ritmo #suono #musica #movimento-di-macchina #messa-in-scena #colore
+- **Livello:** Intermedio.
+- **Uso consigliato:** analizzare come montaggio, musica, colore e movimento costruiscano la percezione di una festa e come la densità audiovisiva possa orientare o disorientare lo spettatore.
+- **Stato:** **DA COMPLETARE** — circoscrivere il segmento della prima festa e verificare il numero e la durata delle inquadrature sulla copia scelta.
 
-### Analisi
-La scena è utile per mostrare che la continuità non è una proprietà assoluta dell'immagine, ma un insieme di convenzioni che orientano l'attenzione dello spettatore. Un'incoerenza può essere percepita oppure ignorata a seconda della sua rilevanza rispetto all'azione.
+### Contesto essenziale
+Nick Carraway viene invitato alla villa di Gatsby e scopre una festa molto più grande e spettacolare di quanto immaginasse. La sequenza introduce il mondo del protagonista attraverso una successione di immagini, danze, musiche, costumi, decorazioni e reazioni degli ospiti. Il film non presenta subito uno spazio perfettamente leggibile: lo spettatore viene trascinato dentro una serie di attrazioni e dettagli che compongono progressivamente l'ambiente.
 
-### Esercizio
-Mostrare il frammento senza anticipare l'errore e chiedere agli studenti di individuare autonomamente eventuali discontinuità.
+### Analisi formale
+La sequenza costruisce la festa come un'esperienza audiovisiva più che come uno spazio da osservare in modo ordinato. La macchina da presa si muove fra gli ospiti, attraversa porte e gruppi di persone, passa da inquadrature ampie a dettagli e primi piani. Il movimento non ha sempre la funzione di seguire Nick: in alcuni momenti si emancipa dal suo punto di vista e diventa uno sguardo mobile che esplora la festa, quasi come se lo spettatore fosse un invitato che si sposta fra i diversi gruppi.
 
----
+Il montaggio è rapido e costruito in stretta relazione con la musica. Le inquadrature si susseguono seguendo accenti e cambi di ritmo, mentre il brano combina riferimenti musicali contemporanei e suggestioni associate agli anni Venti. La colonna sonora non si limita a ricreare un'epoca storica: sovrappone tempi e culture differenti, trasformando la festa in un ambiente anacronistico e spettacolare.
+
+Carol Vernallis osserva che la sequenza mette in primo piano decorazioni, costumi, suono, movimento e colore, mentre la disposizione spaziale della festa diventa pienamente leggibile soltanto in seguito. La musica stessa non offre un orientamento stabile: le fonti sonore, i frammenti musicali e le loro collocazioni sembrano attraversare e sovrapporre gli spazi. Lo spettatore è coinvolto in un'esperienza di eccesso, nella quale il ritmo e la densità dei dettagli contano quanto la comprensione della geografia della villa.
+
+La fotografia e la scenografia contribuiscono a rendere l'ambiente luminoso, ricco e artificiale. Il movimento della macchina da presa attraversa archi, porte e gruppi di persone, mentre gli elementi in primo piano passano davanti all'obiettivo e producono una sensazione di profondità. Il direttore della fotografia Simon Duggan descrive l'uso di Steadicam, gru e movimenti attraverso le architetture per mantenere la macchina da presa in continuo movimento e accompagnare Nick nell'ingresso alla festa.
+
+La sequenza è utile anche per distinguere la continuità spaziale dalla continuità percettiva. Lo spettatore può non ricostruire subito la pianta della villa, ma comprende il carattere della festa attraverso ritmo, musica, colore e reazioni. Non si tratta quindi di un esempio di «errore di raccordo»: la disorientazione è in larga parte un effetto espressivo progettato. Gli eventuali errori di continuità presenti nel film vanno analizzati separatamente e verificati su una copia precisa, non confusi con la densità del montaggio.
+
+### Evidenze da far osservare
+1. In quali momenti la macchina da presa segue Nick e in quali si allontana da lui.
+2. Come cambiano la scala dei piani e la distanza dai corpi.
+3. Quali elementi attraversano il primo piano e contribuiscono a creare profondità.
+4. Come il montaggio segue gli accenti musicali e modifica la percezione del ritmo.
+5. Quali frammenti musicali e riferimenti temporali si sovrappongono.
+6. In quale momento lo spettatore riesce a ricostruire meglio lo spazio della festa.
+
+### Perché è didatticamente utile
+La sequenza permette di analizzare il rapporto fra ritmo del montaggio e ritmo musicale, oltre al modo in cui la macchina da presa può trasformare uno spazio complesso in un'esperienza sensoriale. È utile anche per discutere il punto di vista: la macchina da presa può iniziare seguendo un personaggio e poi assumere una funzione più autonoma, facendo dello spettatore un osservatore mobile della festa.
+
+### Obiettivo didattico
+Al termine dell'attività, lo studente sa riconoscere il rapporto fra montaggio e musica, descrivere i movimenti della macchina da presa e spiegare come colore, scenografia e densità delle inquadrature costruiscano la percezione di uno spazio spettacolare.
+
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare il frammento senza anticipare il concetto di sovraccarico audiovisivo. Chiedere agli studenti di descrivere le sensazioni prodotte dalla sequenza e quali elementi ricordano.
+2. **Mappa della macchina da presa:** distinguere i momenti in cui la camera segue Nick da quelli in cui esplora autonomamente la festa.
+3. **Analisi del montaggio:** contare gli stacchi in un segmento breve e osservare se coincidono con gli accenti musicali, senza assumere che ogni taglio cada necessariamente sul beat.
+4. **Analisi sonora:** individuare i cambi di brano, le sovrapposizioni e le differenze fra musica diegetica ed extradiegetica.
+5. **Analisi della profondità:** osservare gli attraversamenti in primo piano, gli archi e le porte che la macchina da presa utilizza per muoversi nello spazio.
+6. **Rielaborazione:** montare una sequenza di 30 secondi che rappresenti un evento affollato usando tre livelli di distanza, movimenti di macchina e un montaggio costruito in relazione alla musica.
+
+### Domande per gli studenti
+1. La macchina da presa segue sempre Nick oppure assume anche uno sguardo autonomo?
+2. Che cosa permette di percepire lo spazio anche quando non è ancora del tutto leggibile?
+3. In che modo il montaggio si relaziona alla musica?
+4. Quali effetti produce la sovrapposizione di brani e riferimenti musicali di epoche diverse?
+5. La densità di immagini rende la festa più comprensibile o più disorientante? Quali elementi sostengono la risposta?
+
+### Verifica formativa
+Gli studenti analizzano un estratto di 30–45 secondi e realizzano una tabella con:
+- numero approssimativo delle inquadrature;
+- scala dei piani;
+- movimento della macchina da presa;
+- accento o evento musicale;
+- funzione percettiva del taglio.
+
+A conclusione, scrivono un breve commento sul rapporto fra ritmo musicale, ritmo visivo e leggibilità dello spazio.
+
+**Criteri:** precisione nell'osservazione, uso del lessico, capacità di collegare suono e montaggio, distinzione fra disorientamento espressivo e errore tecnico.
+
+### Collegamenti
+- **Montaggio audiovisivo e spettacolo:** *Moulin Rouge!* — ritmo musicale e sovraccarico sensoriale.
+- **Montaggio al beat:** *Prova a prendermi* — titoli di testa e animazione grafica.
+- **Movimento di macchina e punto di vista:** *Taxi Driver* — movimento che abbandona il personaggio e costruisce uno sguardo autonomo.
+- **Spazio e profondità:** *La regola del gioco* — composizione e movimento dei gruppi nello spazio.
+
+### Fonti e riferimenti
+- Carol Vernallis, «Partying in *The Great Gatsby*: Baz Luhrmann’s Audiovisual Sublime», in *Indefinite Visions: Cinema and the Attractions of Uncertainty*, Edinburgh University Press, 2017, pp. 180–206, DOI: 10.3366/edinburgh/9781474407120.003.0011. Analizza la densità visiva, la struttura musicale e la difficoltà di ricostruire lo spazio della festa: https://doi.org/10.3366/edinburgh/9781474407120.003.0011
+- Simon Duggan, «The Great Gatsby», *British Cinematographer*, intervista sul movimento della macchina da presa, l'uso di Steadicam e gru e la costruzione dello spazio della festa: https://britishcinematographer.co.uk/simon-duggan-acs-the-great-gatsby/
+- Matt Villa, Jason Ballantine e Jonathan Redmond, «Focus On — The Great Gatsby», Australian Screen Editors, intervista sul montaggio e sul rapporto fra musica e ritmo della prima grande festa: https://www.screeneditors.com.au/matt-villa-ase-jason-ballantine-ase-jonathan-redmond-on-the-great-gatsby/
+- Catherine Martin, intervista a *Vanity Fair*, 8 maggio 2013, sulla scenografia, i costumi e il lavoro con le comparse nelle feste di Gatsby: https://www.vanityfair.com/hollywood/2013/05/the-great-gatsby-production
 
 ## 17. *Indiana Jones* — sequenza della pistola
 [↑ Torna all'indice](#indice-interattivo)
