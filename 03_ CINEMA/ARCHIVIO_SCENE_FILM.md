@@ -2126,23 +2126,80 @@ Gli studenti confrontano una sequenza a velocità normale con la stessa sequenza
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scene:** apertura e sequenze caratterizzate da composizione geometrica e centralità.
-- **Concetto principale:** composizione dell'inquadratura.
-- **Concetti secondari:** simmetria, colore, geometria, movimento.
-- **Tag:** #composizione #simmetria #colore #spazio
-- **Livello:** Base.
-- **Uso:** introduzione alla composizione.
+- **Sequenza:** le scene ambientate nel Grand Budapest Hotel negli anni Trenta, con particolare attenzione agli ingressi di M. Gustave e Zero nella hall e alle inquadrature frontali del personale e degli ospiti.
+- **Concetto principale:** composizione centrata e simmetria dell'inquadratura.
+- **Concetti secondari:** prospettiva centrale, formato Academy 1,37:1, geometria, profondità, colore, blocking, scenografia, movimento laterale e frontale.
+- **Tag:** #composizione #simmetria #colore #spazio #inquadratura #formato #messa-in-scena
+- **Livello:** Base / Intermedio.
+- **Uso consigliato:** introdurre la composizione geometrica e mostrare come il formato dell'immagine condizioni la disposizione dei corpi e degli oggetti.
+- **Stato:** **DA COMPLETARE** — scegliere un frammento circoscritto della hall e verificare sulla copia la durata e la successione delle inquadrature.
 
-### Analisi
-La forte regolarità geometrica rende particolarmente visibili rapporti di simmetria, centralità e distribuzione dei pesi nell'inquadratura. È quindi un esempio accessibile per insegnare la composizione prima di passare a casi meno evidenti.
+### Contesto essenziale
+Il Grand Budapest Hotel è un albergo immaginario dell'Europa centrale. La storia principale è ambientata negli anni Trenta, quando M. Gustave ne è il concierge e Zero il giovane fattorino. Il film racconta questa vicenda attraverso più cornici temporali: il formato dell'immagine cambia a seconda dell'epoca narrata. Le scene degli anni Trenta sono girate nel formato Academy 1,37:1, più vicino alle proporzioni del cinema classico precedente al widescreen.
+
+### Analisi formale
+Nelle scene ambientate negli anni Trenta, Anderson organizza spesso l'inquadratura secondo un asse centrale. Porte, finestre, corridoi, banconi e lampadari sono disposti in modo da rendere evidente la geometria dello spazio. I personaggi vengono collocati al centro o in posizioni simmetriche rispetto agli elementi architettonici; anche i gruppi possono essere organizzati come composizioni frontali, quasi fossero tableaux.
+
+La simmetria non è soltanto una caratteristica decorativa. Rende leggibile la gerarchia dello spazio e trasforma il personale dell'albergo in un insieme coordinato, nel quale ogni figura sembra occupare una posizione precisa. M. Gustave, con il suo controllo dei gesti e delle procedure, appare perfettamente integrato in questo ordine visivo; Zero, che deve imparare le regole dell'hotel, viene progressivamente inserito nella stessa geometria.
+
+Il formato 1,37:1 è importante per la composizione. La maggiore altezza relativa dell'immagine permette di includere soffitti, pavimenti e corpi disposti verticalmente, ma riduce lo spazio laterale disponibile rispetto ai formati panoramici. Robert Yeoman ha spiegato che il formato richiedeva di ripensare la disposizione dei personaggi: i gruppi dovevano essere avvicinati e la composizione poteva sfruttare maggiormente lo spazio sopra le teste e sotto i piedi. La scelta del formato non è quindi una semplice cornice storicizzante: condiziona il modo in cui gli attori vengono collocati e il modo in cui lo spettatore legge l'ambiente.
+
+Il film utilizza tre rapporti d'aspetto per distinguere le cornici temporali: 1,85:1 per il livello più vicino al presente, 2,40:1 per gli anni Sessanta e 1,37:1 per la storia degli anni Trenta. Il passaggio da un formato all'altro è un segnale narrativo: orienta lo spettatore nel tempo e associa ogni epoca a una diversa tradizione visiva.
+
+La composizione centrata di Anderson è inoltre il risultato di una progettazione molto precisa. I movimenti degli attori, la posizione della macchina da presa e la disposizione degli oggetti vengono pianificati in anticipo attraverso storyboard e animatic. Il risultato può sembrare spontaneo o fiabesco, ma dipende da un controllo rigoroso del quadro.
+
+### Evidenze da far osservare
+1. Dove si trova il centro geometrico dell'inquadratura e quali elementi lo rendono riconoscibile.
+2. Come sono disposti porte, finestre, banconi e lampadari rispetto all'asse centrale.
+3. Quali personaggi vengono collocati al centro e quali ai lati.
+4. Quanto spazio occupano soffitto e pavimento nel formato 1,37:1.
+5. Come cambia la composizione quando entrano più personaggi nella hall.
+6. Quali differenze si notano confrontando il formato degli anni Trenta con quello degli anni Sessanta.
+
+### Perché è didatticamente utile
+La sequenza è un esempio accessibile per introdurre simmetria, centralità, prospettiva e rapporto d'aspetto. Permette di mostrare che la composizione non dipende soltanto dalla posizione della macchina da presa, ma anche dal formato scelto e dalla coreografia dei personaggi. È inoltre un caso utile per collegare le scelte formali alla storia dei formati cinematografici.
 
 ### Obiettivo didattico
-Saper descrivere la composizione di un'immagine utilizzando categorie spaziali e geometriche.
+Al termine dell'attività, lo studente sa individuare l'asse centrale di un'inquadratura, riconoscere rapporti di simmetria e spiegare come il formato 1,37:1 condizioni la disposizione dei personaggi e degli elementi scenografici.
 
-### Esercizio
-Fermare alcuni fotogrammi e chiedere agli studenti di tracciare asse centrale, linee prospettiche e principali elementi di simmetria.
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare un breve frammento della hall senza introdurre il concetto di simmetria. Chiedere agli studenti quali elementi attirano per primi lo sguardo.
+2. **Analisi geometrica:** fermare tre fotogrammi e tracciare asse centrale, linee verticali e orizzontali, punto di fuga e principali corrispondenze.
+3. **Analisi del formato:** confrontare un fotogramma 1,37:1 con uno 2,40:1, osservando quanto spazio laterale e verticale è disponibile.
+4. **Analisi del blocking:** individuare come gli attori entrano, si fermano e si dispongono rispetto all'asse.
+5. **Rielaborazione:** realizzare una fotografia di gruppo simmetrica e una volutamente asimmetrica, motivando le differenze percettive.
 
----
+### Domande per gli studenti
+1. Quali elementi rendono evidente l'asse centrale?
+2. La simmetria riguarda soltanto l'architettura oppure anche la disposizione dei personaggi?
+3. Che cosa permette di mostrare il formato 1,37:1 rispetto a un formato panoramico?
+4. Perché il film cambia formato quando cambia epoca?
+5. La composizione ordinata rende lo spazio più realistico o più artificiale?
+
+### Verifica formativa
+Gli studenti scelgono un fotogramma della hall e realizzano un'annotazione grafica con:
+- asse centrale;
+- principali linee verticali e orizzontali;
+- punto di fuga, se presente;
+- posizioni dei personaggi;
+- elementi di simmetria;
+- rapporto fra altezza e larghezza del quadro.
+
+Aggiungono una breve nota sul rapporto fra formato e organizzazione dello spazio.
+
+**Criteri:** individuazione corretta degli assi, precisione nell'osservazione, uso del lessico compositivo, comprensione del rapporto d'aspetto, capacità di motivare la funzione espressiva della simmetria.
+
+### Collegamenti
+- **Composizione e prospettiva centrale:** *Quarto potere* — profondità e organizzazione dell'informazione.
+- **Geometria e spazio perturbante:** *Shining* — simmetria e punto di fuga.
+- **Formato e memoria:** *The Grand Budapest Hotel* — variazione dei rapporti d'aspetto nelle diverse epoche.
+- **Composizione mobile:** *Il grande Gatsby* — movimento di macchina e densità visiva nelle feste.
+
+### Fonti e riferimenti
+- David Bordwell, «THE GRAND BUDAPEST HOTEL: Wes Anderson takes the 4:3 challenge», *Observations on Film Art*, 26 marzo 2014. Analizza il rapporto fra simmetria, centralità, prospettiva e formato 1,37:1: https://www.davidbordwell.net/blog/2014/03/26/the-grand-budapest-hotel-wes-anderson-takes-the-43-challenge/
+- Robert Yeoman, «Lighting the Grand Budapest Hotel», *ARRI News*, 2014. Intervista sulle scelte di illuminazione, il formato 1,37:1 e le difficoltà di composizione: https://www.arri.com/resource/blob/32348/3770439c5df20a12a526d6cf98122ab4/2014-4-arri-news-english-data.pdf
+- «Shooting The Oscars' Most Centered Movie: The Precision Filmmaking Behind The Grand Budapest Hotel», *Fast Company*, 2015. Intervista a Robert Yeoman sul lavoro di centratura, sugli animatic e sulla progettazione del quadro: https://www.fastcompany.com/3042296/shooting-the-oscars-most-centered-movie-the-precision-filmmaking-behind-grand-budapest-hotel
+- BFI, «Film of the week: The Grand Budapest Hotel», per i tre formati utilizzati nelle diverse cornici temporali: https://www.bfi.org.uk/sight-and-sound/reviews/film-week-grand-budapest-hotel
 
 ## 23. *Quarto potere* (*Citizen Kane*, Orson Welles, 1941)
 [↑ Torna all'indice](#indice-interattivo)
