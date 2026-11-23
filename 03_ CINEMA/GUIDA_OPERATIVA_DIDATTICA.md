@@ -194,9 +194,9 @@ La ricognizione dell'archivio individua **93 schede operative**. Le prime 34 son
 | Verifica formativa | 54 | 39 |
 | Collegamenti | 83 | 10 |
 | Fonti | 80 | 13 |
-| Stato della scheda | 15 | 78 |
+| Stato della scheda | 54 | 39 |
 
-Fra le 15 schede con uno stato esplicito, **14 sono DA COMPLETARE e 1 è DA VERIFICARE; nessuna è contrassegnata PRONTA**. Le altre 78 non hanno ancora un'etichetta di stato: non vanno considerate automaticamente pronte. La verifica formativa è presente con un'intestazione esplicita in 54 schede, mentre 39 ne sono ancora prive.
+Fra le 54 schede con uno stato esplicito, **53 sono DA COMPLETARE e 1 è DA VERIFICARE; nessuna è contrassegnata PRONTA**. Le altre 39 non hanno ancora un'etichetta di stato: non vanno considerate automaticamente pronte. La verifica formativa è presente con un'intestazione esplicita in 54 schede, mentre 39 ne sono ancora prive.
 
 Il controllo è documentale, non una valutazione qualitativa automatica: una scheda può contenere un'attività o una verifica senza usare l'intestazione prevista. Le 54 verifiche esplicite comprendono anche quelle aggiunte e riformulate durante la revisione delle schede 1–34. La revisione deve quindi procedere leggendo le schede, non limitandosi a uniformare le etichette.
 
