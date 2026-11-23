@@ -1817,28 +1817,81 @@ Accanto a ogni vignetta indicano la durata relativa (lunga, breve, brevissima) e
 - Harrison Ford, intervista a *CNN*, 30 giugno 2023, nella quale ricorda il duello previsto, la coreografia preparata e la decisione di sostituirla con lo sparo: https://transcripts.cnn.com/show/wtcw/date/2023-06-30/segment/01
 - Warren Buckland, *Directed by Steven Spielberg: Poetics of the Contemporary Hollywood Blockbuster*, Continuum, 2006, per la costruzione della narrazione d'avventura e la gestione dell'azione nei film di Spielberg.
 
-## 18. *Il settimo sigillo* (Ingmar Bergman, 1957)
+## 18. *Il settimo sigillo* (*Det sjunde inseglet*, Ingmar Bergman, 1957)
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** partita a scacchi.
-- **Concetto principale:** asse dell'azione e scavalcamento di campo.
-- **Concetti secondari:** orientamento spaziale, disorientamento, straniamento.
-- **Tag:** #raccordo #spazio #inquadratura #montaggio
-- **Livello:** Intermedio.
-- **Uso:** confronto fra continuità e discontinuità.
+- **Sequenza:** incontro iniziale sulla spiaggia fra il cavaliere Antonius Block e la Morte, che gli propone una partita a scacchi.
+- **Concetto principale:** composizione dell'inquadratura e messa in scena del conflitto.
+- **Concetti secondari:** asse dello sguardo, simmetria, profondità, luce di controluce, contrasto, oggetto simbolico, recitazione e immobilità.
+- **Tag:** #inquadratura #composizione #luce #messa-in-scena #spazio #simbolismo
+- **Livello:** Base / Intermedio.
+- **Uso consigliato:** analizzare come disposizione dei corpi, scacchiera, paesaggio e luce costruiscano un confronto filosofico senza bisogno di un montaggio rapido.
+- **Stato:** **DA COMPLETARE** — selezionare il frammento dell'incontro e della prima partita e verificare la delimitazione sulla copia utilizzata in classe.
 
-### Analisi
-Lo scavalcamento dell'asse, quando deliberato, mostra che la regola dei 180° non è una legge assoluta del cinema, ma una convenzione utile a organizzare l'orientamento dello spettatore. La sua violazione può produrre disorientamento o assumere una funzione espressiva.
+### Contesto essenziale
+Il cavaliere Antonius Block torna in Svezia dopo le Crociate e trova il paese devastato dalla peste. Sulla spiaggia incontra la Morte, che gli comunica di essere venuta a prenderlo. Block le propone una partita a scacchi: se riuscirà a vincere, potrà continuare a vivere. Il gioco diventa il dispositivo attraverso cui il personaggio tenta di guadagnare tempo e interrogare il senso della propria esistenza.
+
+### Analisi formale
+La scena si fonda su una composizione relativamente essenziale: due figure, una scacchiera e il paesaggio marino. Il confronto non viene rappresentato attraverso un'azione fisica concitata, ma attraverso la disposizione dei corpi, gli sguardi e i gesti misurati dei due personaggi. La scacchiera occupa una posizione centrale nella relazione: è un oggetto concreto, ma assume anche una funzione simbolica, perché rende visibile la partita fra vita e morte.
+
+Le inquadrature alternano la presenza dei due personaggi e i dettagli del gioco, ma la tensione deriva soprattutto dalla loro immobilità e dalla gravità del dialogo. Il ritmo è controllato; ogni gesto sulla scacchiera acquista peso perché è inserito in una situazione in cui il tempo stesso è in gioco. La scena mostra come la composizione possa sostenere un conflitto narrativo anche quando l'azione fisica è ridotta al minimo.
+
+La fotografia di Gunnar Fischer utilizza un contrasto marcato fra le figure e il paesaggio. La luce separa i profili e rende riconoscibili i volti contro lo sfondo del mare e del cielo. Il direttore della fotografia ricordò che, nella scena più celebre della partita, erano state collocate due lampade dietro i personaggi per illuminare i loro profili. La scelta produce una luce volutamente artificiale: l'immagine non cerca un naturalismo assoluto, ma una configurazione visiva capace di sostenere il carattere allegorico dell'incontro.
+
+La scacchiera non deve essere trattata come un semplice simbolo da decifrare una volta per tutte. La sua funzione è anche compositiva: organizza lo spazio fra i personaggi, offre un punto di attenzione e rende visibile la durata del confronto. L'analisi può quindi partire dagli elementi osservabili — posizione, distanza, sguardi, luce, movimenti delle mani — e arrivare solo in seguito alle interpretazioni filosofiche.
+
+Questa scheda non utilizza la partita come prova di uno scavalcamento dell'asse dei 180 gradi: senza un confronto puntuale dei fotogrammi e delle posizioni di macchina, sarebbe improprio attribuire alla scena una violazione deliberata della continuità. Per lavorare sull'asse dell'azione si può usare invece la scheda su *L'avventura*, dove la discontinuità spaziale è documentata da un'analisi specifica.
+
+### Evidenze da far osservare
+1. Come sono disposti il cavaliere, la Morte e la scacchiera.
+2. Quale distanza separa i due personaggi e come cambia nel corso del dialogo.
+3. Quali inquadrature mostrano i volti e quali si concentrano sulle mosse.
+4. Come la luce separa i profili dallo sfondo.
+5. Quali gesti e pause danno peso al tempo della partita.
+6. Come il paesaggio contribuisce a isolare il confronto.
+
+### Perché è didatticamente utile
+La sequenza è un esempio efficace di messa in scena essenziale: pochi elementi visivi sono organizzati in modo da sostenere un conflitto narrativo e filosofico. Permette di lavorare sulla composizione, sulla luce e sulla funzione dell'oggetto scenico, ma anche di mostrare che il ritmo non dipende necessariamente dalla rapidità del montaggio.
 
 ### Obiettivo didattico
-Distinguere fra errore di continuità, violazione deliberata della convenzione e funzione espressiva del disorientamento.
+Al termine dell'attività, lo studente sa descrivere la composizione di una scena a due personaggi, riconoscere la funzione visiva della scacchiera e spiegare come luce, distanza e gesti contribuiscano a costruire la tensione.
+
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare l'incontro senza anticipare il significato simbolico della partita. Chiedere agli studenti di descrivere la disposizione dei personaggi e degli oggetti.
+2. **Analisi della composizione:** disegnare una pianta semplificata della scena, segnando la posizione del cavaliere, della Morte e della scacchiera.
+3. **Analisi della luce:** individuare come vengono illuminati i profili e come si distinguono dallo sfondo.
+4. **Analisi del ritmo:** osservare le pause, i gesti e i tempi delle mosse, distinguendo durata dell'inquadratura e durata dell'azione.
+5. **Interpretazione:** discutere in che modo la partita traduca in un'azione concreta il confronto fra il cavaliere e la Morte.
+6. **Rielaborazione:** progettare una scena a due personaggi in cui un oggetto posto fra loro organizzi la composizione e rappresenti il conflitto.
+
+### Domande per gli studenti
+1. Quale funzione ha la scacchiera nella composizione dell'immagine?
+2. Come viene costruita la distanza fra il cavaliere e la Morte?
+3. Perché la scena può risultare tesa anche senza movimenti rapidi?
+4. Che cosa cambia quando il film passa dai volti ai dettagli delle mosse?
+5. In che modo la luce contribuisce al carattere allegorico dell'incontro?
+
+### Verifica formativa
+Gli studenti realizzano una pianta e uno storyboard di quattro inquadrature della sequenza. Devono indicare:
+- posizione dei personaggi;
+- posizione della scacchiera;
+- scala dei piani;
+- direzione degli sguardi;
+- funzione della luce e dello sfondo.
+
+**Criteri:** precisione nella descrizione dello spazio, riconoscimento della funzione compositiva dell'oggetto, uso corretto del lessico, capacità di collegare le scelte visive all'effetto narrativo.
 
 ### Collegamenti
-- *Eternal Sunshine of the Spotless Mind*.
-- Découpage classico e cinema moderno.
+- **Composizione e profondità:** *La regola del gioco* — organizzazione dei corpi e dello spazio.
+- **Oggetto e conflitto:** *L'appartamento* — oggetti e spazi come elementi della narrazione.
+- **Punto di vista e memoria:** *Il Gattopardo* — costruzione dello sguardo e del ricordo.
+- **Durata e immobilità:** *L'avventura* — tempo dell'attesa e autonomia del paesaggio.
 
----
+### Fonti e riferimenti
+- Ingmar Bergman Foundation, «The Seventh Seal», scheda del film e materiali sulla lavorazione. Riporta le osservazioni del direttore della fotografia Gunnar Fischer sulla luce utilizzata nella scena della partita: https://www.ingmarbergman.se/en/production/seventh-seal
+- Peter Cowie, *The Seventh Seal*, BFI Film Classics, British Film Institute, 1997, per il contesto narrativo, la simbologia e la costruzione visiva del film.
+- Gunnar Fischer, testimonianza sulla fotografia de *Il settimo sigillo*, riportata dalla Ingmar Bergman Foundation, per la scelta delle lampade posteriori e la luce sui profili.
 
 ## 19. *Se mi lasci ti cancello* (*Eternal Sunshine of the Spotless Mind*, Michel Gondry, 2004)
 [↑ Torna all'indice](#indice-interattivo)
