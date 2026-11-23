@@ -279,6 +279,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 
 
 
+
 - [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-2001-a-space-odyssey-stanley-kubrick-1968) — match cut grafico osso-satellite ed ellissi temporale.
 - [*8½* (Federico Fellini, 1963)](ARCHIVIO_SCENE_FILM.md#8-8½-federico-fellini-1963) — soggettività e spazio mentale.
 - [*À bout de souffle / Fino all'ultimo respiro* (Jean-Luc Godard, 1960) — SCHEda DI CONFRONTO](ARCHIVIO_SCENE_FILM.md#61-à-bout-de-souffle-fino-allultimo-respiro-jean-luc-godard-1960-scheda-di-confronto) — jump cut.
@@ -288,7 +289,6 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Blade Runner* (Ridley Scott, 1982)](ARCHIVIO_SCENE_FILM.md#90-blade-runner-ridley-scott-1982-fotografia-scenografia-e-costruzione-del-mondo) — fotografia e costruzione del mondo.
 - [*Blow Out* (Brian De Palma, 1981)](ARCHIVIO_SCENE_FILM.md#43-blow-out-brian-de-palma-1981) — montaggio audiovisivo e rapporto fra immagine e suono.
 - [*Blow-Up* (Michelangelo Antonioni, 1966)](ARCHIVIO_SCENE_FILM.md#62-blow-up-michelangelo-antonioni-1966) — fotografia e montaggio come costruzione dell'indizio.
-- [*Fino all'ultimo respiro* (*À bout de souffle / Breathless*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-fino-allultimo-respiro-a-bout-de-souffle-breathless-jean-luc-godard-1960) — jump cut.
 - [*C'era una volta il West* (Sergio Leone, 1968)](ARCHIVIO_SCENE_FILM.md#91-cera-una-volta-il-west-sergio-leone-1968-durata-attesa-e-paesaggio-sonoro) — durata, attesa e paesaggio sonoro.
 - [*Catch Me If You Can / Prova a prendermi* (Steven Spielberg, 2002)](ARCHIVIO_SCENE_FILM.md#86-catch-me-if-you-can-prova-a-prendermi-steven-spielberg-2002-titoli-di-testa-animazione-e-grafica-in-movimento) — titoli di testa e motion graphics.
 - [*Citizen Kane* (*Quarto potere*, Orson Welles, 1941)](ARCHIVIO_SCENE_FILM.md#55-citizen-kane-quarto-potere-orson-welles-1941) — profondità di campo.
@@ -299,6 +299,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*E.T. l'extra-terrestre* (Steven Spielberg, 1982) — silhouette e controluce](ARCHIVIO_SCENE_FILM.md#88-et-lextra-terrestre-steven-spielberg-1982-silhouette-controluce-ed-effetti-ottici) — fotografia e composizione.
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set) — direzione degli attori e costruzione della performance attraverso la ripetizione.
 - [*Fight Club* (David Fincher, 1999)](ARCHIVIO_SCENE_FILM.md#21-fight-club-david-fincher-1999) — inserti di singolo fotogramma e anticipazione narrativa.
+- [*Fino all'ultimo respiro* (*À bout de souffle / Breathless*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-fino-allultimo-respiro-a-bout-de-souffle-breathless-jean-luc-godard-1960) — jump cut.
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976) — découpage e costruzione della scena.
 - [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — piano-sequenza al Copacabana](ARCHIVIO_SCENE_FILM.md#93-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-il-piano-sequenza-al-copacabana) — piano-sequenza e movimento di macchina.
 - [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — voice-over](ARCHIVIO_SCENE_FILM.md#74-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-voice-over) — voice-over narrativo.
@@ -321,6 +322,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*L'eclisse* / *L'avventura* / *La dolce vita*: spazio e modernità](ARCHIVIO_SCENE_FILM.md#35-leclisse-lavventura-la-dolce-vita-spazio-e-modernità)
 - [*L'infernale Quinlan* (*Touch of Evil*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#41-linfernale-quinlan-touch-of-evil-orson-welles-1958) — piano-sequenza / long take.
 - [*L'uomo con la macchina da presa* (*Chelovek s kino-apparatom*, Dziga Vertov, 1929)](ARCHIVIO_SCENE_FILM.md#48-luomo-con-la-macchina-da-presa-chelovek-s-kino-apparatom-dziga-vertov-1929) — montaggio come costruzione della realtà e autoriflessività del dispositivo.
+- [*La conversazione* (*The Conversation*, Francis Ford Coppola, 1974)](ARCHIVIO_SCENE_FILM.md#42-la-conversazione-the-conversation-francis-ford-coppola-1974) — punto di ascolto e costruzione narrativa attraverso il suono.
 - [*La corazzata Potëmkin* (*Bronenosets Potemkin*, Sergej Ejzenštejn, 1925)](ARCHIVIO_SCENE_FILM.md#47-la-corazzata-potëmkin-bronenosets-potemkin-sergej-ejzenštejn-1925) — montaggio ritmico e conflittuale.
 - [*La finestra sul cortile* (*Rear Window*, Alfred Hitchcock, 1954)](ARCHIVIO_SCENE_FILM.md#63-la-finestra-sul-cortile-rear-window-alfred-hitchcock-1954) — sguardo e punto di vista.
 - [*La nascita di una nazione* (*The Birth of a Nation*, D. W. Griffith, 1915)](ARCHIVIO_SCENE_FILM.md#30-la-nascita-di-una-nazione-the-birth-of-a-nation-d-w-griffith-1915) — montaggio narrativo.
@@ -354,7 +356,6 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Taxi Driver* (Martin Scorsese, 1976)](ARCHIVIO_SCENE_FILM.md#82-taxi-driver-martin-scorsese-1976-movimento-di-macchina-e-voce-fuori-campo) — movimento di macchina e voce fuori campo.
 - [*The Apartment / L'appartamento* (Billy Wilder, 1960)](ARCHIVIO_SCENE_FILM.md#81-the-apartment-lappartamento-billy-wilder-1960-composizione-prospettiva-e-spazio-del-lavoro) — composizione, prospettiva e spazio del lavoro.
 - [*The Birds* (*Gli uccelli*, Alfred Hitchcock, 1963)](ARCHIVIO_SCENE_FILM.md#46-the-birds-gli-uccelli-alfred-hitchcock-1963) — fuori campo e suspense.
-- [*La conversazione* (*The Conversation*, Francis Ford Coppola, 1974)](ARCHIVIO_SCENE_FILM.md#42-la-conversazione-the-conversation-francis-ford-coppola-1974) — punto di ascolto e costruzione narrativa attraverso il suono.
 - [*The Fabelmans* (Steven Spielberg, 2022)](ARCHIVIO_SCENE_FILM.md#83-the-fabelmans-steven-spielberg-2022-film-nel-film-e-montaggio-come-rivelazione) — montaggio e immagine come rivelazione.
 - [*The Godfather* (Francis Ford Coppola, 1972) — low-key lighting](ARCHIVIO_SCENE_FILM.md#75-the-godfather-francis-ford-coppola-1972-low-key-lighting) — illuminazione low-key e chiaroscuro.
 - [*The Godfather / Il padrino* (Francis Ford Coppola, 1972)](ARCHIVIO_SCENE_FILM.md#65-the-godfather-il-padrino-francis-ford-coppola-1972) — montaggio parallelo.
