@@ -1588,20 +1588,76 @@ Gli studenti realizzano una mappa visiva del passaggio in OASIS, suddividendolo 
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** sequenza iniziale e attraversamento della «scatola» scenica.
-- **Concetto principale:** costruzione dello spazio cinematografico.
-- **Concetti secondari:** movimento di macchina, decoupage, profondità, teatralità, immersività.
-- **Tag:** #spazio #movimento-di-macchina #messa-in-scena #inquadratura
+- **Sequenza:** apertura del film, dal sipario rosso e dal direttore d'orchestra fino al movimento della macchina da presa che attraversa la rappresentazione di Parigi, entra nel paesaggio digitale di Montmartre e raggiunge la soffitta di Christian.
+- **Concetto principale:** costruzione dello spazio cinematografico e attraversamento dei livelli di rappresentazione.
+- **Concetti secondari:** teatralità, cornice interna, movimento di macchina, compositing digitale, transizione dal bianco e nero al colore, voce over, metanarrazione.
+- **Tag:** #spazio #movimento-di-macchina #messa-in-scena #inquadratura #compositing #voce-over #metacinema
 - **Livello:** Intermedio.
-- **Uso:** analisi della composizione e del movimento.
+- **Uso consigliato:** analizzare come una sequenza possa dichiarare la propria artificialità e, nello stesso tempo, coinvolgere lo spettatore in un movimento immersivo verso lo spazio narrativo.
+- **Stato:** **DA COMPLETARE** — verificare il segmento e la sua durata sull'edizione scelta; distinguere la prima apertura teatrale dal successivo movimento digitale su Parigi.
 
-### Analisi
-La sequenza mette in primo piano la natura costruita dello spazio: la macchina da presa attraversa e ridefinisce continuamente superfici, profondità e piani della scenografia. Il rapporto con il teatro è evidente, ma la macchina da presa trasforma lo spazio scenico in spazio cinematografico.
+### Contesto essenziale
+Il film si apre come uno spettacolo teatrale. Un sipario rosso si apre, un direttore d'orchestra si rivolge al pubblico e la musica introduce il mondo del Moulin Rouge. La macchina da presa supera poi la cornice del palcoscenico e attraversa una rappresentazione di Parigi che passa dal bianco e nero a una colorazione progressiva, fino a raggiungere la soffitta di Christian, dove il personaggio comincia a raccontare la propria storia.
+
+### Analisi formale
+L'apertura costruisce una serie di cornici annidate. Il sipario e l'arco scenico presentano il film come uno spettacolo; il direttore d'orchestra e il pubblico interno ricordano allo spettatore che ciò che sta per vedere è una performance. La macchina da presa si avvicina progressivamente alla scena rappresentata e attraversa lo schermo interno, trasformando il quadro teatrale in uno spazio cinematografico più ampio.
+
+Il movimento sulla città è impossibile da realizzare come un unico movimento di macchina in uno spazio fisico. La Parigi che vediamo è una composizione digitale di immagini, modelli e livelli tridimensionali. La macchina da presa può quindi attraversare strade, edifici e aperture con una libertà che rende visibile la natura artificiale dello spazio. Il passaggio non nasconde la costruzione: la trasforma in spettacolo.
+
+La progressiva transizione dal bianco e nero al colore accompagna il passaggio dal prologo teatrale alla storia di Christian. Il paesaggio iniziale richiama l'immaginario del cinema delle origini e delle vedute dei Lumière; l'ingresso nel mondo di Montmartre introduce invece la saturazione cromatica e l'eccesso visivo che caratterizzano il film. La trasformazione del colore non è soltanto decorativa: segnala il passaggio da una cornice narrativa a un mondo che prende vita davanti allo spettatore.
+
+La voce over di Christian completa il dispositivo. Il personaggio appare nella soffitta e assume progressivamente il controllo del racconto, mentre la macchina da presa e il montaggio collegano la sua presenza alle immagini della città. La sequenza non si limita a introdurre un luogo: mette in scena il passaggio dalla rappresentazione teatrale al racconto cinematografico e, al suo interno, dalla cornice del narratore alla storia narrata.
+
+### Evidenze da far osservare
+1. Quali elementi fanno riconoscere la cornice teatrale iniziale.
+2. Quando la macchina da presa supera la superficie dello schermo interno.
+3. Quali elementi del paesaggio di Parigi rivelano la costruzione digitale.
+4. Come avviene la transizione dal bianco e nero al colore.
+5. Quando entra la voce over di Christian e come cambia la funzione delle immagini.
+6. Quale rapporto si stabilisce fra lo spettatore, il pubblico interno e il narratore.
+
+### Perché è didatticamente utile
+La sequenza permette di studiare la costruzione dello spazio cinematografico e la funzione della cornice. È utile per mostrare che la macchina da presa può attraversare uno spazio artificiale, costruito digitalmente, e trasformare una rappresentazione teatrale in un ambiente narrativo. La sequenza offre inoltre un esempio concreto di metacinema: il film mostra la propria natura di spettacolo mentre introduce la storia.
 
 ### Obiettivo didattico
-Distinguere spazio teatrale e spazio cinematografico e osservare come il movimento della macchina modifichi la percezione della scenografia.
+Al termine dell'attività, lo studente sa descrivere i diversi livelli di rappresentazione dell'apertura, riconoscere la funzione del movimento di macchina e spiegare come compositing, colore e voce over contribuiscano alla costruzione dello spazio narrativo.
 
----
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare l'apertura senza anticipare il passaggio fra teatro e spazio digitale. Chiedere agli studenti di individuare quando cambia la natura dello spazio.
+2. **Mappa delle cornici:** disegnare i livelli di rappresentazione: sala teatrale, palcoscenico, schermo interno, città digitale, soffitta di Christian.
+3. **Analisi del movimento:** ricostruire il percorso della macchina da presa e segnare i punti in cui attraversa una cornice o una superficie.
+4. **Analisi del colore:** fermare alcuni fotogrammi e confrontare la progressione dal bianco e nero alla piena saturazione.
+5. **Analisi sonora:** individuare il passaggio dalla musica dell'ouverture alla voce over di Christian.
+6. **Rielaborazione:** progettare un'apertura di 20–30 secondi che parta da una cornice (teatro, televisore, schermo, fotografia) e attraversi progressivamente lo spazio rappresentato.
+
+### Domande per gli studenti
+1. Perché il film comincia mostrando un sipario e un direttore d'orchestra?
+2. Quale effetto produce il movimento della macchina da presa che entra nello schermo?
+3. In che modo il passaggio dal bianco e nero al colore modifica la percezione dello spazio?
+4. Perché è importante che la macchina da presa attraversi un paesaggio digitale?
+5. Quando Christian diventa il narratore della storia e come ce ne accorgiamo?
+
+### Verifica formativa
+Gli studenti realizzano uno storyboard di sei vignette che ricostruisca l'apertura. Per ogni vignetta indicano:
+- livello di rappresentazione;
+- posizione e movimento della macchina da presa;
+- trattamento cromatico;
+- presenza di musica o voce;
+- funzione narrativa del passaggio.
+
+**Criteri:** corretta ricostruzione delle cornici, descrizione del movimento, riconoscimento della transizione cromatica, uso preciso dei termini spazio diegetico, compositing e voce over.
+
+### Collegamenti
+- **Cornice e metacinema:** *The Fabelmans* — film nel film e passaggio fra esperienza e rappresentazione.
+- **Spazio digitale e virtual camera:** *Ready Player One* — movimento della camera virtuale nell'OASIS.
+- **Spazio teatrale e cinematografico:** *Birdman* — continuità apparente e attraversamento degli ambienti.
+- **Voce over e racconto:** *Il lungo addio* — rapporto fra voce, immagine e punto di ascolto.
+
+### Fonti e riferimenti
+- AFI Catalog, *Moulin Rouge!* (2001), descrizione dell'apertura e del movimento della macchina da presa attraverso la Parigi in miniatura fino alla stanza di Christian: https://catalog.afi.com/Film/53921-MOULIN-ROUGE
+- Helen Alexander, *Music, Myth and the Pursuit of Meaning in Moulin Rouge!*, tesi MMus(R), University of Glasgow, 2009, in particolare pp. 10–18. Analizza la cornice teatrale, la macchina da presa che attraversa lo schermo interno, il paesaggio digitale e la transizione fra bianco e nero e colore: https://theses.gla.ac.uk/3433/1/2009alexandermmus.pdf
+- Baz Luhrmann, intervista in *Baz Luhrmann: Interviews*, a cura di Tom Ryan, per il trattamento digitale del movimento aereo su Parigi e la simulazione delle imperfezioni del cinema d'epoca: https://gateway-ipfs.st/ipfs/bafykbzacebksou2ydtdkqjf64zc3mco642smfvabllg65fdllsaq26427tgee?filename=Baz+Luhrmann+%3A+interviews_Luhrmann%2C+Baz%3B+Luhrmann%2C+Baz%3B+Ryan%2C+Tom.pdf
+- BFI, «Moulin Rouge: the artiest summer blockbuster ever», per lo stile Red Curtain e la teatralità dell'apertura: https://www.bfi.org.uk/sight-and-sound/features/moulin-rouge-artiest-film-ever-predicated-summer-blockbuster
 
 ## 16. *Il grande Gatsby* (Baz Luhrmann, 2013)
 [↑ Torna all'indice](#indice-interattivo)
