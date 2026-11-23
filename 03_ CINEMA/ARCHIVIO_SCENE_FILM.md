@@ -3698,40 +3698,91 @@ A conclusione, scrivono un breve commento spiegando come la durata e il fuori ca
 - «Context and Comprehension in Film», University of Adelaide, analisi della sequenza come esempio di suspense costruita attraverso indizi e predizione dello spettatore: https://ualresearchonline.arts.ac.uk/id/eprint/21127/2/6e09a9e8-5285-46e8-9947-56152793f42b.pdf
 - Walter Murch, intervista a *Fresh Air*, NPR, per la durata del piano e la funzione del timer nella costruzione della suspense: https://freshairarchive.org/segments/archives-film-editor-and-sound-designer-walter-murch
 
-## 42. *The Conversation* (*La conversazione*, Francis Ford Coppola, 1974)
+## 42. *La conversazione* (*The Conversation*, Francis Ford Coppola, 1974)
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** registrazione della conversazione nella piazza, con successivi riascolti e rielaborazioni del materiale audio da parte di Harry Caul.
-- **Concetto principale:** punto di ascolto e costruzione narrativa attraverso il suono.
-- **Concetti secondari:** suono fuori campo, ascolto selettivo, ripetizione, rielaborazione, informazione narrativa.
-- **Tag:** #suono #fuori-campo #punto-di-vista #ripetizione #narrazione
+- **Sequenza principale:** la registrazione della conversazione di Mark e Ann a Union Square, a San Francisco, durante la quale Harry Caul e la sua squadra utilizzano più microfoni per raccogliere frammenti del dialogo.
+- **Sequenza di confronto:** i successivi riascolti di Harry nel laboratorio, quando filtra e ricompone il materiale fino a isolare la frase «He'd kill us if he got the chance».
+- **Concetto principale:** punto di ascolto e montaggio sonoro come costruzione dell'informazione.
+- **Concetti secondari:** registrazione, suono acousmatico, selezione delle frequenze, isolamento delle tracce, ripetizione, riascolto, prosodia, soggettività.
+- **Tag:** #suono #punto-di-ascolto #fuori-campo #montaggio #ripetizione #narrazione #registrazione
 - **Livello:** Intermedio / Avanzato.
-- **Uso consigliato:** analisi formale / esercitazione.
+- **Uso consigliato:** analizzare come la stessa registrazione possa assumere significati differenti attraverso selezione, isolamento, ripetizione e variazione dell'intonazione.
+- **Stato:** **DA COMPLETARE** — verificare il frammento di registrazione e almeno due sessioni di riascolto sulla copia scelta; distinguere le immagini della conversazione originaria dalle ricostruzioni mentali di Harry.
 
-### Analisi
-La scena permette di trattare il suono non come semplice accompagnamento dell'immagine ma come dispositivo narrativo. Harry registra una conversazione che inizialmente appare ambigua; il successivo lavoro di ascolto, isolamento e manipolazione del materiale modifica progressivamente ciò che lo spettatore crede di sapere.
+### Contesto essenziale
+Harry Caul è un esperto di sorveglianza incaricato di registrare una coppia che attraversa Union Square. La piazza è affollata e rumorosa; la conversazione è frammentaria e viene raccolta attraverso più microfoni. Tornato nel laboratorio, Harry riascolta il materiale e cerca di ricostruire le parole mancanti. Una frase sembra rivelare che l'uomo potrebbe essere in pericolo, ma il significato del dialogo dipende dal contesto e dall'intonazione con cui viene pronunciato.
+
+### Analisi formale
+La sequenza iniziale presenta la registrazione come un processo di raccolta incompleto. La macchina da presa osserva la piazza da una posizione elevata e si avvicina progressivamente alla coppia, mentre il suono passa da un insieme indistinto di rumori urbani a frammenti sempre più riconoscibili del dialogo. La registrazione non è un punto di vista neutro: dipende dalla posizione dei microfoni, dalla distanza dei personaggi, dalle interferenze e dalla capacità di isolare una voce in mezzo al rumore.
+
+Nel laboratorio, Harry trasforma il materiale grezzo attraverso una serie di operazioni: seleziona le tracce, filtra il rumore, aumenta la presenza di alcune frequenze e ripete determinati passaggi. Ogni riascolto produce una nuova organizzazione dell'informazione. Le immagini della coppia che vediamo durante il lavoro di Harry non sono necessariamente una registrazione visiva dell'evento: funzionano come ricostruzioni che il film mette in scena per rendere percepibile ciò che Harry sta ascoltando e immaginando.
+
+La frase «He'd kill us if he got the chance» diventa il centro dell'interpretazione. Harry la ascolta come un avvertimento: qualcuno potrebbe uccidere la coppia. Il significato sembra confermato dalla chiarezza tecnica della registrazione, ma il film mostra che la nitidezza acustica non coincide con la certezza semantica. Isolare le parole non basta a comprendere il contesto, la relazione fra i parlanti e l'intenzione comunicativa.
+
+Il finale ripropone la stessa frase con un'intonazione differente. Il montatore e sound designer Walter Murch recuperò una registrazione alternativa della battuta, realizzata durante una sessione di registrazione separata in un parco più silenzioso. L'enfasi della voce cambia il senso della frase: non è più soltanto un timore di essere uccisi, ma può suggerire che i due stiano valutando di uccidere l'uomo che li minaccia. Il materiale sonoro non cambia nelle parole, ma cambia nella prosodia, cioè nell'organizzazione di accenti, pause e intonazione.
+
+La scena dimostra che il montaggio sonoro non consiste soltanto nel rendere più chiaro un dialogo. Selezionare una traccia, isolare una parola o modificare l'enfasi può cambiare il significato attribuito a un'intera situazione. Harry crede di arrivare alla verità attraverso la tecnologia, ma il film mostra che ogni ascolto è un'interpretazione e che la registrazione può essere fedele al suono senza essere sufficiente a stabilire la verità dei fatti.
+
+### Evidenze da far osservare
+1. Come cambia la chiarezza del dialogo durante il passaggio dalla piazza al laboratorio.
+2. Quali rumori ambientali interferiscono con la registrazione iniziale.
+3. In che modo i microfoni raccolgono frammenti diversi della conversazione.
+4. Quali operazioni compie Harry durante i riascolti.
+5. Qual è la differenza fra comprendere le parole e comprenderne il significato.
+6. Come cambia l'interpretazione della frase quando viene riproposta con un'enfasi differente.
+7. Quale rapporto esiste fra le immagini della coppia e ciò che Harry può effettivamente ascoltare.
 
 ### Perché è didatticamente utile
-È un caso particolarmente efficace per insegnare il concetto di punto di ascolto e per mostrare che anche il montaggio sonoro può produrre suspense, ambiguità e informazione narrativa.
+La sequenza è un caso esemplare per insegnare il punto di ascolto e il montaggio sonoro. Permette di mostrare che il suono può essere selezionato, filtrato, isolato e rimontato, ma che la precisione tecnica non garantisce una corretta interpretazione. È inoltre utile per distinguere la registrazione di un evento dalla sua ricostruzione audiovisiva all'interno del film.
 
 ### Obiettivo didattico
-Saper analizzare una scena partendo dal suono e comprendere come una stessa registrazione possa assumere significati differenti attraverso selezione, ripetizione e riascolto.
+Al termine dell'attività, lo studente sa descrivere le fasi di registrazione e rielaborazione del suono, distinguere chiarezza acustica e comprensione semantica e spiegare come una variazione prosodica possa modificare il significato di una battuta.
 
 ### Come utilizzarla in classe
-Prima visione con attenzione alle immagini; seconda visione con gli studenti che annotano soltanto ciò che sentono; terza visione mettendo a confronto immagine e suono.
+1. **Prima visione:** mostrare la registrazione di Union Square e chiedere agli studenti quali parole riescono a comprendere.
+2. **Ascolto senza immagini:** riprodurre un frammento della registrazione e chiedere di distinguere voci, rumori e interferenze.
+3. **Analisi del lavoro di Harry:** osservare le operazioni di selezione, isolamento e ripetizione del materiale.
+4. **Confronto delle interpretazioni:** ascoltare la frase nella prima e nella seconda versione, prestando attenzione all'accento e all'intonazione.
+5. **Analisi del punto di ascolto:** discutere quali immagini vediamo durante i riascolti e quali informazioni appartengono invece all'immaginazione del personaggio.
+6. **Rielaborazione:** registrare una frase pronunciata con due intonazioni differenti e chiedere agli studenti di descrivere come cambia il significato percepito.
 
-### Domande
-1. Che cosa sappiamo attraverso il suono che non vediamo?
-2. Perché Harry deve riascoltare più volte la stessa registrazione?
-3. Il significato di una registrazione è stabile o dipende dal modo in cui la ascoltiamo?
+### Domande per gli studenti
+1. Perché la registrazione iniziale è incompleta?
+2. Quali informazioni diventano disponibili dopo il filtraggio del suono?
+3. Una registrazione più chiara è necessariamente più vera?
+4. Come può cambiare il significato di una frase senza cambiare le parole?
+5. Le immagini che vediamo durante il riascolto sono sempre immagini registrate da Harry?
+6. Quale responsabilità ha chi interpreta e utilizza una registrazione?
+
+### Verifica formativa
+Gli studenti compilano una tabella con tre momenti:
+- registrazione originaria a Union Square;
+- primo riascolto e isolamento della frase;
+- riproposizione finale con intonazione diversa.
+
+Per ciascuno indicano:
+- qualità e chiarezza del segnale;
+- informazioni udibili;
+- interpretazione formulata da Harry;
+- eventuali informazioni mancanti;
+- effetto narrativo prodotto.
+
+**Criteri:** descrizione corretta delle operazioni sonore, distinzione fra dato e interpretazione, riconoscimento della prosodia, capacità di collegare montaggio sonoro e punto di ascolto.
 
 ### Collegamenti
-- *Blow Out*: suono e indagine.
-- *Blow-Up*: fotografia e interpretazione dell'immagine.
-- Fuori campo e punto di vista.
+- **Registrazione e interpretazione dell'immagine:** *Blow-Up* — ingrandimento fotografico e costruzione dell'indizio.
+- **Suono e indagine:** *Blow Out* — registrazione di un evento e ricostruzione dei fatti.
+- **Voce registrata e corpo:** *Mulholland Drive* — separazione fra fonte visiva e fonte sonora.
+- **Voice-over e spazio:** *News from Home* — voce e immagini appartenenti a luoghi differenti.
 
----
+### Fonti e riferimenti
+- American Film Institute, *AFI Catalog*, scheda di *The Conversation* (1974), per la registrazione a Union Square, l'uso di tre nastri e il successivo isolamento della frase: https://catalog.afi.com/Film/53857-THE-CONVERSATION
+- Walter Murch, intervista a *SFGate*, «Staying in the Game», 2003. Racconta la registrazione alternativa della battuta, la diversa enfasi e la decisione di utilizzarla nel finale: https://www.sfgate.com/magazine/article/FILM-Staying-in-the-Game-Master-film-editor-2731902.php
+- Walter Murch, «He'd kill us if he had the chance», *Web of Stories*, 2017. Testimonianza diretta sulla registrazione separata della conversazione e sulla variazione di intonazione: https://webofstories.com/play/walter.murch/64
+- «Trappola sonora. Sull'udibile in *The Conversation* di Francis Ford Coppola», saggio di analisi della prosodia, delle sessioni d'ascolto e della rielaborazione del materiale sonoro: https://www.academia.edu/7585575/Trappola_sonora_Sull_udibile_in_The_Conversation_di_Francis_Ford_Coppola
+- SOUND.FILM, «The Conversation — A recording that cannot be trusted», per la relazione fra riascolto, chiarezza e interpretazione: https://sound.film/100-years/discoveries/1960-1979
 
 ## 43. *Blow Out* (Brian De Palma, 1981)
 [↑ Torna all'indice](#indice-interattivo)
