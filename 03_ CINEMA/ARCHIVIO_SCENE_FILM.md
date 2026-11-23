@@ -3534,42 +3534,84 @@ Gli studenti ricostruiscono il percorso della macchina da presa nel piano inizia
 - BFI Southbank, «Rope (1948)», note di programma, per la struttura in riprese di circa dieci minuti e la continuità temporale della vicenda: https://bfidatadigipres.github.io/big%20screen%20classics/2022/02/10/rope/
 - François Truffaut, *Il cinema secondo Hitchcock*, capitolo dedicato a *Rope*, per le riflessioni del regista sulla sperimentazione del piano lungo e sui limiti del découpage.
 
-## 40. *Breathless* (*Fino all'ultimo respiro*, Jean-Luc Godard, 1960)
+## 40. *Fino all'ultimo respiro* (*À bout de souffle / Breathless*, Jean-Luc Godard, 1960)
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** conversazione di Michel e Patricia nell'automobile, con particolare evidenza dei jump cut.
-- **Concetto principale:** jump cut.
-- **Concetti secondari:** discontinuità, spazio, tempo, Nouvelle Vague, marca enunciativa.
-- **Tag:** #jump-cut #montaggio #spazio #tempo #punto-di-vista
+- **Sequenza:** il viaggio in automobile di Michel e Patricia attraverso Parigi, in particolare i passaggi in cui il montaggio alterna il volto e la nuca di Patricia, il paesaggio che scorre e la voce di Michel.
+- **Concetto principale:** jump cut e discontinuità temporale all'interno di una stessa azione.
+- **Concetti secondari:** montaggio visibile, ellissi, continuità sonora, punto di vista, camera car, Nouvelle Vague, rapporto fra gesto e parola.
+- **Tag:** #jump-cut #montaggio #spazio #tempo #punto-di-vista #suono #continuità
 - **Livello:** Base / Intermedio.
-- **Uso consigliato:** introduzione / analisi formale.
+- **Uso consigliato:** introdurre il jump cut attraverso una scena in cui la situazione e il dialogo sembrano proseguire, ma il tempo e il movimento vengono interrotti da tagli percepibili.
+- **Stato:** **DA COMPLETARE** — delimitare il segmento della conversazione in automobile e verificare la successione dei tagli sulla copia scelta.
 
-### Analisi
-La conversazione in automobile mantiene la situazione e l'orientamento generale, ma interrompe la continuità interna dei movimenti attraverso tagli che eliminano porzioni di tempo. Il risultato rende percepibile il lavoro del montaggio invece di nasconderlo.
+### Contesto essenziale
+Michel Poiccard è in fuga dopo aver ucciso un poliziotto. A Parigi incontra Patricia, una giovane americana che vende il *New York Herald Tribune*. I due attraversano la città in automobile e parlano della loro relazione. Michel osserva Patricia e commenta il suo aspetto; la macchina da presa insiste su primi piani e dettagli, mentre il paesaggio urbano cambia alle loro spalle.
 
-Un'analisi accademica della scena la utilizza proprio come esempio di jump cut: la conversazione viene resa attraverso salti temporali e spaziali percepibili, in contrasto con le convenzioni della continuità classica. citeturn623513search0turn623513search1
+### Analisi formale
+La sequenza mantiene una situazione narrativa apparentemente continua: Michel e Patricia sono in automobile, il dialogo prosegue e il viaggio non viene interrotto da un cambiamento di luogo esplicito. Tuttavia, il montaggio elimina porzioni di tempo all'interno della stessa azione. La posizione di Patricia e la composizione dell'inquadratura possono restare simili, mentre il paesaggio sullo sfondo cambia bruscamente; in altri momenti il volto o la nuca della donna ricompaiono con piccoli salti di posizione.
+
+Il jump cut non è un semplice taglio rapido fra due inquadrature diverse. È un taglio che interrompe la continuità interna di un'inquadratura o di una stessa azione, producendo una discontinuità temporale e talvolta spaziale. In questa sequenza il viaggio sembra procedere senza soluzione, ma lo spettatore percepisce che alcuni intervalli sono stati eliminati. Il montaggio non cerca di nascondere la sottrazione: la rende visibile e la trasforma in ritmo.
+
+La voce di Michel e la continuità del dialogo contribuiscono a tenere insieme le immagini. Il suono può proseguire mentre la posizione dei corpi o il paesaggio cambiano bruscamente. Si crea così una tensione fra continuità sonora e discontinuità visiva: la parola sembra scorrere senza interruzioni, mentre l'immagine salta in avanti.
+
+È importante ricordare che i jump cut non erano stati necessariamente progettati in anticipo come regola formale durante le riprese. Godard e la montatrice Cécile Decugis si trovarono davanti a una prima versione del film troppo lunga e decisero di eliminare porzioni interne alle scene, invece di tagliare interi episodi. Nella sequenza in automobile, il regista raccontò di aver scelto di eliminare alcune porzioni delle inquadrature di Michel o di Patricia e di unire direttamente i frammenti rimasti. Un intervento nato anche da una necessità di durata diventò una scelta stilistica riconoscibile.
+
+Il risultato modifica la percezione del personaggio. Il movimento discontinuo accompagna l'energia impaziente di Michel e rende il viaggio meno realistico, più vicino al flusso frammentario dei suoi pensieri e delle sue parole. La forma non è un semplice ornamento: contribuisce a caratterizzare il protagonista e il rapporto instabile fra i due personaggi.
+
+### Evidenze da far osservare
+1. Quali elementi restano simili fra due immagini consecutive e quali cambiano.
+2. Come si modifica il paesaggio sullo sfondo mentre la posizione di Patricia resta quasi invariata.
+3. In quali punti il movimento del corpo sembra saltare in avanti.
+4. Se la voce e il dialogo vengono interrotti dagli stessi tagli dell'immagine.
+5. Come il ritmo dei tagli si relaziona al tono e alla velocità del discorso di Michel.
+6. Quale differenza esiste fra un jump cut e un normale cambio di inquadratura.
 
 ### Perché è didatticamente utile
-È probabilmente uno dei frammenti più immediati per spiegare la differenza fra montaggio invisibile e montaggio dichiarato.
+È uno degli esempi più accessibili per spiegare il jump cut. Gli studenti possono riconoscere la discontinuità osservando lo sfondo, la posizione del corpo e la continuità della voce. La scena permette inoltre di discutere il rapporto fra esigenze produttive e invenzione stilistica: una soluzione di montaggio nata per accorciare il film diventa una forma espressiva.
 
 ### Obiettivo didattico
-Riconoscere un jump cut e spiegare quale effetto produce sulla percezione del tempo, dello spazio e della presenza della macchina da presa.
+Al termine dell'attività, lo studente sa riconoscere un jump cut, distinguere la discontinuità interna all'azione da un normale stacco e spiegare come il rapporto fra immagine e suono produca un ritmo particolare.
 
 ### Come utilizzarla in classe
-Mostrare prima il frammento senza spiegazioni. Chiedere: «Che cosa vi sembra strano?». Solo dopo introdurre il termine jump cut.
+1. **Prima visione:** mostrare il frammento senza introdurre il termine jump cut. Chiedere agli studenti di descrivere che cosa sembra cambiare in modo anomalo.
+2. **Seconda visione:** fermare due o tre coppie di immagini consecutive e confrontare posizione dei corpi, sfondo e direzione dello sguardo.
+3. **Analisi sonora:** ascoltare il dialogo e verificare se la voce continua mentre l'immagine salta.
+4. **Distinzione terminologica:** confrontare un jump cut con un normale campo/controcampo e con un raccordo sul movimento.
+5. **Riflessione produttiva:** spiegare la scelta di eliminare porzioni interne alle scene e discutere come una necessità di durata possa diventare stile.
+6. **Rielaborazione:** girare una breve azione continua e realizzare due montaggi: uno che nasconda i tagli e uno che li renda visibili attraverso jump cut.
 
-### Domande
-1. Che cosa viene eliminato fra un'inquadratura e l'altra?
-2. Perché la continuità non viene ricostruita?
-3. Il salto ci distrae dalla storia o ci fa percepire maggiormente il film come costruzione?
+### Domande per gli studenti
+1. Che cosa viene eliminato fra un'immagine e l'altra?
+2. Perché il paesaggio può cambiare mentre la posizione di Patricia sembra quasi invariata?
+3. Quale funzione svolge la continuità della voce di Michel?
+4. Perché questo procedimento non è un semplice montaggio rapido?
+5. In che modo il jump cut contribuisce a caratterizzare il personaggio?
+
+### Verifica formativa
+Gli studenti scelgono tre coppie di fotogrammi consecutivi e compilano una tabella con:
+- posizione dei personaggi;
+- elementi dello sfondo;
+- continuità o discontinuità del movimento;
+- continuità della traccia sonora;
+- effetto percettivo del taglio.
+
+A conclusione, montano una breve azione di 10–15 secondi in due versioni: una con raccordi di continuità e una con jump cut.
+
+**Criteri:** riconoscimento del taglio discontinuo, distinzione fra jump cut e normale stacco, uso del lessico, capacità di spiegare il rapporto fra immagine, suono e ritmo.
 
 ### Collegamenti
-- *Fight Club*: montaggio visibile.
-- *Susanna*: continuità classica.
-- Nouvelle Vague e critica del découpage classico.
+- **Continuità classica:** *Susanna* — raccordo sul movimento e leggibilità dell'azione.
+- **Inserto di singolo fotogramma:** *Fight Club* — immagine brevissima e anticipazione narrativa.
+- **Discontinuità spaziale:** *L'avventura* — raccordi che disorientano la ricostruzione dello spazio.
+- **Ellissi e match cut:** *2001: Odissea nello spazio* — salto temporale costruito con un singolo taglio.
 
----
+### Fonti e riferimenti
+- Roger Ebert, «Breathless», *The Great Movies*, per la sequenza in automobile e la funzione dei jump cut nella caratterizzazione di Michel e Patricia: https://www.rogerebert.com/reviews/great-movie-breathless-1960
+- Turner Classic Movies, «Behind the Camera — *Breathless*», con la testimonianza di Godard sull'origine dei jump cut durante il montaggio e sulla decisione di eliminare porzioni delle inquadrature in automobile: https://www.tcm.com/articles/615686/behind-the-camera-breathless
+- Adam Scovell, «In search of the locations for Jean-Luc Godard’s *Breathless*», *BFI*, 9 novembre 2020, per il rapporto fra le riprese nelle strade di Parigi e la discontinuità del montaggio: https://www.bfi.org.uk/features/locations-jean-luc-godard-breathless
+- «Jump cuts in *À bout de souffle*», saggio in *Studies in Logic, Grammar and Rhetoric*, 2020, per l'analisi della sequenza in automobile, della frammentazione di Patricia e della continuità sonora: https://doi.org/10.2478/slgr-2020-0046
 
 ## 41. *L'infernale Quinlan* (*Touch of Evil*, Orson Welles, 1958)
 [↑ Torna all'indice](#indice-interattivo)
