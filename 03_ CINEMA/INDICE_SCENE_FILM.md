@@ -103,7 +103,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*8½* (Federico Fellini, 1963)](ARCHIVIO_SCENE_FILM.md#8-8½-federico-fellini-1963)
 - [*Mulholland Drive* (David Lynch, 2001)](ARCHIVIO_SCENE_FILM.md#9-mulholland-drive-david-lynch-2001)
 - [*Lo squalo* (*Jaws*, Steven Spielberg, 1975)](ARCHIVIO_SCENE_FILM.md#10-lo-squalo-jaws-steven-spielberg-1975)
-- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#11-e-t-lextra-terrestre-steven-spielberg-1982)
+- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#11-et-lextra-terrestre-steven-spielberg-1982)
 - [*Jurassic Park* (Steven Spielberg, 1993)](ARCHIVIO_SCENE_FILM.md#12-jurassic-park-steven-spielberg-1993)
 - [*Minority Report* (Steven Spielberg, 2002)](ARCHIVIO_SCENE_FILM.md#13-minority-report-steven-spielberg-2002)
 - [*Ready Player One* (Steven Spielberg, 2018)](ARCHIVIO_SCENE_FILM.md#14-ready-player-one-steven-spielberg-2018)
@@ -189,7 +189,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*8½* (Federico Fellini, 1963)](ARCHIVIO_SCENE_FILM.md#8-8½-federico-fellini-1963)
 - [*Mulholland Drive* (David Lynch, 2001)](ARCHIVIO_SCENE_FILM.md#9-mulholland-drive-david-lynch-2001)
 - [*Lo squalo* (*Jaws*, Steven Spielberg, 1975)](ARCHIVIO_SCENE_FILM.md#10-lo-squalo-jaws-steven-spielberg-1975)
-- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#11-e-t-lextra-terrestre-steven-spielberg-1982)
+- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#11-et-lextra-terrestre-steven-spielberg-1982)
 - [*Jurassic Park* (Steven Spielberg, 1993)](ARCHIVIO_SCENE_FILM.md#12-jurassic-park-steven-spielberg-1993)
 - [*Minority Report* (Steven Spielberg, 2002)](ARCHIVIO_SCENE_FILM.md#13-minority-report-steven-spielberg-2002)
 - [*Ready Player One* (Steven Spielberg, 2018)](ARCHIVIO_SCENE_FILM.md#14-ready-player-one-steven-spielberg-2018)
@@ -257,7 +257,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Citizen Kane* (*Quarto potere*, Orson Welles, 1941)](ARCHIVIO_SCENE_FILM.md#20-citizen-kane-quarto-potere-orson-welles-1941) — profondità di campo.
 - [*Come le foglie al vento* (*Written on the Wind*, Douglas Sirk, 1956)](ARCHIVIO_SCENE_FILM.md#5-come-le-foglie-al-vento-written-on-the-wind-douglas-sirk-1956) — stile melodrammatico e composizione.
 - [*Dunkirk* (Christopher Nolan, 2017) / *Tenet* (Christopher Nolan, 2020)](ARCHIVIO_SCENE_FILM.md#27-dunkirk-christopher-nolan-2017-tenet-christopher-nolan-2020) — tecnica di ripresa e percezione del movimento.
-- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#11-e-t-lextra-terrestre-steven-spielberg-1982) — identificazione e messa in scena della relazione.
+- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#11-et-lextra-terrestre-steven-spielberg-1982) — identificazione e messa in scena della relazione.
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set) — direzione degli attori e costruzione della performance attraverso la ripetizione.
 - [*Fight Club* (David Fincher, 1999)](ARCHIVIO_SCENE_FILM.md#21-fight-club-david-fincher-1999) — montaggio visibile.
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976) — découpage e costruzione della scena.
@@ -315,7 +315,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*The Graduate / Il laureato* (Mike Nichols, 1967)](ARCHIVIO_SCENE_FILM.md#33-the-graduate-il-laureato-mike-nichols-1967) — musica extradiegetica come elemento di montaggio.
 - [*The Graduate / Il laureato* (Mike Nichols, 1967) — carrello e composizione](ARCHIVIO_SCENE_FILM.md#44-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione) — blocking e composizione dei corpi nello spazio.
 - [*The Grand Budapest Hotel* (Wes Anderson, 2014)](ARCHIVIO_SCENE_FILM.md#22-the-grand-budapest-hotel-wes-anderson-2014) — composizione dell'inquadratura.
-- [*The Quiet Man* (John Ford, 1952) / *E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#33-the-quiet-man-john-ford-1952-e-t-lextra-terrestre-steven-spielberg-1982)
+- [*The Quiet Man* (John Ford, 1952) / *E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#33-the-quiet-man-john-ford-1952-et-lextra-terrestre-steven-spielberg-1982)
 - [*The Searchers / Sentieri selvaggi* (John Ford, 1956)](ARCHIVIO_SCENE_FILM.md#35-the-searchers-sentieri-selvaggi-john-ford-1956) — soglia e composizione dell'inquadratura.
 - [*The Searchers* (John Ford, 1956) — formato e rapporto d'aspetto](ARCHIVIO_SCENE_FILM.md#42-the-searchers-john-ford-1956-formato-e-rapporto-daspetto) — rapporto d'aspetto e composizione panoramica.
 - [*The Shining* (Stanley Kubrick, 1980)](ARCHIVIO_SCENE_FILM.md#32-the-shining-stanley-kubrick-1980) — movimento di macchina e soggettività spaziale.
