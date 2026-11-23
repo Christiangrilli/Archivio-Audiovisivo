@@ -2737,20 +2737,80 @@ Aggiungono una breve nota in cui spiegano perché la luce naturale richieda una 
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scene/esempi:** alternanza di inquadrature e sviluppo della sintassi narrativa.
-- **Concetto principale:** montaggio narrativo.
-- **Concetti secondari:** alternanza, costruzione dell'azione, découpage.
-- **Tag:** #montaggio #montaggio-alternato #narrazione #inquadratura
-- **Livello:** Intermedio.
-- **Uso:** storia del linguaggio cinematografico.
+- **Sequenza:** il climax del salvataggio della famiglia Cameron assediata nella capanna, costruito attraverso l'alternanza fra gli assediati e l'avanzata del Ku Klux Klan.
+- **Concetto principale:** montaggio alternato e costruzione della suspense.
+- **Concetti secondari:** linee d'azione parallele, raccordo, variazione della scala dei piani, ritmo, organizzazione dello spazio, narrazione classica, propaganda e rappresentazione ideologica.
+- **Tag:** #montaggio #montaggio-alternato #suspense #narrazione #storia-del-cinema #rappresentazione
+- **Livello:** Intermedio / Avanzato.
+- **Uso consigliato:** studiare una delle sequenze che hanno contribuito a consolidare il montaggio alternato nel lungometraggio narrativo, analizzando insieme la sua funzione retorica e il contenuto razzista che veicola.
+- **Attenzione ai contenuti:** il film contiene blackface, stereotipi razzisti, rappresentazioni disumanizzanti degli afroamericani e una glorificazione del Ku Klux Klan. Non è un frammento da mostrare senza contestualizzazione storica e critica; valutare se sia necessario utilizzare estratti o fotogrammi selezionati.
+- **Stato:** **DA COMPLETARE** — individuare un frammento circoscritto del climax e verificare la successione delle linee d'azione sulla copia scelta.
 
-### Analisi
-Le sequenze permettono di mostrare come il montaggio possa costruire un'azione che non è percepita in un'unica unità spaziale. L'alternanza fra luoghi differenti stabilisce rapporti temporali e causali che lo spettatore deve ricostruire.
+### Contesto essenziale
+*The Birth of a Nation* racconta la Guerra civile americana e la Ricostruzione da una prospettiva apertamente razzista. Nel finale, la famiglia Cameron è assediata in una capanna e il film presenta il Ku Klux Klan come forza di salvataggio. Il montaggio alterna la situazione degli assediati e l'avanzata dei cavalieri, costruendo un'attesa che culmina nell'arrivo del Klan. La sequenza deve essere letta non soltanto come esempio storico di tecnica narrativa, ma anche come dispositivo propagandistico.
 
-### Note
-La trattazione deve essere accompagnata da una contestualizzazione storica e critica dell'opera, anche per i suoi contenuti razzisti e propagandistici.
+### Analisi formale
+La sequenza organizza due linee d'azione in spazi differenti: da una parte la famiglia assediata, dall'altra i cavalieri che avanzano per raggiungerla. Il montaggio passa ripetutamente da una situazione all'altra, mettendo in relazione la minaccia che incombe sugli assediati e il movimento di chi dovrebbe soccorrerli. L'alternanza produce una simultaneità narrativa: lo spettatore è informato su ciò che accade nei due spazi e può misurare la distanza fra pericolo e salvezza.
 
----
+La variazione della scala dei piani e il progressivo avvicinamento delle linee d'azione intensificano il ritmo. Il montaggio non si limita a registrare due eventi: costruisce un'attesa e orienta lo spettatore verso un esito già suggerito dalla narrazione. La suspense nasce dalla domanda «arriveranno in tempo?», ma il film associa questa attesa a una rappresentazione ideologica profondamente razzista: il Klan viene presentato come forza salvifica e gli afroamericani come minaccia collettiva.
+
+La tecnica non è separabile dalla funzione retorica. Il montaggio alternato rende più efficace il climax perché distribuisce informazioni e organizza il tempo; nello stesso momento, però, indirizza la partecipazione emotiva dello spettatore verso una parte del conflitto e contro l'altra. La sequenza mostra quindi che il montaggio non è mai soltanto una procedura neutra: decide quali azioni mettere in relazione, a chi concedere il punto di vista e quale esito presentare come desiderabile.
+
+È necessario evitare una formulazione celebrativa secondo cui Griffith avrebbe «inventato» da solo il montaggio alternato. La tecnica aveva precedenti e si sviluppò attraverso il lavoro di diversi cineasti. *The Birth of a Nation* è un caso storico importante per la scala e la sistematicità con cui riunisce tecniche narrative, ma la sua innovazione formale non giustifica né attenua il suo contenuto razzista e il suo impatto sociale.
+
+### Evidenze da far osservare
+1. Quali sono le due linee d'azione alternate e dove si svolgono.
+2. Con quale frequenza il film passa dagli assediati ai cavalieri.
+3. Come cambiano scala e durata delle inquadrature durante l'avvicinamento.
+4. Quali informazioni possiede lo spettatore che i personaggi non condividono.
+5. Come il montaggio costruisce l'attesa del salvataggio.
+6. In che modo la distribuzione dei punti di vista orienta la simpatia dello spettatore.
+
+### Perché è didatticamente utile
+La sequenza consente di studiare il montaggio alternato in una delle sue forme storicamente più influenti, ma anche di interrogare il rapporto fra forma e ideologia. Gli studenti possono riconoscere il funzionamento tecnico del montaggio e, contemporaneamente, comprendere come la suspense venga utilizzata per costruire una narrazione propagandistica. È un caso utile per distinguere analisi formale e approvazione del contenuto.
+
+### Obiettivo didattico
+Al termine dell'attività, lo studente sa ricostruire due linee d'azione alternate, descrivere come il montaggio costruisca la suspense e spiegare come la distribuzione del punto di vista e della partecipazione emotiva contribuisca al messaggio ideologico del film.
+
+### Come utilizzarla in classe
+1. **Contestualizzazione preventiva:** spiegare il contesto della Ricostruzione, il ruolo storico del Ku Klux Klan e la natura razzista del film. Chiarire che l'analisi non assume il punto di vista propagandistico della pellicola.
+2. **Prima visione di un estratto selezionato:** chiedere agli studenti di individuare le due linee d'azione senza commentare ancora il loro contenuto ideologico.
+3. **Mappa del montaggio:** costruire una linea temporale a due colonne, una per la capanna e una per i cavalieri.
+4. **Analisi della suspense:** individuare come il montaggio alterni pericolo e avvicinamento del soccorso.
+5. **Lettura critica:** chiedere chi viene presentato come vittima, chi come minaccia e quali strumenti visivi e narrativi producono questa gerarchia.
+6. **Confronto storico:** mettere in relazione la sequenza con un esempio di montaggio alternato non propagandistico, per distinguere la tecnica dal suo uso ideologico.
+
+### Domande per gli studenti
+1. Quali due azioni vengono alternate?
+2. Come il montaggio rende percepibile la simultaneità?
+3. Quali elementi aumentano la suspense?
+4. Chi viene presentato come soggetto da salvare e chi come minaccia?
+5. In che modo la tecnica del montaggio contribuisce a rendere persuasiva una rappresentazione razzista?
+6. Possiamo riconoscere l'importanza storica di una tecnica senza legittimare il contenuto del film?
+
+### Verifica formativa
+Gli studenti ricostruiscono la sequenza in una tabella a due colonne e annotano:
+- ordine dei passaggi;
+- scala dei piani;
+- durata relativa;
+- informazione fornita;
+- effetto di suspense;
+- orientamento ideologico della rappresentazione.
+
+**Criteri:** correttezza nella ricostruzione del montaggio, uso preciso del lessico, distinzione fra tecnica e ideologia, capacità di sostenere la lettura critica con evidenze visive.
+
+### Collegamenti
+- **Montaggio parallelo e costruzione ideologica:** *Intolerance* — alternanza di linee narrative e confronto fra epoche.
+- **Montaggio alternato e contrasto:** *Rocco e i suoi fratelli* — boxe e omicidio.
+- **Montaggio e suspense:** *Lo squalo* — distribuzione dell'informazione fra spettatore e personaggi.
+- **Storia e propaganda:** *Nascita di una nazione* e la risposta critica del cinema afroamericano.
+
+### Fonti e riferimenti
+- Library of Congress, «The Birth of a Nation», *Information Bulletin*, 27 giugno 1994. Analizza le innovazioni formali del film e ne documenta il carattere propagandistico e razzista: https://www.loc.gov/loc/lcib/94/9413/nation.html
+- Daniel Bernardi e Michelle J. Martinez, «The Birth of a Nation», *Oxford Bibliographies in Cinema and Media Studies*, 28 ottobre 2011, per la storia critica del film e il rapporto fra innovazione narrativa e rappresentazione razzista: https://doi.org/10.1093/obo/9780199791286-0070
+- Ben Urwand, «The Black Image on the White Screen: Representations of African Americans from the Origins of Cinema to *The Birth of a Nation*», *Journal of American Studies*, 52, n. 1, 2018, pp. 45–64. Analizza l'uso di primo piano, punto di vista, campo/controcampo e montaggio parallelo nella costruzione della minaccia razzializzata: https://doi.org/10.1017/S0021875816001845
+- Desmond Ang, «The Birth of a Nation: Media and Racial Hate», Harvard Kennedy School, 22 luglio 2022, studio sull'impatto sociale e politico del film: https://scholar.harvard.edu/files/ang/files/ang_birthofanation_nov2020.pdf
+- Michael T. Martin (a cura di), *The Birth of a Nation: The Cinematic Past in the Present*, Indiana University Press, 2019, raccolta di saggi sulla storia, la ricezione e l'eredità culturale del film: https://iu.pressbooks.pub/thebirthofanation/
 
 ## 31. *Intolerance* (D. W. Griffith, 1916)
 [↑ Torna all'indice](#indice-interattivo)
