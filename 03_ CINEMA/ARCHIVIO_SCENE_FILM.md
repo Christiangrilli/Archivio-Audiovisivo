@@ -2891,24 +2891,86 @@ Gli studenti compilano una tabella con quattro colonne, una per ogni linea narra
 - American Film Institute, *AFI Catalog*, scheda di *Intolerance* (1916), per dati produttivi, struttura e ricezione: https://catalog.afi.com/Film/16253-INTOLERANCE
 - Martin Scorsese, Jefferson Lecture, National Endowment for the Humanities, per una sintesi del montaggio conclusivo e della relazione fra le quattro storie: https://www.neh.gov/about/awards/jefferson-lecture/martin-scorsese-biography
 
-## 32. *Wall-E* (Andrew Stanton, 2008)
+## 32. *WALL-E* (Andrew Stanton, 2008)
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena/esempio:** citazione di Griffith.
-- **Concetto principale:** citazione cinematografica e intertestualità.
-- **Concetti secondari:** storia del cinema, memoria, linguaggio.
-- **Tag:** #narrazione #inquadratura #intertestualità
+- **Sequenza principale:** apertura del film, con il viaggio dalla Terra vista dallo spazio fino al paesaggio di rifiuti, accompagnato da «Put On Your Sunday Clothes» dal musical *Hello, Dolly!*.
+- **Sequenza di confronto:** WALL-E guarda la registrazione di *Hello, Dolly!* nel proprio rifugio e impara dal film un gesto di intimità che proverà a ripetere con EVE.
+- **Concetto principale:** intertestualità audiovisiva e rapporto fra musica, immagine e narrazione.
+- **Concetti secondari:** citazione, musica extradiegetica e diegetica, contrasto audiovisivo, sound design, racconto senza dialoghi, memoria mediale.
+- **Tag:** #suono #musica #intertestualità #narrazione #immagine #sound-design
 - **Livello:** Base / Intermedio.
-- **Uso:** storia del cinema e alfabetizzazione audiovisiva.
+- **Uso consigliato:** mostrare come un film possa utilizzare un'opera precedente per costruire il proprio mondo narrativo e come musica e immagini possano produrre un significato attraverso il contrasto.
+- **Stato:** **DA COMPLETARE** — delimitare i due frammenti e verificare il passaggio dalla musica d'apertura al paesaggio terrestre e la sequenza della visione domestica.
 
-### Analisi
-Il film contemporaneo incorpora un riferimento alla storia del cinema all'interno della propria narrazione. La citazione può quindi essere utilizzata per mostrare agli studenti che i film non esistono isolatamente, ma dialogano con immagini e forme precedenti.
+### Contesto essenziale
+WALL-E è un robot incaricato di comprimere i rifiuti sulla Terra, ormai abbandonata dagli esseri umani. Vive da solo e raccoglie oggetti che considera interessanti. Fra questi conserva un vecchio lettore e una videocassetta di *Hello, Dolly!*, musical del 1969. Le canzoni del film diventano per lui un modello per immaginare la relazione con un altro essere. Il riferimento non è a Griffith: la citazione centrale è *Hello, Dolly!* di Gene Kelly.
+
+### Analisi formale
+L'apertura mette in relazione immagini di spazio, pianeta e desolazione con «Put On Your Sunday Clothes», brano proveniente da *Hello, Dolly!*. La musica ha un carattere allegro, ottimista e spettacolare; le immagini mostrano invece una Terra svuotata, ricoperta di rifiuti e priva di vita umana. Il contrasto produce un effetto ironico e malinconico: la canzone evoca un mondo di avventure e incontri, mentre l'immagine rivela un ambiente in cui gli esseri umani non ci sono più.
+
+La musica non serve soltanto a creare un'atmosfera. Anticipa il tema del desiderio di relazione che guiderà WALL-E e introduce un'opera precedente destinata a diventare importante per il personaggio. Il brano è inizialmente utilizzato come musica extradiegetica, cioè come accompagnamento della sequenza; più avanti, quando WALL-E guarda la videocassetta, la musica e le immagini di *Hello, Dolly!* diventano parte del mondo narrativo e vengono ascoltate e viste dal robot.
+
+La seconda sequenza mostra come la citazione venga interiorizzata dal personaggio. WALL-E osserva i gesti dei protagonisti del musical, soprattutto il momento in cui due persone si prendono per mano. Non comprende il linguaggio umano, ma interpreta il gesto come un segno di vicinanza e affetto. Quando incontra EVE, prova a riprodurlo. Il film precedente diventa così una sorta di manuale audiovisivo attraverso cui il robot apprende un comportamento umano.
+
+Il riferimento è quindi più complesso di una semplice citazione cinefila. *Hello, Dolly!* fornisce a WALL-E un repertorio di immagini, gesti e suoni attraverso cui immaginare una relazione. La memoria cinematografica viene trasformata in azione: il personaggio guarda un film, ne ricava un modello e cerca di metterlo in pratica.
+
+La prima parte del film è inoltre costruita con pochissimi dialoghi umani. Il racconto procede attraverso movimenti, suoni meccanici, rumori ambientali e musica. Il sound design di Ben Burtt attribuisce ai robot una presenza espressiva: beep, motori, scatti e variazioni vocali funzionano come una forma di recitazione sonora. Il film dimostra così che la comunicazione audiovisiva non dipende necessariamente dal dialogo verbale.
+
+### Evidenze da far osservare
+1. Quale contrasto si crea fra la canzone allegra e le immagini della Terra desolata.
+2. Quando la musica è extradiegetica e quando diventa una fonte interna alla storia.
+3. Quali gesti WALL-E osserva nel musical.
+4. Come il robot riproduce il gesto della mano quando incontra EVE.
+5. Quali informazioni narrative vengono comunicate senza dialoghi.
+6. Quali suoni meccanici contribuiscono a caratterizzare WALL-E.
+
+### Perché è didatticamente utile
+La scheda permette di introdurre l'intertestualità attraverso un esempio immediatamente riconoscibile: un film precedente entra nella storia di un altro film e influenza il comportamento del protagonista. Consente inoltre di analizzare il rapporto fra musica e immagine, distinguendo musica extradiegetica e musica diegetica, e di osservare come il sound design possa sostituire il dialogo nella costruzione del personaggio.
 
 ### Obiettivo didattico
-Riconoscere una citazione audiovisiva e comprendere la funzione della memoria cinematografica.
+Al termine dell'attività, lo studente sa riconoscere una citazione audiovisiva, distinguere le funzioni diegetiche ed extradiegetiche della musica e spiegare come un film precedente possa diventare un modello di comportamento per un personaggio.
 
----
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare l'apertura senza anticipare la provenienza della canzone. Chiedere agli studenti di descrivere il contrasto fra musica e immagini.
+2. **Contestualizzazione:** presentare brevemente *Hello, Dolly!* e spiegare che il brano proviene da un musical del 1969.
+3. **Seconda visione:** mostrare WALL-E mentre guarda la videocassetta e individuare i gesti che attirano la sua attenzione.
+4. **Confronto:** mettere in relazione il gesto osservato nel film interno e quello che WALL-E prova a ripetere con EVE.
+5. **Analisi sonora:** distinguere musica, rumori ambientali e suoni meccanici che funzionano come voce del personaggio.
+6. **Rielaborazione:** chiedere agli studenti di scegliere una breve sequenza di un film o di un video che possa diventare un modello per un personaggio, spiegando come immagini e suoni ne influenzino il comportamento.
+
+### Domande per gli studenti
+1. Perché una canzone allegra viene associata a immagini di una Terra desolata?
+2. Che cosa cambia quando la musica passa da accompagnamento extradiegetico a registrazione vista e ascoltata da WALL-E?
+3. Quale gesto il robot impara osservando *Hello, Dolly!*?
+4. Perché il film utilizza così pochi dialoghi nella prima parte?
+5. In che modo i suoni meccanici contribuiscono a rendere WALL-E un personaggio espressivo?
+
+### Verifica formativa
+Gli studenti compilano una tabella con:
+- immagine mostrata;
+- musica o suono ascoltato;
+- fonte diegetica o extradiegetica;
+- contrasto o corrispondenza fra immagine e suono;
+- funzione narrativa.
+
+A conclusione, spiegano come *Hello, Dolly!* diventi un modello di comportamento per WALL-E, citando un gesto specifico.
+
+**Criteri:** distinzione corretta fra suono diegetico ed extradiegetico, riconoscimento della citazione, capacità di descrivere il contrasto audiovisivo e collegamento fra modello osservato e comportamento del personaggio.
+
+### Collegamenti
+- **Citazione e intertestualità:** *E.T. l'extra-terrestre* — il frammento di *The Quiet Man* influenza il comportamento di Elliott.
+- **Musica e immagine:** *Il grande Gatsby* — montaggio e musica nella festa.
+- **Racconto senza dialoghi:** *Il posto delle fragole* — gesti, immagini e suono.
+- **Sound design e personaggio:** *Star Wars* — voce e suoni elettronici come caratterizzazione.
+
+### Fonti e riferimenti
+- Kutter Callaway, *Scoring Transcendence: Contemporary Film Music as Religious Experience*, Baylor University Press, 2013, capitolo «Music in the Films of Pixar Animation Studios», pp. 13–42. Analizza il rapporto fra «Put On Your Sunday Clothes», le immagini dello spazio e la Terra desolata: https://api.pageplace.de/preview/DT0400.9781602585362_A40051039/preview-9781602585362_A40051039.pdf
+- Andrew Stanton, intervista a *Metro Silicon Valley*, 25 giugno 2008, sul contrasto fra la canzone di *Hello, Dolly!* e il paesaggio futuristico: https://www.metrosiliconvalley.com/metro/06.25.08/filminterview-walle-0826.html
+- Michael Ordoña, «'Wall-E' script has a sound message», *Los Angeles Times*, 17 febbraio 2009. Riporta le parole di Stanton sulla funzione di *Hello, Dolly!* e sul gesto del tenersi per mano: https://www.latimes.com/archives/la-xpm-2009-feb-17-et-wall-e17-story.html
+- Ben Burtt, «WALL-E – The Definitive Interview», *Designing Sound*, 2009, sulla costruzione della voce e dei suoni dei robot: https://designingsound.org/2009/09/ben-burtt-special-wall-e-the-definitive-interview/
+- Robin S. Beauchamp, *Designing Sound for Animation*, Focal Press, per l'analisi della prima parte del film e del racconto audiovisivo costruito senza dialoghi.
 
 ## 33. *The Quiet Man* (John Ford, 1952) / *E.T. l'extra-terrestre* (Steven Spielberg, 1982)
 [↑ Torna all'indice](#indice-interattivo)
