@@ -3116,6 +3116,9 @@ Fermare tre fotogrammi e ricostruire la posizione ipotetica della camera rispett
 2. In che modo gli oggetti cambiano scala rispetto ai giocattoli?
 3. Quali movimenti fanno percepire lo spazio come tridimensionale?
 
+### Verifica formativa
+Gli studenti ricostruiscono su tre fotogrammi la posizione ipotetica della camera virtuale (altezza, angolazione e distanza) e motivano quale scelta rende leggibile la scala dei giocattoli. La verifica è positiva se usano correttamente il lessico e sostengono la ricostruzione con dettagli visibili.
+
 ### Collegamenti
 - *E.T.* — punto di vista dei bambini e altezza della macchina da presa.
 - *Wall-E* — animazione 3D e citazione del linguaggio cinematografico.
@@ -3159,6 +3162,9 @@ Realizzare una mappa della scena indicando il luogo dell'incidente, i personaggi
 2. Come cambia la scena quando aumenta il numero degli spettatori interni?
 3. La macchina da presa ci colloca dentro la folla o ci invita a osservarla dall'esterno?
 
+### Verifica formativa
+Gli studenti consegnano una mappa annotata dell'inquadratura o dello spazio della scena, indicando centro dell'attenzione, gruppi di spettatori, punti di osservazione e gerarchie visive. Devono spiegare con almeno due evidenze come la composizione trasformi il salvataggio in spettacolo.
+
 ### Collegamenti
 - *Quarto potere* — informazione, potere e costruzione del racconto.
 - *The Fabelmans* — immagine come documento e strumento di conoscenza.
@@ -3200,6 +3206,9 @@ Chiedere agli studenti di ridisegnare l'inquadratura semplificando le file di sc
 1. Perché l'ufficio sembra molto più grande di un normale ambiente di lavoro?
 2. Quale ruolo ha la ripetizione delle scrivanie?
 3. Come viene rappresentato il rapporto tra individuo e organizzazione?
+
+### Verifica formativa
+Gli studenti annotano un fotogramma indicando linee prospettiche, punto di fuga, ripetizione delle scrivanie e rapporto di scala. Devono distinguere ciò che dipende dalla composizione da ciò che è ottenuto con la scenografia e la prospettiva forzata.
 
 ### Collegamenti
 - *Metropolis* — architettura e gerarchia sociale.
@@ -3244,6 +3253,9 @@ Riprodurre la scena e chiedere agli studenti di annotare il momento in cui Travi
 2. La voce continua a essere comprensibile anche quando il personaggio non è inquadrato?
 3. Che effetto produce lo spazio vuoto?
 
+### Verifica formativa
+Gli studenti descrivono in quattro passaggi il movimento della macchina da presa, il momento in cui Travis esce dal quadro e la permanenza della voce. La verifica richiede di distinguere il dato visivo dall'interpretazione della funzione espressiva.
+
 ### Collegamenti
 - *The Conversation* — punto di ascolto e informazione sonora.
 - *L'eclisse* — autonomia dello spazio rispetto ai personaggi.
@@ -3285,6 +3297,9 @@ Consegnare una serie di fotogrammi inventati o forniti dal docente e chiedere ag
 1. Che cosa vede Sammy solo quando rivede le immagini?
 2. La macchina da presa registra una realtà neutra?
 3. In che modo il montaggio trasforma una ripresa in una prova?
+
+### Verifica formativa
+A partire da una breve serie di immagini, gli studenti realizzano due ordinamenti differenti e spiegano quale informazione emerge in ciascuno. La verifica considera la coerenza della selezione, la capacità di citare dettagli delle immagini e la consapevolezza che il montaggio orienta l'interpretazione.
 
 ### Collegamenti
 - *Blow-Up* — immagine e costruzione dell'indizio.
@@ -3330,6 +3345,9 @@ Costruire una piccola mappa degli spazi della casa e segnare dove si collocano W
 
 ### Attenzioni didattiche
 Il film contiene linguaggio razzista e stereotipi etnici pronunciati dal protagonista. Se si sceglie di affrontarli, occorre contestualizzarli e distinguere la rappresentazione del pregiudizio dalla sua approvazione. La scena va selezionata in modo da non riprodurre insulti gratuiti o trasformarli in materiale comico.
+
+### Verifica formativa
+Gli studenti confrontano due fotogrammi delle scene selezionate, segnando posizione dei personaggi, soglie e accessi allo spazio. Devono formulare un'osservazione sul cambiamento del rapporto tra i personaggi senza attribuire significati non sostenuti dalle immagini.
 
 ### Collegamenti
 - *The Searchers* — soglia domestica e rapporto con l'esterno.
@@ -3377,6 +3395,9 @@ Fermare la sequenza in tre momenti: inizio del confronto, momento di maggiore te
 ### Attenzioni didattiche
 Il film affronta temi di violenza, disabilità e fine vita. La scena della palestra consente di lavorare sulla forma senza ricorrere alle sequenze più traumatiche.
 
+### Verifica formativa
+Gli studenti confrontano tre momenti del dialogo e classificano la scala dei piani, annotando che cosa cambia nella composizione e nella relazione tra i personaggi. La verifica richiede di collegare almeno una variazione formale a un passaggio della tensione drammatica.
+
 ### Collegamenti
 - *Susanna* — scala dei piani e costruzione del dialogo.
 - *The Apartment* — variazioni dell'inquadratura in rapporto ai rapporti tra personaggi.
@@ -3418,6 +3439,9 @@ Progettare una breve apertura animata per un film immaginario, utilizzando una s
 1. Come viene rappresentato il rapporto tra inseguitore e fuggitivo?
 2. I titoli sono leggibili senza interrompere l'azione?
 3. In che modo la musica contribuisce al tono della sequenza?
+
+### Verifica formativa
+Gli studenti progettano una breve apertura animata o uno storyboard di titoli di testa, integrando titolo, tipografia, movimento e ritmo musicale. La verifica considera leggibilità, coerenza grafica e capacità di spiegare come i titoli anticipino tono o struttura del racconto.
 
 ### Collegamenti
 - *Catch Me If You Can* può essere confrontato con i titoli di Saul Bass.
@@ -3465,6 +3489,9 @@ Disegnare una pianta semplificata della nave e associare a ogni ambiente le inqu
 ### Attenzioni didattiche
 La sequenza contiene situazioni di pericolo e morte. Selezionare un frammento adeguato all'età e al contesto della classe.
 
+### Verifica formativa
+Gli studenti ricostruiscono in una tabella le linee d'azione del frammento, associando a ciascuna ambiente, personaggi e ordine di apparizione. Devono distinguere gli eventi effettivamente simultanei da quelli semplicemente accostati e motivare la risposta con indizi narrativi o sonori.
+
 ### Collegamenti
 - *Il padrino* — montaggio parallelo e costruzione del contrasto.
 - *Il silenzio degli innocenti* — montaggio alternato e falsa convergenza spaziale.
@@ -3506,6 +3533,9 @@ Realizzare una silhouette fotografica con una fonte luminosa sullo sfondo. In al
 1. Quali dettagli vengono eliminati dal controluce?
 2. Perché la sagoma resta riconoscibile?
 3. Come cambia l'effetto della sequenza quando entra la musica?
+
+### Verifica formativa
+Gli studenti realizzano o analizzano un'immagine in silhouette e annotano direzione della luce, rapporto figura/sfondo e dettagli sacrificati. Devono inoltre distinguere l'effetto fotografico osservabile dagli eventuali interventi di compositing o effetti visivi.
 
 ### Collegamenti
 - *The Searchers* — silhouette e paesaggio.
@@ -3550,6 +3580,9 @@ Ascoltare il motivo senza immagini e chiedere agli studenti di descriverne strut
 2. Come viene riconosciuto il codice sonoro?
 3. Che cosa cambierebbe se il motivo fosse soltanto extradiegetico?
 
+### Verifica formativa
+Dopo un ascolto senza immagini, gli studenti compilano una breve mappa delle ripetizioni del motivo musicale e delle risposte sonore. Nella seconda fase spiegano quando il suono assume una funzione diegetica e quale conseguenza produce nella storia.
+
 ### Collegamenti
 - *Lo squalo* — motivo musicale e anticipazione.
 - *The Conversation* — suono come informazione e indizio.
@@ -3592,6 +3625,9 @@ Scomporre un fotogramma dell'apertura in livelli: primo piano, piano intermedio,
 2. Come viene utilizzata la luce per organizzare la profondità?
 3. Che rapporto si crea tra architettura, potere e condizione umana?
 
+### Verifica formativa
+Gli studenti consegnano un fotogramma annotato con almeno tre livelli di profondità, fonti luminose e componenti scenografiche. Devono spiegare come questi elementi contribuiscano alla costruzione del mondo narrativo, distinguendo quando possibile set, miniature e interventi ottici.
+
 ### Collegamenti
 - *Metropolis* — città, architettura e gerarchia sociale.
 - *The Apartment* — scenografia come rappresentazione dello spazio sociale.
@@ -3633,6 +3669,9 @@ Visione con audio e successiva visione concentrata sul suono: gli studenti compi
 1. Quali suoni attirano l'attenzione prima dell'arrivo del treno?
 2. Perché la sequenza può risultare tesa pur contenendo pochi eventi?
 3. Come cambia la percezione del tempo quando il montaggio insiste sui dettagli?
+
+### Verifica formativa
+Gli studenti costruiscono una mappa sonora ordinata del frammento, distinguendo rumori ambientali, suoni prodotti dai personaggi, musica e silenzi. La verifica richiede di spiegare con due evidenze come il suono e la durata costruiscano l'attesa.
 
 ### Collegamenti
 - *C'era una volta il West* → *The Good, the Bad and the Ugly*: attesa e costruzione del duello.
@@ -3677,6 +3716,9 @@ Ascoltare un frammento senza guardare lo schermo e annotare quante voci sono pre
 2. La sovrapposizione rende la scena più realistica o più difficile da comprendere?
 3. Come viene costruito lo spazio anche quando non vediamo chi parla?
 
+### Verifica formativa
+Gli studenti ascoltano il frammento senza immagini e trascrivono schematicamente i livelli di voce, indicando sovrapposizioni e variazioni di intelligibilità. Devono poi collegare il risultato alla disposizione dei personaggi e alla costruzione dello spazio sonoro.
+
 ### Collegamenti
 - *His Girl Friday* — sovrapposizione del dialogo come ritmo comico.
 - *The Conversation* — punto di ascolto e selezione dell'informazione.
@@ -3719,6 +3761,9 @@ Disegnare una pianta semplificata del percorso compiuto dalla macchina da presa.
 1. Quali ambienti attraversiamo insieme ai personaggi?
 2. In che modo il movimento della macchina da presa modifica la nostra percezione di Henry?
 3. Che cosa rende possibile seguire l'azione senza interromperla con il montaggio?
+
+### Verifica formativa
+Gli studenti disegnano una pianta semplificata del percorso della macchina da presa e realizzano uno storyboard alternativo di cinque inquadrature. Nella restituzione spiegano quali informazioni spaziali e quali effetti di continuità cambiano rispetto al movimento ininterrotto.
 
 ### Collegamenti
 - *Rope* — continuità apparente e raccordi nascosti.
