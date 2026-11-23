@@ -774,25 +774,74 @@ Fornire agli studenti una breve serie di fotogrammi del frammento e chiedere di:
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** Simone uccide Nadia.
-- **Concetto principale:** messa in scena del corpo e del melodramma.
-- **Concetti secondari:** spazio, gesto, violenza, composizione, eccesso melodrammatico.
-- **Tag:** #messa-in-scena #spazio #recitazione #montaggio #narrazione
+- **Sequenza:** il combattimento conclusivo di Rocco, alternato alla ricerca e all'uccisione di Nadia da parte di Simone all'Idroscalo.
+- **Concetto principale:** montaggio alternato e costruzione del contrasto melodrammatico.
+- **Concetti secondari:** parallelismo visivo, simultaneità narrativa, composizione, simbolismo, recitazione, rapporto fra gesto e significato, punto di vista etico.
+- **Tag:** #montaggio #montaggio-alternato #melodramma #composizione #simbolismo #violenza #narrazione
 - **Livello:** Intermedio / Avanzato.
-- **Uso:** analisi della forma melodrammatica; confronto.
+- **Uso consigliato:** analizzare come il montaggio possa mettere in relazione due azioni differenti e produrre un significato attraverso il loro contrasto.
+- **Attenzione ai contenuti:** la sequenza comprende violenza sessuale nel contesto narrativo e un omicidio rappresentato in modo esplicito. Per una classe, selezionare con attenzione il frammento e valutare se sia opportuno mostrare l'intera scena o concentrarsi sulla struttura del montaggio, evitando la spettacolarizzazione della violenza.
+- **Stato:** **DA COMPLETARE** — delimitare il frammento e controllare la sua durata sull'edizione disponibile; la verifica didattica deve considerare anche l'adeguatezza del contenuto per la classe.
 
-### Analisi
-La violenza viene costruita attraverso la relazione fra corpi, spazio e gesto. La scena permette di osservare come un evento narrativamente decisivo non dipenda soltanto dall'azione rappresentata, ma dalla sua configurazione visiva e dalla durata accordata ai gesti e alle reazioni.
+### Contesto essenziale
+Rocco ha accettato di diventare pugile professionista per pagare i debiti contratti dal fratello Simone. Nel finale, mentre Rocco disputa un incontro decisivo, Simone raggiunge Nadia all'Idroscalo e la uccide. Il film alterna le due linee d'azione: la vittoria sportiva di Rocco e la morte di Nadia vengono così poste in relazione attraverso un contrasto drammatico e simbolico.
 
-È particolarmente utile in confronto con la morte del padre in *Come le foglie al vento*, per discutere due modalità diverse di costruzione dell'eccesso melodrammatico.
+### Analisi formale
+La sequenza non presenta semplicemente due eventi in successione. Il montaggio alterna il combattimento sul ring e l'aggressione all'Idroscalo, facendo sì che lo spettatore segua due azioni distinte e le confronti. Il successo pubblico di Rocco e la violenza privata di Simone si sviluppano in parallelo, ma il loro accostamento produce soprattutto un contrasto: mentre uno conquista la vittoria, l'altra viene uccisa.
+
+Il rapporto fra le due linee viene costruito anche attraverso gesti e immagini che si richiamano. Le braccia di Rocco sollevate nella vittoria entrano in relazione con le braccia di Nadia, aperte mentre Simone si avvicina con il coltello. La somiglianza formale non annulla la differenza fra le situazioni: la trasforma in una figura tragica, nella quale il successo del protagonista coincide con la distruzione di un'altra vita. La critica ha inoltre individuato nella postura di Nadia un richiamo iconografico alla crocifissione; va presentato come interpretazione sostenuta dalla composizione, non come significato obbligatorio.
+
+Il montaggio non va definito automaticamente «parallelo» soltanto perché mette in relazione due azioni. Per l'analisi tecnica conviene partire dal dato verificabile: il film passa ripetutamente dal ring all'Idroscalo e organizza la progressione delle due linee. Si può poi discutere la funzione di contrasto simbolico e melodrammatico. La distinzione fra montaggio alternato e montaggio parallelo va motivata sulla base del rapporto temporale e semantico fra le azioni, non usata come sinonimia.
+
+La sequenza richiede anche una lettura critica della rappresentazione di Nadia. La donna è al centro del conflitto fra i fratelli, ma il modo in cui la macchina da presa mostra il suo corpo morente può sollevare domande sul rapporto fra violenza, spettacolo e sguardo dello spettatore. L'analisi non deve limitarsi a riconoscere la simbologia della scena: deve interrogare anche il costo di quella costruzione visiva e la posizione assegnata al personaggio femminile.
+
+### Evidenze da far osservare
+1. Quali sono le due linee d'azione alternate e in quali spazi si svolgono.
+2. Con quale frequenza il montaggio passa dal ring all'Idroscalo e come cambia il ritmo dei passaggi.
+3. Quali gesti o posture mettono in relazione Rocco e Nadia.
+4. Come vengono mostrati il pubblico del combattimento e lo spazio isolato dell'omicidio.
+5. Quali immagini insistono sul corpo di Nadia e quale posizione assegnano allo spettatore.
+
+### Perché è didatticamente utile
+La scena consente di osservare il montaggio come costruzione di rapporti, non come semplice successione di inquadrature. Gli studenti possono riconoscere come due azioni autonome acquistino un significato ulteriore attraverso l'alternanza e il contrasto. È inoltre un caso adatto per introdurre una lettura critica della messa in scena: la forza simbolica della sequenza può essere analizzata insieme alle implicazioni etiche della rappresentazione della violenza.
 
 ### Obiettivo didattico
-Saper mettere in relazione messa in scena, recitazione, composizione e funzione narrativa.
+Al termine dell'attività, lo studente sa ricostruire due linee d'azione alternate, descrivere il loro rapporto temporale e spiegare come il montaggio costruisca un contrasto narrativo e simbolico, sostenendo l'interpretazione con almeno due evidenze visive.
 
-### Note
-Contenuto violento: richiede contestualizzazione e selezione del frammento in base alla classe.
+### Come utilizzarla in classe
+1. **Preparazione:** contestualizzare in poche frasi il rapporto fra Rocco, Simone e Nadia e spiegare che la scena contiene violenza esplicita. Non è necessario raccontare l'intero film.
+2. **Prima visione o visione di un estratto selezionato:** chiedere agli studenti di segnare ogni passaggio fra ring e Idroscalo, senza ancora interpretarlo.
+3. **Mappa del montaggio:** costruire una tabella a due colonne, una per ciascuna linea d'azione, e ordinare i passaggi.
+4. **Analisi del contrasto:** confrontare gesti, posture, spazi e reazioni; chiedere quale significato nasce dall'accostamento.
+5. **Discussione critica:** interrogare la rappresentazione del corpo di Nadia e distinguere il valore simbolico attribuito alla scena dalla possibile spettacolarizzazione della violenza.
+6. **Rielaborazione:** realizzare uno storyboard di otto inquadrature che alterni due azioni non violente e produca un contrasto riconoscibile senza ricorrere a spiegazioni verbali.
 
----
+### Domande per gli studenti
+1. Quali due azioni vengono alternate e che cosa accade in ciascuna?
+2. Il montaggio serve soltanto a indicare che le azioni avvengono nello stesso arco di tempo oppure costruisce anche un confronto?
+3. Quali gesti o composizioni mettono in relazione la vittoria di Rocco e la morte di Nadia?
+4. Che cosa cambia se immaginiamo di vedere le due azioni in blocchi separati, senza alternanza?
+5. In che modo la macchina da presa rappresenta Nadia? La costruzione simbolica della scena può essere discussa anche dal punto di vista etico?
+
+### Verifica formativa
+Consegnare agli studenti una scheda con otto fotogrammi in ordine sparso, tratti dai due spazi della sequenza. Chiedere di:
+- ricostruire l'ordine dei passaggi fra ring e Idroscalo;
+- distinguere le due linee d'azione;
+- individuare un richiamo visivo fra i gesti dei personaggi;
+- scrivere un breve commento sul significato prodotto dall'alternanza.
+
+**Criteri:** ricostruzione corretta della successione, distinzione fra alternanza e contrasto, uso di evidenze visive, precisione terminologica, capacità di formulare una lettura critica senza ridurre la scena a una sola interpretazione.
+
+### Collegamenti
+- **Montaggio alternato e parallelo:** *Il padrino* — battesimo e omicidi, per confrontare simultaneità narrativa e contrasto concettuale.
+- **Montaggio e musica:** *La corazzata Potëmkin* — costruzione del ritmo e del significato attraverso l'accostamento.
+- **Melodramma e composizione:** *Come le foglie al vento* (*Written on the Wind*) — eccesso, gesto e organizzazione dei corpi.
+- **Violenza e fuori campo:** *Psycho* — rapporto fra ciò che viene mostrato, ciò che resta fuori campo e l'immaginazione dello spettatore.
+
+### Fonti e riferimenti
+- Flavio Santi, «Rocco e i suoi fratelli», *Enciclopedia del Cinema*, Treccani, 2004. Descrive il montaggio in contrasto fra il combattimento vittorioso di Rocco e l'uccisione di Nadia, oltre agli elementi simbolici della scena: https://www.treccani.it/enciclopedia/rocco-e-i-suoi-fratelli_(Enciclopedia-del-Cinema)/
+- Brendan Hennessey, «Patterns of Pugilism: *Rocco e i suoi fratelli* (1960) and the Boxing Film», *The Italianist*, 36, n. 2, 2016, pp. 214–242, DOI: 10.1080/02614340.2016.1178490. Analizza la funzione della boxe nella struttura del film e il rapporto fra la vicenda di Nadia e quella dei fratelli Parondi: https://doi.org/10.1080/02614340.2016.1178490
+- «La letteratura italiana e le arti», ADI Editore, 2018, contributo su Visconti e *Rocco e i suoi fratelli*, per il rapporto fra montaggio, contrasto dei destini e simbologia della sequenza.
 
 ## 5. *Come le foglie al vento* (*Written on the Wind*, Douglas Sirk, 1956)
 [↑ Torna all'indice](#indice-interattivo)
