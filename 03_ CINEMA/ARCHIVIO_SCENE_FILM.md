@@ -4524,6 +4524,7 @@ Prima mostrare un normale dialogo costruito con campo/controcampo; poi la scena 
 La ricerca contemporanea sulla plasticità dello spazio filmico considera la frammentazione e la sua eventuale violazione delle convenzioni di continuità come strumenti capaci di rendere il processo di costruzione dello spazio percepibile allo spettatore. citeturn216999search3
 
 ---
+<a id="scene-94"></a>
 ## 94. *R.M.N. / Animali selvatici* (Cristian Mungiu, 2022) — la riunione e il montaggio interno
 [↑ Torna all'indice](#indice-interattivo)
 
