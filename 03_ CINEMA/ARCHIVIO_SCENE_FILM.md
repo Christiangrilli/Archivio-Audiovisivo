@@ -2358,21 +2358,83 @@ Gli studenti realizzano una mappa del percorso e un'annotazione di tre fotogramm
 - Özge Onay, «Reading Stanley Kubrick’s The Shining Against the Backdrop of His Cinematic Expression», *CINEJ Cinema Journal*, 12, n. 1, 2024, per la funzione dello spazio, della Steadicam e del punto di vista nei corridoi: https://cinej.pitt.edu/ojs/cinej/article/download/621/747
 - Vivian Sobchack, *The Address of the Eye: A Phenomenology of Film Experience*, Princeton University Press, 1992, per la relazione fra corpo, movimento e percezione dello spettatore.
 
-## 25. *2001: Odissea nello spazio* (Stanley Kubrick, 1968)
+## 25. *2001: Odissea nello spazio* (*2001: A Space Odyssey*, Stanley Kubrick, 1968)
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scene/esempi:** composizioni basate su simmetria e punto di fuga.
-- **Concetto principale:** geometria dell'inquadratura.
-- **Concetti secondari:** simmetria, prospettiva, spazio, composizione.
-- **Tag:** #composizione #simmetria #spazio #inquadratura
+- **Sequenza:** il lancio dell'osso da parte dell'ominide dopo la scoperta del suo uso come arma e strumento, seguito dal taglio che introduce il satellite in orbita intorno alla Terra.
+- **Concetto principale:** match cut grafico e ellissi temporale.
+- **Concetti secondari:** raccordo di forma e movimento, taglio concettuale, montaggio, metafora visiva, continuità/discontinuità, salto di scala, storia della tecnologia.
+- **Tag:** #montaggio #match-cut #graphic-match #ellissi #narrazione #composizione #storia-del-cinema
 - **Livello:** Base / Intermedio.
-- **Uso:** confronto sulla composizione.
+- **Uso consigliato:** introdurre il match cut e mostrare come un singolo taglio possa collegare immagini lontane nel tempo e nello spazio, producendo un significato concettuale.
+- **Stato:** **DA COMPLETARE** — individuare il punto esatto del taglio sulla copia utilizzata e verificare la successione dei fotogrammi prima e dopo la transizione.
 
-### Analisi
-La costruzione geometrica dello spazio permette di isolare con chiarezza linee prospettiche, assi e rapporti di simmetria. Il film è particolarmente utile per mostrare come la composizione possa guidare l'occhio dello spettatore prima ancora che intervenga il montaggio.
+### Contesto essenziale
+Nella sequenza ambientata nella preistoria, un ominide scopre che un osso può essere utilizzato come arma e strumento. Dopo averlo impiegato per colpire uno scheletro, lo lancia in aria. Il film taglia poi a un satellite in orbita intorno alla Terra. In un solo passaggio, la narrazione salta dalla preistoria all'era spaziale e comprime milioni di anni di trasformazioni tecnologiche.
 
----
+### Analisi formale
+La sequenza prepara il taglio attraverso il movimento dell'osso. Dopo il gesto dell'ominide, l'oggetto sale e ruota contro il cielo; il montaggio passa poi all'immagine del satellite, la cui forma allungata e il cui movimento richiamano quelli dell'osso. Il raccordo non mantiene la continuità dello spazio o del tempo: collega due immagini separate da un intervallo di milioni di anni attraverso una somiglianza visiva e dinamica.
+
+Il match cut funziona su più livelli. Sul piano grafico, i due oggetti hanno una forma e una disposizione nel quadro sufficientemente simili da essere percepiti come elementi in relazione. Sul piano del movimento, il satellite sembra proseguire la traiettoria dell'osso. Sul piano concettuale, il taglio collega il primo strumento utilizzato dall'uomo a una tecnologia capace di portarlo nello spazio.
+
+La transizione è anche una potentissima ellissi temporale. Il film non racconta le tappe intermedie dell'evoluzione tecnica: le elimina e le sostituisce con un accostamento visivo. Lo spettatore comprende che è trascorso un tempo enorme non attraverso una didascalia, ma attraverso il salto fra due oggetti che rappresentano momenti estremi della storia umana.
+
+È utile distinguere il match cut dal semplice raccordo sul movimento. Nel raccordo sul movimento, un gesto iniziato in un'inquadratura prosegue nella successiva all'interno di una continuità narrativa; qui, invece, il movimento serve a collegare due oggetti e due epoche differenti. Il taglio non nasconde la discontinuità: la rende produttiva, trasformandola in un'affermazione sul rapporto fra invenzione, tecnologia e storia.
+
+La scena può essere letta anche come un taglio concettuale. Il significato non deriva soltanto dalla somiglianza fra le forme, ma dal rapporto che il film costruisce fra l'osso e il satellite. L'oggetto primitivo e quello tecnologico diventano due estremi di una stessa storia di strumenti, potere e trasformazione della specie.
+
+### Evidenze da far osservare
+1. Come viene inquadrato l'osso nel momento del lancio.
+2. Quale traiettoria compie e in quale direzione esce o attraversa il quadro.
+3. Quali somiglianze visive legano l'osso al satellite.
+4. Come il satellite viene collocato rispetto alla Terra.
+5. Quali elementi rendono percepibile il salto temporale senza una didascalia.
+6. Quale significato nasce dall'accostamento fra strumento preistorico e tecnologia spaziale.
+
+### Perché è didatticamente utile
+È uno degli esempi più efficaci per introdurre il match cut grafico e l'ellissi temporale. Gli studenti possono osservare come un taglio possa collegare immagini non contigue e produrre un significato che va oltre la semplice successione narrativa. La scena permette inoltre di discutere il montaggio come forma di pensiero: un accostamento visivo può riassumere un processo storico molto lungo.
+
+### Obiettivo didattico
+Al termine dell'attività, lo studente sa riconoscere un match cut, individuare le corrispondenze di forma e movimento fra due inquadrature e spiegare come il taglio produca un'ellissi temporale e un significato concettuale.
+
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare la transizione senza anticipare il concetto di match cut. Chiedere agli studenti che cosa collega le due immagini.
+2. **Scomposizione:** fermare il film sui fotogrammi immediatamente prima e dopo il taglio e confrontare forma, direzione, posizione e dimensione degli oggetti.
+3. **Analisi temporale:** chiedere quale periodo della storia viene omesso e come lo spettatore comprende il salto.
+4. **Analisi concettuale:** discutere perché il film accosti proprio un osso e un satellite e quali idee produce questa relazione.
+5. **Confronto:** mostrare un raccordo sul movimento e un graphic match per distinguere continuità d'azione e somiglianza formale.
+6. **Rielaborazione:** progettare una transizione fra due oggetti lontani nel tempo (per esempio una candela e una lampadina) utilizzando forma, movimento e posizione nel quadro per costruire un match cut.
+
+### Domande per gli studenti
+1. Quali caratteristiche dell'osso vengono riprese dal satellite?
+2. Il taglio mantiene la continuità narrativa oppure la interrompe?
+3. Come fa lo spettatore a capire che sono trascorsi milioni di anni?
+4. Che cosa cambierebbe se il film utilizzasse una didascalia «milioni di anni dopo»?
+5. Perché il passaggio può essere considerato sia un match cut sia un taglio concettuale?
+
+### Verifica formativa
+Gli studenti consegnano una coppia di fotogrammi, uno prima e uno dopo il taglio, annotando:
+- forma e orientamento degli oggetti;
+- posizione nel quadro;
+- direzione del movimento;
+- elementi di continuità visiva;
+- discontinuità temporale e spaziale;
+- significato prodotto dall'accostamento.
+
+**Criteri:** individuazione delle corrispondenze, distinzione fra match cut e raccordo sul movimento, comprensione dell'ellissi, capacità di formulare un'interpretazione sostenuta da evidenze.
+
+### Collegamenti
+- **Match cut e ellissi:** *Lawrence d'Arabia* — passaggio dal fiammifero al sole.
+- **Match cut e memoria:** *Apocalypse Now* — sovrapposizioni e associazioni visive.
+- **Montaggio concettuale:** *La corazzata Potëmkin* — significato prodotto dall'accostamento.
+- **Ellissi e tempo narrativo:** *Titanic* — compressione temporale e alternanza delle linee d'azione.
+
+### Fonti e riferimenti
+- Marco Caracciolo, «Bones in Outer Space: Narrative and the Cosmos in *2001: A Space Odyssey* and Its Remediations», *Image & Narrative*, 16, n. 3, 2015, pp. 73–89. Analizza il match cut come ponte fra scala umana e scala cosmica e come ellissi della storia tecnologica: https://risejournal.eu/index.php/imagenarrative/article/view/904
+- Peter Kramer, *2001: A Space Odyssey*, BFI Film Classics, British Film Institute, 2010, per il rapporto fra il prologo preistorico, il taglio al satellite e il tema dell'evoluzione.
+- Blain Brown, *Cinematography: Theory and Practice*, 2ª ed., Focal Press, sezione sul conceptual cut e sul match cut, con riferimento alla transizione osso/satellite.
+- David Bordwell e Kristin Thompson, *Film Art: An Introduction*, capitolo sul montaggio, per la distinzione fra raccordo, ellissi e relazioni grafiche fra inquadrature.
 
 ## 26. *Il grande Gatsby* e *The Grand Budapest Hotel*: confronto sulla composizione
 [↑ Torna all'indice](#indice-interattivo)
