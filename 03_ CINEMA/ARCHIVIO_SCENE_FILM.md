@@ -1738,24 +1738,84 @@ A conclusione, scrivono un breve commento sul rapporto fra ritmo musicale, ritmo
 - Matt Villa, Jason Ballantine e Jonathan Redmond, «Focus On — The Great Gatsby», Australian Screen Editors, intervista sul montaggio e sul rapporto fra musica e ritmo della prima grande festa: https://www.screeneditors.com.au/matt-villa-ase-jason-ballantine-ase-jonathan-redmond-on-the-great-gatsby/
 - Catherine Martin, intervista a *Vanity Fair*, 8 maggio 2013, sulla scenografia, i costumi e il lavoro con le comparse nelle feste di Gatsby: https://www.vanityfair.com/hollywood/2013/05/the-great-gatsby-production
 
-## 17. *Indiana Jones* — sequenza della pistola
+## 17. *I predatori dell'arca perduta* (*Raiders of the Lost Ark*, Steven Spielberg, 1981)
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** celebre confronto fra il personaggio armato di pistola e l'avversario con la spada.
-- **Concetto principale:** continuità e gerarchia dell'informazione.
-- **Concetti secondari:** raccordo, montaggio, attenzione dello spettatore, oggetto.
-- **Tag:** #continuità #raccordo #montaggio #inquadratura
+- **Sequenza:** nel mercato del Cairo, durante la ricerca di Marion, Indiana Jones si trova davanti a uno spadaccino che esibisce una lunga coreografia con la scimitarra. Indy lo guarda, estrae la pistola e lo uccide con un solo colpo.
+- **Concetto principale:** costruzione dell'aspettativa e rovesciamento comico.
+- **Concetti secondari:** ritmo, durata, gesto, montaggio, genere d'avventura, caratterizzazione del personaggio, economia narrativa.
+- **Tag:** #montaggio #ritmo #narrazione #recitazione #genere #messa-in-scena
 - **Livello:** Base.
-- **Uso:** esercitazione sull'attenzione dello spettatore.
+- **Uso consigliato:** mostrare come una scena possa costruire un'aspettativa attraverso la preparazione di un'azione e poi rovesciarla con una soluzione improvvisa e sintetica.
+- **Attenzione alla rappresentazione:** il personaggio dello spadaccino è costruito attraverso un'immagine stereotipata dell'avversario arabo nel mercato orientale. È possibile affiancare all'analisi del tempo comico una breve riflessione sui codici esotizzanti del cinema d'avventura.
+- **Stato:** **DA COMPLETARE** — delimitare il frammento sulla copia disponibile e verificare il rapporto fra la coreografia dello spadaccino, la reazione di Indy e lo sparo.
 
-### Analisi
-La sequenza permette di mostrare come lo spettatore possa non registrare una piccola variazione di continuità quando l'organizzazione narrativa rende più importante un'altra informazione. È quindi un esempio utile per distinguere l'errore tecnico dalla sua effettiva percezione.
+### Contesto essenziale
+Indiana Jones è alla ricerca di Marion Ravenwood, rapita durante il caos del mercato del Cairo. Dopo aver affrontato diversi avversari, si trova davanti a un uomo armato di scimitarra che esegue una serie di movimenti spettacolari per intimidirlo. Lo spettatore si aspetta un nuovo combattimento, ma Indy interrompe l'esibizione estraendo la pistola e sparando.
+
+### Analisi formale
+La scena costruisce un'aspettativa molto riconoscibile per il cinema d'avventura. L'avversario entra in campo e mette in mostra la propria abilità con la spada; il gesto è ampio, ripetuto e coreografato per attirare l'attenzione. La durata dell'esibizione induce lo spettatore ad anticipare uno scontro corpo a corpo fra due abilità: la scimitarra e la frusta di Indiana Jones.
+
+La risposta del protagonista interrompe questa attesa. Indy non risponde alla coreografia con una coreografia più complessa: estrae la pistola e spara. Il gesto è rapido, quasi privo di preparazione spettacolare, e produce una brusca sproporzione fra l'energia investita dall'avversario e la semplicità della soluzione. La comicità nasce dalla differenza fra il tempo dell'attesa e il tempo dell'azione: l'esibizione sembra annunciare un lungo duello, ma viene risolta in un istante.
+
+La scena funziona anche come caratterizzazione del protagonista. Indiana Jones non è un eroe che accetta sempre le regole del confronto cavalleresco: privilegia l'efficacia, la sopravvivenza e la prosecuzione della missione. La pistola diventa un oggetto narrativo che interrompe la convenzione del duello e riporta il personaggio alla sua priorità, cioè trovare Marion.
+
+Il montaggio e la recitazione sono fondamentali per il tempo comico. L'esibizione dello spadaccino deve durare abbastanza da far immaginare allo spettatore uno scontro; la reazione di Indy, invece, deve essere breve e leggibile. La pausa e lo sguardo del protagonista preparano il rovesciamento. Il colpo di pistola arriva come una risposta inattesa, ma perfettamente coerente con il personaggio e con la situazione.
+
+La scena non è un esempio di errore di raccordo o di discontinuità tecnica. Il suo valore didattico è nel rapporto fra preparazione, attesa e risoluzione. Può inoltre essere letta criticamente: l'avversario è costruito come figura esotica e minacciosa, mentre l'eroe americano appare pragmatico e vincente. L'effetto comico non cancella la cornice culturale e rappresentativa in cui la scena è inserita.
+
+### Evidenze da far osservare
+1. Quanto dura l'esibizione dello spadaccino prima della risposta di Indy.
+2. Quali gesti e inquadrature fanno immaginare allo spettatore un combattimento.
+3. Quali segnali del volto e del corpo di Indy anticipano la sua decisione.
+4. Quanto dura il gesto di estrarre la pistola rispetto alla coreografia precedente.
+5. Come reagiscono i personaggi e la folla dopo lo sparo.
+6. Quali elementi costruiscono l'immagine stereotipata dell'avversario e del mercato.
+
+### Perché è didatticamente utile
+La scena è breve e immediatamente leggibile, ma permette di discutere il funzionamento della comicità audiovisiva. Gli studenti possono osservare come la durata prepari un'aspettativa e come un gesto improvviso la rovesci. È inoltre un esempio utile per mostrare che il linguaggio del genere può essere rispettato, interrotto o trasformato da una scelta narrativa.
 
 ### Obiettivo didattico
-Comprendere che la continuità audiovisiva è anche un fenomeno percettivo e cognitivo.
+Al termine dell'attività, lo studente sa descrivere la costruzione dell'aspettativa, riconoscere il momento del rovesciamento comico e spiegare come durata, gesto e montaggio contribuiscano alla caratterizzazione del protagonista.
 
----
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare la scena senza anticipare l'esito. Chiedere agli studenti quale tipo di combattimento si aspettano.
+2. **Seconda visione:** individuare il momento in cui l'esibizione dello spadaccino costruisce l'attesa e quello in cui Indy decide di interromperla.
+3. **Analisi del tempo:** confrontare la durata della preparazione con quella della soluzione.
+4. **Confronto di genere:** discutere quali convenzioni del duello vengono evocate e quali vengono rifiutate.
+5. **Riflessione critica:** chiedere come viene rappresentato l'avversario e quali stereotipi culturali vengono attivati dalla scena.
+6. **Rielaborazione:** inventare una breve scena comica in cui una lunga preparazione venga risolta da un gesto semplice e inatteso, progettando inquadrature e durata.
+
+### Domande per gli studenti
+1. Quale azione ci aspettiamo dopo l'ingresso dello spadaccino?
+2. Perché la sua esibizione viene mostrata con una certa durata?
+3. Che cosa rende comica la risposta di Indy?
+4. La scena cambia il modo in cui percepiamo il protagonista?
+5. Quali stereotipi culturali vengono utilizzati nella rappresentazione dello spadaccino e del mercato del Cairo?
+
+### Verifica formativa
+Gli studenti realizzano uno storyboard di 5–6 vignette che ricostruisca:
+- ingresso e presentazione dello spadaccino;
+- esibizione della scimitarra;
+- reazione di Indy;
+- estrazione della pistola;
+- sparo e reazione successiva.
+
+Accanto a ogni vignetta indicano la durata relativa (lunga, breve, brevissima) e la funzione narrativa o comica.
+
+**Criteri:** corretta individuazione della preparazione e del rovesciamento, uso del lessico, capacità di collegare durata e comicità, consapevolezza della rappresentazione culturale.
+
+### Collegamenti
+- **Rovesciamento dell'aspettativa:** *Lo squalo* — attesa e rivelazione della minaccia.
+- **Tempo comico e gesto:** *Tempi moderni* — corpo, ritmo e risposta inattesa.
+- **Azione e economia narrativa:** *Die Hard* — decisione rapida e costruzione dell'efficacia dell'eroe.
+- **Rappresentazione dell'altro:** *Lawrence d'Arabia* — costruzione visiva e narrativa dell'Oriente nel cinema classico.
+
+### Fonti e riferimenti
+- Joe Bergren, «'Indiana Jones': Why Harrison Ford Pitched 'Raiders of the Lost Ark's Funny Scene to Replace Sword Fight», *Entertainment Tonight*, 30 giugno 2023. Riporta le testimonianze di Harrison Ford e Steven Spielberg sull'origine della scena e sulla sostituzione del duello previsto: https://www.etonline.com/indiana-jones-why-harrison-ford-pitched-raiders-of-the-lost-arks-famous-gun-vs-sword-scene
+- Harrison Ford, intervista a *CNN*, 30 giugno 2023, nella quale ricorda il duello previsto, la coreografia preparata e la decisione di sostituirla con lo sparo: https://transcripts.cnn.com/show/wtcw/date/2023-06-30/segment/01
+- Warren Buckland, *Directed by Steven Spielberg: Poetics of the Contemporary Hollywood Blockbuster*, Continuum, 2006, per la costruzione della narrazione d'avventura e la gestione dell'azione nei film di Spielberg.
 
 ## 18. *Il settimo sigillo* (Ingmar Bergman, 1957)
 [↑ Torna all'indice](#indice-interattivo)
