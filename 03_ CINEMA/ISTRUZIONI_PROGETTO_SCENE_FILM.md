@@ -156,7 +156,7 @@ Questa sequenza è una priorità di lavoro, non un vincolo assoluto: può cambia
 ## 10. Stato del progetto al 23 novembre 2026 — ricognizione
 
 - L'archivio contiene **93 schede operative** (incluse le schede comparative), numerate progressivamente da 1 a 93. Le sezioni preliminari e le costellazioni didattiche non rientrano in questa numerazione.
-- L'indice contiene **93 destinazioni uniche** e **322 collegamenti** distribuiti fra i percorsi per concetto e l'elenco alfabetico. I sette conteggi dichiarati nelle categorie tematiche corrispondono al numero effettivo di voci elencate.
+- L'indice contiene **93 destinazioni uniche** e **325 collegamenti** distribuiti fra i percorsi per concetto e l'elenco alfabetico. I sette conteggi dichiarati nelle categorie tematiche corrispondono al numero effettivo di voci elencate.
 - La revisione delle schede 1–34, 38, 41 e 45 (37 schede in totale) ha corretto contenuti imprecisi o troppo generici, fra cui il raccordo in *Susanna*, il punto di vista in *Il Gattopardo*, il fuori campo in *Lo squalo* e *Jurassic Park*, il match cut di *2001*, la citazione di *Hello, Dolly!* in *WALL-E* e il rapporto fra continuità e spazio in *Se mi lasci ti cancello*.
 - Sono stati corretti otto anchor dell'indice in seguito alla modifica dei titoli delle schede. Il controllo successivo deve confermare nuovamente tutti i 322 collegamenti.
 - La guida operativa riporta ora una fotografia documentale delle 93 schede: 57 presentano uno stato esplicito (56 **DA COMPLETARE**, 1 **DA VERIFICARE**); 36 non hanno ancora uno stato dichiarato. Nessuna scheda risulta contrassegnata **PRONTA**.
