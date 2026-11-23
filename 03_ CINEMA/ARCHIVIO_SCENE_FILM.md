@@ -626,38 +626,81 @@ Consegnare agli studenti una coppia di brevi serie di fotogrammi, una relativa a
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** Monroe Stahr spiega a uno sceneggiatore il funzionamento del cinema.
-- **Concetto principale:** découpage e costruzione della scena.
-- **Concetti secondari:** ellissi, frammentazione, recitazione, inquadratura, metalinguaggio.
-- **Tag:** #inquadratura #montaggio #ellissi #recitazione #narrazione #dialogo
+- **Sequenza principale:** Monroe Stahr racconta allo sceneggiatore George Boxley una breve storia di suspense: una donna entra in una stanza, svuota la borsa, brucia un paio di guanti neri, riceve una telefonata e lascia sul tavolo un nichelino. Stahr interrompe il racconto prima di sciogliere il mistero.
+- **Ripresa della sequenza:** nel finale del film Stahr rievoca la storia guardando in macchina; il racconto viene intrecciato alle immagini di Kathleen che brucia le lettere ricevute da lui.
+- **Concetto principale:** costruzione audiovisiva del racconto e passaggio dalla parola all'immagine.
+- **Concetti secondari:** messa in scena, gesto, recitazione, suspense, ellissi, inserto, ripresa di un motivo narrativo, metacinema.
+- **Tag:** #narrazione #messa-in-scena #montaggio #metacinema #suspense #recitazione #immagine
 - **Livello:** Intermedio.
-- **Uso:** analisi formale e riflessione metacinematografica.
+- **Uso consigliato:** mostrare come un racconto cinematografico selezioni dettagli, distribuisca informazioni e costruisca un'attesa senza dover spiegare tutto verbalmente.
+- **Stato:** **DA COMPLETARE** — delimitare i due passaggi sulla copia utilizzata in classe e verificare il punto in cui la rievocazione finale si intreccia con le immagini di Kathleen. Nessun timecode è stato verificato.
 
-### Analisi
-La particolarità didattica della scena consiste nella sovrapposizione fra ciò che il personaggio dice sul cinema e ciò che il film sta concretamente facendo. La spiegazione teorica di Stahr può quindi essere messa in rapporto con le scelte di regia: posizione della macchina da presa, frammentazione dello spazio, gestione dell'azione e selezione dei momenti significativi.
+### Contesto essenziale
+Monroe Stahr è un potente responsabile di produzione di uno studio hollywoodiano degli anni Trenta. George Boxley, scrittore proveniente dalla letteratura, fatica a comprendere le esigenze della narrazione cinematografica. Per mostrargli la differenza fra un dialogo brillante e una scena capace di trattenere l'attenzione, Stahr improvvisa un racconto e lo accompagna con gesti e indicazioni rivolte a un interlocutore immaginario. Il nichelino lasciato sul tavolo resta senza spiegazione: proprio questa informazione non risolta suscita la domanda di Boxley.
 
-La scena permette di distinguere il semplice «riprendere una conversazione» dalla costruzione audiovisiva di una situazione narrativa.
+### Analisi formale
+La scena mette in contrasto due modi di raccontare. Boxley ragiona inizialmente in termini di dialogo e spiegazione; Stahr, invece, costruisce una situazione attraverso una successione di azioni concrete e dettagli selezionati: una stanza, una donna, una borsa, due monete, un nichelino, i guanti, il fuoco, una telefonata e la presenza di un secondo uomo. La suspense nasce dalla distribuzione delle informazioni e dalla domanda lasciata aperta, non da una spiegazione anticipata.
+
+La recitazione di Stahr rende visibile un'azione che, in quel momento, esiste soprattutto nel suo racconto. I gesti funzionano come una dimostrazione pratica: il personaggio non si limita a enunciare una teoria del cinema, ma prova a far immaginare allo sceneggiatore una scena. Il racconto è costruito per immagini mentali e per dettagli che assumono valore narrativo.
+
+Nel finale, il film riprende la storia e la trasforma in immagini: Kathleen brucia le lettere di Stahr al posto dei guanti neri e il marito assume la funzione dell'uomo che osserva la donna. Il montaggio collega il racconto precedente alla situazione presente del protagonista. Non si tratta di una semplice ripetizione: il motivo narrativo cambia referente e acquista un valore retrospettivo, perché lo spettatore riconosce nella vicenda immaginata da Stahr una configurazione della sua esperienza sentimentale.
+
+La scheda permette quindi di analizzare due momenti complementari: nella prima scena il cinema viene evocato attraverso il racconto e la performance del personaggio; nel finale quel racconto viene riattivato da immagini, raccordi e riprese di motivi. È importante non confondere la spiegazione di Stahr con una regola universale di sceneggiatura: la scena mostra una precisa idea di racconto cinematografico, fondata sulla selezione visiva e sulla gestione dell'informazione.
+
+### Evidenze da far osservare
+**Nel racconto a Boxley:**
+1. quali oggetti vengono nominati e in quale ordine;
+2. quali azioni Stahr accompagna con i gesti;
+3. quale informazione viene trattenuta o lasciata senza spiegazione;
+4. in quale momento Boxley interrompe il racconto con una domanda.
+
+**Nel finale:**
+1. quando il film torna al racconto dei guanti;
+2. quali elementi della storia immaginata vengono ripresi;
+3. quali oggetti e azioni cambiano (guanti/lettere, donna immaginata/Kathleen);
+4. come il montaggio collega la storia raccontata da Stahr alla sua situazione personale.
 
 ### Perché è didatticamente utile
-È una scena autoriflessiva: consente di insegnare il linguaggio cinematografico attraverso un film che tematizza direttamente la produzione cinematografica.
+È una scena particolarmente adatta per distinguere la trama raccontata a parole dalla sua organizzazione audiovisiva. Consente di lavorare sulla suspense come gestione delle informazioni e di osservare come un oggetto apparentemente secondario possa diventare un elemento di curiosità narrativa. La ripresa nel finale mostra inoltre come un film possa riutilizzare una scena precedente per modificarne il significato.
 
 ### Obiettivo didattico
-Saper distinguere sceneggiatura, messa in scena, ripresa e montaggio come fasi diverse della costruzione di una scena.
+Al termine dell'attività, lo studente sa ricostruire l'ordine delle informazioni di un breve racconto, individuare il dettaglio che genera una domanda nello spettatore e spiegare come il film riprenda e trasformi quel motivo nel finale attraverso immagini e montaggio.
 
 ### Come utilizzarla in classe
-Chiedere agli studenti di annotare ogni cambio di inquadratura e di spiegare quale informazione aggiunge o quale elemento dell'azione seleziona.
+1. **Prima visione:** mostrare il racconto di Stahr senza introdurre il concetto di suspense. Chiedere agli studenti di annotare oggetti, azioni e informazioni che restano senza spiegazione.
+2. **Ricostruzione:** disporre su una linea temporale i dettagli nominati da Stahr, distinguendo ciò che viene mostrato con i gesti da ciò che resta affidato alla parola.
+3. **Ipotesi:** chiedere agli studenti quale domanda si aspettano che il racconto risolva e quale funzione potrebbe avere il nichelino.
+4. **Confronto con il finale:** mostrare la ripresa del racconto e individuare le corrispondenze e le trasformazioni fra la storia immaginata e quella di Kathleen.
+5. **Rielaborazione:** far inventare una microstoria di 5–6 azioni con un oggetto inizialmente inspiegato; gli studenti la traducono in uno storyboard, decidendo quando fornire o trattenere l'informazione.
 
-### Domande
-1. La scena potrebbe essere raccontata con una sola inquadratura?
-2. Cosa cambia quando la conversazione viene frammentata?
-3. In che modo la regia conferma o contraddice ciò che Stahr afferma?
+### Domande per gli studenti
+1. Perché Stahr racconta una serie di azioni invece di spiegare direttamente che cosa dovrebbe fare lo sceneggiatore?
+2. Quale dettaglio apre una domanda e mantiene attiva la curiosità?
+3. Che cosa sappiamo della donna e dell'uomo che la osserva? Che cosa invece resta ignoto?
+4. In che modo il finale trasforma il racconto dei guanti in una situazione legata a Kathleen?
+5. Il significato del nichelino viene chiarito completamente oppure resta un elemento che lo spettatore deve interpretare?
+
+### Verifica formativa
+Chiedere agli studenti di realizzare uno storyboard di 6–8 vignette che ricostruisca il racconto di Stahr, indicando:
+- ordine delle azioni;
+- oggetti e dettagli che devono essere mostrati;
+- informazione da trattenere;
+- punto in cui nasce la domanda dello spettatore.
+
+In una breve nota, devono spiegare come il finale del film riprenda e trasformi almeno due elementi del racconto.
+
+**Criteri:** chiarezza della successione narrativa, selezione pertinente dei dettagli, comprensione della suspense, capacità di distinguere racconto verbale e costruzione per immagini, uso di evidenze dal film.
 
 ### Collegamenti
-- *Susanna* per il découpage classico.
-- *Casablanca* per la continuità.
-- Teoria della messa in scena e del découpage.
+- **Suspense e informazione trattenuta:** *L'asso nella manica* (*Ace in the Hole*) — costruzione dell'attesa e controllo delle informazioni.
+- **Montaggio e significato retrospettivo:** *Il padrino* — ripresa e trasformazione del senso attraverso l'accostamento delle azioni.
+- **Film nel film e autoriflessività:** *The Fabelmans* — il cinema come pratica, racconto e rielaborazione dell'esperienza.
+- **Oggetti e funzione narrativa:** *Citizen Kane* — oggetti e dettagli che assumono un valore diverso nel corso del racconto.
 
----
+### Fonti e riferimenti
+- Besna Ağın, «An Analysis on Ambivalence in Cinema: “The Last Tycoon” Elia Kazan», *Etkileşim*, n. 4, 2019, pp. 220–235, in particolare pp. 231–233. L'articolo analizza il racconto del nichelino, la sua ripresa nel finale e il rapporto fra parola, performance e immagini: https://etkilesimdergisi.com/uploads/files/e272757b643f73a103e2e4c4c7c57fc4.pdf
+- «Movie-Making», *The Harvard Crimson*, 17 marzo 1977, recensione che descrive il racconto improvvisato da Stahr e la sua ripresa nel finale: https://www.thecrimson.com/article/1977/3/17/movie-making-pbhbollywood-of-the-1930s-is/
+- American Film Institute, *AFI Catalog*, scheda di *The Last Tycoon* (1976), per i dati di produzione, cast e contesto: https://catalog.afi.com/Film/67019-THE-LASTTYCOON
 
 ## 3. *Il Gattopardo* (Luchino Visconti, 1963)
 [↑ Torna all'indice](#indice-interattivo)
