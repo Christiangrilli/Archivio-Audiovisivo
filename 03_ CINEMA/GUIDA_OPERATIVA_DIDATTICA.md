@@ -180,6 +180,21 @@ Per rendere trasparente lo stato del repertorio si adottano tre etichette:
 
 L'etichetta descrive lo stato documentale della scheda, non il valore artistico del film. Una scheda non verificata non deve essere presentata come esempio paradigmatico senza controllo.
 
+### Fotografia dello stato attuale (23 novembre 2026)
+
+Una ricognizione automatica delle 79 schede ha rilevato quante non presentano un campo esplicitamente etichettato con alcune voci operative. Il controllo cerca le etichette testuali: **non dimostra che il contenuto sia del tutto assente**, perché alcune schede possono esprimerlo in forma discorsiva o con un titolo diverso.
+
+| Campo cercato | Schede senza etichetta esplicita |
+|---|---:|
+| Concetto principale | 2 |
+| Obiettivo didattico | 30 |
+| Attività | 51 |
+| Come utilizzarla in classe | 61 |
+| Domande da porre agli studenti | 62 |
+| Fonti | 47 |
+
+Questo dato suggerisce che la revisione non debba concentrarsi soltanto sull'aggiunta di nuove scene. La priorità è rendere le schede esistenti più omogenee e operative. In particolare, le schede più datate costituiscono il primo gruppo da integrare; le schede più recenti sono una base più vicina al formato di lavoro, ma vanno comunque verificate caso per caso.
+
 ## 10. Distinzioni terminologiche da mantenere
 
 Queste distinzioni evitano che l'archivio trasformi concetti vicini in sinonimi:
