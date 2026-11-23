@@ -1142,30 +1142,69 @@ Per ogni fase indicano un elemento visivo, un elemento sonoro e la funzione narr
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scene:** Club Silencio; passaggio fra le due parti del film; sequenze successive al Club Silencio; sogno raccontato da Dan.
-- **Concetto principale:** ambiguità narrativa e statuto dell'immagine.
-- **Concetti secondari:** sogno, punto di vista, spazio/tempo, metanarrazione.
-- **Tag:** #narrazione #ambiguità #punto-di-vista #tempo #spazio
-- **Livello:** Avanzato.
-- **Uso:** analisi e discussione interpretativa.
+- **Sequenza:** Club Silencio, dall'ingresso di Betty e Rita nel teatro fino al crollo della cantante Rebekah Del Rio e alla prosecuzione della voce registrata.
+- **Concetto principale:** disgiunzione fra immagine e suono e rivelazione del dispositivo audiovisivo.
+- **Concetti secondari:** voce registrata, playback, performance, suono diegetico, metacinema, spettatorialità, ambiguità narrativa.
+- **Tag:** #suono #voce #diegetico #fuori-campo #metacinema #punto-di-vista #narrazione
+- **Livello:** Intermedio / Avanzato.
+- **Uso consigliato:** analizzare come il cinema possa separare il corpo che vediamo dalla voce che ascoltiamo e come la consapevolezza dell'artificio non annulli necessariamente l'emozione.
+- **Stato:** **DA COMPLETARE** — selezionare il frammento completo e verificare la durata sulla copia utilizzata in classe.
 
-### Analisi
-Le sequenze selezionate permettono di interrogare il rapporto fra ciò che lo spettatore vede e la sua interpretazione. Il Club Silencio, in particolare, tematizza la distanza fra presenza, performance, registrazione e realtà dell'evento rappresentato.
+### Contesto essenziale
+Betty e Rita, dopo aver seguito un richiamo enigmatico, arrivano al Club Silencio, un teatro notturno e quasi vuoto. Sul palco il presentatore, chiamato Bondar, insiste sul fatto che non esiste un'orchestra e che ciò che il pubblico ascolta è una registrazione. Per dimostrarlo, un trombettista sembra suonare dal vivo, ma il suono continua anche quando allontana lo strumento dalle labbra. Poco dopo Rebekah Del Rio canta *Llorando*, versione in spagnolo di *Crying* di Roy Orbison. La cantante crolla sul palco, ma la voce continua a essere ascoltata: lo spettatore comprende che il suono era registrato.
 
-La scena è didatticamente preziosa perché obbliga a distinguere l'analisi formale dall'interpretazione: prima si ricostruisce ciò che il film mostra e come lo mostra, poi si formulano ipotesi sul suo significato.
+### Analisi formale
+La scena mette in crisi l'associazione apparentemente naturale fra un corpo visibile e il suono che sembra produrre. Il presentatore dichiara esplicitamente che non c'è un'orchestra: la musica è registrata. La dimostrazione del trombettista rende visibile la separazione fra gesto e suono: il musicista smette di suonare, ma la tromba continua a essere ascoltata. La voce di Rebekah Del Rio ripete e intensifica lo stesso procedimento. Quando la cantante cade, il canto non si interrompe: la voce prosegue senza il corpo che sembrava generarla.
+
+Il punto non è soltanto smascherare un playback. La sequenza rende percepibile una caratteristica fondamentale del cinema sonoro: ciò che vediamo e ciò che ascoltiamo sono elementi costruiti e sincronizzati, ma non necessariamente prodotti nello stesso momento o dalla stessa fonte. La voce registrata può essere separata dalla presenza fisica dell'interprete e continuare a esercitare un effetto emotivo anche dopo che il dispositivo è stato rivelato.
+
+La scena introduce così una riflessione metacinematografica. Il presentatore sembra rivolgersi non solo alle spettatrici presenti nel teatro, ma anche al pubblico del film: ci ricorda che anche l'esperienza cinematografica è fatta di immagini e suoni registrati. Tuttavia, sapere che la performance è una registrazione non impedisce a Betty, Rita e allo spettatore di esserne coinvolti. La conoscenza dell'artificio e la risposta emotiva coesistono.
+
+È importante non ridurre la sequenza alla formula «è tutto falso». La voce è registrata, ma l'emozione suscitata dalla canzone è reale per i personaggi e per chi guarda. Il film separa la causa materiale del suono dal suo effetto affettivo, mettendo in discussione l'idea che la verità di una performance dipenda dalla simultaneità fra corpo e voce.
+
+### Evidenze da far osservare
+1. Quali parole utilizza il presentatore per dichiarare che non esiste un'orchestra.
+2. In quale momento il trombettista interrompe il gesto e il suono continua.
+3. Quali elementi visivi e sonori fanno pensare che la cantante stia eseguendo il brano dal vivo.
+4. Che cosa accade quando Rebekah Del Rio cade sul palco.
+5. Come reagiscono Betty e Rita mentre la voce continua.
+6. Quale rapporto si crea fra la spiegazione razionale del trucco e l'intensità emotiva della performance.
+
+### Perché è didatticamente utile
+La sequenza è particolarmente efficace per spiegare il rapporto fra immagine e suono, il playback e la costruzione della voce cinematografica. Permette inoltre di affrontare la dimensione metacinematografica senza partire da definizioni astratte: il film mostra il proprio artificio e invita lo spettatore a riflettere sul modo in cui immagini e suoni producono un'esperienza credibile e coinvolgente.
 
 ### Obiettivo didattico
-Saper distinguere descrizione formale, interpretazione e ipotesi interpretativa.
+Al termine dell'attività, lo studente sa distinguere la voce dal vivo dalla voce registrata, descrivere la disgiunzione fra corpo e suono e spiegare come il film utilizzi questa separazione per produrre un effetto narrativo, emotivo e metacinematografico.
 
-### Domande
-1. Quali informazioni abbiamo realmente?
-2. Quali elementi contraddicono una lettura univoca?
-3. Qual è il ruolo del suono e della performance nella costruzione dell'incertezza?
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare la sequenza senza anticipare il trucco del playback. Chiedere agli studenti di descrivere ciò che credono stia accadendo sul palco.
+2. **Seconda visione:** fermarsi sul momento in cui il trombettista smette di suonare ma la musica continua. Chiedere quale informazione nuova riceve lo spettatore.
+3. **Analisi della voce:** riproporre il momento in cui Del Rio cade e la voce continua. Distinguere corpo, gesto, registrazione e diffusione sonora.
+4. **Confronto:** ascoltare una registrazione musicale senza immagini e poi osservare una performance in playback, discutendo quali indizi cambiano la percezione.
+5. **Rielaborazione:** realizzare un breve video in cui un personaggio compie un gesto che sembra produrre un suono, ma la fonte sonora viene rivelata in un secondo momento.
 
-### Note
-Richiede una forte contestualizzazione e un livello didattico avanzato.
+### Domande per gli studenti
+1. Perché il presentatore insiste sul fatto che non esiste un'orchestra?
+2. Che cosa dimostra il gesto del trombettista?
+3. Quando il corpo della cantante smette di essere visibile come fonte del canto?
+4. Perché la consapevolezza del playback non annulla l'emozione della scena?
+5. In che modo il presentatore sembra rivolgersi anche allo spettatore del film?
 
----
+### Verifica formativa
+Gli studenti compilano una tabella con quattro colonne: **immagine visibile**, **suono ascoltato**, **fonte apparente**, **fonte effettiva**. Devono ricostruire almeno tre momenti della sequenza (tromba, voce della cantante prima del crollo, voce dopo il crollo) e spiegare in poche righe che cosa cambia nella relazione fra corpo e suono.
+
+**Criteri:** distinzione corretta fra fonte apparente ed effettiva, uso preciso dei termini playback e registrazione, individuazione del momento di rivelazione, capacità di collegare il procedimento all'effetto emotivo.
+
+### Collegamenti
+- **Voce e immagine:** *The Conversation* — registrazione, ascolto e fiducia nella fonte sonora.
+- **Playback e performance:** *Velluto blu* (*Blue Velvet*) — performance di *In Dreams* e rapporto fra voce registrata e corpo.
+- **Suono diegetico:** *Incontri ravvicinati del terzo tipo* — musica come codice interno alla storia.
+- **Metacinema:** *8½* — il film che riflette sul proprio dispositivo e sul processo creativo.
+
+### Fonti e riferimenti
+- Allister Mactaggart, «“Silencio”: hearing loss in David Lynch's *Mulholland Drive*», *Journal of Aesthetics & Culture*, 6, n. 1, 2014, DOI: 10.3402/jac.v6.22836. Analizza la performance di Rebekah Del Rio e la separazione fra voce, corpo e registrazione: https://doi.org/10.3402/jac.v6.22836
+- Holly Rogers, *The Audiovisual Eerie: Transmediating Thresholds in the Work of David Lynch*, per il rapporto fra voce, immagine e artificio audiovisivo: https://research.gold.ac.uk/26594/1/Rogers%2C%20The%20Transmedial%20Eerie.pdf
+- David Lynch, intervista in Chris Rodley (a cura di), *Lynch on Lynch*, Faber and Faber, 2005, per la genesi della registrazione vocale di Rebekah Del Rio e la successiva sincronizzazione della performance.
 
 ## 10. *Lo squalo* (*Jaws*, Steven Spielberg, 1975)
 [↑ Torna all'indice](#indice-interattivo)
