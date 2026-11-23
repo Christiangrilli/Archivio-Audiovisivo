@@ -2589,3 +2589,307 @@ Disegnare due personaggi, tracciare l'asse e segnare le posizioni della macchina
 - **Recitazione cinematografica vs teatrale**
 - **Montaggio ellittico**
 - **Match cut / graphic match** oltre al già presente *2001*
+
+
+## 37. *Vertigo* (Alfred Hitchcock, 1958) — Dolly zoom
+- **Scena:** Scottie guarda dalla tromba delle scale del campanile.
+- **Concetto principale:** dolly zoom / travelling compensato.
+- **Concetti secondari:** soggettiva, deformazione prospettica, focalizzazione, paura, spazio.
+- **Tag:** #zoom #travelling #movimento-di-macchina #soggettiva #spazio
+- **Livello:** Base / Intermedio.
+
+### Analisi della scena
+La macchina da presa arretra mentre l'obiettivo effettua uno zoom in avanti. Scottie mantiene una dimensione relativamente stabile nel quadro mentre la profondità dello spazio sembra dilatarsi e deformarsi. Il procedimento traduce percettivamente la vertigine del personaggio: non è semplicemente «uno zoom», ma una combinazione coordinata fra movimento della macchina e variazione della focale. È uno dei casi paradigmatici per distinguere zoom e travelling.
+
+### Perché è didatticamente utile
+È l'esempio migliore per spiegare che **muovere la macchina e cambiare la focale non producono lo stesso effetto**.
+
+### Obiettivo didattico
+Distinguere zoom, travelling e dolly zoom e collegare una scelta tecnica alla soggettività del personaggio.
+
+### Come utilizzarla in classe
+Mostrare il frammento una prima volta senza terminologia. Poi ripetere rallentando il momento dell'effetto e chiedere cosa cambia nello spazio pur mantenendo Scottie quasi della stessa dimensione.
+
+### Domande da porre agli studenti
+1. La macchina si muove o cambia soltanto l'obiettivo?
+2. Perché lo sfondo sembra deformarsi?
+3. Come diventa visibile la paura di Scottie?
+
+### Collegamenti
+- *The Shining*: movimento nello spazio.
+- *Jaws*: punto di vista e reazione percettiva.
+- *Touch of Evil*: movimento di macchina senza deformazione prospettica analoga.
+
+### Fonti
+- Ohio State University, materiali di cinematografia sul dolly zoom.
+- Studi accademici sul dolly zoom e sulla funzione performativa dell'effetto in *Vertigo*.
+
+## 38. *His Girl Friday* (Howard Hawks, 1940) — overlapping dialogue
+- **Scena:** apertura nella redazione e dialoghi fra giornalisti, Walter e Hildy.
+- **Concetto principale:** overlapping dialogue.
+- **Concetti secondari:** ritmo, movimento di macchina, suono diegetico, recitazione, spazio collettivo.
+- **Tag:** #overlapping-dialogue #suono-diegetico #dialogo #ritmo #messa-in-scena
+- **Livello:** Base / Intermedio.
+
+### Analisi della scena
+Le battute si sovrappongono e gli interlocutori non attendono necessariamente la conclusione della frase precedente. Il parlato costruisce un ambiente sonoro continuo e contribuisce al ritmo della redazione. L'apertura associa inoltre movimento laterale della macchina e attività simultanee: immagine e suono producono insieme la sensazione di un luogo rapido, affollato e competitivo. Bordwell e Thompson hanno analizzato la sequenza proprio nel rapporto fra movimento della macchina, dialogo sovrapposto e organizzazione dello spazio.
+
+### Perché è didatticamente utile
+Permette di mostrare che il montaggio non è l'unico strumento per produrre ritmo: **anche il suono e la recitazione possono organizzare il tempo della scena**.
+
+### Obiettivo didattico
+Riconoscere overlapping dialogue e comprenderne la funzione ritmica e spaziale.
+
+### Come utilizzarla in classe
+Prima visione con sottotitoli disattivati; seconda visione concentrata soltanto sulle voci; terza visione osservando come la macchina da presa accompagna il movimento dei personaggi.
+
+### Domande da porre agli studenti
+1. Quante conversazioni riusciamo a seguire contemporaneamente?
+2. Il ritmo nasce dal montaggio o dal parlato?
+3. Cosa succederebbe se ogni personaggio aspettasse il proprio turno?
+
+### Collegamenti
+- *Bringing Up Baby*.
+- *The Conversation*.
+- *The Grand Budapest Hotel*.
+
+### Fonti
+- Bordwell e Thompson, *Closely Watched Films*, analisi di *His Girl Friday*.
+- MoMA, scheda critica sul film e sul dialogo sovrapposto.
+
+## 39. *Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — voice-over
+- **Scena:** apertura e primi segmenti della storia di Henry, con voice-over e immagini della sua vita criminale.
+- **Concetto principale:** voice-over narrativo.
+- **Concetti secondari:** focalizzazione, narratore, freeze frame, musica, rapporto immagine/commento.
+- **Tag:** #voice-over #narrazione #focalizzazione #freeze-frame #suono
+- **Livello:** Base / Intermedio.
+
+### Analisi della scena
+La voce di Henry non si limita a descrivere ciò che l'immagine già mostra: seleziona, interpreta e commenta l'esperienza rappresentata. In alcuni momenti il freeze frame interrompe il movimento dell'immagine mentre il voice-over introduce una valutazione o un'informazione. La relazione fra immagine e commento costruisce quindi una narrazione soggettiva e retrospettiva.
+
+### Perché è didatticamente utile
+È un caso chiaro per distinguere **voce narrante, voce fuori campo e voice-over**, evitando di trattarli come sinonimi automatici.
+
+### Obiettivo didattico
+Comprendere che una voce sovrapposta all'immagine può aggiungere informazione, orientare l'interpretazione o costruire un punto di vista.
+
+### Come utilizzarla in classe
+Mostrare alcuni passaggi prima senza voice-over e poi con la voce. Chiedere quali informazioni cambiano e quali interpretazioni vengono introdotte.
+
+### Domande da porre agli studenti
+1. La voce racconta ciò che vediamo o ciò che Henry pensa?
+2. Possiamo considerare Henry un narratore affidabile?
+3. Cosa produce il freeze frame quando interviene la voce?
+
+### Collegamenti
+- *The Conversation*: voce e ascolto.
+- *Apocalypse Now*: soggettività sonora.
+- *Memento*: narratore e focalizzazione.
+
+### Fonti
+- Studi su Scorsese e la struttura orale di *Goodfellas*.
+- Claudia Gorbman, studi sul rapporto fra voce, musica e narrazione cinematografica.
+
+## 40. *Pillow Talk* (Michael Gordon, 1959) — split screen
+- **Scena:** apertura e prime telefonate fra Jan e Brad, con i due personaggi mostrati simultaneamente nei rispettivi appartamenti.
+- **Concetto principale:** split screen.
+- **Concetti secondari:** simultaneità, spazio narrativo, telefono, montaggio, composizione.
+- **Tag:** #split-screen #spazio #montaggio #simultaneità #composizione
+- **Livello:** Base.
+
+### Analisi della scena
+La divisione dello schermo permette di rappresentare simultaneamente due spazi separati collegati dalla conversazione telefonica. Il film non deve alternare sistematicamente i due interlocutori: li rende contemporaneamente presenti nel quadro. La tecnica modifica quindi il rapporto fra spazio, tempo e montaggio e rende visibile la simultaneità dell'azione.
+
+### Perché è didatticamente utile
+È un esempio immediatamente leggibile per introdurre lo **split screen** e confrontarlo con il tradizionale campo/controcampo telefonico.
+
+### Obiettivo didattico
+Comprendere come una singola superficie dell'immagine possa contenere contemporaneamente più spazi narrativi.
+
+### Attività
+Confrontare una telefonata costruita con campo/controcampo e la stessa situazione rappresentata con split screen.
+
+### Domande da porre agli studenti
+1. Cosa permette di vedere contemporaneamente lo split screen?
+2. Come cambia il montaggio quando i due personaggi sono già nello stesso quadro?
+3. Lo schermo diviso rappresenta uno spazio reale o una relazione narrativa?
+
+### Collegamenti
+- *The Conversation*.
+- *24* e televisione seriale.
+- *The Rules of the Game*: simultaneità senza divisione dello schermo.
+
+### Fonti
+- WJEC, *Pillow Talk* Film Factsheet, analisi della sequenza iniziale e dello split screen.
+
+## 41. *The Godfather* (Francis Ford Coppola, 1972) — low-key lighting
+- **Scena:** Don Vito Corleone nel suo studio durante la scena iniziale.
+- **Concetto principale:** illuminazione low-key e chiaroscuro.
+- **Concetti secondari:** ombra, contrasto, volto, atmosfera, caratterizzazione.
+- **Tag:** #luce #low-key #chiaroscuro #messa-in-scena #illuminazione
+- **Livello:** Base / Intermedio.
+
+### Analisi della scena
+Il volto di Don Vito emerge dall'oscurità mentre lo spazio circostante rimane relativamente poco illuminato. L'illuminazione non serve soltanto a rendere visibile il personaggio: seleziona ciò che lo spettatore deve vedere e costruisce un'atmosfera di autorità, segretezza e minaccia. La letteratura specialistica sulla fotografia del film ha studiato il rapporto fra luce, ombra e psicologia dei personaggi.
+
+### Perché è didatticamente utile
+È una scena efficace per introdurre **low-key lighting**, rapporto fra luce principale e ombra e funzione narrativa della fotografia.
+
+### Obiettivo didattico
+Riconoscere una configurazione luminosa e collegarla alla costruzione dello spazio e del personaggio senza ridurla a un simbolismo automatico.
+
+### Attività
+Oscurare progressivamente una fotografia della scena e chiedere quali elementi rimangono essenziali per riconoscere il personaggio.
+
+### Domande da porre agli studenti
+1. Quanto del volto viene realmente mostrato?
+2. Che rapporto c'è fra volto e sfondo?
+3. La luce dirige lo sguardo dello spettatore?
+
+### Collegamenti
+- *Metropolis*: luce espressionista.
+- *The Shining*: geometria e illuminazione.
+- *Citizen Kane*: profondità e luce.
+
+### Fonti
+- Studi accademici sulla cinematografia e illuminazione de *The Godfather*.
+- Ricerca sulla funzione psicologica della luce nel film.
+
+## 42. *The Searchers* (John Ford, 1956) — formato e rapporto d'aspetto
+- **Scena:** apertura sulla soglia della casa e panoramica iniziale sul paesaggio.
+- **Concetto principale:** rapporto d'aspetto e composizione panoramica.
+- **Concetti secondari:** campo lungo, spazio, paesaggio, soglia, composizione.
+- **Tag:** #formato #rapporto-d-aspetto #composizione #spazio #paesaggio
+- **Livello:** Intermedio.
+
+### Analisi della scena
+Il formato panoramico permette di organizzare nello stesso quadro la soglia, i personaggi e l'ampiezza del paesaggio. Il rapporto d'aspetto non è quindi soltanto una specifica tecnica del supporto: condiziona la quantità e la distribuzione dello spazio che può essere messo in relazione nell'inquadratura. L'uso dei formati più larghi è stato studiato anche in rapporto alle trasformazioni tecnologiche e percettive del cinema classico e postclassico.
+
+### Perché è didatticamente utile
+Permette di introdurre il **formato dell'immagine** partendo da un caso in cui il rapporto fra personaggio e paesaggio è immediatamente osservabile.
+
+### Obiettivo didattico
+Comprendere che il rapporto d'aspetto condiziona composizione, spazio e rapporti fra elementi dell'inquadratura.
+
+### Attività
+Confrontare lo stesso fotogramma ritagliato in 4:3, 16:9 e panoramico e discutere cosa viene escluso o enfatizzato.
+
+### Domande da porre agli studenti
+1. Quante informazioni spaziali entrano nello stesso quadro?
+2. Cosa perderebbe la scena con un formato più stretto?
+3. Il formato modifica la relazione fra personaggio e paesaggio?
+
+### Collegamenti
+- *The Grand Budapest Hotel*: formato come scelta stilistica.
+- *2001*: composizione e grande formato.
+- *Citizen Kane*: rapporto fra spazio e composizione.
+
+### Fonti
+- James E. Cutting, *Movies on Our Minds*, capitoli su tecnologia, formato e percezione.
+- Studi sul cinema panoramico e sulla composizione widescreen.
+
+## 43. *The Silence of the Lambs / Il silenzio degli innocenti* (Jonathan Demme, 1991) — montaggio alternato e focalizzazione
+- **Scena:** FBI che irrompe nella casa e Clarice che entra contemporaneamente nell'abitazione sbagliata di Buffalo Bill.
+- **Concetto principale:** montaggio alternato e falsa convergenza spaziale.
+- **Concetti secondari:** suspense, focalizzazione, informazione spettatoriale, montaggio parallelo, fuori campo.
+- **Tag:** #montaggio-alternato #suspense #focalizzazione #fuori-campo #montaggio
+- **Livello:** Intermedio.
+
+### Analisi della scena
+Il montaggio alterna l'azione della squadra dell'FBI e quella di Clarice costruendo l'impressione che le due linee d'azione stiano convergendo nello stesso luogo. Lo spettatore possiede informazioni che Clarice non possiede, ma anche una falsa aspettativa sulla geografia degli eventi. Il montaggio diventa quindi uno strumento di gestione dell'informazione narrativa e non soltanto di simultaneità.
+
+### Perché è didatticamente utile
+È un esempio particolarmente efficace per distinguere **montaggio alternato, montaggio parallelo e suspense**, mostrando come il montaggio possa manipolare la conoscenza dello spettatore.
+
+### Obiettivo didattico
+Analizzare il rapporto fra alternanza delle inquadrature, spazio costruito mentalmente e quantità di informazione disponibile al pubblico.
+
+### Attività
+Chiedere agli studenti, prima della rivelazione finale, di disegnare sulla pianta dove pensano che si trovino FBI e Clarice.
+
+### Domande da porre agli studenti
+1. Perché crediamo che le due azioni stiano avvenendo nello stesso luogo?
+2. Chi possiede più informazioni: Clarice o lo spettatore?
+3. Il montaggio costruisce uno spazio reale o uno spazio mentale?
+
+### Collegamenti
+- *Jaws*.
+- *Psycho*.
+- *Il padrino*.
+- *Stagecoach*.
+
+### Fonti
+- Vittorio Gallese et al., *The Empathic Screen*, capitolo sul montaggio e sul *Silence of the Lambs*.
+- Studi sulla continuità e sulla gestione cognitiva dell'informazione nel montaggio.
+
+## 44. *The Graduate / Il laureato* (Mike Nichols, 1967) — carrello e composizione
+- **Scena:** Benjamin separato visivamente dagli adulti durante le feste e negli ambienti domestici, con movimenti che lo isolano o lo ricollocano nello spazio.
+- **Concetto principale:** blocking e composizione dei corpi nello spazio.
+- **Concetti secondari:** direzione degli attori, profondità, movimento di macchina, isolamento, messa in scena.
+- **Tag:** #blocking #direzione-attori #messa-in-scena #composizione #spazio
+- **Livello:** Intermedio.
+
+### Analisi della scena
+La posizione dei personaggi nel quadro e i loro spostamenti costruiscono rapporti di distanza e di esclusione senza doverli verbalizzare. Benjamin viene spesso collocato in relazione agli adulti attraverso porte, corridoi, arredi e profondità del campo. Il blocking diventa quindi un elemento narrativo: la disposizione dei corpi comunica rapporti sociali prima ancora che intervenga il dialogo.
+
+### Perché è didatticamente utile
+Completa il percorso sulla messa in scena spostando l'attenzione dalla scenografia alla **direzione dei corpi nello spazio**.
+
+### Obiettivo didattico
+Riconoscere il blocking come scelta narrativa e non come semplice disposizione pratica degli attori.
+
+### Attività
+Fermare tre fotogrammi e chiedere agli studenti di indicare chi occupa il centro, chi è ai margini, chi è davanti e chi dietro.
+
+### Domande da porre agli studenti
+1. Chi controlla lo spazio dell'inquadratura?
+2. Quali relazioni sociali sono visibili senza dialogo?
+3. Cosa cambierebbe spostando un personaggio dal fondo al primo piano?
+
+### Collegamenti
+- *La Règle du jeu*.
+- *Citizen Kane*.
+- *Metropolis*.
+- *Il disprezzo*.
+
+### Fonti
+- Studi sulla mise-en-scène e sulla direzione dei corpi nel cinema narrativo.
+- Patrick Colm Hogan, *Style in Narrative*, capitolo sullo stile cinematografico.
+
+---
+# COSTELLAZIONI DIDATTICHE — AGGIORNAMENTO 3
+
+### Zoom, travelling e deformazione prospettica
+*Vertigo* → *The Shining* → *Touch of Evil*
+
+### Suono e parola
+*His Girl Friday* → *The Conversation* → *Goodfellas* → *Apocalypse Now*
+
+### Simultaneità e montaggio alternato
+*Stagecoach* → *The Silence of the Lambs* → *Il padrino*
+
+### Messa in scena e corpi nello spazio
+*Metropolis* → *La Règle du jeu* → *The Graduate* → *Citizen Kane*
+
+### Formato e composizione
+*The Searchers* → *Citizen Kane* → *The Grand Budapest Hotel*
+
+### Illuminazione e costruzione del personaggio
+*Metropolis* → *The Godfather* → *The Shining*
+
+### Tecniche di transizione ancora da coprire
+- match on action specifico
+- graphic match
+- dissolvenza
+- tendina
+- iris
+- J-cut / L-cut
+
+### Concetti ancora prioritari
+- **Panoramica** come movimento autonomo
+- **Raccordo sull'asse** con scena paradigmatica
+- **Voice-off** distinto dal voice-over
+- **Colore come sistema narrativo**
+- **Recitazione cinematografica vs teatrale**
+- **Match cut / graphic match** oltre a *2001*
+- **Ellissi temporale** come procedimento autonomo
