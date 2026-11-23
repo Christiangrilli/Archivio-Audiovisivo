@@ -196,7 +196,7 @@ La ricognizione dell'archivio individua **93 schede operative**. Il conteggio co
 | Fonti | 48 | 45 |
 | Stato della scheda | 16 | 77 |
 
-Fra le 16 schede con uno stato esplicito, **15 sono DA COMPLETARE e 1 è DA VERIFICARE; nessuna è contrassegnata PRONTA**. Le altre 77 non hanno ancora un'etichetta di stato: non vanno considerate automaticamente pronte. In particolare, l'assenza di una sezione autonoma di verifica formativa è una lacuna ricorrente.
+Fra le 16 schede con uno stato esplicito, **15 sono DA COMPLETARE e 1 è DA VERIFICARE; nessuna è contrassegnata PRONTA**. Le altre 77 non hanno ancora un'etichetta di stato: non vanno considerate automaticamente pronte. In particolare, la verifica formativa resta una lacuna ricorrente: 21 schede hanno ora un'intestazione esplicita, ma 72 ne sono ancora prive.
 
 Il controllo è documentale, non una valutazione qualitativa automatica: una scheda può contenere un'attività o una verifica senza usare l'intestazione prevista. La revisione deve quindi procedere leggendo le schede, non limitandosi a uniformare le etichette.
 
