@@ -43,7 +43,7 @@
       const yearMatch = heading.match(/\b(18|19|20)\d{2}\b/g);
       const year = yearMatch ? Number(yearMatch[yearMatch.length - 1]) : null;
       const director = year ? (heading.slice(0, heading.lastIndexOf(String(year))).match(/,\s*([^,()]+)$/)?.[1] || "") : "";
-      const title = heading.replace(/^\*+/, "").replace(/\*+$/, "").replace(/\s*\([^()]*\)\s*$/, "").trim();
+      const title = heading.split(" — ")[0].replace(/\s*\([^()]*\)\s*$/, "").trim();
       const concept = field(block, "Concetto principale") || field(block, "Concetto") || "Concetto da individuare";
       const secondary = field(block, "Concetti secondari");
       const tags = (field(block, "Tag").match(/#[\p{L}\p{N}_-]+/gu) || []).map(tag => tag.slice(1).replace(/-/g, " "));
