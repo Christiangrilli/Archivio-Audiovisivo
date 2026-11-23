@@ -192,7 +192,7 @@
   $("#reset-filters").addEventListener("click", () => { $("#search-input").value=""; $("#concept-filter").value=""; $("#level-filter").value=""; $("#status-filter").value=""; $("#sort-select").value="number"; applyFilters(); });
   grid.addEventListener("click", event => {
     const add = event.target.closest("[data-add]");
-    if (add) { event.stopPropagation(); toggleCollection(Number(add.dataset.add)); if (state.activeFilm) openFilm(state.activeFilm.id); return; }
+    if (add) { event.stopPropagation(); toggleCollection(Number(add.dataset.add)); return; }
     const filmCard = event.target.closest("[data-film]");
     if (filmCard) openFilm(Number(filmCard.dataset.film));
   });
@@ -216,6 +216,5 @@
   document.addEventListener("keydown", event => {
     if (event.key === "/" && !["INPUT","TEXTAREA","SELECT"].includes(document.activeElement.tagName)) { event.preventDefault(); $("#search-input").focus(); }
   });
-  updateCollectionUI();
   init();
 })();
