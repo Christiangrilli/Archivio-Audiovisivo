@@ -1897,20 +1897,78 @@ Gli studenti realizzano una pianta e uno storyboard di quattro inquadrature dell
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scene:** sequenze oniriche caratterizzate dallo scavalcamento deliberato dell'asse.
-- **Concetto principale:** spazio mentale e disorientamento.
-- **Concetti secondari:** asse, montaggio, sogno, soggettività.
-- **Tag:** #raccordo #spazio #montaggio #punto-di-vista #narrazione
+- **Sequenza:** il ricordo del litigio finale fra Joel e Clementine, durante il quale Joel la segue attraverso il bagno, la cucina e la porta d'ingresso. La continuità dello spazio viene resa impossibile dai movimenti della donna e dalla disposizione dei luoghi.
+- **Concetto principale:** continuità spaziale impossibile e rappresentazione audiovisiva della memoria.
+- **Concetti secondari:** piano lungo, movimento di macchina, raccordo, spazio mentale, montaggio interno, effetti pratici, corpo e doppio, disorientamento.
+- **Tag:** #spazio #movimento-di-macchina #continuità #montaggio #punto-di-vista #effetti-visivi #memoria
 - **Livello:** Intermedio / Avanzato.
-- **Uso:** confronto.
+- **Uso consigliato:** mostrare come la continuità possa essere mantenuta in apparenza all'interno di un piano lungo, mentre la geografia dello spazio viene trasformata in modo impossibile.
+- **Stato:** **DA COMPLETARE** — delimitare il passaggio del litigio e controllare sulla copia utilizzata la continuità del movimento fra bagno, cucina e porta d'ingresso.
 
-### Analisi
-La violazione dell'asse contribuisce alla costruzione di uno spazio non stabile, coerente con la natura mentale e mnestica dell'esperienza rappresentata. La discontinuità non è quindi semplicemente un errore: diventa una scelta enunciativa.
+### Contesto essenziale
+Joel si sottopone a una procedura per cancellare i ricordi della relazione con Clementine. Il film attraversa le memorie del protagonista mentre queste vengono progressivamente eliminate. Nel ricordo del litigio finale, Joel segue Clementine attraverso diversi ambienti dell'appartamento. La donna sembra spostarsi in modo impossibile da un luogo all'altro, mentre la macchina da presa continua a seguirla e a mantenere un'apparente continuità del movimento.
+
+### Analisi formale
+La sequenza non costruisce il disorientamento attraverso una serie di tagli evidenti o attraverso un semplice scavalcamento dell'asse. L'effetto nasce, al contrario, da una continuità apparente: Joel segue Clementine, la macchina da presa accompagna il movimento e lo spazio sembra restare un ambiente unico. Tuttavia, la donna appare in luoghi diversi senza che il percorso fisico fra questi ambienti rispetti una geografia realistica.
+
+Jessica Murrell definisce questo procedimento una forma di «continuità impossibile»: la durata del piano e il movimento della macchina da presa mantengono una coerenza percettiva, mentre la disposizione dello spazio e gli spostamenti del personaggio violano la continuità realistica. Joel entra nel bagno, ma Clementine è già in cucina; poco dopo la ritrova alla porta d'ingresso, che lei sbatte. Lo spettatore non è invitato a ricostruire una pianta credibile dell'appartamento: è immerso in una memoria che si deforma e si disgrega.
+
+L'effetto non è stato ottenuto semplicemente con un intervento digitale. Nel commento al DVD, Michel Gondry spiega che l'illusione è stata costruita con passaggi nascosti e l'impiego di una controfigura, che consentivano a Kate Winslet di apparire in posizioni differenti durante il movimento della macchina da presa. Il trucco è quindi un esempio di effetto pratico e di organizzazione dello spazio scenico, non di CGI.
+
+La scelta è coerente con il funzionamento del film. Le memorie di Joel non sono luoghi realistici ricostruiti in modo stabile: sono ambienti che si modificano, si sovrappongono e perdono coerenza mentre la procedura li cancella. La sequenza rende visibile la fragilità della memoria senza interrompere completamente l'illusione cinematografica. Il corpo di Clementine sembra attraversare uno spazio continuo, ma il mondo che lo contiene non rispetta più le leggi della geografia ordinaria.
+
+È importante non chiamare questo procedimento «scavalcamento dell'asse». Il problema non è la semplice inversione della posizione destra/sinistra dei personaggi rispetto a un asse d'azione, ma la costruzione di uno spazio impossibile all'interno di una continuità apparente. La distinzione permette di usare la scena per discutere la differenza fra violazione della regola dei 180 gradi, discontinuità di montaggio e trasformazione della scenografia.
+
+### Evidenze da far osservare
+1. Quale percorso compie Joel e quali ambienti attraversa.
+2. In quali momenti Clementine appare in una posizione che non corrisponde al percorso appena mostrato.
+3. Come la macchina da presa mantiene la continuità del movimento.
+4. Quali elementi dell'ambiente restano stabili e quali sembrano cambiare.
+5. Perché la sequenza non appare come un semplice errore di raccordo.
+6. Quali indizi suggeriscono che lo spazio appartenga a un ricordo e non a un presente realistico.
+
+### Perché è didatticamente utile
+La sequenza permette di distinguere la continuità del movimento dalla continuità geografica. Gli studenti possono comprendere che un piano lungo non garantisce automaticamente uno spazio realistico: la macchina da presa può mantenere un flusso visivo continuo mentre la scenografia e i corpi producono una geografia impossibile. È inoltre un esempio efficace di effetti pratici e di costruzione della memoria attraverso lo spazio.
 
 ### Obiettivo didattico
-Comprendere come una convenzione della grammatica audiovisiva possa essere modificata per costruire uno specifico effetto percettivo e narrativo.
+Al termine dell'attività, lo studente sa descrivere il movimento della macchina da presa, riconoscere una trasformazione impossibile dello spazio e distinguere fra scavalcamento dell'asse, errore di raccordo e continuità spaziale deliberatamente alterata.
 
----
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare il frammento senza anticipare il trucco. Chiedere agli studenti di ricostruire il percorso di Joel e Clementine.
+2. **Mappa dello spazio:** disegnare una pianta semplificata dell'appartamento e segnare le apparizioni di Clementine nei diversi ambienti.
+3. **Seconda visione:** osservare il movimento della macchina da presa e individuare i momenti in cui lo spazio sembra cambiare senza un taglio evidente.
+4. **Analisi tecnica:** spiegare il principio dei passaggi nascosti e della controfigura, distinguendo gli effetti pratici dagli interventi digitali.
+5. **Confronto:** mostrare un normale piano sequenza in uno spazio continuo e chiedere quali informazioni permettano di orientarsi.
+6. **Rielaborazione:** progettare una breve sequenza di 4–5 inquadrature in cui uno spazio domestico cambi in modo impossibile, scegliendo se utilizzare un taglio, un movimento di macchina o un effetto pratico.
+
+### Domande per gli studenti
+1. Perché la sequenza sembra continua anche se lo spazio non è realistico?
+2. Quale differenza c'è fra attraversare un ambiente e apparire improvvisamente in un altro?
+3. La macchina da presa segue il personaggio oppure segue la logica della memoria?
+4. Perché sarebbe impreciso definire questo procedimento soltanto come scavalcamento dell'asse?
+5. In che modo la trasformazione dello spazio comunica la perdita e la disgregazione del ricordo?
+
+### Verifica formativa
+Gli studenti realizzano una pianta dell'appartamento e uno storyboard di cinque momenti. Per ciascun momento devono indicare:
+- posizione di Joel e Clementine;
+- ambiente in cui si trovano;
+- direzione del movimento della macchina da presa;
+- eventuale discontinuità fra posizione precedente e successiva;
+- effetto percettivo prodotto.
+
+**Criteri:** ricostruzione precisa del movimento, distinzione fra asse e continuità geografica, uso corretto dei termini, capacità di collegare il trucco tecnico alla rappresentazione della memoria.
+
+### Collegamenti
+- **Continuità impossibile:** *L'avventura* — disorientamento spaziale e raccordi che non confermano le aspettative.
+- **Piano lungo e spazio artificiale:** *Birdman* — continuità apparente e trasformazione degli ambienti.
+- **Memoria e montaggio:** *8½* — passaggio fra sogno, ricordo e presente.
+- **Spazio mentale:** *Mulholland Drive* — ambienti e livelli narrativi instabili.
+
+### Fonti e riferimenti
+- Jessica Murrell, *Postclassical Hollywood/Postmodern Subjectivity Representation in Some ‘Indie/Alternative’ Indiewood Films*, tesi di dottorato, University of Adelaide, agosto 2010, pp. 130–131. Analizza la continuità spaziale impossibile nella sequenza del litigio e il passaggio fra gli ambienti: https://digital.library.adelaide.edu.au/server/api/core/bitstreams/1214cb75-c5d2-427a-a621-134baea15bdb/content
+- American Cinematographer, «Forget Me Not: *Eternal Sunshine of the Spotless Mind*», intervista alla direttrice della fotografia Ellen Kuras sulla fusione fra luoghi reali, ricordi e transizioni impossibili: https://theasc.com/articles/forget-me-not-eternal-sunshine-of-the-spotless-mind/
+- Michel Gondry, commento audio al DVD di *Eternal Sunshine of the Spotless Mind*, per la realizzazione pratica dell'effetto con passaggi nascosti e controfigura.
+- Carol Vernallis, «The Music Video: The Transformation of Song, Sound, and Image», per la struttura a motivi e la frammentazione audiovisiva del film.
 
 ## 20. *Birdman* (Alejandro González Iñárritu, 2014)
 [↑ Torna all'indice](#indice-interattivo)
