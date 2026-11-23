@@ -1,6 +1,6 @@
 # GUIDA OPERATIVA — USARE L'ARCHIVIO NELLA DIDATTICA A-07
 
-Questa guida accompagna `ARCHIVIO_SCENE_FILM.md`. Traduce il repertorio di scene in un metodo di progettazione, conduzione e valutazione delle lezioni di Discipline audiovisive.
+Questa guida accompagna [`ARCHIVIO_SCENE_FILM.md`](ARCHIVIO_SCENE_FILM.md) ed è consultabile dall'[indice interattivo per film e concetti](INDICE_SCENE_FILM.md). Traduce il repertorio di scene in un metodo di progettazione, conduzione e valutazione delle lezioni di Discipline audiovisive.
 
 **Principio di lavoro:** la scena non va mostrata per confermare una definizione già spiegata. Va usata come testo audiovisivo da osservare, descrivere, interpretare e, quando possibile, rielaborare.
 
