@@ -27,7 +27,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Indiana Jones* — sequenza della pistola](ARCHIVIO_SCENE_FILM.md#17-indiana-jones-sequenza-della-pistola)
 - [*Il settimo sigillo* (Ingmar Bergman, 1957)](ARCHIVIO_SCENE_FILM.md#18-il-settimo-sigillo-ingmar-bergman-1957)
 - [*Se mi lasci ti cancello* (*Eternal Sunshine of the Spotless Mind*, Michel Gondry, 2004)](ARCHIVIO_SCENE_FILM.md#19-se-mi-lasci-ti-cancello-eternal-sunshine-of-the-spotless-mind-michel-gondry-2004)
-- [*1917* (Sam Mendes, 2019)](ARCHIVIO_SCENE_FILM.md#20-1917-sam-mendes-2019)
+- [*Birdman* (Alejandro González Iñárritu, 2014)](ARCHIVIO_SCENE_FILM.md#20-birdman-alejandro-gonzález-iñárritu-2014)
 - [*Fight Club* (David Fincher, 1999)](ARCHIVIO_SCENE_FILM.md#21-fight-club-david-fincher-1999)
 - [*La nascita di una nazione* (*The Birth of a Nation*, D. W. Griffith, 1915)](ARCHIVIO_SCENE_FILM.md#30-la-nascita-di-una-nazione-the-birth-of-a-nation-d-w-griffith-1915)
 - [*Intolerance* (D. W. Griffith, 1916)](ARCHIVIO_SCENE_FILM.md#31-intolerance-d-w-griffith-1916)
@@ -111,7 +111,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Il grande Gatsby* (Baz Luhrmann, 2013)](ARCHIVIO_SCENE_FILM.md#16-il-grande-gatsby-baz-luhrmann-2013)
 - [*Il settimo sigillo* (Ingmar Bergman, 1957)](ARCHIVIO_SCENE_FILM.md#18-il-settimo-sigillo-ingmar-bergman-1957)
 - [*Se mi lasci ti cancello* (*Eternal Sunshine of the Spotless Mind*, Michel Gondry, 2004)](ARCHIVIO_SCENE_FILM.md#19-se-mi-lasci-ti-cancello-eternal-sunshine-of-the-spotless-mind-michel-gondry-2004)
-- [*1917* (Sam Mendes, 2019)](ARCHIVIO_SCENE_FILM.md#20-1917-sam-mendes-2019)
+- [*Birdman* (Alejandro González Iñárritu, 2014)](ARCHIVIO_SCENE_FILM.md#20-birdman-alejandro-gonzález-iñárritu-2014)
 - [*The Grand Budapest Hotel* (Wes Anderson, 2014)](ARCHIVIO_SCENE_FILM.md#22-the-grand-budapest-hotel-wes-anderson-2014)
 - [*Quarto potere* (*Citizen Kane*, Orson Welles, 1941)](ARCHIVIO_SCENE_FILM.md#23-quarto-potere-citizen-kane-orson-welles-1941)
 - [*Shining* (Stanley Kubrick, 1980)](ARCHIVIO_SCENE_FILM.md#24-shining-stanley-kubrick-1980)
@@ -150,7 +150,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*L'eclisse* (Michelangelo Antonioni, 1962)](ARCHIVIO_SCENE_FILM.md#7-leclisse-michelangelo-antonioni-1962)
 - [*Lo squalo* (*Jaws*, Steven Spielberg, 1975)](ARCHIVIO_SCENE_FILM.md#10-lo-squalo-jaws-steven-spielberg-1975)
 - [*Moulin Rouge!* (Baz Luhrmann, 2001)](ARCHIVIO_SCENE_FILM.md#15-moulin-rouge-baz-luhrmann-2001)
-- [*1917* (Sam Mendes, 2019)](ARCHIVIO_SCENE_FILM.md#20-1917-sam-mendes-2019)
+- [*Birdman* (Alejandro González Iñárritu, 2014)](ARCHIVIO_SCENE_FILM.md#20-birdman-alejandro-gonzález-iñárritu-2014)
 - [*Dunkirk* (Christopher Nolan, 2017) / *Tenet* (Christopher Nolan, 2020)](ARCHIVIO_SCENE_FILM.md#27-dunkirk-christopher-nolan-2017-tenet-christopher-nolan-2020)
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](ARCHIVIO_SCENE_FILM.md#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille)
 - [*Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)](ARCHIVIO_SCENE_FILM.md#4-rope-nodo-alla-gola-alfred-hitchcock-1948)
@@ -194,7 +194,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Minority Report* (Steven Spielberg, 2002)](ARCHIVIO_SCENE_FILM.md#13-minority-report-steven-spielberg-2002)
 - [*Ready Player One* (Steven Spielberg, 2018)](ARCHIVIO_SCENE_FILM.md#14-ready-player-one-steven-spielberg-2018)
 - [*Se mi lasci ti cancello* (*Eternal Sunshine of the Spotless Mind*, Michel Gondry, 2004)](ARCHIVIO_SCENE_FILM.md#19-se-mi-lasci-ti-cancello-eternal-sunshine-of-the-spotless-mind-michel-gondry-2004)
-- [*1917* (Sam Mendes, 2019)](ARCHIVIO_SCENE_FILM.md#20-1917-sam-mendes-2019)
+- [*Birdman* (Alejandro González Iñárritu, 2014)](ARCHIVIO_SCENE_FILM.md#20-birdman-alejandro-gonzález-iñárritu-2014)
 - [*Fight Club* (David Fincher, 1999)](ARCHIVIO_SCENE_FILM.md#21-fight-club-david-fincher-1999)
 - [*Dunkirk* (Christopher Nolan, 2017) / *Tenet* (Christopher Nolan, 2020)](ARCHIVIO_SCENE_FILM.md#27-dunkirk-christopher-nolan-2017-tenet-christopher-nolan-2020)
 - [*La nascita di una nazione* (*The Birth of a Nation*, D. W. Griffith, 1915)](ARCHIVIO_SCENE_FILM.md#30-la-nascita-di-una-nazione-the-birth-of-a-nation-d-w-griffith-1915)
@@ -245,7 +245,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 
 Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegamento apre direttamente la sezione corrispondente nel documento principale.
 
-- [*1917* (Sam Mendes, 2019)](ARCHIVIO_SCENE_FILM.md#20-1917-sam-mendes-2019) — piano-sequenza simulato e montaggio invisibile.
+- [*Birdman* (Alejandro González Iñárritu, 2014)](ARCHIVIO_SCENE_FILM.md#20-birdman-alejandro-gonzález-iñárritu-2014) — piano-sequenza simulato e montaggio invisibile.
 - [*2001: A Space Odyssey* (*2001: Odissea nello spazio*, Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#10-2001-a-space-odyssey-2001-odissea-nello-spazio-stanley-kubrick-1968) — match cut e montaggio per associazione.
 - [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-stanley-kubrick-1968) — geometria dell'inquadratura.
 - [*8½* (Federico Fellini, 1963)](ARCHIVIO_SCENE_FILM.md#8-8½-federico-fellini-1963) — soggettività e spazio mentale.
