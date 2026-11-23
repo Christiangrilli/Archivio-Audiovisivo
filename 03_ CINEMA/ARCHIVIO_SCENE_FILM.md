@@ -3792,11 +3792,14 @@ Per ciascuno indicano:
 - **Concetto principale:** montaggio audiovisivo e rapporto fra immagine e suono.
 - **Concetti secondari:** sincronizzazione, fuori campo, registrazione, suspense, metacinema.
 - **Tag:** #suono #montaggio #fuori-campo #metacinema #suspense
-- **Livello:** Intermedio.
-- **Uso consigliato:** confronto / analisi formale.
+- **Livello:** Intermedio / Avanzato.
+- **Uso consigliato:** analizzare come una registrazione sonora e una serie di fotografie possano essere sincronizzate per ricostruire un evento, ma anche come tale ricostruzione resti un'ipotesi interpretativa.
+- **Stato:** **DA COMPLETARE** — delimitare il riascolto nel motel e la successiva sincronizzazione con le fotografie; verificare il passaggio fra immagine mentale, materiale fotografico e split screen.
 
 ### Analisi
-Il protagonista costruisce un evento a partire da tracce audiovisive separate: la registrazione del suono viene ascoltata, isolata e messa in relazione con immagini fotografiche e filmiche. La scena rende osservabile il lavoro dell'analista audiovisivo: un evento non viene semplicemente visto, ma ricostruito attraverso la relazione fra tracce.
+Il protagonista costruisce un evento a partire da tracce separate. Nel motel riascolta la registrazione dell'incidente e cerca di isolare un colpo di pistola che sembra precedere lo scoppio dello pneumatico. Le immagini che accompagnano il riascolto non sono un filmato registrato da Jack: sono visualizzazioni soggettive che rendono visibile il processo mentale con cui il personaggio tenta di ricostruire ciò che è accaduto. In seguito Jack recupera le fotografie scattate da Manny Karp e pubblicate su una rivista. Le ritaglia, le riproduce e le mette in successione, sincronizzandole con la traccia sonora. Lo split screen mostra contemporaneamente il lavoro del tecnico e la ricostruzione che prende forma. Il film distingue così la registrazione originaria, le fotografie documentarie e le immagini mentali che Jack produce per collegarle.
+
+La sincronizzazione non dimostra automaticamente la verità dell'ipotesi: rende più convincente una possibile interpretazione, ma dipende dalla selezione dei materiali e dall'allineamento fra suono e immagini. Il montaggio è quindi insieme strumento d'indagine e costruzione di significato.
 
 ### Perché è didatticamente utile
 È particolarmente adatta a una classe audiovisiva perché trasforma montaggio e postproduzione in elementi diegetici: il personaggio stesso compie un'operazione simile a quella che lo studente deve imparare a fare nell'analisi.
@@ -3805,16 +3808,26 @@ Il protagonista costruisce un evento a partire da tracce audiovisive separate: l
 Comprendere la differenza fra evento profilmico e traccia audiovisiva dell'evento; analizzare il rapporto fra suono, immagine e interpretazione.
 
 ### Come utilizzarla in classe
-Proporre agli studenti di ricostruire l'evento prima mostrando solo la traccia sonora e poi aggiungendo le immagini.
+1. Mostrare il riascolto senza immagini e chiedere quali suoni si distinguono.
+2. Aggiungere le immagini mentali e chiedere agli studenti di separarle dalle prove registrate.
+3. Mostrare la sincronizzazione con le fotografie e analizzare lo split screen.
+4. Chiedere agli studenti di ricostruire un evento con una traccia sonora e una serie di immagini.
 
-### Domande
-1. Che cosa cambia quando il suono viene separato dall'immagine?
-2. Come nasce un'ipotesi narrativa da una traccia sonora?
-3. Il montaggio scopre la realtà o la costruisce?
+### Domande per gli studenti
+1. Quale suono Jack cerca di isolare nella registrazione?
+2. Le immagini che accompagnano il riascolto sono prove o ricostruzioni mentali?
+3. Come vengono sincronizzate le fotografie con la traccia sonora?
+4. Lo split screen che cosa permette di vedere contemporaneamente?
+5. La sincronizzazione dimostra la verità o rende più convincente un'ipotesi?
+
+### Verifica formativa
+Gli studenti realizzano una breve ricostruzione audiovisiva utilizzando una traccia sonora e almeno sei fotografie o fotogrammi. Devono indicare i punti di sincronizzazione e distinguere i dati documentati dalle ipotesi interpretative.
+
+**Criteri:** sincronizzazione coerente, distinzione fra fonte e ricostruzione, uso corretto del lessico, consapevolezza dei limiti interpretativi del montaggio.
 
 ### Collegamenti
-- *The Conversation*: ascolto e manipolazione del suono.
-- *Blow-Up*: ingrandimento fotografico e indeterminazione.
+- *La conversazione*: ascolto, riascolto e interpretazione di una traccia sonora.
+- *Blow-Up*: ingrandimento fotografico e costruzione dell'indizio.
 - Metacinema e dispositivi di registrazione.
 
 ---
