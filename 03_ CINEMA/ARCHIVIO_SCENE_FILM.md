@@ -2053,20 +2053,74 @@ Aggiungono una nota in cui spiegano quale funzione del montaggio viene riprodott
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** esempi di montaggio volutamente percepibile e di discontinuità.
-- **Concetto principale:** montaggio visibile.
-- **Concetti secondari:** marca enunciativa, discontinuità, punto di vista.
-- **Tag:** #montaggio #jump-cut #punto-di-vista #narrazione
+- **Sequenza:** i brevissimi inserti di Tyler Durden che compaiono prima del suo incontro ufficiale con il Narratore, durante alcune scene iniziali (fra cui l'ufficio, lo studio del medico e i gruppi di sostegno).
+- **Concetto principale:** inserto subliminale e montaggio come anticipazione narrativa.
+- **Concetti secondari:** singolo fotogramma, enunciazione, punto di vista, narrazione inaffidabile, ripetizione, montaggio visibile, proiezione cinematografica.
+- **Tag:** #montaggio #inserto #fotogramma #punto-di-vista #narrazione #metacinema #enunciazione
 - **Livello:** Intermedio / Avanzato.
-- **Uso:** confronto con il montaggio invisibile.
+- **Uso consigliato:** mostrare come un'immagine brevissima possa anticipare un'informazione narrativa e assumere un significato diverso dopo la rivelazione finale.
+- **Attenzione ai contenuti:** il film affronta violenza, autolesionismo, ideologie estremiste e rappresentazioni problematiche della mascolinità. Selezionare il frammento in relazione alla classe.
+- **Stato:** **DA COMPLETARE** — individuare tutti gli inserti sulla copia utilizzata e verificarne il numero e la posizione fotogramma per fotogramma.
 
-### Analisi
-Il film offre numerosi casi in cui la costruzione dell'immagine e del montaggio richiama l'attenzione sul dispositivo. La scena può essere utilizzata per mostrare il passaggio da un modello nel quale il montaggio tende a non farsi notare a una forma che rende percepibile la presenza dell'enunciazione.
+### Contesto essenziale
+Il Narratore è un impiegato insonne e insoddisfatto che frequenta gruppi di sostegno e cerca una forma di sollievo dalla propria vita quotidiana. Tyler Durden viene introdotto più avanti come un personaggio autonomo, incontrato durante un viaggio in aereo. Prima di quel momento, però, la sua immagine compare per brevissimi istanti all'interno di alcune inquadrature. Dopo la rivelazione conclusiva, questi inserti possono essere riletti come anticipazioni della relazione fra i due personaggi.
+
+### Analisi formale
+Gli inserti di Tyler non sono brevi inquadrature autonome che interrompono la scena: sono immagini di un solo fotogramma inserite all'interno di inquadrature già in corso. La durata è talmente ridotta che, durante una visione ordinaria, lo spettatore può non riconoscerle consapevolmente. L'immagine produce una traccia percettiva prima di diventare un'informazione narrativa esplicita.
+
+Il procedimento ha una funzione di anticipazione. Tyler è presente nell'immagine prima di essere introdotto come personaggio, ma il film non fornisce ancora gli elementi necessari per interpretare quella presenza. Dopo la rivelazione, lo spettatore può tornare alle scene iniziali e riconoscere gli inserti come indizi di una relazione che il racconto aveva tenuto nascosta.
+
+Il procedimento è anche autoriflessivo. Più avanti il film spiega che Tyler, nel suo lavoro di proiezionista, inserisce singoli fotogrammi pornografici nelle copie dei film proiettati al pubblico. Gli inserti di Tyler nel film che stiamo guardando riprendono lo stesso gesto: il personaggio sembra applicare allo spettatore il trucco che dichiara di utilizzare in sala. Il dispositivo narrativo e quello cinematografico si rispecchiano.
+
+È importante distinguere l'inserto subliminale dal jump cut. Il jump cut produce una discontinuità percepibile fra due immagini successive, spesso modificando la posizione del soggetto o la continuità temporale; qui, invece, il fotogramma isolato è incorporato in una ripresa e può passare inosservato. Il termine «subliminale» è utile per descrivere l'intenzione e l'effetto di brevità, ma non implica che ogni spettatore lo percepisca inconsciamente nello stesso modo.
+
+### Evidenze da far osservare
+1. In quali scene iniziali compare l'immagine di Tyler prima dell'incontro in aereo.
+2. Se l'immagine inserita modifica la composizione o la continuità della scena.
+3. Quanto è difficile riconoscere l'inserto durante la visione a velocità normale.
+4. Che cosa cambia quando il frammento viene osservato fotogramma per fotogramma.
+5. In che modo il lavoro di Tyler come proiezionista riprende il procedimento usato dal film.
+6. Come la rivelazione finale modifica retrospettivamente la lettura degli inserti.
+
+### Perché è didatticamente utile
+La scheda permette di introdurre il rapporto fra durata del fotogramma, percezione e narrazione. Gli studenti possono verificare concretamente che il montaggio non organizza soltanto sequenze di inquadrature, ma può intervenire anche all'interno di una singola ripresa attraverso l'inserimento di un'immagine isolata. È inoltre un esempio di metacinema, perché il film tematizza un procedimento che utilizza direttamente.
 
 ### Obiettivo didattico
-Riconoscere la differenza fra continuità invisibile e montaggio che rende esplicita la costruzione dell'immagine.
+Al termine dell'attività, lo studente sa distinguere un inserto di singolo fotogramma da un jump cut, descrivere la sua funzione di anticipazione narrativa e spiegare il rapporto fra il trucco del proiezionista e il dispositivo del film.
 
----
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare un frammento iniziale senza anticipare la presenza di Tyler. Chiedere agli studenti se hanno notato qualcosa di anomalo.
+2. **Seconda visione:** riproporre lo stesso frammento rallentato o fotogramma per fotogramma, individuando l'inserto.
+3. **Confronto:** mostrare il passaggio in cui Tyler spiega il proprio lavoro di proiezionista e collegarlo agli inserti precedenti.
+4. **Analisi narrativa:** chiedere agli studenti come cambia il significato dell'immagine dopo la rivelazione finale.
+5. **Rielaborazione:** progettare una sequenza di immagini in cui un singolo fotogramma anticipi un oggetto o un personaggio che avrà importanza più avanti, specificando che l'inserto deve essere riconoscibile soltanto a una seconda visione.
+
+### Domande per gli studenti
+1. Perché l'immagine di Tyler compare prima che il personaggio venga introdotto?
+2. Perché un singolo fotogramma può non essere riconosciuto durante la visione normale?
+3. Qual è la differenza fra inserto subliminale e jump cut?
+4. In che modo il lavoro di Tyler come proiezionista riflette il procedimento utilizzato dal film?
+5. La rivelazione finale cambia ciò che sappiamo delle immagini iniziali o soltanto il modo in cui le interpretiamo?
+
+### Verifica formativa
+Gli studenti confrontano una sequenza a velocità normale con la stessa sequenza analizzata fotogramma per fotogramma. Devono:
+- individuare l'immagine inserita;
+- indicare la durata relativa rispetto alle inquadrature circostanti;
+- descrivere che cosa cambia nella comprensione della scena dopo averla individuata;
+- spiegare il rapporto fra l'inserto e la successiva rivelazione narrativa.
+
+**Criteri:** precisione nell'individuazione, distinzione fra inserto e jump cut, comprensione della funzione anticipatoria, capacità di collegare forma e narrazione.
+
+### Collegamenti
+- **Inserto e immagine subliminale:** *L'esorcista* — brevi apparizioni del volto demoniaco.
+- **Montaggio e anticipazione:** *Mulholland Drive* — immagini che assumono un significato diverso dopo la rivelazione.
+- **Metacinema e proiezione:** *Nuovo Cinema Paradiso* — il dispositivo della sala e il rapporto fra film e spettatore.
+- **Narratore inaffidabile:** *Memento* — informazioni che vengono reinterpretate retrospettivamente.
+
+### Fonti e riferimenti
+- Krister Friday, «“A Generation of Men Without History”: *Fight Club*, Masculinity, and the Historical Symptom», *Postmodern Culture*, 13, n. 3, 2003. Analizza il singolo fotogramma subliminale e la relazione fra il gesto del proiezionista e la costruzione dell'identità di Tyler: https://www.pomoculture.org/2003/05/22/a-generation-of-men-without-history-fight-club-masculinity-and-the-historical-symptom/
+- David Fincher, commento audio al DVD di *Fight Club*, per le apparizioni di Tyler in singoli fotogrammi prima dell'incontro in aereo.
+- Jessica Murrell, *Postclassical Hollywood/Postmodern Subjectivity Representation in Some ‘Indie/Alternative’ Indiewood Films*, tesi di dottorato, University of Adelaide, 2010, per la frammentazione narrativa e la rappresentazione della soggettività.
 
 ## 22. *The Grand Budapest Hotel* (Wes Anderson, 2014)
 [↑ Torna all'indice](#indice-interattivo)
