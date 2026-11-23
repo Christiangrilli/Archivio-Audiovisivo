@@ -2025,3 +2025,274 @@ Fermare alcuni fotogrammi e numerare i piani di profondità. Chiedere: quante in
 - **Musical:** *Singin' in the Rain* → *Moulin Rouge!*.
 
 Questa selezione è stata costruita con un criterio didattico: ogni film deve fornire almeno una scena relativamente autonoma nella quale una scelta audiovisiva sia osservabile, nominabile e confrontabile con altre scene dell'archivio.
+
+
+---
+# NUOVE SCHEDE — COSTELLAZIONI DIDATTICHE: MONTAGGIO, SPAZIO, SUONO, MESSA IN SCENA
+
+## 21. *Jaws / Lo squalo* (Steven Spielberg, 1975)
+- **Scena:** attacco sulla spiaggia di Amity, con il punto di vista subacqueo e il montaggio alternato fra bagnanti, Brody e la minaccia.
+- **Concetto principale:** suspense attraverso informazione e punto di vista.
+- **Concetti secondari:** fuori campo, POV, montaggio alternato, musica, costruzione della minaccia.
+- **Tag:** #suspense #fuori-campo #punto-di-vista #montaggio #suono
+- **Livello:** Base / Intermedio.
+
+### Analisi
+La scena costruisce la suspense distribuendo diversamente l'informazione fra personaggio e spettatore. Brody osserva la folla dalla riva senza possedere il quadro completo della minaccia; il montaggio e il punto di vista permettono invece allo spettatore di percepire progressivamente un pericolo che rimane in gran parte fuori campo. La sequenza è particolarmente efficace per spiegare la distinzione fra **sapere del personaggio** e **sapere dello spettatore**.
+
+### Perché è utile in classe
+È un esempio immediatamente leggibile per introdurre suspense, focalizzazione audiovisiva e fuori campo senza partire dalla teoria astratta.
+
+### Attività
+Prima visione: «Quando avete capito che qualcosa stava per accadere?». Seconda visione: segnare ciò che sa lo spettatore, ciò che sa Brody e ciò che non viene mostrato.
+
+### Domande
+1. Chi possiede più informazioni: Brody, i bagnanti o lo spettatore?
+2. Perché Spielberg evita di mostrare continuamente lo squalo?
+3. Che funzione hanno musica e montaggio nella costruzione dell'attesa?
+
+### Collegamenti
+- *The Birds*: minaccia e fuori campo.
+- *Psycho*: costruzione della violenza attraverso il montaggio.
+- *Touch of Evil*: suspense fondata sulla distribuzione dell'informazione.
+
+### Fonti di ricerca
+Studi sulla suspense e sulla costruzione dello spazio fuori campo; la ricerca contemporanea sulla costruzione dello spazio filmico distingue esplicitamente spazio mostrato e spazio implicato attraverso il suono. citeturn216999search3turn216999search10
+
+## 22. *Tokyo Story / Viaggio a Tokyo* (Yasujirō Ozu, 1953)
+- **Scena:** transizioni fra gli interni domestici e i cosiddetti «pillow shots» di corridoi, edifici, paesaggi e oggetti.
+- **Concetto principale:** spazio e montaggio oltre la continuità classica.
+- **Concetti secondari:** ellissi, tempo, inquadratura autonoma, spazio vuoto, transizione.
+- **Tag:** #montaggio #spazio #ellissi #inquadratura #tempo
+- **Livello:** Intermedio / Avanzato.
+
+### Analisi
+Ozu costruisce lo spazio attraverso inquadrature che non hanno sempre una funzione narrativa immediata. Corridoi, esterni, oggetti e architetture possono interrompere l'azione e creare intervalli temporali e spaziali. Il loro significato nasce dalla posizione nel montaggio e dal rapporto con la scena precedente e successiva.
+
+La ricerca contemporanea sulla costruzione dello spazio cinematografico usa proprio *Tokyo Story* come caso per distinguere spazio esplicito, spazio implicato e differenti forme di frammentazione. citeturn216999search3turn216999search10
+
+### Perché è utile in classe
+Permette di correggere l'idea secondo cui ogni inquadratura debba «far avanzare la storia» in senso narrativo immediato.
+
+### Attività e domande
+Mostrare una transizione senza spiegazione e chiedere: «Dove siamo? È cambiato il luogo, il tempo o entrambi?». Poi chiedere quale funzione abbia l'immagine apparentemente superflua.
+
+### Collegamenti
+- *Persona*: immagine autonoma e materialità del cinema.
+- *Ladri di biciclette*: spazio urbano come informazione narrativa.
+- *Breathless*: rottura delle convenzioni di continuità.
+
+### Fonti
+Chiao-I Tseng, Theo van Leeuwen, Emilia Djonov, «The fragmentation and plasticity of space in film», 2025. citeturn216999search3
+
+## 23. *La regola del gioco* (*La Règle du jeu*, Jean Renoir, 1939)
+- **Scena:** la sequenza della festa/caccia e l'organizzazione simultanea dei personaggi nello spazio.
+- **Concetto principale:** profondità di campo e profondità della messa in scena.
+- **Concetti secondari:** piano-sequenza, movimento, coreografia, spazio sociale, découpage.
+- **Tag:** #profondità-di-campo #piano-sequenza #messa-in-scena #spazio #movimento
+- **Livello:** Avanzato.
+
+### Analisi
+Renoir organizza spesso più linee d'azione nello stesso spazio, lasciando allo spettatore la possibilità di esplorare il quadro. La profondità non è soltanto un effetto ottico: diventa una forma di organizzazione della relazione sociale. Il quadro può contenere simultaneamente azioni differenti e quindi ridurre la necessità di isolare ogni informazione attraverso il montaggio.
+
+### Perché è utile in classe
+È il ponte ideale fra *Citizen Kane* e la teoria della profondità di campo: mostra che il problema non è semplicemente «vedere nitido», ma organizzare l'azione nello spazio.
+
+### Attività
+Fermare il fotogramma e indicare primo piano, piano intermedio e sfondo. Chiedere quale azione lo spettatore è libero di seguire.
+
+### Domande
+1. Chi decide dove guardiamo?
+2. Cosa cambia rispetto a una scena costruita con campo e controcampo?
+3. La profondità di campo aumenta la libertà dello spettatore?
+
+### Collegamenti
+- *Citizen Kane*.
+- *The Shining*.
+- *The Grand Budapest Hotel*.
+
+### Fonti
+Studi sulla profondità di campo e sulla composizione spaziale del cinema classico; la riflessione teorica sulla «double scene» collega direttamente profondità, tecnica e organizzazione ideologica del quadro. citeturn216999search0turn216999search6
+
+## 24. *Ombre rosse* (*Stagecoach*, John Ford, 1939)
+- **Scena:** la sequenza dell'inseguimento della diligenza e l'attacco degli Apache.
+- **Concetto principale:** costruzione dello spazio d'azione nel cinema classico.
+- **Concetti secondari:** raccordo sul movimento, montaggio alternato, asse d'azione, spazio diegetico, genere western.
+- **Tag:** #montaggio #raccordo #spazio #movimento #genere
+- **Livello:** Base / Intermedio.
+
+### Analisi
+L'azione viene resa comprensibile attraverso una rete di raccordi che permette allo spettatore di ricostruire la posizione relativa della diligenza, dei passeggeri e degli inseguitori. È un ottimo esempio per mostrare il funzionamento della continuità classica proprio perché lo spettatore tende a non percepirne consapevolmente le regole.
+
+### Perché è utile in classe
+Serve come modello di **decoupage classico invisibile**, utile prima di affrontare le rotture della continuità in *Breathless* o Godard.
+
+### Attività
+Far ricostruire agli studenti la geografia della scena con frecce su una pianta semplice: chi si muove verso dove e rispetto a quale asse?
+
+### Domande
+1. Come capiamo dove sono i personaggi?
+2. Quali raccordi rendono invisibile il montaggio?
+3. Cosa succederebbe invertendo una direzione di movimento?
+
+### Collegamenti
+- *Breathless*: continuità contro discontinuità.
+- *Rope*: continuità apparente attraverso il movimento.
+- *1917*: continuità come immersione.
+
+### Fonti
+Bordwell e Thompson, studi sulla continuità classica e sulla costruzione dello spazio filmico; ricerca contemporanea sulla frammentazione e sulla ricostruzione dello spazio attraverso il montaggio. citeturn216999search3
+
+## 25. *Piano sequenza / The Magnificent Ambersons* (Orson Welles, 1942)
+- **Scena:** una scena dialogica organizzata attraverso movimento dei personaggi e macchina da presa, da usare come confronto con il découpage classico.
+- **Concetto principale:** piano-sequenza e continuità spaziale.
+- **Concetti secondari:** movimento, profondità, durata, messa in scena, libertà dello spettatore.
+- **Tag:** #piano-sequenza #long-take #messa-in-scena #spazio
+- **Livello:** Avanzato.
+
+### Analisi
+Il valore didattico della sequenza sta nel confronto fra due modi di organizzare la stessa informazione: frammentare l'azione in più inquadrature oppure lasciare che la macchina da presa e la messa in scena la organizzino nel tempo e nello spazio. La ricerca su Welles sottolinea la centralità di profondità, long take e composizione nella sua pratica cinematografica. citeturn216999search13turn216999search16
+
+### Perché è utile in classe
+Completa il percorso *Stagecoach → Citizen Kane → Rope → Touch of Evil*, mostrando che il piano-sequenza non è semplicemente «un'inquadratura lunga» ma un diverso modo di distribuire l'informazione.
+
+### Attività e domande
+Chiedere agli studenti di immaginare la stessa scena divisa in cinque inquadrature. Quali informazioni verrebbero controllate diversamente dal montaggio?
+
+### Fonti
+Studi accademici su Orson Welles e sul suo uso di profondità, long take e sequenza. citeturn216999search13turn216999search16
+
+## 26. *À bout de souffle / Fino all'ultimo respiro* (Jean-Luc Godard, 1960) — SCHEda DI CONFRONTO
+- **Scena:** conversazione in automobile Michel/Patricia.
+- **Concetto principale:** jump cut.
+- **Concetti secondari:** discontinuità temporale, ellissi, enunciazione, Nouvelle Vague.
+- **Tag:** #jump-cut #montaggio #Nouvelle-Vague #discontinuità
+- **Livello:** Base / Intermedio.
+
+### Analisi
+I tagli eliminano porzioni del movimento e della durata senza cercare di mascherare completamente la discontinuità. La ricerca sulla plasticità dello spazio filmico identifica proprio il jump cut della Nouvelle Vague come esempio di frammentazione deliberatamente resa percepibile. citeturn216999search3
+
+### Perché è utile in classe
+È il controcampo perfetto di *Stagecoach*: prima gli studenti imparano una continuità che deve essere invisibile, poi osservano un montaggio che rende il taglio percettibile.
+
+### Attività
+Mostrare la scena senza nominare il jump cut. Chiedere «che cosa vi sembra sbagliato?». Solo dopo introdurre il termine tecnico.
+
+### Domande
+1. Perché il personaggio sembra «saltare» nello spazio?
+2. Il taglio nasconde o mostra il lavoro del montaggio?
+3. Che effetto produce sulla percezione del tempo?
+
+### Fonti
+Studi sulla frammentazione dello spazio e sulla discontinuità nella Nouvelle Vague. citeturn216999search3
+
+## 27. *Blow-Up* (Michelangelo Antonioni, 1966)
+- **Scena:** Thomas ingrandisce le fotografie del parco e individua progressivamente un possibile elemento nascosto nell'immagine.
+- **Concetto principale:** fotografia e montaggio come costruzione dell'indizio.
+- **Concetti secondari:** fuori campo, dettaglio, ingrandimento, ambiguità, spettatore-investigatore.
+- **Tag:** #fotografia #dettaglio #montaggio #fuori-campo #sguardo
+- **Livello:** Intermedio.
+
+### Analisi
+Thomas non riceve semplicemente un'informazione attraverso una fotografia: deve costruirla attraverso ingrandimenti successivi. L'immagine fotografica diventa un campo di ipotesi. La scena è particolarmente utile perché mette in discussione l'idea che una fotografia fornisca automaticamente una verità leggibile.
+
+### Perché è utile in classe
+Collega cinema, fotografia, analisi dell'immagine e postproduzione. È inoltre un ottimo ponte verso *The Conversation* e *Blow Out*, dove un supporto registrato viene analizzato alla ricerca di una verità nascosta.
+
+### Attività
+Fermare l'immagine prima di ogni ingrandimento e chiedere agli studenti cosa ritengono di aver scoperto. Poi distinguere osservazione, ipotesi e interpretazione.
+
+### Domande
+1. L'ingrandimento rivela una verità o produce nuove ambiguità?
+2. Chi costruisce l'indizio: la macchina fotografica, Thomas o lo spettatore?
+3. Cosa accade quando un'immagine viene isolata dal suo contesto?
+
+### Collegamenti
+- *The Conversation*.
+- *Blow Out*.
+- *Citizen Kane*.
+
+### Fonti
+Studi sul cinema di Antonioni, sulla fotografia come indizio e sulla costruzione dello spazio attraverso frammenti; la ricerca contemporanea sullo spazio filmico sottolinea il ruolo di frammentazione e spazio implicito nella costruzione dell'interpretazione. citeturn216999search3
+
+## 28. *La finestra sul cortile* (*Rear Window*, Alfred Hitchcock, 1954)
+- **Scena:** Jeff osserva gli appartamenti del cortile e costruisce progressivamente l'ipotesi sull'omicidio.
+- **Concetto principale:** sguardo e punto di vista.
+- **Concetti secondari:** POV, voyeurismo, montaggio, fuori campo, spettatore, suspense.
+- **Tag:** #punto-di-vista #POV #sguardo #fuori-campo #montaggio
+- **Livello:** Base / Intermedio.
+
+### Analisi
+La scena rende il dispositivo dello spettatore esplicito: Jeff guarda e noi guardiamo attraverso la sua posizione. Il montaggio alterna il volto di Jeff, ciò che osserva e le reazioni della sua attenzione, costruendo un circuito fra soggetto che guarda, oggetto guardato e spettatore.
+
+### Perché è utile in classe
+È una delle scene migliori per introdurre la nozione di **POV cinematografico** e per passare dalla grammatica dell'inquadratura alla teoria dello sguardo.
+
+### Attività
+Chiedere agli studenti di distinguere tre livelli: «Jeff vede», «noi vediamo», «il film ci fa credere che Jeff vede». Poi confrontare con *Psycho* e con il tema del voyeurismo.
+
+### Domande
+1. Quando vediamo ciò che vede Jeff?
+2. Il film ci rende complici del suo sguardo?
+3. Che cosa cambia se una stessa azione viene mostrata senza POV?
+
+### Collegamenti
+- *Psycho*: sguardo e voyeurismo.
+- *Vertigo*: soggettività e sguardo.
+- *Rashomon*: punto di vista e informazione.
+
+### Fonti
+Studi di teoria dello sguardo e analisi hitchcockiana; la letteratura sulla costruzione dello spazio cinematografico considera il POV e lo spazio implicito strumenti centrali per orientare l'interpretazione dello spettatore. citeturn216999search3
+
+## 29. *Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963)
+- **Scena:** conversazione fra Camille e Paul nell'appartamento; Godard attraversa lo spazio fra i due invece di costruire il dialogo con il tradizionale campo/controcampo.
+- **Concetto principale:** spazio della conversazione e rifiuto del découpage classico.
+- **Concetti secondari:** movimento di macchina, durata, asse, spazio fra i personaggi, enunciazione.
+- **Tag:** #Godard #movimento-di-macchina #spazio #découpage #Nouvelle-Vague
+- **Livello:** Intermedio.
+
+### Analisi
+La macchina da presa non elimina lo spazio fra i due interlocutori attraverso il campo/controcampo: lo percorre. La relazione fra i personaggi diventa quindi una relazione spaziale visibile. La scena permette di confrontare direttamente la grammatica del dialogo classico con una soluzione moderna che rende percepibile il lavoro della macchina da presa.
+
+### Perché è utile in classe
+È particolarmente efficace per spiegare che il découpage non è una soluzione naturale o obbligatoria: è una convenzione storica che un regista può accettare, modificare o rifiutare.
+
+### Attività
+Prima mostrare un normale dialogo costruito con campo/controcampo; poi la scena di Godard. Chiedere agli studenti di descrivere cosa «scompare» nel primo caso e cosa diventa visibile nel secondo.
+
+### Domande
+1. Perché Godard attraversa fisicamente lo spazio?
+2. Cosa cambia nella percezione della distanza fra i personaggi?
+3. La macchina da presa è invisibile oppure diventa parte della scena?
+
+### Collegamenti
+- *Stagecoach*: continuità classica.
+- *Breathless*: jump cut.
+- *The Conversation*: spazio e ascolto.
+
+### Fonti
+La ricerca contemporanea sulla plasticità dello spazio filmico considera la frammentazione e la sua eventuale violazione delle convenzioni di continuità come strumenti capaci di rendere il processo di costruzione dello spazio percepibile allo spettatore. citeturn216999search3
+
+---
+# COSTELLAZIONI DIDATTICHE AGGIORNATE
+
+### 1. Continuità → discontinuità
+*Stagecoach* → *Citizen Kane* → *Breathless* → *Il disprezzo*
+
+### 2. Suspense e fuori campo
+*Jaws* → *The Birds* → *Psycho* → *Touch of Evil*
+
+### 3. Spazio costruito dal montaggio
+*Stagecoach* → *Tokyo Story* → *Breathless* → *Il disprezzo*
+
+### 4. Profondità e messa in scena
+*La Règle du jeu* → *Citizen Kane* → *The Shining* → *The Grand Budapest Hotel*
+
+### 5. Cinema come indagine sull'immagine
+*Blow-Up* → *The Conversation* → *Blow Out*
+
+### 6. Sguardo e punto di vista
+*Rear Window* → *Vertigo* → *Psycho* → *Rashomon*
+
+### 7. Long take / piano-sequenza
+*The Last Laugh* → *The Magnificent Ambersons* → *Rope* → *Touch of Evil* → *1917*
