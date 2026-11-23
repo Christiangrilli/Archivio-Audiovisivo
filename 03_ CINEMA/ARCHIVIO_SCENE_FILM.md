@@ -19,81 +19,132 @@ Quando una scena viene inserita nell'archivio, il concetto principale deve esser
 
 ---
 
-# INDICE DEI CONCETTI
+# INDICE INTERATTIVO
 
-L'indice verrà aggiornato progressivamente con l'inserimento delle scene.
+L'archivio è consultabile in due modi: **per concetto audiovisivo** oppure **per film/scena**. I collegamenti portano direttamente alle schede all'interno di questa pagina. Per tornare qui da una scheda, usa il collegamento «↑ Torna all'indice».
 
-### Inquadratura e composizione
-- Spazio tra i personaggi / spazio intermedio
-- Campo / controcampo
-- Profondità di campo
-- Piano sequenza
-- Composizione dell'inquadratura
-- Raccordi
-- Raccordo di sguardo
-- Raccordo sull'asse
-- Regola dei 180°
-- Soggettiva
-- Fuori campo
-- Punto di vista
-- Soggettiva
+## Ricerca per concetto
 
-### Messa in scena
-- Direzione degli attori
-- Messa in scena
-- Recitazione
-- Scenografia
-- Costumi
-- Illuminazione
-- Colore
-- Spazio scenico
-- Profondità dello spazio
+- **Découpage classico e continuità** — [1. Susanna (Bringing Up Baby, Howard Hawks, 1938)](#1-susanna-bringing-up-baby-howard-hawks-1938) · [24. Ombre rosse (Stagecoach, John Ford, 1939)](#24-ombre-rosse-stagecoach-john-ford-1939) · [28. La finestra sul cortile (Rear Window, Alfred Hitchcock, 1954)](#28-la-finestra-sul-cortile-rear-window-alfred-hitchcock-1954) · [36. Rear Window / La finestra sul cortile (Alfred Hitchcock, 1954) — SCHEDA OPERATIVA: REGOLA DEI 180°](#36-rear-window-la-finestra-sul-cortile-alfred-hitchcock-1954-scheda-operativa-regola-dei-180)
+- **Campo / controcampo e spazio tra i personaggi** — [37. Il disprezzo (Le Mépris, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille) · [29. Il disprezzo (Le Mépris, Jean-Luc Godard, 1963)](#29-il-disprezzo-le-mépris-jean-luc-godard-1963) · [1. Susanna (Bringing Up Baby, Howard Hawks, 1938)](#1-susanna-bringing-up-baby-howard-hawks-1938)
+- **Profondità di campo e profondità dello spazio** — [23. Quarto potere (Citizen Kane, Orson Welles, 1941)](#23-quarto-potere-citizen-kane-orson-welles-1941) · [20. Citizen Kane (Quarto potere, Orson Welles, 1941)](#20-citizen-kane-quarto-potere-orson-welles-1941) · [23. La regola del gioco (La Règle du jeu, Jean Renoir, 1939)](#23-la-regola-del-gioco-la-règle-du-jeu-jean-renoir-1939)
+- **Piano-sequenza e long take** — [4. Rope (Nodo alla gola, Alfred Hitchcock, 1948)](#4-rope-nodo-alla-gola-alfred-hitchcock-1948) · [6. Touch of Evil (L'infernale Quinlan, Orson Welles, 1958)](#6-touch-of-evil-linfernale-quinlan-orson-welles-1958) · [25. Piano sequenza / The Magnificent Ambersons (Orson Welles, 1942)](#25-piano-sequenza-the-magnificent-ambersons-orson-welles-1942) · [20. 1917 (Sam Mendes, 2019)](#20-1917-sam-mendes-2019)
+- **Regola dei 180° e raccordi** — [28. La finestra sul cortile (Rear Window, Alfred Hitchcock, 1954)](#28-la-finestra-sul-cortile-rear-window-alfred-hitchcock-1954) · [36. Rear Window / La finestra sul cortile (Alfred Hitchcock, 1954) — SCHEDA OPERATIVA: REGOLA DEI 180°](#36-rear-window-la-finestra-sul-cortile-alfred-hitchcock-1954-scheda-operativa-regola-dei-180) · [24. Ombre rosse (Stagecoach, John Ford, 1939)](#24-ombre-rosse-stagecoach-john-ford-1939) · [22. Tokyo Story / Viaggio a Tokyo (Yasujirō Ozu, 1953)](#22-tokyo-story-viaggio-a-tokyo-yasujirō-ozu-1953) · [5. Breathless (Fino all'ultimo respiro, Jean-Luc Godard, 1960)](#5-breathless-fino-allultimo-respiro-jean-luc-godard-1960) · [37. Il disprezzo (Le Mépris, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille) · [29. Il disprezzo (Le Mépris, Jean-Luc Godard, 1963)](#29-il-disprezzo-le-mépris-jean-luc-godard-1963)
+- **Soggettiva, sguardo e punto di vista** — [28. La finestra sul cortile (Rear Window, Alfred Hitchcock, 1954)](#28-la-finestra-sul-cortile-rear-window-alfred-hitchcock-1954) · [36. Rear Window / La finestra sul cortile (Alfred Hitchcock, 1954) — SCHEDA OPERATIVA: REGOLA DEI 180°](#36-rear-window-la-finestra-sul-cortile-alfred-hitchcock-1954-scheda-operativa-regola-dei-180) · [37. Vertigo (Alfred Hitchcock, 1958) — Dolly zoom](#37-vertigo-alfred-hitchcock-1958-dolly-zoom) · [9. Rashomon (Akira Kurosawa, 1950)](#9-rashomon-akira-kurosawa-1950) · [3. Il Gattopardo (Luchino Visconti, 1963)](#3-il-gattopardo-luchino-visconti-1963)
+- **Fuori campo e suspense** — [10. Lo squalo (Jaws, Steven Spielberg, 1975)](#10-lo-squalo-jaws-steven-spielberg-1975) · [21. Jaws / Lo squalo (Steven Spielberg, 1975)](#21-jaws-lo-squalo-steven-spielberg-1975) · [11. The Birds (Gli uccelli, Alfred Hitchcock, 1963)](#11-the-birds-gli-uccelli-alfred-hitchcock-1963) · [2. Gli ultimi fuochi (The Last Tycoon, Elia Kazan, 1976)](#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976) · [5. Come le foglie al vento (Written on the Wind, Douglas Sirk, 1956)](#5-come-le-foglie-al-vento-written-on-the-wind-douglas-sirk-1956) · [6. L'avventura (Michelangelo Antonioni, 1960)](#6-lavventura-michelangelo-antonioni-1960) · [7. L'eclisse (Michelangelo Antonioni, 1962)](#7-leclisse-michelangelo-antonioni-1962) · [9. Mulholland Drive (David Lynch, 2001)](#9-mulholland-drive-david-lynch-2001) · [13. Minority Report (Steven Spielberg, 2002)](#13-minority-report-steven-spielberg-2002) · [15. Moulin Rouge! (Baz Luhrmann, 2001)](#15-moulin-rouge-baz-luhrmann-2001) · [16. Il grande Gatsby (Baz Luhrmann, 2013)](#16-il-grande-gatsby-baz-luhrmann-2013) · [18. Il settimo sigillo (Ingmar Bergman, 1957)](#18-il-settimo-sigillo-ingmar-bergman-1957) · [19. Se mi lasci ti cancello (Eternal Sunshine of the Spotless Mind, Michel Gondry, 2004)](#19-se-mi-lasci-ti-cancello-eternal-sunshine-of-the-spotless-mind-michel-gondry-2004) · [20. 1917 (Sam Mendes, 2019)](#20-1917-sam-mendes-2019) · [26. Il grande Gatsby e The Grand Budapest Hotel: confronto sulla composizione](#26-il-grande-gatsby-e-the-grand-budapest-hotel-confronto-sulla-composizione) · [33. The Quiet Man (John Ford, 1952) / E.T. l'extra-terrestre (Steven Spielberg, 1982)](#33-the-quiet-man-john-ford-1952-et-lextra-terrestre-steven-spielberg-1982) · [34. News from Home (Chantal Akerman, 1976) / Jeanne Dielman (Chantal Akerman, 1975)](#34-news-from-home-chantal-akerman-1976-jeanne-dielman-chantal-akerman-1975) · [35. L'eclisse / L'avventura / La dolce vita: spazio e modernità](#35-leclisse-lavventura-la-dolce-vita-spazio-e-modernità) · [37. Il disprezzo (Le Mépris, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille) · [5. Breathless (Fino all'ultimo respiro, Jean-Luc Godard, 1960)](#5-breathless-fino-allultimo-respiro-jean-luc-godard-1960) · [8. Blow Out (Brian De Palma, 1981)](#8-blow-out-brian-de-palma-1981) · [9. Rashomon (Akira Kurosawa, 1950)](#9-rashomon-akira-kurosawa-1950) · [12. La corazzata Potëmkin (Bronenosets Potemkin, Sergej Ejzenštejn, 1925)](#12-la-corazzata-potëmkin-bronenosets-potemkin-sergej-ejzenštejn-1925) · [13. L'uomo con la macchina da presa (Chelovek s kino-apparatom, Dziga Vertov, 1929)](#13-luomo-con-la-macchina-da-presa-chelovek-s-kino-apparatom-dziga-vertov-1929) · [15. M – Il mostro di Düsseldorf (M, Fritz Lang, 1931)](#15-m-il-mostro-di-düsseldorf-m-fritz-lang-1931) · [18. Persona (Ingmar Bergman, 1966)](#18-persona-ingmar-bergman-1966) · [19. Metropolis (Fritz Lang, 1927)](#19-metropolis-fritz-lang-1927) · [24. Ombre rosse (Stagecoach, John Ford, 1939)](#24-ombre-rosse-stagecoach-john-ford-1939) · [25. Piano sequenza / The Magnificent Ambersons (Orson Welles, 1942)](#25-piano-sequenza-the-magnificent-ambersons-orson-welles-1942) · [26. À bout de souffle / Fino all'ultimo respiro (Jean-Luc Godard, 1960) — SCHEda DI CONFRONTO](#26-à-bout-de-souffle-fino-allultimo-respiro-jean-luc-godard-1960-scheda-di-confronto) · [27. Blow-Up (Michelangelo Antonioni, 1966)](#27-blow-up-michelangelo-antonioni-1966) · [29. Il disprezzo (Le Mépris, Jean-Luc Godard, 1963)](#29-il-disprezzo-le-mépris-jean-luc-godard-1963) · [33. The Graduate / Il laureato (Mike Nichols, 1967)](#33-the-graduate-il-laureato-mike-nichols-1967) · [34. Memento (Christopher Nolan, 2000)](#34-memento-christopher-nolan-2000) · [37. Vertigo (Alfred Hitchcock, 1958) — Dolly zoom](#37-vertigo-alfred-hitchcock-1958-dolly-zoom) · [39. Goodfellas / Quei bravi ragazzi (Martin Scorsese, 1990) — voice-over](#39-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-voice-over) · [40. Pillow Talk (Michael Gordon, 1959) — split screen](#40-pillow-talk-michael-gordon-1959-split-screen) · [42. The Searchers (John Ford, 1956) — formato e rapporto d'aspetto](#42-the-searchers-john-ford-1956-formato-e-rapporto-daspetto) · [43. The Silence of the Lambs / Il silenzio degli innocenti (Jonathan Demme, 1991) — montaggio alternato e focalizzazione](#43-the-silence-of-the-lambs-il-silenzio-degli-innocenti-jonathan-demme-1991-montaggio-alternato-e-focalizzazione) · [44. The Graduate / Il laureato (Mike Nichols, 1967) — carrello e composizione](#44-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione) · [3. Psycho (Alfred Hitchcock, 1960)](#3-psycho-alfred-hitchcock-1960)
+- **Movimenti di macchina: travelling, carrello e panoramica** — [32. The Shining (Stanley Kubrick, 1980)](#32-the-shining-stanley-kubrick-1980) · [6. Touch of Evil (L'infernale Quinlan, Orson Welles, 1958)](#6-touch-of-evil-linfernale-quinlan-orson-welles-1958) · [33. The Graduate / Il laureato (Mike Nichols, 1967)](#33-the-graduate-il-laureato-mike-nichols-1967) · [44. The Graduate / Il laureato (Mike Nichols, 1967) — carrello e composizione](#44-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione) · [37. Vertigo (Alfred Hitchcock, 1958) — Dolly zoom](#37-vertigo-alfred-hitchcock-1958-dolly-zoom) · [4. Rope (Nodo alla gola, Alfred Hitchcock, 1948)](#4-rope-nodo-alla-gola-alfred-hitchcock-1948)
+- **Zoom e dolly zoom** — [37. Vertigo (Alfred Hitchcock, 1958) — Dolly zoom](#37-vertigo-alfred-hitchcock-1958-dolly-zoom)
+- **Montaggio alternato e parallelo** — [30. The Godfather / Il padrino (Francis Ford Coppola, 1972)](#30-the-godfather-il-padrino-francis-ford-coppola-1972) · [41. The Godfather (Francis Ford Coppola, 1972) — low-key lighting](#41-the-godfather-francis-ford-coppola-1972-low-key-lighting) · [3. Psycho (Alfred Hitchcock, 1960)](#3-psycho-alfred-hitchcock-1960) · [43. The Silence of the Lambs / Il silenzio degli innocenti (Jonathan Demme, 1991) — montaggio alternato e focalizzazione](#43-the-silence-of-the-lambs-il-silenzio-degli-innocenti-jonathan-demme-1991-montaggio-alternato-e-focalizzazione) · [12. La corazzata Potëmkin (Bronenosets Potemkin, Sergej Ejzenštejn, 1925)](#12-la-corazzata-potëmkin-bronenosets-potemkin-sergej-ejzenštejn-1925)
+- **Jump cut e discontinuità** — [5. Breathless (Fino all'ultimo respiro, Jean-Luc Godard, 1960)](#5-breathless-fino-allultimo-respiro-jean-luc-godard-1960) · [26. À bout de souffle / Fino all'ultimo respiro (Jean-Luc Godard, 1960) — SCHEda DI CONFRONTO](#26-à-bout-de-souffle-fino-allultimo-respiro-jean-luc-godard-1960-scheda-di-confronto)
+- **Montaggio ritmico e associativo** — [12. La corazzata Potëmkin (Bronenosets Potemkin, Sergej Ejzenštejn, 1925)](#12-la-corazzata-potëmkin-bronenosets-potemkin-sergej-ejzenštejn-1925) · [25. 2001: Odissea nello spazio (Stanley Kubrick, 1968)](#25-2001-odissea-nello-spazio-stanley-kubrick-1968) · [10. 2001: A Space Odyssey (2001: Odissea nello spazio, Stanley Kubrick, 1968)](#10-2001-a-space-odyssey-2001-odissea-nello-spazio-stanley-kubrick-1968) · [13. L'uomo con la macchina da presa (Chelovek s kino-apparatom, Dziga Vertov, 1929)](#13-luomo-con-la-macchina-da-presa-chelovek-s-kino-apparatom-dziga-vertov-1929)
+- **Ellissi e temporalità non lineare** — [34. Memento (Christopher Nolan, 2000)](#34-memento-christopher-nolan-2000) · [9. Mulholland Drive (David Lynch, 2001)](#9-mulholland-drive-david-lynch-2001) · [16. I quattrocento colpi (Les Quatre Cents Coups, François Truffaut, 1959)](#16-i-quattrocento-colpi-les-quatre-cents-coups-françois-truffaut-1959) · [27. Dunkirk (Christopher Nolan, 2017) / Tenet (Christopher Nolan, 2020)](#27-dunkirk-christopher-nolan-2017-tenet-christopher-nolan-2020)
+- **Suono diegetico, fuori campo e ascolto** — [15. M – Il mostro di Düsseldorf (M, Fritz Lang, 1931)](#15-m-il-mostro-di-düsseldorf-m-fritz-lang-1931) · [7. The Conversation (La conversazione, Francis Ford Coppola, 1974)](#7-the-conversation-la-conversazione-francis-ford-coppola-1974) · [8. Blow Out (Brian De Palma, 1981)](#8-blow-out-brian-de-palma-1981) · [31. Apocalypse Now (Francis Ford Coppola, 1979)](#31-apocalypse-now-francis-ford-coppola-1979)
+- **Voice-over e voce narrante** — [39. Goodfellas / Quei bravi ragazzi (Martin Scorsese, 1990) — voice-over](#39-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-voice-over) · [34. News from Home (Chantal Akerman, 1976) / Jeanne Dielman (Chantal Akerman, 1975)](#34-news-from-home-chantal-akerman-1976-jeanne-dielman-chantal-akerman-1975) · [31. Apocalypse Now (Francis Ford Coppola, 1979)](#31-apocalypse-now-francis-ford-coppola-1979)
+- **Overlapping dialogue** — [38. His Girl Friday (Howard Hawks, 1940) — overlapping dialogue](#38-his-girl-friday-howard-hawks-1940-overlapping-dialogue)
+- **Split screen e simultaneità** — [40. Pillow Talk (Michael Gordon, 1959) — split screen](#40-pillow-talk-michael-gordon-1959-split-screen)
+- **Musica e rapporto immagine/suono** — [33. The Graduate / Il laureato (Mike Nichols, 1967)](#33-the-graduate-il-laureato-mike-nichols-1967) · [44. The Graduate / Il laureato (Mike Nichols, 1967) — carrello e composizione](#44-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione) · [17. Singin' in the Rain (Cantando sotto la pioggia, Stanley Donen e Gene Kelly, 1952)](#17-singin-in-the-rain-cantando-sotto-la-pioggia-stanley-donen-e-gene-kelly-1952) · [31. Apocalypse Now (Francis Ford Coppola, 1979)](#31-apocalypse-now-francis-ford-coppola-1979)
+- **Illuminazione, low-key e chiaroscuro** — [30. The Godfather / Il padrino (Francis Ford Coppola, 1972)](#30-the-godfather-il-padrino-francis-ford-coppola-1972) · [41. The Godfather (Francis Ford Coppola, 1972) — low-key lighting](#41-the-godfather-francis-ford-coppola-1972-low-key-lighting) · [19. Metropolis (Fritz Lang, 1927)](#19-metropolis-fritz-lang-1927) · [24. Shining (Stanley Kubrick, 1980)](#24-shining-stanley-kubrick-1980) · [32. The Shining (Stanley Kubrick, 1980)](#32-the-shining-stanley-kubrick-1980)
+- **Colore e funzione espressiva**
+- **Formato e rapporto d'aspetto** — [35. The Searchers / Sentieri selvaggi (John Ford, 1956)](#35-the-searchers-sentieri-selvaggi-john-ford-1956) · [42. The Searchers (John Ford, 1956) — formato e rapporto d'aspetto](#42-the-searchers-john-ford-1956-formato-e-rapporto-daspetto) · [22. The Grand Budapest Hotel (Wes Anderson, 2014)](#22-the-grand-budapest-hotel-wes-anderson-2014) · [26. Il grande Gatsby e The Grand Budapest Hotel: confronto sulla composizione](#26-il-grande-gatsby-e-the-grand-budapest-hotel-confronto-sulla-composizione)
+- **Blocking, direzione degli attori e corpi nello spazio** — [33. The Graduate / Il laureato (Mike Nichols, 1967)](#33-the-graduate-il-laureato-mike-nichols-1967) · [44. The Graduate / Il laureato (Mike Nichols, 1967) — carrello e composizione](#44-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione) · [23. La regola del gioco (La Règle du jeu, Jean Renoir, 1939)](#23-la-regola-del-gioco-la-règle-du-jeu-jean-renoir-1939) · [19. Metropolis (Fritz Lang, 1927)](#19-metropolis-fritz-lang-1927) · [37. Il disprezzo (Le Mépris, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille) · [29. Il disprezzo (Le Mépris, Jean-Luc Godard, 1963)](#29-il-disprezzo-le-mépris-jean-luc-godard-1963)
+- **Metacinema e immagine come rappresentazione** — [27. Blow-Up (Michelangelo Antonioni, 1966)](#27-blow-up-michelangelo-antonioni-1966) · [8. Blow Out (Brian De Palma, 1981)](#8-blow-out-brian-de-palma-1981) · [9. Mulholland Drive (David Lynch, 2001)](#9-mulholland-drive-david-lynch-2001) · [18. Persona (Ingmar Bergman, 1966)](#18-persona-ingmar-bergman-1966) · [13. L'uomo con la macchina da presa (Chelovek s kino-apparatom, Dziga Vertov, 1929)](#13-luomo-con-la-macchina-da-presa-chelovek-s-kino-apparatom-dziga-vertov-1929)
 
-### Movimento di macchina
-- Panoramica
-- Carrellata
-- Travelling
-- Zoom
-- Camera a mano
-- Movimento motivato / immotivato
+## Ricerca per film e scena
 
-### Montaggio
-- Decoupage classico
-- Continuità
-- Montaggio alternato
-- Montaggio parallelo
-- Montaggio sovrimpresso
-- Ellissi
-- Raccordo di movimento
-- Raccordo di sguardo
-- Raccordo sull'asse
-- Jump cut
-- Montaggio ritmico
+<details>
+<summary><strong>Apri l'elenco completo delle schede (79)</strong></summary>
 
-### Suono
-- Suono diegetico
-- Suono extradiegetico
-- Suono in campo / fuori campo
-- Sound bridge
-- Voice-over
-- Voice-off
-- Asincronia audiovisiva
-- Overlapping dialogue
-- Rumore
-- Musica e immagini
+- [1. Susanna (Bringing Up Baby, Howard Hawks, 1938)](#1-susanna-bringing-up-baby-howard-hawks-1938)
+- [2. Gli ultimi fuochi (The Last Tycoon, Elia Kazan, 1976)](#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976)
+- [3. Il Gattopardo (Luchino Visconti, 1963)](#3-il-gattopardo-luchino-visconti-1963)
+- [4. Rocco e i suoi fratelli (Luchino Visconti, 1960)](#4-rocco-e-i-suoi-fratelli-luchino-visconti-1960)
+- [5. Come le foglie al vento (Written on the Wind, Douglas Sirk, 1956)](#5-come-le-foglie-al-vento-written-on-the-wind-douglas-sirk-1956)
+- [6. L'avventura (Michelangelo Antonioni, 1960)](#6-lavventura-michelangelo-antonioni-1960)
+- [7. L'eclisse (Michelangelo Antonioni, 1962)](#7-leclisse-michelangelo-antonioni-1962)
+- [8. 8½ (Federico Fellini, 1963)](#8-8½-federico-fellini-1963)
+- [9. Mulholland Drive (David Lynch, 2001)](#9-mulholland-drive-david-lynch-2001)
+- [10. Lo squalo (Jaws, Steven Spielberg, 1975)](#10-lo-squalo-jaws-steven-spielberg-1975)
+- [11. E.T. l'extra-terrestre (Steven Spielberg, 1982)](#11-et-lextra-terrestre-steven-spielberg-1982)
+- [12. Jurassic Park (Steven Spielberg, 1993)](#12-jurassic-park-steven-spielberg-1993)
+- [13. Minority Report (Steven Spielberg, 2002)](#13-minority-report-steven-spielberg-2002)
+- [14. Ready Player One (Steven Spielberg, 2018)](#14-ready-player-one-steven-spielberg-2018)
+- [15. Moulin Rouge! (Baz Luhrmann, 2001)](#15-moulin-rouge-baz-luhrmann-2001)
+- [16. Il grande Gatsby (Baz Luhrmann, 2013)](#16-il-grande-gatsby-baz-luhrmann-2013)
+- [17. Indiana Jones — sequenza della pistola](#17-indiana-jones-sequenza-della-pistola)
+- [18. Il settimo sigillo (Ingmar Bergman, 1957)](#18-il-settimo-sigillo-ingmar-bergman-1957)
+- [19. Se mi lasci ti cancello (Eternal Sunshine of the Spotless Mind, Michel Gondry, 2004)](#19-se-mi-lasci-ti-cancello-eternal-sunshine-of-the-spotless-mind-michel-gondry-2004)
+- [20. 1917 (Sam Mendes, 2019)](#20-1917-sam-mendes-2019)
+- [21. Fight Club (David Fincher, 1999)](#21-fight-club-david-fincher-1999)
+- [22. The Grand Budapest Hotel (Wes Anderson, 2014)](#22-the-grand-budapest-hotel-wes-anderson-2014)
+- [23. Quarto potere (Citizen Kane, Orson Welles, 1941)](#23-quarto-potere-citizen-kane-orson-welles-1941)
+- [24. Shining (Stanley Kubrick, 1980)](#24-shining-stanley-kubrick-1980)
+- [25. 2001: Odissea nello spazio (Stanley Kubrick, 1968)](#25-2001-odissea-nello-spazio-stanley-kubrick-1968)
+- [26. Il grande Gatsby e The Grand Budapest Hotel: confronto sulla composizione](#26-il-grande-gatsby-e-the-grand-budapest-hotel-confronto-sulla-composizione)
+- [27. Dunkirk (Christopher Nolan, 2017) / Tenet (Christopher Nolan, 2020)](#27-dunkirk-christopher-nolan-2017-tenet-christopher-nolan-2020)
+- [28. Io non ho paura (Gabriele Salvatores, 2003)](#28-io-non-ho-paura-gabriele-salvatores-2003)
+- [29. Revenant - Redivivo (Alejandro G. Iñárritu, 2015)](#29-revenant-redivivo-alejandro-g-iñárritu-2015)
+- [30. La nascita di una nazione (The Birth of a Nation, D. W. Griffith, 1915)](#30-la-nascita-di-una-nazione-the-birth-of-a-nation-d-w-griffith-1915)
+- [31. Intolerance (D. W. Griffith, 1916)](#31-intolerance-d-w-griffith-1916)
+- [32. Wall-E (Andrew Stanton, 2008)](#32-wall-e-andrew-stanton-2008)
+- [33. The Quiet Man (John Ford, 1952) / E.T. l'extra-terrestre (Steven Spielberg, 1982)](#33-the-quiet-man-john-ford-1952-et-lextra-terrestre-steven-spielberg-1982)
+- [34. News from Home (Chantal Akerman, 1976) / Jeanne Dielman (Chantal Akerman, 1975)](#34-news-from-home-chantal-akerman-1976-jeanne-dielman-chantal-akerman-1975)
+- [35. L'eclisse / L'avventura / La dolce vita: spazio e modernità](#35-leclisse-lavventura-la-dolce-vita-spazio-e-modernità)
+- [36. El ser querido (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set)
+- [37. Il disprezzo (Le Mépris, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille)
+- [3. Psycho (Alfred Hitchcock, 1960)](#3-psycho-alfred-hitchcock-1960)
+- [4. Rope (Nodo alla gola, Alfred Hitchcock, 1948)](#4-rope-nodo-alla-gola-alfred-hitchcock-1948)
+- [5. Breathless (Fino all'ultimo respiro, Jean-Luc Godard, 1960)](#5-breathless-fino-allultimo-respiro-jean-luc-godard-1960)
+- [6. Touch of Evil (L'infernale Quinlan, Orson Welles, 1958)](#6-touch-of-evil-linfernale-quinlan-orson-welles-1958)
+- [7. The Conversation (La conversazione, Francis Ford Coppola, 1974)](#7-the-conversation-la-conversazione-francis-ford-coppola-1974)
+- [8. Blow Out (Brian De Palma, 1981)](#8-blow-out-brian-de-palma-1981)
+- [9. Rashomon (Akira Kurosawa, 1950)](#9-rashomon-akira-kurosawa-1950)
+- [10. 2001: A Space Odyssey (2001: Odissea nello spazio, Stanley Kubrick, 1968)](#10-2001-a-space-odyssey-2001-odissea-nello-spazio-stanley-kubrick-1968)
+- [11. The Birds (Gli uccelli, Alfred Hitchcock, 1963)](#11-the-birds-gli-uccelli-alfred-hitchcock-1963)
+- [12. La corazzata Potëmkin (Bronenosets Potemkin, Sergej Ejzenštejn, 1925)](#12-la-corazzata-potëmkin-bronenosets-potemkin-sergej-ejzenštejn-1925)
+- [13. L'uomo con la macchina da presa (Chelovek s kino-apparatom, Dziga Vertov, 1929)](#13-luomo-con-la-macchina-da-presa-chelovek-s-kino-apparatom-dziga-vertov-1929)
+- [14. Ladri di biciclette (Bicycle Thieves, Vittorio De Sica, 1948)](#14-ladri-di-biciclette-bicycle-thieves-vittorio-de-sica-1948)
+- [15. M – Il mostro di Düsseldorf (M, Fritz Lang, 1931)](#15-m-il-mostro-di-düsseldorf-m-fritz-lang-1931)
+- [16. I quattrocento colpi (Les Quatre Cents Coups, François Truffaut, 1959)](#16-i-quattrocento-colpi-les-quatre-cents-coups-françois-truffaut-1959)
+- [17. Singin' in the Rain (Cantando sotto la pioggia, Stanley Donen e Gene Kelly, 1952)](#17-singin-in-the-rain-cantando-sotto-la-pioggia-stanley-donen-e-gene-kelly-1952)
+- [18. Persona (Ingmar Bergman, 1966)](#18-persona-ingmar-bergman-1966)
+- [19. Metropolis (Fritz Lang, 1927)](#19-metropolis-fritz-lang-1927)
+- [20. Citizen Kane (Quarto potere, Orson Welles, 1941)](#20-citizen-kane-quarto-potere-orson-welles-1941)
+- [21. Jaws / Lo squalo (Steven Spielberg, 1975)](#21-jaws-lo-squalo-steven-spielberg-1975)
+- [22. Tokyo Story / Viaggio a Tokyo (Yasujirō Ozu, 1953)](#22-tokyo-story-viaggio-a-tokyo-yasujirō-ozu-1953)
+- [23. La regola del gioco (La Règle du jeu, Jean Renoir, 1939)](#23-la-regola-del-gioco-la-règle-du-jeu-jean-renoir-1939)
+- [24. Ombre rosse (Stagecoach, John Ford, 1939)](#24-ombre-rosse-stagecoach-john-ford-1939)
+- [25. Piano sequenza / The Magnificent Ambersons (Orson Welles, 1942)](#25-piano-sequenza-the-magnificent-ambersons-orson-welles-1942)
+- [26. À bout de souffle / Fino all'ultimo respiro (Jean-Luc Godard, 1960) — SCHEda DI CONFRONTO](#26-à-bout-de-souffle-fino-allultimo-respiro-jean-luc-godard-1960-scheda-di-confronto)
+- [27. Blow-Up (Michelangelo Antonioni, 1966)](#27-blow-up-michelangelo-antonioni-1966)
+- [28. La finestra sul cortile (Rear Window, Alfred Hitchcock, 1954)](#28-la-finestra-sul-cortile-rear-window-alfred-hitchcock-1954)
+- [29. Il disprezzo (Le Mépris, Jean-Luc Godard, 1963)](#29-il-disprezzo-le-mépris-jean-luc-godard-1963)
+- [30. The Godfather / Il padrino (Francis Ford Coppola, 1972)](#30-the-godfather-il-padrino-francis-ford-coppola-1972)
+- [31. Apocalypse Now (Francis Ford Coppola, 1979)](#31-apocalypse-now-francis-ford-coppola-1979)
+- [32. The Shining (Stanley Kubrick, 1980)](#32-the-shining-stanley-kubrick-1980)
+- [33. The Graduate / Il laureato (Mike Nichols, 1967)](#33-the-graduate-il-laureato-mike-nichols-1967)
+- [34. Memento (Christopher Nolan, 2000)](#34-memento-christopher-nolan-2000)
+- [35. The Searchers / Sentieri selvaggi (John Ford, 1956)](#35-the-searchers-sentieri-selvaggi-john-ford-1956)
+- [36. Rear Window / La finestra sul cortile (Alfred Hitchcock, 1954) — SCHEDA OPERATIVA: REGOLA DEI 180°](#36-rear-window-la-finestra-sul-cortile-alfred-hitchcock-1954-scheda-operativa-regola-dei-180)
+- [37. Vertigo (Alfred Hitchcock, 1958) — Dolly zoom](#37-vertigo-alfred-hitchcock-1958-dolly-zoom)
+- [38. His Girl Friday (Howard Hawks, 1940) — overlapping dialogue](#38-his-girl-friday-howard-hawks-1940-overlapping-dialogue)
+- [39. Goodfellas / Quei bravi ragazzi (Martin Scorsese, 1990) — voice-over](#39-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-voice-over)
+- [40. Pillow Talk (Michael Gordon, 1959) — split screen](#40-pillow-talk-michael-gordon-1959-split-screen)
+- [41. The Godfather (Francis Ford Coppola, 1972) — low-key lighting](#41-the-godfather-francis-ford-coppola-1972-low-key-lighting)
+- [42. The Searchers (John Ford, 1956) — formato e rapporto d'aspetto](#42-the-searchers-john-ford-1956-formato-e-rapporto-daspetto)
+- [43. The Silence of the Lambs / Il silenzio degli innocenti (Jonathan Demme, 1991) — montaggio alternato e focalizzazione](#43-the-silence-of-the-lambs-il-silenzio-degli-innocenti-jonathan-demme-1991-montaggio-alternato-e-focalizzazione)
+- [44. The Graduate / Il laureato (Mike Nichols, 1967) — carrello e composizione](#44-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione)
 
-### Narrazione e linguaggio cinematografico
-- Metacinema / cinema nel cinema
-- Focalizzazione
-- Punto di vista
-- Narratore
-- Temporalità
-- Spazio narrativo
-- Informazione narrativa
-- Suspense
-- Ambiguità
-- Simbolismo
-- Funzione della ripetizione
+</details>
+
+## Altre sezioni dell'archivio
+
+- [Come utilizzare l'archivio](#come-utilizzare-larchivio)
+- [Modello di scheda](#modello-di-scheda)
+- [Criteri di selezione](#criteri-di-selezione)
+- [Tag standard](#tag-standard)
+- [Note sulle fonti](#note-sulle-fonti)
+- [Costellazioni didattiche](#costellazioni-didattiche-aggiornate)
+- [Mappa di copertura dei concetti](#mappa-di-copertura-dei-concetti)
 
 ---
 
@@ -572,6 +623,7 @@ Questa sezione trasforma in **vere schede di lavoro** una prima selezione degli 
 Le indicazioni sulla durata e sul minutaggio restano volutamente non specificate quando non sono state verificate direttamente sul film. Le schede sono quindi già utilizzabili come base didattica, ma potranno essere ulteriormente precisate dopo la visione del frammento e l'individuazione del timecode nell'edizione disponibile.
 
 ## 1. *Susanna* (*Bringing Up Baby*, Howard Hawks, 1938)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** sequenze nel museo, presentazione di David, incontro e dialoghi con Susan, fino alla conclusione nel museo.
@@ -617,6 +669,7 @@ La scena contiene un forte ritmo dialogico e comico; è preferibile selezionare 
 ---
 
 ## 2. *Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** Monroe Stahr spiega a uno sceneggiatore il funzionamento del cinema.
@@ -653,6 +706,7 @@ Chiedere agli studenti di annotare ogni cambio di inquadratura e di spiegare qua
 ---
 
 ## 3. *Il Gattopardo* (Luchino Visconti, 1963)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** Tancredi arriva a Villa Salina con due ufficiali garibaldini; Don Fabrizio rimane fuori campo e la scena viene costruita secondo il suo punto di vista.
@@ -683,6 +737,7 @@ Comprendere come il cinema possa costruire il punto di vista attraverso l'organi
 ---
 
 ## 4. *Rocco e i suoi fratelli* (Luchino Visconti, 1960)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** Simone uccide Nadia.
@@ -706,6 +761,7 @@ Contenuto violento: richiede contestualizzazione e selezione del frammento in ba
 ---
 
 ## 5. *Come le foglie al vento* (*Written on the Wind*, Douglas Sirk, 1956)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** morte del padre.
@@ -727,6 +783,7 @@ Mettere la scena in relazione con l'uccisione di Nadia in *Rocco e i suoi fratel
 ---
 
 ## 6. *L'avventura* (Michelangelo Antonioni, 1960)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scene:** ricerca di Anna sull'isola; camminate e attese dei personaggi.
@@ -752,6 +809,7 @@ Riconoscere alcune caratteristiche del cinema moderno e comprendere il rapporto 
 ---
 
 ## 7. *L'eclisse* (Michelangelo Antonioni, 1962)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** Vittoria seguita dalla macchina da presa negli spazi urbani dell'EUR e di Roma.
@@ -775,6 +833,7 @@ Analizzare il rapporto fra personaggio, macchina da presa e spazio urbano.
 ---
 
 ## 8. *8½* (Federico Fellini, 1963)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scene:** passaggi fra realtà, immaginazione e sogno; costruzione dello spazio mentale di Guido.
@@ -798,6 +857,7 @@ Comprendere come il linguaggio audiovisivo possa rendere percepibile una dimensi
 ---
 
 ## 9. *Mulholland Drive* (David Lynch, 2001)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scene:** Club Silencio; passaggio fra le due parti del film; sequenze successive al Club Silencio; sogno raccontato da Dan.
@@ -826,6 +886,7 @@ Richiede una forte contestualizzazione e un livello didattico avanzato.
 ---
 
 ## 10. *Lo squalo* (*Jaws*, Steven Spielberg, 1975)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** apertura sulla spiaggia e movimento laterale della macchina da presa.
@@ -851,6 +912,7 @@ Comprendere che la regia trasforma un'azione prevista dalla sceneggiatura in una
 ---
 
 ## 11. *E.T. l'extra-terrestre* (Steven Spielberg, 1982)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scene:** rane; simultaneità fra Elliott ed E.T.; primo incontro nel capanno; E.T. guarda *Tom & Jerry*.
@@ -871,6 +933,7 @@ Analizzare come regia, montaggio e intertestualità contribuiscano alla costruzi
 ---
 
 ## 12. *Jurassic Park* (Steven Spielberg, 1993)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scene:** prime apparizioni dei dinosauri.
@@ -891,6 +954,7 @@ Comprendere la differenza fra «mostrare» e «far immaginare» e analizzare il 
 ---
 
 ## 13. *Minority Report* (Steven Spielberg, 2002)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scene:** apertura; interfaccia visiva; manipolazione delle immagini del futuro; ambienti e schermi.
@@ -914,6 +978,7 @@ Riconoscere come il cinema rappresenti e anticipi forme di interazione con le im
 ---
 
 ## 14. *Ready Player One* (Steven Spielberg, 2018)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scene:** apertura nel mondo reale; ingresso in OASIS; sequenze che fondono cinema, videogiochi e spazio virtuale.
@@ -932,6 +997,7 @@ Saper riconoscere fenomeni di intermedialità e comprendere come il cinema conte
 ---
 
 ## 15. *Moulin Rouge!* (Baz Luhrmann, 2001)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** sequenza iniziale e attraversamento della «scatola» scenica.
@@ -950,6 +1016,7 @@ Distinguere spazio teatrale e spazio cinematografico e osservare come il movimen
 ---
 
 ## 16. *Il grande Gatsby* (Baz Luhrmann, 2013)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** sequenza della festa con discontinuità nella posizione fisica degli elementi.
@@ -968,6 +1035,7 @@ Mostrare il frammento senza anticipare l'errore e chiedere agli studenti di indi
 ---
 
 ## 17. *Indiana Jones* — sequenza della pistola
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** celebre confronto fra il personaggio armato di pistola e l'avversario con la spada.
@@ -986,6 +1054,7 @@ Comprendere che la continuità audiovisiva è anche un fenomeno percettivo e cog
 ---
 
 ## 18. *Il settimo sigillo* (Ingmar Bergman, 1957)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** partita a scacchi.
@@ -1008,6 +1077,7 @@ Distinguere fra errore di continuità, violazione deliberata della convenzione e
 ---
 
 ## 19. *Se mi lasci ti cancello* (*Eternal Sunshine of the Spotless Mind*, Michel Gondry, 2004)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scene:** sequenze oniriche caratterizzate dallo scavalcamento deliberato dell'asse.
@@ -1026,6 +1096,7 @@ Comprendere come una convenzione della grammatica audiovisiva possa essere modif
 ---
 
 ## 20. *1917* (Sam Mendes, 2019)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scene:** sequenze costruite come un unico piano-sequenza apparente attraverso raccordi nascosti.
@@ -1049,6 +1120,7 @@ Saper distinguere long take, piano-sequenza e simulazione della continuità attr
 ---
 
 ## 21. *Fight Club* (David Fincher, 1999)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** esempi di montaggio volutamente percepibile e di discontinuità.
@@ -1067,6 +1139,7 @@ Riconoscere la differenza fra continuità invisibile e montaggio che rende espli
 ---
 
 ## 22. *The Grand Budapest Hotel* (Wes Anderson, 2014)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scene:** apertura e sequenze caratterizzate da composizione geometrica e centralità.
@@ -1088,6 +1161,7 @@ Fermare alcuni fotogrammi e chiedere agli studenti di tracciare asse centrale, l
 ---
 
 ## 23. *Quarto potere* (*Citizen Kane*, Orson Welles, 1941)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena/esempi:** composizioni costruite sulla profondità dello spazio.
@@ -1111,6 +1185,7 @@ Distinguere profondità di campo, profondità della composizione e semplice sfon
 ---
 
 ## 24. *Shining* (Stanley Kubrick, 1980)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scene/esempi:** inquadrature caratterizzate da simmetria, punto di fuga e organizzazione geometrica dello spazio.
@@ -1129,6 +1204,7 @@ Comprendere come la composizione geometrica possa contribuire non solo alla legg
 ---
 
 ## 25. *2001: Odissea nello spazio* (Stanley Kubrick, 1968)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scene/esempi:** composizioni basate su simmetria e punto di fuga.
@@ -1144,6 +1220,7 @@ La costruzione geometrica dello spazio permette di isolare con chiarezza linee p
 ---
 
 ## 26. *Il grande Gatsby* e *The Grand Budapest Hotel*: confronto sulla composizione
+[↑ Torna all'indice](#indice-interattivo)
 
 Questa coppia può essere utilizzata come **scheda comparativa**: Wes Anderson rende la geometria dell'inquadratura sistematica e riconoscibile; Baz Luhrmann utilizza una composizione più mobile e spettacolare, nella quale la continuità e l'organizzazione dello spazio possono essere sottoposte a maggiore dinamismo.
 
@@ -1152,6 +1229,7 @@ Questa coppia può essere utilizzata come **scheda comparativa**: Wes Anderson r
 ---
 
 ## 27. *Dunkirk* (Christopher Nolan, 2017) / *Tenet* (Christopher Nolan, 2020)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Concetto comune
 - **Concetto principale:** tecnica di ripresa e percezione del movimento.
@@ -1164,6 +1242,7 @@ Le due opere possono essere utilizzate per introdurre il rapporto fra parametri 
 ---
 
 ## 28. *Io non ho paura* (Gabriele Salvatores, 2003)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Esempio:** variazione della temperatura colore.
@@ -1179,6 +1258,7 @@ Saper osservare la dominante cromatica di una scena e formulare ipotesi sulla su
 ---
 
 ## 29. *Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Esempio:** uso della luce naturale e controllo della fotografia.
@@ -1194,6 +1274,7 @@ Comprendere come condizioni luminose reali possano diventare parte della strateg
 ---
 
 ## 30. *La nascita di una nazione* (*The Birth of a Nation*, D. W. Griffith, 1915)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scene/esempi:** alternanza di inquadrature e sviluppo della sintassi narrativa.
@@ -1212,6 +1293,7 @@ La trattazione deve essere accompagnata da una contestualizzazione storica e cri
 ---
 
 ## 31. *Intolerance* (D. W. Griffith, 1916)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Esempio:** alternanza fra diverse linee narrative.
@@ -1227,6 +1309,7 @@ Distinguere montaggio alternato e montaggio parallelo e comprendere come l'alter
 ---
 
 ## 32. *Wall-E* (Andrew Stanton, 2008)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena/esempio:** citazione di Griffith.
@@ -1245,6 +1328,7 @@ Riconoscere una citazione audiovisiva e comprendere la funzione della memoria ci
 ---
 
 ## 33. *The Quiet Man* (John Ford, 1952) / *E.T. l'extra-terrestre* (Steven Spielberg, 1982)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Concetto principale
 - **Citazione e intertestualità.**
@@ -1256,6 +1340,7 @@ Le due scene possono essere presentate in successione per chiedere agli studenti
 ---
 
 ## 34. *News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Concetto comune
 - **Concetto principale:** voce e fuori campo.
@@ -1268,6 +1353,7 @@ Le due opere sono particolarmente utili per introdurre la distinzione fra voce a
 ---
 
 ## 35. *L'eclisse* / *L'avventura* / *La dolce vita*: spazio e modernità
+[↑ Torna all'indice](#indice-interattivo)
 
 Questa triade può essere usata come **percorso comparativo** sul passaggio dal cinema fondato sulla progressione dell'azione a forme nelle quali lo spazio, la durata, l'attesa e l'osservazione assumono una funzione autonoma.
 
@@ -1311,6 +1397,7 @@ Questa priorità non indica una gerarchia di valore cinematografico: indica solt
 ---
 
 ## 36. *El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Film:** *El ser querido*.
@@ -1407,6 +1494,7 @@ La discussione può essere organizzata su tre livelli:
 ---
 
 ## 37. *Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Film:** *Il disprezzo* (*Le Mépris*).
@@ -1504,6 +1592,7 @@ Una possibile attività consiste nel progettare la stessa conversazione in due m
 Le seguenti schede sono state aggiunte a partire dalla filmografia fornita dall'utente. La selezione privilegia scene brevi, osservabili e direttamente spendibili nella didattica delle discipline audiovisive.
 
 ## 3. *Psycho* (Alfred Hitchcock, 1960)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** omicidio di Marion Crane sotto la doccia.
@@ -1549,6 +1638,7 @@ Prima visione senza spiegazioni; seconda visione fermando alcuni raccordi; terza
 ---
 
 ## 4. *Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** apertura del film e successiva conversazione nell'appartamento, costruita attraverso lunghi movimenti della macchina da presa.
@@ -1583,6 +1673,7 @@ Far individuare agli studenti i momenti in cui il film potrebbe aver effettuato 
 ---
 
 ## 5. *Breathless* (*Fino all'ultimo respiro*, Jean-Luc Godard, 1960)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** conversazione di Michel e Patricia nell'automobile, con particolare evidenza dei jump cut.
@@ -1619,6 +1710,7 @@ Mostrare prima il frammento senza spiegazioni. Chiedere: «Che cosa vi sembra st
 ---
 
 ## 6. *Touch of Evil* (*L'infernale Quinlan*, Orson Welles, 1958)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** apertura con il percorso della bomba dal momento in cui viene collocata nell'automobile fino all'esplosione.
@@ -1655,6 +1747,7 @@ Disegnare la traiettoria della macchina da presa e dei personaggi; poi chiedere 
 ---
 
 ## 7. *The Conversation* (*La conversazione*, Francis Ford Coppola, 1974)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** registrazione della conversazione nella piazza, con successivi riascolti e rielaborazioni del materiale audio da parte di Harry Caul.
@@ -1689,6 +1782,7 @@ Prima visione con attenzione alle immagini; seconda visione con gli studenti che
 ---
 
 ## 8. *Blow Out* (Brian De Palma, 1981)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** Jack ascolta e analizza la registrazione sonora dell'incidente automobilistico.
@@ -1723,6 +1817,7 @@ Proporre agli studenti di ricostruire l'evento prima mostrando solo la traccia s
 ---
 
 ## 9. *Rashomon* (Akira Kurosawa, 1950)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** le diverse testimonianze sull'omicidio e sul rapporto fra i personaggi nella foresta.
@@ -1757,6 +1852,7 @@ Dividere la classe in gruppi e assegnare una testimonianza a ciascun gruppo. Ogn
 ---
 
 ## 10. *2001: A Space Odyssey* (*2001: Odissea nello spazio*, Stanley Kubrick, 1968)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** lancio dell'osso da parte della scimmia e successivo passaggio alla navicella nello spazio.
@@ -1791,6 +1887,7 @@ Mostrare esclusivamente i due frammenti consecutivi e chiedere agli studenti di 
 ---
 
 ## 11. *The Birds* (*Gli uccelli*, Alfred Hitchcock, 1963)
+[↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
 - **Scena:** attacco alla scuola e costruzione progressiva della presenza degli uccelli.
@@ -1829,6 +1926,7 @@ Interrompere la scena prima dell'attacco e chiedere agli studenti di prevedere c
 # NUOVE SCHEDE — CLASSICI FONDAMENTALI PER LA DIDATTICA
 
 ## 12. *La corazzata Potëmkin* (*Bronenosets Potemkin*, Sergej Ejzenštejn, 1925)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** scalinata di Odessa.
 - **Concetto principale:** montaggio ritmico e conflittuale.
 - **Concetti secondari:** dettaglio, durata, ripetizione, direzione del movimento, costruzione dello spazio.
@@ -1856,6 +1954,7 @@ Prima visione libera; seconda visione con conteggio delle variazioni di scala; t
 - Ricerca: [JSTOR, *Closely Watched Films*](https://www.jstor.org/stable/10.1525/j.ctt7zw19h).
 
 ## 13. *L'uomo con la macchina da presa* (*Chelovek s kino-apparatom*, Dziga Vertov, 1929)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** apertura e costruzione della città attraverso lavoro, trasporti, spettacolo e ripresa cinematografica.
 - **Concetto principale:** montaggio come costruzione della realtà e autoriflessività del dispositivo.
 - **Concetti secondari:** metacinema, ritmo, city symphony, macchina da presa, associazione.
@@ -1876,6 +1975,7 @@ Dividere il foglio in «cosa vedo» e «come il film me lo fa vedere». Chiedere
 - *The Men with the Movie Camera*, studi sulla cultura visuale sovietica, JSTOR.
 
 ## 14. *Ladri di biciclette* (*Bicycle Thieves*, Vittorio De Sica, 1948)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** ricerca della bicicletta per Roma, con particolare attenzione ai mercati e agli spazi urbani attraversati da Antonio e Bruno.
 - **Concetto principale:** spazio urbano nel neorealismo.
 - **Concetti secondari:** location, pedinamento, durata, realtà sociale, punto di vista.
@@ -1897,6 +1997,7 @@ Far annotare quali informazioni sociali emergono senza essere esplicitate dal di
 - Frank P. Tomasulo, «Bicycle Thieves: A Re-Reading», *Cinema Journal*.
 
 ## 15. *M – Il mostro di Düsseldorf* (*M*, Fritz Lang, 1931)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** il fischio associato al criminale e la progressiva ricerca del colpevole.
 - **Concetto principale:** suono diegetico e informazione fuori campo.
 - **Concetti secondari:** leitmotiv, asincronia, montaggio parallelo, spazio urbano, suspense.
@@ -1917,6 +2018,7 @@ Prima visione con attenzione alle immagini; seconda concentrata soltanto sul suo
 - Analisi del passaggio dal muto al sonoro e del cinema di Fritz Lang; fonte accademica: [JSTOR](https://www.jstor.org/stable/j.ctv13841zs).
 
 ## 16. *I quattrocento colpi* (*Les Quatre Cents Coups*, François Truffaut, 1959)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** fuga di Antoine e freeze frame conclusivo sulla spiaggia.
 - **Concetto principale:** freeze frame e finale aperto.
 - **Concetti secondari:** Nouvelle Vague, punto di vista, sospensione narrativa, spazio.
@@ -1937,6 +2039,7 @@ Fermare il film un istante prima del freeze frame e chiedere agli studenti di pr
 - [JSTOR, storia della Nouvelle Vague](https://www.jstor.org/stable/jj.36106136).
 
 ## 17. *Singin' in the Rain* (*Cantando sotto la pioggia*, Stanley Donen e Gene Kelly, 1952)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** numero musicale «Singin' in the Rain».
 - **Concetto principale:** integrazione di musica, corpo, spazio e macchina da presa.
 - **Concetti secondari:** musical, coreografia, movimento di macchina, montaggio, diegesi.
@@ -1957,6 +2060,7 @@ Tre visioni: corpo / macchina da presa / rapporto musica-spazio. Chiedere: la ma
 - [JSTOR, studi sulla realizzazione del film](https://www.jstor.org/stable/jj.1544771).
 
 ## 18. *Persona* (Ingmar Bergman, 1966)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** prologo, con particolare attenzione alla successione di volti, materiali cinematografici e immagini della pellicola.
 - **Concetto principale:** primo piano come forma espressiva.
 - **Concetti secondari:** volto, metacinema, soggettività, materialità della pellicola, montaggio.
@@ -1977,6 +2081,7 @@ Descrivere i volti prima di interpretarli. Chiedere: perché il primo piano può
 - Bergman, studi sulla funzione del volto; [JSTOR](https://www.jstor.org/stable/j.35297667).
 
 ## 19. *Metropolis* (Fritz Lang, 1927)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** la macchina centrale e la sua trasformazione visiva in figura mostruosa; confronto con la massa dei lavoratori.
 - **Concetto principale:** messa in scena espressionista e simbolizzazione dello spazio.
 - **Concetti secondari:** scenografia, scala, luce, corpo, montaggio, allegoria.
@@ -1997,6 +2102,7 @@ Prima descrivere senza interpretare: linee, masse, scala, luce, movimento. Poi c
 - *A Critical History of German Film*, capitolo «Metropolis (1927) or Technology and Sex», [JSTOR](https://www.jstor.org/stable/10.7722/j.ctt16314jf.10).
 
 ## 20. *Citizen Kane* (*Quarto potere*, Orson Welles, 1941)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** una scena costruita su più piani di profondità, da utilizzare per analizzare la profondità di campo e la composizione in profondità.
 - **Concetto principale:** profondità di campo.
 - **Concetti secondari:** messa in scena, gerarchia visiva, spazio narrativo, focalizzazione.
@@ -2035,6 +2141,7 @@ Questa selezione è stata costruita con un criterio didattico: ogni film deve fo
 # NUOVE SCHEDE — COSTELLAZIONI DIDATTICHE: MONTAGGIO, SPAZIO, SUONO, MESSA IN SCENA
 
 ## 21. *Jaws / Lo squalo* (Steven Spielberg, 1975)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** attacco sulla spiaggia di Amity, con il punto di vista subacqueo e il montaggio alternato fra bagnanti, Brody e la minaccia.
 - **Concetto principale:** suspense attraverso informazione e punto di vista.
 - **Concetti secondari:** fuori campo, POV, montaggio alternato, musica, costruzione della minaccia.
@@ -2064,6 +2171,7 @@ Prima visione: «Quando avete capito che qualcosa stava per accadere?». Seconda
 Studi sulla suspense e sulla costruzione dello spazio fuori campo; la ricerca contemporanea sulla costruzione dello spazio filmico distingue esplicitamente spazio mostrato e spazio implicato attraverso il suono. citeturn216999search3turn216999search10
 
 ## 22. *Tokyo Story / Viaggio a Tokyo* (Yasujirō Ozu, 1953)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** transizioni fra gli interni domestici e i cosiddetti «pillow shots» di corridoi, edifici, paesaggi e oggetti.
 - **Concetto principale:** spazio e montaggio oltre la continuità classica.
 - **Concetti secondari:** ellissi, tempo, inquadratura autonoma, spazio vuoto, transizione.
@@ -2090,6 +2198,7 @@ Mostrare una transizione senza spiegazione e chiedere: «Dove siamo? È cambiato
 Chiao-I Tseng, Theo van Leeuwen, Emilia Djonov, «The fragmentation and plasticity of space in film», 2025. citeturn216999search3
 
 ## 23. *La regola del gioco* (*La Règle du jeu*, Jean Renoir, 1939)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** la sequenza della festa/caccia e l'organizzazione simultanea dei personaggi nello spazio.
 - **Concetto principale:** profondità di campo e profondità della messa in scena.
 - **Concetti secondari:** piano-sequenza, movimento, coreografia, spazio sociale, découpage.
@@ -2119,6 +2228,7 @@ Fermare il fotogramma e indicare primo piano, piano intermedio e sfondo. Chieder
 Studi sulla profondità di campo e sulla composizione spaziale del cinema classico; la riflessione teorica sulla «double scene» collega direttamente profondità, tecnica e organizzazione ideologica del quadro. citeturn216999search0turn216999search6
 
 ## 24. *Ombre rosse* (*Stagecoach*, John Ford, 1939)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** la sequenza dell'inseguimento della diligenza e l'attacco degli Apache.
 - **Concetto principale:** costruzione dello spazio d'azione nel cinema classico.
 - **Concetti secondari:** raccordo sul movimento, montaggio alternato, asse d'azione, spazio diegetico, genere western.
@@ -2148,6 +2258,7 @@ Far ricostruire agli studenti la geografia della scena con frecce su una pianta 
 Bordwell e Thompson, studi sulla continuità classica e sulla costruzione dello spazio filmico; ricerca contemporanea sulla frammentazione e sulla ricostruzione dello spazio attraverso il montaggio. citeturn216999search3
 
 ## 25. *Piano sequenza / The Magnificent Ambersons* (Orson Welles, 1942)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** una scena dialogica organizzata attraverso movimento dei personaggi e macchina da presa, da usare come confronto con il découpage classico.
 - **Concetto principale:** piano-sequenza e continuità spaziale.
 - **Concetti secondari:** movimento, profondità, durata, messa in scena, libertà dello spettatore.
@@ -2167,6 +2278,7 @@ Chiedere agli studenti di immaginare la stessa scena divisa in cinque inquadratu
 Studi accademici su Orson Welles e sul suo uso di profondità, long take e sequenza. citeturn216999search13turn216999search16
 
 ## 26. *À bout de souffle / Fino all'ultimo respiro* (Jean-Luc Godard, 1960) — SCHEda DI CONFRONTO
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** conversazione in automobile Michel/Patricia.
 - **Concetto principale:** jump cut.
 - **Concetti secondari:** discontinuità temporale, ellissi, enunciazione, Nouvelle Vague.
@@ -2191,6 +2303,7 @@ Mostrare la scena senza nominare il jump cut. Chiedere «che cosa vi sembra sbag
 Studi sulla frammentazione dello spazio e sulla discontinuità nella Nouvelle Vague. citeturn216999search3
 
 ## 27. *Blow-Up* (Michelangelo Antonioni, 1966)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** Thomas ingrandisce le fotografie del parco e individua progressivamente un possibile elemento nascosto nell'immagine.
 - **Concetto principale:** fotografia e montaggio come costruzione dell'indizio.
 - **Concetti secondari:** fuori campo, dettaglio, ingrandimento, ambiguità, spettatore-investigatore.
@@ -2220,6 +2333,7 @@ Fermare l'immagine prima di ogni ingrandimento e chiedere agli studenti cosa rit
 Studi sul cinema di Antonioni, sulla fotografia come indizio e sulla costruzione dello spazio attraverso frammenti; la ricerca contemporanea sullo spazio filmico sottolinea il ruolo di frammentazione e spazio implicito nella costruzione dell'interpretazione. citeturn216999search3
 
 ## 28. *La finestra sul cortile* (*Rear Window*, Alfred Hitchcock, 1954)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** Jeff osserva gli appartamenti del cortile e costruisce progressivamente l'ipotesi sull'omicidio.
 - **Concetto principale:** sguardo e punto di vista.
 - **Concetti secondari:** POV, voyeurismo, montaggio, fuori campo, spettatore, suspense.
@@ -2249,6 +2363,7 @@ Chiedere agli studenti di distinguere tre livelli: «Jeff vede», «noi vediamo�
 Studi di teoria dello sguardo e analisi hitchcockiana; la letteratura sulla costruzione dello spazio cinematografico considera il POV e lo spazio implicito strumenti centrali per orientare l'interpretazione dello spettatore. citeturn216999search3
 
 ## 29. *Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** conversazione fra Camille e Paul nell'appartamento; Godard attraversa lo spazio fra i due invece di costruire il dialogo con il tradizionale campo/controcampo.
 - **Concetto principale:** spazio della conversazione e rifiuto del découpage classico.
 - **Concetti secondari:** movimento di macchina, durata, asse, spazio fra i personaggi, enunciazione.
@@ -2303,6 +2418,7 @@ La ricerca contemporanea sulla plasticità dello spazio filmico considera la fra
 
 
 ## 30. *The Godfather / Il padrino* (Francis Ford Coppola, 1972)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** battesimo di Michael Rizzi e montaggio parallelo degli omicidi.
 - **Concetto principale:** montaggio parallelo.
 - **Concetti secondari:** contrasto audiovisivo, musica, ellissi, ritmo, costruzione tematica.
@@ -2336,6 +2452,7 @@ Prima visione senza spiegazione. Seconda visione: dividere la lavagna in «batte
 - AFI Catalog, *The Godfather*.
 
 ## 31. *Apocalypse Now* (Francis Ford Coppola, 1979)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** apertura: Willard nella stanza d'albergo, ventilatore, elicotteri, incendio e dissolvenze sovrapposte.
 - **Concetto principale:** asincronia audiovisiva / rapporto immagine-suono.
 - **Concetti secondari:** sound bridge, soggettività, montaggio sovrimpresso, suono soggettivo, dissolvenza.
@@ -2370,6 +2487,7 @@ Prima visione con audio. Seconda senza audio. Terza concentrata esclusivamente s
 - Todd Decker, *Hymns for the Fallen: Combat Movie Music and Sound after Vietnam*, University of California Press.
 
 ## 32. *The Shining* (Stanley Kubrick, 1980)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** Danny percorre i corridoi dell'Overlook Hotel sul triciclo.
 - **Concetto principale:** movimento di macchina e soggettività spaziale.
 - **Concetti secondari:** Steadicam, travelling, spazio labirintico, suspense, punto di vista.
@@ -2401,6 +2519,7 @@ Far tracciare agli studenti il percorso di Danny e chiedere cosa apprendono dell
 - Studi tecnici sulla storia della Steadicam.
 
 ## 33. *The Graduate / Il laureato* (Mike Nichols, 1967)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** montaggio della vita di Benjamin fra casa, hotel e piscina, accompagnato dalle canzoni di Simon & Garfunkel.
 - **Concetto principale:** musica extradiegetica come elemento di montaggio.
 - **Concetti secondari:** ellissi, sound bridge, durata, ripetizione, New Hollywood.
@@ -2431,6 +2550,7 @@ Mostrare prima la sequenza senza musica e poi con la colonna sonora. Chiedere co
 - Studi sulla funzione della popular music nel cinema e sul montaggio musicale de *Il laureato*.
 
 ## 34. *Memento* (Christopher Nolan, 2000)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** apertura con la fotografia Polaroid che si riavvolge e confronto con la struttura della linea a colori.
 - **Concetto principale:** temporalità non lineare.
 - **Concetti secondari:** flashback, inversione cronologica, ellissi, focalizzazione, narratore, spettatore.
@@ -2461,6 +2581,7 @@ Dare agli studenti tre momenti fuori ordine e chiedere di ricostruire la cronolo
 - Claire Molloy, «Puzzle Films, Ambiguity and Technologically-enabled Narrative», Oxford/Edinburgh Scholarship Online.
 
 ## 35. *The Searchers / Sentieri selvaggi* (John Ford, 1956)
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** apertura e finale attraverso la porta della casa.
 - **Concetto principale:** soglia e composizione dell'inquadratura.
 - **Concetti secondari:** spazio interno/esterno, profondità, dissolvenza, motivo visivo, esclusione/inclusione.
@@ -2491,6 +2612,7 @@ Mostrare apertura e finale senza commento e chiedere agli studenti di individuar
 - Dominic Lash, studi sulla figurazione e sui passaggi spaziali nel cinema di John Ford.
 
 ## 36. *Rear Window / La finestra sul cortile* (Alfred Hitchcock, 1954) — SCHEDA OPERATIVA: REGOLA DEI 180°
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** dialoghi Jeff/Stella/Lisa e osservazione del cortile, da analizzare rispetto all'asse dei personaggi.
 - **Concetto principale:** regola dei 180° e continuità dello spazio.
 - **Concetti secondari:** campo/controcampo, raccordo di sguardo, orientamento, POV.
@@ -2592,6 +2714,7 @@ Disegnare due personaggi, tracciare l'asse e segnare le posizioni della macchina
 
 
 ## 37. *Vertigo* (Alfred Hitchcock, 1958) — Dolly zoom
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** Scottie guarda dalla tromba delle scale del campanile.
 - **Concetto principale:** dolly zoom / travelling compensato.
 - **Concetti secondari:** soggettiva, deformazione prospettica, focalizzazione, paura, spazio.
@@ -2625,6 +2748,7 @@ Mostrare il frammento una prima volta senza terminologia. Poi ripetere rallentan
 - Studi accademici sul dolly zoom e sulla funzione performativa dell'effetto in *Vertigo*.
 
 ## 38. *His Girl Friday* (Howard Hawks, 1940) — overlapping dialogue
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** apertura nella redazione e dialoghi fra giornalisti, Walter e Hildy.
 - **Concetto principale:** overlapping dialogue.
 - **Concetti secondari:** ritmo, movimento di macchina, suono diegetico, recitazione, spazio collettivo.
@@ -2658,6 +2782,7 @@ Prima visione con sottotitoli disattivati; seconda visione concentrata soltanto 
 - MoMA, scheda critica sul film e sul dialogo sovrapposto.
 
 ## 39. *Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — voice-over
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** apertura e primi segmenti della storia di Henry, con voice-over e immagini della sua vita criminale.
 - **Concetto principale:** voice-over narrativo.
 - **Concetti secondari:** focalizzazione, narratore, freeze frame, musica, rapporto immagine/commento.
@@ -2691,6 +2816,7 @@ Mostrare alcuni passaggi prima senza voice-over e poi con la voce. Chiedere qual
 - Claudia Gorbman, studi sul rapporto fra voce, musica e narrazione cinematografica.
 
 ## 40. *Pillow Talk* (Michael Gordon, 1959) — split screen
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** apertura e prime telefonate fra Jan e Brad, con i due personaggi mostrati simultaneamente nei rispettivi appartamenti.
 - **Concetto principale:** split screen.
 - **Concetti secondari:** simultaneità, spazio narrativo, telefono, montaggio, composizione.
@@ -2723,6 +2849,7 @@ Confrontare una telefonata costruita con campo/controcampo e la stessa situazion
 - WJEC, *Pillow Talk* Film Factsheet, analisi della sequenza iniziale e dello split screen.
 
 ## 41. *The Godfather* (Francis Ford Coppola, 1972) — low-key lighting
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** Don Vito Corleone nel suo studio durante la scena iniziale.
 - **Concetto principale:** illuminazione low-key e chiaroscuro.
 - **Concetti secondari:** ombra, contrasto, volto, atmosfera, caratterizzazione.
@@ -2756,6 +2883,7 @@ Oscurare progressivamente una fotografia della scena e chiedere quali elementi r
 - Ricerca sulla funzione psicologica della luce nel film.
 
 ## 42. *The Searchers* (John Ford, 1956) — formato e rapporto d'aspetto
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** apertura sulla soglia della casa e panoramica iniziale sul paesaggio.
 - **Concetto principale:** rapporto d'aspetto e composizione panoramica.
 - **Concetti secondari:** campo lungo, spazio, paesaggio, soglia, composizione.
@@ -2789,6 +2917,7 @@ Confrontare lo stesso fotogramma ritagliato in 4:3, 16:9 e panoramico e discuter
 - Studi sul cinema panoramico e sulla composizione widescreen.
 
 ## 43. *The Silence of the Lambs / Il silenzio degli innocenti* (Jonathan Demme, 1991) — montaggio alternato e focalizzazione
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** FBI che irrompe nella casa e Clarice che entra contemporaneamente nell'abitazione sbagliata di Buffalo Bill.
 - **Concetto principale:** montaggio alternato e falsa convergenza spaziale.
 - **Concetti secondari:** suspense, focalizzazione, informazione spettatoriale, montaggio parallelo, fuori campo.
@@ -2823,6 +2952,7 @@ Chiedere agli studenti, prima della rivelazione finale, di disegnare sulla piant
 - Studi sulla continuità e sulla gestione cognitiva dell'informazione nel montaggio.
 
 ## 44. *The Graduate / Il laureato* (Mike Nichols, 1967) — carrello e composizione
+[↑ Torna all'indice](#indice-interattivo)
 - **Scena:** Benjamin separato visivamente dagli adulti durante le feste e negli ambienti domestici, con movimenti che lo isolano o lo ricollocano nello spazio.
 - **Concetto principale:** blocking e composizione dei corpi nello spazio.
 - **Concetti secondari:** direzione degli attori, profondità, movimento di macchina, isolamento, messa in scena.
