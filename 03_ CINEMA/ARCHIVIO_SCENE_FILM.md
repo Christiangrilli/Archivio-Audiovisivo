@@ -1514,20 +1514,75 @@ A conclusione, progettano un'interfaccia semplificata per la consultazione di un
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scene:** apertura nel mondo reale; ingresso in OASIS; sequenze che fondono cinema, videogiochi e spazio virtuale.
-- **Concetto principale:** intermedialità e spazio virtuale.
-- **Concetti secondari:** schermo, videogioco, CGI, citazione, spettatorialità.
-- **Tag:** #inquadratura #spazio #messa-in-scena #narrazione
+- **Sequenza:** l'ingresso di Wade nell'OASIS: dal momento in cui indossa il visore nel proprio spazio abitativo fino al viaggio virtuale che presenta l'estensione e la varietà dei mondi digitali, prima di arrivare al suo avatar Parzival.
+- **Concetto principale:** costruzione dello spazio virtuale attraverso la macchina da presa digitale.
+- **Concetti secondari:** soggettiva, movimento di macchina, transizione fra mondi, intermedialità, avatar, CGI, virtual cinematography, punto di vista.
+- **Tag:** #spazio #punto-di-vista #movimento-di-macchina #intermedialità #cgi #montaggio #videogioco
 - **Livello:** Intermedio.
-- **Uso:** media education; confronto fra cinema e videogame.
+- **Uso consigliato:** confrontare la rappresentazione dello spazio fisico con quella dello spazio digitale e osservare come la grammatica cinematografica si avvicini a quella dei videogiochi.
+- **Stato:** **DA COMPLETARE** — individuare l'inizio e la fine del segmento sulla copia scelta e verificare la durata effettiva.
 
-### Analisi
-Il film costruisce uno spazio in cui linguaggi e oggetti culturali differenti possono coesistere. Il cinema rappresenta un ambiente mediale nel quale immagini cinematografiche, videogiochi, avatar e riferimenti alla cultura popolare vengono continuamente sovrapposti.
+### Contesto essenziale
+Nel 2045 Wade Watts vive in un quartiere di roulotte sovrapposte, chiamato The Stacks. La vita quotidiana è segnata da precarietà e sovraffollamento; l'OASIS offre invece un ambiente virtuale nel quale gli utenti possono assumere un avatar e muoversi in mondi costruiti digitalmente. Quando Wade indossa il visore, il film passa dal suo spazio fisico al mondo virtuale, introducendo lo spettatore a un ambiente che non obbedisce alle stesse limitazioni della realtà materiale.
+
+### Analisi formale
+Il passaggio all'OASIS è costruito come un attraversamento di soglia. Il film porta lo spettatore dalla dimensione concreta e angusta di The Stacks a uno spazio digitale aperto, colorato e potenzialmente illimitato. La transizione non è soltanto narrativa: cambia la grammatica dell'immagine. La macchina da presa si muove con una libertà e una velocità che sarebbero difficili da ottenere in uno spazio fisico, attraversando ambienti e mondi come se stesse seguendo il movimento di un avatar o di un giocatore.
+
+La sequenza utilizza una soggettiva prolungata e un movimento virtuale che permette allo spettatore di esplorare l'OASIS in prima persona. La camera non si limita a mostrare il mondo da una posizione esterna: simula l'esperienza di chi vi entra, attraversa portali, passa vicino ad altri avatar e rivela la vastità dell'ambiente. Il movimento di macchina richiama le cinematiche dei videogiochi, che introducono il giocatore alle regole e alle possibilità di un nuovo spazio.
+
+La differenza fra mondo reale e mondo virtuale è sottolineata anche dalla fotografia e dal colore. The Stacks è rappresentato attraverso una palette più spenta e una luce che restituisce il carattere materiale e precario dell'ambiente; l'OASIS è invece caratterizzato da saturazione cromatica, luminosità e mobilità. La distinzione non è soltanto estetica: il film rende visibile il contrasto fra una vita quotidiana limitata e una dimensione virtuale in cui l'identità e lo spazio possono essere continuamente trasformati.
+
+La produzione della sequenza è altrettanto significativa. Le scene ambientate nell'OASIS sono state costruite attraverso performance capture, animazione digitale e virtual cinematography. Gli attori hanno recitato in ambienti di motion capture; Spielberg poteva esplorare i set virtuali con visori e utilizzare una camera virtuale per scegliere inquadrature e movimenti. La macchina da presa, quindi, non è stata semplicemente sostituita da una telecamera digitale: le decisioni di regia sono state progettate all'interno di uno spazio tridimensionale virtuale.
+
+### Evidenze da far osservare
+1. Come cambia la composizione dell'immagine quando Wade indossa il visore.
+2. Quali movimenti della macchina da presa costruiscono il passaggio verso l'OASIS.
+3. Quando la visuale sembra coincidere con quella dell'utente e quando torna a una posizione esterna.
+4. Quali differenze cromatiche e luminose distinguono lo spazio reale da quello virtuale.
+5. Come la camera attraversa i diversi ambienti e presenta la varietà dei mondi digitali.
+6. In che modo il movimento richiama l'esperienza di esplorazione di un videogioco.
+
+### Perché è didatticamente utile
+La sequenza consente di discutere la relazione fra linguaggio cinematografico e linguaggio videoludico. Gli studenti possono riconoscere come movimenti, soggettive e transizioni vengano utilizzati per simulare l'ingresso in uno spazio interattivo. È inoltre un esempio concreto di virtual cinematography: la regia opera in un ambiente digitale e utilizza una camera virtuale per costruire inquadrature e movimenti.
 
 ### Obiettivo didattico
-Saper riconoscere fenomeni di intermedialità e comprendere come il cinema contemporaneo rappresenti ambienti mediali ibridi.
+Al termine dell'attività, lo studente sa descrivere la transizione fra spazio reale e virtuale, riconoscere la funzione della soggettiva e spiegare come movimento di macchina, colore e compositing contribuiscano a rendere credibile e leggibile l'OASIS.
 
----
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare la transizione senza introdurre il lessico tecnico. Chiedere agli studenti di descrivere che cosa cambia fra lo spazio di partenza e quello di arrivo.
+2. **Mappa del movimento:** ricostruire il percorso della camera virtuale e individuare i momenti in cui la visuale coincide con quella dell'avatar.
+3. **Confronto fotografico:** fermare un fotogramma di The Stacks e uno dell'OASIS, confrontando colore, luminosità, profondità e densità degli elementi.
+4. **Confronto con il videogioco:** mostrare una breve cinematic o una sequenza di gameplay e chiedere quali scelte di movimento e punto di vista siano comuni.
+5. **Rielaborazione:** progettare una transizione di 5–6 inquadrature fra uno spazio fisico e uno virtuale, specificando quando la camera assume una posizione soggettiva e quando osserva dall'esterno.
+
+### Domande per gli studenti
+1. Quale funzione ha il visore nel passaggio fra i due spazi?
+2. La macchina da presa si comporta come una camera cinematografica tradizionale o come una camera virtuale?
+3. Quali elementi fanno percepire l'OASIS come uno spazio più libero rispetto a The Stacks?
+4. In che modo la soggettiva contribuisce a coinvolgere lo spettatore?
+5. Quali differenze ci sono fra una cinematic videoludica e una sequenza cinematografica che rappresenta un videogioco?
+
+### Verifica formativa
+Gli studenti realizzano una mappa visiva del passaggio in OASIS, suddividendolo in almeno cinque momenti. Per ciascuno indicano:
+- posizione della macchina da presa;
+- tipo di movimento;
+- rapporto con il punto di vista dell'avatar;
+- caratteristiche cromatiche e spaziali;
+- funzione narrativa del passaggio.
+
+**Criteri:** riconoscimento della soggettiva, descrizione precisa del movimento virtuale, capacità di confrontare spazio fisico e digitale, uso appropriato del lessico audiovisivo.
+
+### Collegamenti
+- **Interfaccia e immagine digitale:** *Minority Report* — manipolazione delle immagini attraverso gesti.
+- **Spazio e soggettiva:** *Il grande Gatsby* — movimento della macchina da presa e costruzione di un mondo spettacolare.
+- **Intermedialità e cultura pop:** *Toy Story* — costruzione di uno spazio animato e punto di vista virtuale.
+- **Virtual production:** *The Fabelmans* — relazione fra ripresa, costruzione scenica e immagini realizzate in post-produzione.
+
+### Fonti e riferimenti
+- Réseau Canopé, *Ready Player One — analyse de séquence: l'ouverture*, dossier didattico sull'ingresso nell'OASIS, il movimento della camera virtuale e il rapporto con il linguaggio videoludico: https://www.reseau-canope.fr/fileadmin/user_upload/Projets/Ready_player_one/MAITRISER_ReadyPlayerOne_DocsEnLigne.pdf
+- Mike Seymour, «Ready Player One inside the Oasis», *fxguide*, 16 aprile 2018. Descrive motion capture, virtual cinematography, set digitali e camera virtuale utilizzata da Spielberg: https://www.fxguide.com/fxfeatured/ready-player-one-inside-the-oasis/
+- «Inside the OASIS: ILM’s Roger Guyett Talks *Ready Player One*», *Animation World Network*, per il lavoro di ILM, Digital Domain e la regia nello spazio virtuale: https://www.awn.com/vfxworld/inside-oasis-ilms-roger-guyett-talks-ready-player-one
+- *Computer Graphics World*, «Ready Set Go», per la previsualizzazione e la progettazione della corsa iniziale e delle regole visive del mondo virtuale: https://www.cgw.com/Publications/CGW/2018/Volume-41-Issue-2-Edition-2-2018-/Ready-Set-Go.aspx
 
 ## 15. *Moulin Rouge!* (Baz Luhrmann, 2001)
 [↑ Torna all'indice](#indice-interattivo)
