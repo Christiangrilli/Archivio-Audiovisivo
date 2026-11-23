@@ -847,23 +847,73 @@ Consegnare agli studenti una scheda con otto fotogrammi in ordine sparso, tratti
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** morte del padre.
-- **Concetto principale:** stile melodrammatico e composizione.
-- **Concetti secondari:** colore, corpo, spazio, gesto, eccesso.
-- **Tag:** #messa-in-scena #colore #composizione #recitazione #spazio
-- **Livello:** Avanzato.
-- **Uso:** analisi formale e confronto.
+- **Sequenza:** Marylee danza da sola nella propria camera al ritmo della musica jazz proveniente dal giradischi; il montaggio alterna la sua danza al padre Jasper che sale la grande scalinata della villa e cade, colpito da un attacco cardiaco.
+- **Concetto principale:** montaggio alternato e costruzione melodrammatica dello spazio.
+- **Concetti secondari:** messa in scena, colore, musica diegetica, ritmo, profondità, architettura scenografica, gesto, rapporto fra causa narrativa e associazione simbolica.
+- **Tag:** #montaggio #montaggio-alternato #melodramma #messa-in-scena #colore #musica-diegetica #spazio
+- **Livello:** Intermedio / Avanzato.
+- **Uso consigliato:** analizzare come il montaggio colleghi due spazi separati e come musica, colore, movimento e composizione producano un significato che supera la semplice successione degli eventi.
+- **Stato:** **DA COMPLETARE** — selezionare il frammento completo e verificare i passaggi di montaggio sull'edizione disponibile; non sono indicati timecode non controllati.
 
-### Analisi
-La scena costituisce un esempio della capacità del melodramma di caricare lo spazio e il gesto di una funzione espressiva. Colore, disposizione dei corpi e intensificazione della recitazione concorrono alla costruzione di un'immagine che non si limita a registrare l'evento narrativo, ma lo rende visivamente e affettivamente «eccessivo».
+### Contesto essenziale
+Marylee Hadley, figlia del ricco magnate Jasper Hadley, vive un rapporto conflittuale con il padre e desidera Mitch Wayne, che ama invece Lucy. Dopo un nuovo scontro con il padre, Marylee rientra nella propria camera e si abbandona a una danza solitaria. Jasper, attirato dal rumore, sale le scale della villa e muore cadendo dalla scalinata. Il film alterna le due azioni, che avvengono in ambienti distinti.
+
+### Analisi formale
+La sequenza costruisce il dramma attraverso l'alternanza fra la camera di Marylee e la grande scalinata della villa. I due spazi non vengono mostrati come un unico ambiente continuo: sono collegati dal montaggio, dalla musica che si diffonde nella casa e dal movimento dei personaggi. La musica jazz, proveniente dal giradischi di Marylee, continua a dominare la scena mentre Jasper sale lentamente le scale. Il suono mette così in relazione ambienti separati e assume una funzione narrativa: è ciò che accompagna la danza e, nello stesso tempo, ciò che richiama il padre verso la camera della figlia.
+
+Il montaggio intensifica progressivamente il rapporto fra le due azioni. La danza di Marylee è caratterizzata da movimenti ampi e provocatori; il percorso di Jasper è invece lento e faticoso. L'alternanza produce una tensione fra energia e caduta, movimento e morte, spazio privato e spazio domestico condiviso. Quando Jasper precipita, la sequenza non si limita a registrare un incidente: l'accostamento con la danza suggerisce un nesso simbolico fra la ribellione della figlia e la morte del padre.
+
+È necessario distinguere il piano narrativo da quello associativo. Nella storia Jasper muore per un attacco cardiaco e Marylee non è consapevole di ciò che accade sulle scale; il montaggio, tuttavia, induce lo spettatore a collegare le due azioni e a leggere la morte come esito simbolico del conflitto fra autorità patriarcale e desiderio femminile. Non bisogna presentare la danza come causa letterale della morte.
+
+La scenografia è essenziale. La grande scalinata, con il suo sviluppo in profondità, diventa uno spazio drammatico autonomo: il padre è visibile mentre attraversa la casa, mentre la figlia resta chiusa nella propria stanza. La villa non è un semplice fondale, ma una struttura che materializza gerarchie familiari e tensioni. Il colore e l'eccesso della recitazione rafforzano il carattere melodrammatico della sequenza.
+
+### Evidenze da far osservare
+1. Come sono organizzati i due ambienti: la camera di Marylee e la scalinata.
+2. Quando il montaggio passa da una linea d'azione all'altra.
+3. Se e come la musica della camera continua a essere udibile durante le immagini di Jasper.
+4. Quali differenze si notano fra il movimento di Marylee e quello del padre.
+5. In che modo la scalinata e la profondità dello spazio contribuiscono alla tensione.
+6. Quali elementi inducono lo spettatore a collegare simbolicamente la danza e la morte.
+
+### Perché è didatticamente utile
+La scena è un esempio particolarmente leggibile di montaggio alternato fra due spazi distinti. Permette di studiare insieme immagine e suono, mostrando come una musica diegetica possa attraversare il passaggio fra ambienti e legare azioni differenti. È inoltre utile per distinguere la causalità narrativa dall'associazione simbolica: il film suggerisce una relazione fra la danza e la morte del padre senza stabilire che Marylee ne sia materialmente responsabile.
 
 ### Obiettivo didattico
-Comprendere il rapporto fra stile, messa in scena e genere melodrammatico.
+Al termine dell'attività, lo studente sa ricostruire due linee d'azione alternate, individuare la funzione della musica diegetica e spiegare come montaggio e messa in scena costruiscano un'associazione simbolica fra azioni che si svolgono in spazi diversi.
 
-### Confronto privilegiato
-Mettere la scena in relazione con l'uccisione di Nadia in *Rocco e i suoi fratelli* per discutere come la stessa funzione melodrammatica possa essere costruita attraverso strategie stilistiche differenti.
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare la sequenza senza introdurre le interpretazioni. Chiedere agli studenti di distinguere le due azioni e i due ambienti.
+2. **Seconda visione:** annotare ogni passaggio fra la camera e la scalinata, indicando che cosa cambia e che cosa resta in continuità.
+3. **Ascolto mirato:** chiedere di seguire la musica e di verificare se continua a collegare i due spazi anche quando la sorgente non è visibile.
+4. **Analisi della composizione:** osservare la scalinata, la profondità e la posizione dei corpi nel quadro.
+5. **Discussione:** distinguere la morte di Jasper come evento narrativo dal significato simbolico prodotto dall'alternanza.
+6. **Rielaborazione:** realizzare uno storyboard di sei inquadrature che colleghi due azioni in luoghi diversi usando un suono diegetico come elemento di continuità.
 
----
+### Domande per gli studenti
+1. Quali due azioni vengono alternate?
+2. La musica appartiene a uno solo dei due spazi? Come fa a collegarli?
+3. Quale differenza produce il contrasto fra la danza di Marylee e la salita lenta di Jasper?
+4. La sequenza stabilisce una causa diretta della morte oppure suggerisce un'associazione simbolica?
+5. In che modo la scalinata diventa parte attiva della costruzione drammatica?
+
+### Verifica formativa
+Gli studenti compilano una tabella a due colonne, una per ciascuno spazio, registrando l'ordine delle inquadrature, le azioni e la presenza della musica. A seguire scrivono un breve commento che distingua:
+- il fatto narrativo (la morte di Jasper);
+- il procedimento formale (alternanza fra i due spazi e continuità sonora);
+- l'effetto espressivo (associazione fra desiderio, ribellione e morte).
+
+**Criteri:** corretta ricostruzione delle linee d'azione, riconoscimento della musica diegetica, uso preciso dei termini, distinzione fra causalità e significato simbolico.
+
+### Collegamenti
+- **Montaggio alternato e contrasto:** *Rocco e i suoi fratelli* — il combattimento di Rocco e l'uccisione di Nadia.
+- **Spazio e messa in scena:** *La regola del gioco* — profondità, composizione e relazioni fra i personaggi.
+- **Musica diegetica:** *Il lungo addio* — musica e suono come elementi che attraversano gli ambienti.
+- **Colore e melodramma:** *Velluto blu* — uso espressivo del colore e costruzione dell'atmosfera.
+
+### Fonti e riferimenti
+- Laura Mulvey, «Sexual frustration and visual excess: Laura Mulvey on Douglas Sirk’s *Written on the Wind*», *Sight and Sound*, 18 febbraio 2022 (articolo originariamente pubblicato nel febbraio 1998). Analizza la danza di Marylee, la caduta del padre, il montaggio fra i due spazi e la funzione della messa in scena: https://www.bfi.org.uk/sight-and-sound/features/sexual-frustration-visual-excess-laura-mulvey-douglas-sirks-written-wind
+- «Written on the Wind», *The Criterion Collection*, saggio critico sul film e sulla funzione del montaggio fra la danza di Marylee e la caduta di Jasper: https://www.criterion.com/current/posts/97-written-on-the-wind
+- Mark Frankel, «Written on the Wind», *Turner Classic Movies*, per il contesto produttivo e l'analisi della danza di Marylee alternata alla morte del padre: https://www.tcm.com/articles/138983/written-on-the-wind
 
 ## 6. *L'avventura* (Michelangelo Antonioni, 1960)
 [↑ Torna all'indice](#indice-interattivo)
