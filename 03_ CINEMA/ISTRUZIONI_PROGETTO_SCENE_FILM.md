@@ -155,8 +155,8 @@ Questa sequenza è una priorità di lavoro, non un vincolo assoluto: può cambia
 
 ## 10. Stato del progetto al 23 novembre 2026 — ricognizione
 
-- L'archivio contiene **94 schede operative** (incluse le schede comparative), numerate progressivamente da 1 a 93. Le sezioni preliminari e le costellazioni didattiche non rientrano in questa numerazione.
-- L'indice contiene **94 destinazioni uniche** e **330 collegamenti** distribuiti fra i percorsi per concetto e l'elenco alfabetico. I conteggi dichiarati nelle categorie tematiche corrispondono al numero effettivo di voci elencate.
+- L'archivio contiene **92 schede operative** (incluse le schede comparative), numerate progressivamente da 1 a 93. Le sezioni preliminari e le costellazioni didattiche non rientrano in questa numerazione.
+- L'indice contiene **92 destinazioni uniche** e **328 collegamenti** distribuiti fra i percorsi per concetto e l'elenco alfabetico. I conteggi dichiarati nelle categorie tematiche corrispondono al numero effettivo di voci elencate.
 - La revisione delle schede 1–34, 38, 39, 40, 41, 42, 43, 44 e 45 (42 schede in totale) ha corretto contenuti imprecisi o troppo generici, fra cui il raccordo in *Susanna*, il punto di vista in *Il Gattopardo*, il fuori campo in *Lo squalo* e *Jurassic Park*, il match cut di *2001*, la citazione di *Hello, Dolly!* in *WALL-E* e il rapporto fra continuità e spazio in *Se mi lasci ti cancello*.
 - Sono stati corretti dieci anchor dell'indice in seguito alla modifica dei titoli delle schede. L'ultimo controllo ha confermato che tutti i 325 collegamenti puntano a intestazioni esistenti; ripetere la verifica dopo ogni modifica futura.
 - La guida operativa riporta ora una fotografia documentale delle 93 schede: 62 presentano uno stato esplicito (61 **DA COMPLETARE**, 1 **DA VERIFICARE**); 31 non hanno ancora uno stato dichiarato. Nessuna scheda risulta contrassegnata **PRONTA**.
@@ -172,3 +172,9 @@ Questa sequenza è una priorità di lavoro, non un vincolo assoluto: può cambia
 **L'archivio deve rispondere alla domanda: «Domani devo insegnare questo concetto: quale scena mostro, che cosa faccio osservare, quali domande pongo, quale attività propongo e come verifico che gli studenti abbiano imparato?»**
 
 Ogni decisione editoriale deve rendere più facile e più rigorosa la risposta a questa domanda.
+
+
+### Regola permanente dell'ordine didattico
+L'indice per concetto **non segue l'ordine cronologico delle aggiunte né l'ordine alfabetico**, ma una progressione didattica dal caso più semplice al più complesso. La prima scena di ogni percorso deve introdurre il concetto con il minor numero possibile di variabili; i casi più complessi — in particolare piano-sequenza, montaggio interno, polifonia, montaggio non lineare e dispositivi autoriflessivi — vengono dopo i prerequisiti. Quando si aggiunge una nuova scheda, va quindi collocata nel punto didatticamente corretto di ogni categoria pertinente e l'indice va aggiornato nello stesso commit logico.
+
+La numerazione delle schede nel documento principale è un **identificativo stabile**, non l'ordine didattico. La sequenza pedagogica viene gestita dall'indice tematico.
