@@ -1,6 +1,6 @@
 # INDICE SCENE FILM
 
-> Atlante didattico del linguaggio cinematografico e audiovisivo — progetto SCENE FILM.
+ > Atlante didattico del linguaggio cinematografico e audiovisivo — progetto SCENE FILM.
 
 Questa pagina è la porta d'ingresso all'archivio: permette di trovare una scena **partendo da un concetto**, **dal titolo del film** oppure **dall'attività didattica**. Le schede complete si trovano nel documento principale.
 
