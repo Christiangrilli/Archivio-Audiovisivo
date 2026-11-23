@@ -1,0 +1,65 @@
+name: Crea Cinearchivio per macOS
+
+on:
+  push:
+    branches: [feature/cinearchivio-app]
+    paths:
+      - "cinearchivio/**"
+      - ".github/workflows/build-cinearchivio-macos.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Build DMG (${{ matrix.arch }})
+    runs-on: macos-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        arch: [arm64, x64]
+    defaults:
+      run:
+        working-directory: cinearchivio
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: cinearchivio/package-lock.json
+      - name: Install dependencies
+        run: npm install
+      - name: Build DMG
+        run: npx electron-builder --mac dmg --${{ matrix.arch }}
+      - name: Upload DMG
+        uses: actions/upload-artifact@v4
+        with:
+          name: Cinearchivio-macOS-${{ matrix.arch }}
+          path: cinearchivio/dist/*.dmg
+          if-no-files-found: error
+          retention-days: 30
+
+  publish:
+    name: Pubblica i DMG scaricabili
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download DMG
+        uses: actions/download-artifact@v4
+        with:
+          pattern: Cinearchivio-macOS-*
+          path: dist
+          merge-multiple: true
+      - name: Aggiorna la release stabile
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: cinearchivio-macos-latest
+          name: Cinearchivio per macOS
+          prerelease: true
+          make_latest: false
+          overwrite_files: true
+          files: dist/*.dmg
