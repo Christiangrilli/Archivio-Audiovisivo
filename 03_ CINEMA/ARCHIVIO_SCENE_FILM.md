@@ -1210,27 +1210,72 @@ Gli studenti compilano una tabella con quattro colonne: **immagine visibile**, *
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** apertura sulla spiaggia e movimento laterale della macchina da presa.
-- **Concetto principale:** movimento di macchina e costruzione dello spazio.
-- **Concetti secondari:** suspense, punto di vista, durata dell'inquadratura, coreografia.
-- **Tag:** #movimento-di-macchina #spazio #suspense #punto-di-vista #inquadratura
+- **Sequenza:** primo attacco dello squalo, dalla festa notturna sulla spiaggia alla nuotata di Chrissie e alla sua scomparsa sott'acqua.
+- **Concetto principale:** punto di vista soggettivo e costruzione della suspense.
+- **Concetti secondari:** macchina da presa subacquea, alternanza fra superficie e fondale, fuori campo, montaggio, musica extradiegetica, suono ambientale, conoscenza dello spettatore.
+- **Tag:** #punto-di-vista #soggettiva #fuori-campo #movimento-di-macchina #montaggio #suono #suspense
 - **Livello:** Base / Intermedio.
-- **Uso:** analisi della regia.
+- **Uso consigliato:** analizzare come la macchina da presa possa allineare temporaneamente lo spettatore con una minaccia che il personaggio osservato non può vedere.
+- **Attenzione ai contenuti:** la sequenza mostra un attacco mortale e contiene urla e immagini di forte tensione. Valutare il frammento in rapporto all'età e alla sensibilità della classe.
+- **Stato:** **DA COMPLETARE** — verificare il segmento e la sua durata sull'edizione scelta; non inserire timecode non controllati.
 
-### Analisi
-La macchina da presa attraversa lateralmente lo spazio della spiaggia mettendo in relazione diverse figure prima di arrivare al protagonista. Il movimento non è puramente decorativo: organizza l'informazione spaziale e stabilisce una particolare relazione fra spettatore e ambiente.
+### Contesto essenziale
+Durante una festa notturna sulla spiaggia di Amity Island, Chrissie Watkins e Tom si allontanano dal gruppo per fare un bagno. Tom, ubriaco e assonnato, resta sulla riva; Chrissie nuota da sola e viene attaccata da una presenza che il film non mostra direttamente. La scena introduce lo squalo come minaccia e stabilisce una relazione particolare fra il punto di vista dello spettatore, il corpo della ragazza e lo spazio sott'acqua.
 
-La scena permette di confrontare ciò che una sceneggiatura può indicare in termini generali con la soluzione concreta adottata dal regista.
+### Analisi formale
+Dopo le immagini della festa e la corsa dei due ragazzi verso il mare, il film riduce progressivamente il rumore del gruppo e la musica diegetica, lasciando emergere le voci di Chrissie e Tom e il suono delle onde. La ragazza viene mostrata mentre nuota in superficie, spesso come una sagoma scura contro la luce del cielo. Il montaggio alterna queste immagini con inquadrature dal fondo del mare, rivolte verso l'alto: la macchina da presa si trova in una posizione che può essere attribuita allo squalo, anche se il corpo dell'animale resta fuori campo.
+
+Il punto di vista subacqueo non va confuso con una soggettiva ottica perfettamente motivata da un personaggio umano. È un allineamento percettivo con la minaccia: lo spettatore vede la nuotatrice da una posizione che suggerisce la presenza dello squalo e anticipa l'attacco. Il corpo di Chrissie diventa così l'oggetto di uno sguardo invisibile. La macchina da presa si avvicina progressivamente alle gambe della ragazza, mentre il tema musicale di John Williams introduce una pulsazione minacciosa.
+
+L'alternanza fra superficie e fondale crea una differenza di conoscenza. Chrissie non vede ciò che si avvicina; Tom, rimasto sulla riva, non si accorge del pericolo; lo spettatore, invece, interpreta le inquadrature subacquee come segnali di un attacco imminente. La suspense nasce da questo scarto: sappiamo che qualcosa sta per accadere, ma non vediamo mai direttamente l'animale.
+
+Quando l'attacco comincia, il montaggio accelera e alterna le immagini della ragazza trascinata sott'acqua, i suoi tentativi di resistere e la posizione di Tom sulla spiaggia. La macchina da presa si avvicina alla superficie e viene investita dagli schizzi: l'acqua non è più soltanto un ambiente rappresentato, ma sembra coinvolgere fisicamente l'obiettivo e lo spettatore. Alla fine, Chrissie scompare e la baia torna apparentemente tranquilla. L'assenza di una reazione da parte di Tom rende ancora più evidente la distanza fra ciò che lo spettatore ha visto e ciò che il personaggio sa.
+
+La musica non diegetica non si limita ad accompagnare l'immagine: richiama il tema già presentato nei titoli di testa e funziona come indizio della presenza dello squalo. Il film costruisce quindi la suspense attraverso l'intreccio di punto di vista, montaggio, suono e fuori campo, non attraverso la visione esplicita del mostro.
+
+### Evidenze da far osservare
+1. Come cambia il paesaggio sonoro quando Chrissie e Tom si allontanano dalla festa.
+2. Qual è la differenza fra le inquadrature dalla superficie e quelle dal fondo del mare.
+3. In quale momento la macchina da presa sembra assumere il punto di vista dello squalo.
+4. Come il tema musicale prepara l'attacco prima che l'animale venga mostrato.
+5. Quale differenza di conoscenza esiste fra Chrissie, Tom e lo spettatore.
+6. Come cambiano durata e ritmo delle inquadrature durante l'attacco.
+
+### Perché è didatticamente utile
+La sequenza è un esempio molto chiaro di suspense costruita attraverso l'informazione trattenuta. Lo spettatore percepisce una minaccia che non viene mostrata direttamente e viene temporaneamente allineato con il suo punto di vista. È inoltre utile per spiegare come una macchina da presa possa suggerire una presenza fuori campo e come il suono anticipi un evento prima che diventi visibile.
 
 ### Obiettivo didattico
-Comprendere che la regia trasforma un'azione prevista dalla sceneggiatura in una precisa soluzione di spazio, movimento e durata.
+Al termine dell'attività, lo studente sa distinguere il punto di vista della vittima da quello della minaccia, riconoscere le inquadrature che suggeriscono la presenza dello squalo e spiegare come montaggio, suono e fuori campo costruiscano la suspense.
 
-### Domande
-1. Che cosa ci fa vedere il movimento della macchina da presa?
-2. Come cambierebbe la scena con una serie di inquadrature fisse?
-3. Il movimento aumenta o riduce la suspense?
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare la sequenza senza anticipare la presenza dello squalo. Chiedere agli studenti di annotare quando iniziano a percepire una minaccia.
+2. **Seconda visione:** distinguere le inquadrature in superficie, quelle subacquee e quelle che mostrano Tom sulla riva.
+3. **Analisi del suono:** ascoltare separatamente il passaggio dalla musica della festa al tema musicale di Williams e ai rumori del mare.
+4. **Mappa del punto di vista:** per ogni inquadratura indicare chi vede, chi è visto e quale informazione possiede lo spettatore.
+5. **Rielaborazione:** progettare una breve sequenza di suspense in cui la minaccia resti fuori campo e venga suggerita attraverso un punto di vista, un suono e un dettaglio visivo.
 
----
+### Domande per gli studenti
+1. Perché le inquadrature subacquee fanno pensare alla presenza dello squalo?
+2. La macchina da presa mostra ciò che vede un personaggio oppure costruisce un punto di vista della minaccia?
+3. Che cosa sa lo spettatore che Chrissie e Tom non sanno?
+4. Quale funzione svolge il tema musicale rispetto alle immagini?
+5. Perché il ritorno alla calma della baia dopo la scomparsa di Chrissie è così inquietante?
+
+### Verifica formativa
+Gli studenti compilano una tabella con quattro colonne: **inquadratura**, **posizione della macchina da presa**, **informazione disponibile allo spettatore**, **effetto prodotto**. Devono analizzare almeno sei passaggi, distinguendo superficie, fondale e riva, e spiegare in un breve testo come si costruisce la suspense.
+
+**Criteri:** riconoscimento dei diversi punti di vista, uso preciso dei termini, capacità di descrivere il rapporto fra suono e immagine, comprensione dello scarto di conoscenza fra personaggi e spettatore.
+
+### Collegamenti
+- **Fuori campo e minaccia:** *Gli uccelli* (*The Birds*) — pericolo suggerito attraverso sguardi, suoni e presenze non sempre visibili.
+- **Punto di vista della minaccia:** *Halloween* — movimento di macchina e allineamento con lo sguardo dell'aggressore.
+- **Musica e suspense:** *Psycho* — partitura musicale come elemento attivo della tensione.
+- **Dolly zoom:** *Lo squalo*, attacco alla spiaggia di Alex Kintner — reazione di Brody e deformazione prospettica.
+
+### Fonti e riferimenti
+- Adriano D'Aloia, «Gli agguati dello sguardo. Enunciazione della suspense in *Jaws*», *Cinergie. Il cinema e le altre arti*, n. 7, 2015, pp. 73–79. Analizza la sequenza di Chrissie, le inquadrature subacquee, l'allineamento con lo sguardo dello squalo e il ruolo del suono: https://www.academia.edu/11628206/Gli_agguati_dello_sguardo_Enunciazione_della_suspense_in_Jaws_
+- Warren Buckland, «Cutting to the Chase», 2020, capitolo dedicato alle strategie formali di *Jaws*: punto di vista ritardato dello squalo, spazio fuori campo e controllo dell'informazione: https://radar.brookes.ac.uk/radar/file/f175f5cf-7bfc-4c06-85e9-065b6e1145d2/1/Cutting%20to%20the%20chase%20-%209781501347528%20-%202020%20-%20Buckland.pdf
+- Giorgio Biancorosso, «The Shark in the Music», *The Musical Quarterly*, 94, nn. 1–3, 2011, pp. 306–333, DOI: 10.1093/musqtl/gdr008. Analizza la funzione preparatoria del tema musicale nella sequenza del primo attacco: https://doi.org/10.1093/musqtl/gdr008
 
 ## 11. *E.T. l'extra-terrestre* (Steven Spielberg, 1982)
 [↑ Torna all'indice](#indice-interattivo)
