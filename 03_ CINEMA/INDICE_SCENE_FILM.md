@@ -200,7 +200,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Close Encounters of the Third Kind / Incontri ravvicinati del terzo tipo* (Steven Spielberg, 1977)](ARCHIVIO_SCENE_FILM.md#89-close-encounters-of-the-third-kind-incontri-ravvicinati-del-terzo-tipo-steven-spielberg-1977-suono-come-linguaggio)
 - [*C'era una volta il West* (Sergio Leone, 1968)](ARCHIVIO_SCENE_FILM.md#91-cera-una-volta-il-west-sergio-leone-1968-durata-attesa-e-paesaggio-sonoro)
 - [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962)
-### Narrazione, tempo e punto di vista (53)
+### Narrazione, tempo e punto di vista (52)
 
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976)
 - [*Il Gattopardo* (Luchino Visconti, 1963)](ARCHIVIO_SCENE_FILM.md#3-il-gattopardo-luchino-visconti-1963)
@@ -270,6 +270,8 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Blade Runner* (Ridley Scott, 1982)](ARCHIVIO_SCENE_FILM.md#90-blade-runner-ridley-scott-1982-fotografia-scenografia-e-costruzione-del-mondo)
 - [*E.T. l'extra-terrestre* (Steven Spielberg, 1982) — silhouette e controluce](ARCHIVIO_SCENE_FILM.md#88-et-lextra-terrestre-steven-spielberg-1982-silhouette-controluce-ed-effetti-ottici)
 - [*The Apartment / L'appartamento* (Billy Wilder, 1960)](ARCHIVIO_SCENE_FILM.md#81-the-apartment-lappartamento-billy-wilder-1960-composizione-prospettiva-e-spazio-del-lavoro)
+- [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962)
+
 ## Indice per film
 
 Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegamento apre direttamente la sezione corrispondente nel documento principale.
@@ -292,11 +294,11 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Citizen Kane* (*Quarto potere*, Orson Welles, 1941)](ARCHIVIO_SCENE_FILM.md#55-citizen-kane-quarto-potere-orson-welles-1941) — profondità di campo.
 - [*Close Encounters of the Third Kind / Incontri ravvicinati del terzo tipo* (Steven Spielberg, 1977)](ARCHIVIO_SCENE_FILM.md#89-close-encounters-of-the-third-kind-incontri-ravvicinati-del-terzo-tipo-steven-spielberg-1977-suono-come-linguaggio) — suono come linguaggio.
 - [*Come le foglie al vento* (*Written on the Wind*, Douglas Sirk, 1956)](ARCHIVIO_SCENE_FILM.md#5-come-le-foglie-al-vento-written-on-the-wind-douglas-sirk-1956) — stile melodrammatico e composizione.
-- [*Dunkirk* (Christopher Nolan, 2017) / *Tenet* (Christopher Nolan, 2020)](ARCHIVIO_SCENE_FILM.md#27-dunkirk-christopher-nolan-2017-tenet-christopher-nolan-2020) — tecnica di ripresa e percezione del movimento.
+- [*Dunkirk* (Christopher Nolan, 2017) / *Tenet* (Christopher Nolan, 2020)](ARCHIVIO_SCENE_FILM.md#27-dunkirk-christopher-nolan-2017-tenet-christopher-nolan-2020) — IMAX, movimento immersivo e ripresa inversa.
 - [*E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#11-et-lextra-terrestre-et-the-extra-terrestrial-steven-spielberg-1982) — montaggio alternato e intertestualità.
 - [*E.T. l'extra-terrestre* (Steven Spielberg, 1982) — silhouette e controluce](ARCHIVIO_SCENE_FILM.md#88-et-lextra-terrestre-steven-spielberg-1982-silhouette-controluce-ed-effetti-ottici) — fotografia e composizione.
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set) — direzione degli attori e costruzione della performance attraverso la ripetizione.
-- [*Fight Club* (David Fincher, 1999)](ARCHIVIO_SCENE_FILM.md#21-fight-club-david-fincher-1999) — montaggio visibile.
+- [*Fight Club* (David Fincher, 1999)](ARCHIVIO_SCENE_FILM.md#21-fight-club-david-fincher-1999) — inserti di singolo fotogramma e anticipazione narrativa.
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976) — découpage e costruzione della scena.
 - [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — piano-sequenza al Copacabana](ARCHIVIO_SCENE_FILM.md#93-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-il-piano-sequenza-al-copacabana) — piano-sequenza e movimento di macchina.
 - [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — voice-over](ARCHIVIO_SCENE_FILM.md#74-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-voice-over) — voice-over narrativo.
@@ -313,7 +315,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Intolerance* (D. W. Griffith, 1916)](ARCHIVIO_SCENE_FILM.md#31-intolerance-d-w-griffith-1916) — montaggio parallelo.
 - [*Io non ho paura* (Gabriele Salvatores, 2003)](ARCHIVIO_SCENE_FILM.md#28-io-non-ho-paura-gabriele-salvatores-2003) — contrasto luce-colore e punto di vista infantile.
 - [*Jaws / Lo squalo* (Steven Spielberg, 1975)](ARCHIVIO_SCENE_FILM.md#56-jaws-lo-squalo-steven-spielberg-1975) — suspense attraverso informazione e punto di vista.
-- [*Jurassic Park* (Steven Spielberg, 1993)](ARCHIVIO_SCENE_FILM.md#12-jurassic-park-steven-spielberg-1993) — fuori campo e rivelazione dell'immagine.
+- [*Jurassic Park* (Steven Spielberg, 1993)](ARCHIVIO_SCENE_FILM.md#12-jurassic-park-steven-spielberg-1993) — fuori campo, indizi sonori e rivelazione progressiva.
 - [*L'avventura* (Michelangelo Antonioni, 1960)](ARCHIVIO_SCENE_FILM.md#6-lavventura-michelangelo-antonioni-1960) — spazio e durata nel cinema moderno.
 - [*L'eclisse* (Michelangelo Antonioni, 1962)](ARCHIVIO_SCENE_FILM.md#7-leclisse-michelangelo-antonioni-1962) — spazio urbano e movimento di macchina.
 - [*L'eclisse* / *L'avventura* / *La dolce vita*: spazio e modernità](ARCHIVIO_SCENE_FILM.md#35-leclisse-lavventura-la-dolce-vita-spazio-e-modernità)
@@ -323,7 +325,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*La nascita di una nazione* (*The Birth of a Nation*, D. W. Griffith, 1915)](ARCHIVIO_SCENE_FILM.md#30-la-nascita-di-una-nazione-the-birth-of-a-nation-d-w-griffith-1915) — montaggio narrativo.
 - [*La regola del gioco* (*La Règle du jeu*, Jean Renoir, 1939)](ARCHIVIO_SCENE_FILM.md#58-la-regola-del-gioco-la-règle-du-jeu-jean-renoir-1939) — profondità di campo e profondità della messa in scena.
 - [*Ladri di biciclette* (*Bicycle Thieves*, Vittorio De Sica, 1948)](ARCHIVIO_SCENE_FILM.md#49-ladri-di-biciclette-bicycle-thieves-vittorio-de-sica-1948) — spazio urbano nel neorealismo.
-- [*Lo squalo* (*Jaws*, Steven Spielberg, 1975)](ARCHIVIO_SCENE_FILM.md#10-lo-squalo-jaws-steven-spielberg-1975) — movimento di macchina e costruzione dello spazio.
+- [*Lo squalo* (*Jaws*, Steven Spielberg, 1975)](ARCHIVIO_SCENE_FILM.md#10-lo-squalo-jaws-steven-spielberg-1975) — punto di vista subacqueo e suspense.
 - [*M – Il mostro di Düsseldorf* (*M*, Fritz Lang, 1931)](ARCHIVIO_SCENE_FILM.md#50-m-il-mostro-di-düsseldorf-m-fritz-lang-1931) — suono diegetico e informazione fuori campo.
 - [*Memento* (Christopher Nolan, 2000)](ARCHIVIO_SCENE_FILM.md#69-memento-christopher-nolan-2000) — temporalità non lineare.
 - [*Metropolis* (Fritz Lang, 1927)](ARCHIVIO_SCENE_FILM.md#54-metropolis-fritz-lang-1927) — messa in scena espressionista e simbolizzazione dello spazio.
@@ -336,15 +338,15 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Persona* (Ingmar Bergman, 1966)](ARCHIVIO_SCENE_FILM.md#53-persona-ingmar-bergman-1966) — primo piano come forma espressiva.
 - [*Piano sequenza / The Magnificent Ambersons* (Orson Welles, 1942)](ARCHIVIO_SCENE_FILM.md#60-piano-sequenza-the-magnificent-ambersons-orson-welles-1942) — piano-sequenza e continuità spaziale.
 - [*Psycho* (Alfred Hitchcock, 1960)](ARCHIVIO_SCENE_FILM.md#38-psycho-alfred-hitchcock-1960) — montaggio frammentato e costruzione audiovisiva della violenza.
-- [*Quarto potere* (*Citizen Kane*, Orson Welles, 1941)](ARCHIVIO_SCENE_FILM.md#23-quarto-potere-citizen-kane-orson-welles-1941) — profondità di campo e profondità della composizione.
+- [*Quarto potere* (*Citizen Kane*, Orson Welles, 1941)](ARCHIVIO_SCENE_FILM.md#23-quarto-potere-citizen-kane-orson-welles-1941) — profondità di campo e staging in profondità.
 - [*Rashomon* (Akira Kurosawa, 1950)](ARCHIVIO_SCENE_FILM.md#44-rashomon-akira-kurosawa-1950) — focalizzazione multipla / narrazione a prospettive divergenti.
 - [*Ready Player One* (Steven Spielberg, 2018)](ARCHIVIO_SCENE_FILM.md#14-ready-player-one-steven-spielberg-2018) — intermedialità e spazio virtuale.
 - [*Rear Window / La finestra sul cortile* (Alfred Hitchcock, 1954) — SCHEDA OPERATIVA: REGOLA DEI 180°](ARCHIVIO_SCENE_FILM.md#71-rear-window-la-finestra-sul-cortile-alfred-hitchcock-1954-scheda-operativa-regola-dei-180) — regola dei 180° e continuità dello spazio.
 - [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant---redivivo-the-revenant-alejandro-g-iñárritu-2015) — luce naturale e macchina da presa immersiva.
 - [*Rocco e i suoi fratelli* (Luchino Visconti, 1960)](ARCHIVIO_SCENE_FILM.md#4-rocco-e-i-suoi-fratelli-luchino-visconti-1960) — messa in scena del corpo e del melodramma.
 - [*Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)](ARCHIVIO_SCENE_FILM.md#39-rope-nodo-alla-gola-alfred-hitchcock-1948) — long take e continuità apparente.
-- [*Se mi lasci ti cancello* (*Eternal Sunshine of the Spotless Mind*, Michel Gondry, 2004)](ARCHIVIO_SCENE_FILM.md#19-se-mi-lasci-ti-cancello-eternal-sunshine-of-the-spotless-mind-michel-gondry-2004) — spazio mentale e disorientamento.
-- [*Shining* (Stanley Kubrick, 1980)](ARCHIVIO_SCENE_FILM.md#24-shining-stanley-kubrick-1980) — composizione geometrica.
+- [*Se mi lasci ti cancello* (*Eternal Sunshine of the Spotless Mind*, Michel Gondry, 2004)](ARCHIVIO_SCENE_FILM.md#19-se-mi-lasci-ti-cancello-eternal-sunshine-of-the-spotless-mind-michel-gondry-2004) — continuità spaziale impossibile e memoria.
+- [*Shining* (Stanley Kubrick, 1980)](ARCHIVIO_SCENE_FILM.md#24-shining-stanley-kubrick-1980) — Steadicam, prospettiva e paesaggio sonoro.
 - [*Singin' in the Rain* (*Cantando sotto la pioggia*, Stanley Donen e Gene Kelly, 1952)](ARCHIVIO_SCENE_FILM.md#52-singin-in-the-rain-cantando-sotto-la-pioggia-stanley-donen-e-gene-kelly-1952) — integrazione di musica, corpo, spazio e macchina da presa.
 - [*Susanna* (*Bringing Up Baby*, Howard Hawks, 1938)](ARCHIVIO_SCENE_FILM.md#1-susanna-bringing-up-baby-howard-hawks-1938) — découpage classico e costruzione della continuità.
 - [*Taxi Driver* (Martin Scorsese, 1976)](ARCHIVIO_SCENE_FILM.md#82-taxi-driver-martin-scorsese-1976-movimento-di-macchina-e-voce-fuori-campo) — movimento di macchina e voce fuori campo.
@@ -397,4 +399,3 @@ Le schede sono organizzate per identificazione, indicizzazione, analisi formale,
 - [Guida operativa didattica](GUIDA_OPERATIVA_DIDATTICA.md)
 - [Istruzioni permanenti](ISTRUZIONI_PROGETTO_SCENE_FILM.md)
 
-- [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962)
