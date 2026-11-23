@@ -153,17 +153,17 @@ Questa sequenza è una priorità di lavoro, non un vincolo assoluto: può cambia
 - Se il materiale o il timecode non è verificabile, lasciare esplicita la verifica da fare invece di colmare il vuoto con supposizioni.
 - Preservare la voce editoriale dell'archivio: italiano disciplinare preciso, chiaro e non artificiosamente accademico; evitare formulazioni generiche o ripetitive.
 
-## 10. Stato del progetto al 23 novembre 2026 — aggiornamento
+## 10. Stato del progetto al 23 novembre 2026 — ricognizione
 
-- L'archivio è stato ampliato con nuove schede dedicate a *Toy Story*, *Ace in the Hole*, *The Apartment*, *Taxi Driver*, *The Fabelmans*, *Gran Torino*, *Million Dollar Baby*, *Catch Me If You Can*, *Titanic*, *Close Encounters of the Third Kind*, *Blade Runner*, *C'era una volta il West* e *The Long Goodbye*. Sono state aggiunte anche schede distinte per il piano-sequenza del Copacabana in *Goodfellas* e per il volo delle biciclette in *E.T.*, già presenti nell'archivio con altri nuclei di analisi. Il conteggio aggiornato va verificato automaticamente.
-- L'indice interattivo è stato aggiornato per le nuove schede e per la rimozione di *Pillow Talk*. Il film è stato eliminato perché l'utente non lo conosce e non desidera utilizzarlo. Le sezioni successive sono state rinumerate; verificare sempre gli anchor dopo ogni ulteriore modifica.
-- È stato creato `INDICE_SCENE_FILM.md` come pagina di ingresso autonoma, con ricerca per concetto e indice alfabetico delle 79 schede/nuclei di confronto. I collegamenti alle schede sono stati controllati (281 link tematici e alfabetici); tutte le 79 schede operative hanno un collegamento di ritorno all'indice. `ARCHIVIO_SCENE_FILM.md` mantiene i contenuti integrali e rimanda alla nuova pagina di navigazione.
-- È stata creata la guida operativa didattica con protocollo di visione, struttura della lezione, obiettivi, valutazione formativa, accessibilità, progressione nel quinquennio, modello di scheda e distinzioni terminologiche.
-- Cinque schede sono state recentemente integrate con obiettivi, evidenze, attività, domande, verifiche, note e fonti: `Ladri di biciclette`, `M`, `I quattrocento colpi`, `Metropolis`, `Citizen Kane`.
-- Queste cinque schede sono state lasciate nello stato **DA COMPLETARE**, perché i frammenti e i timecode devono ancora essere verificati sulle edizioni effettivamente utilizzate.
-- Commit recente delle modifiche alle cinque schede e alla precisazione della scena di `Ladri di biciclette`: `c54902a61e1a4dbd4a464ea794ce7b08af45f7d4`.
-- Le modifiche precedenti all'indice e alla guida sono già presenti nel repository; usare sempre la versione attuale dei file come fonte di verità, non affidarsi ai soli SHA storici.
-
+- L'archivio contiene **93 schede operative** (incluse le schede comparative), distribuite in più blocchi editoriali stratificati nel tempo. La numerazione non è ancora uniforme: non usare il numero della scheda come conteggio complessivo senza controllare la struttura.
+- L'indice contiene **93 destinazioni uniche** e **322 collegamenti** distribuiti fra i percorsi per concetto e l'elenco alfabetico. I sette conteggi dichiarati nelle categorie tematiche corrispondono al numero effettivo di voci elencate.
+- La verifica degli anchor ha individuato un collegamento non corretto per *Revenant - Redivivo*, da correggere nell'indice. Dopo la correzione, ripetere il controllo automatico di tutti i collegamenti.
+- La guida operativa è stata aggiornata con una fotografia documentale delle 93 schede: 16 presentano uno stato esplicito (15 **DA COMPLETARE**, 1 **DA VERIFICARE**); 77 non hanno ancora uno stato dichiarato. Nessuna scheda risulta contrassegnata **PRONTA**.
+- La carenza più evidente riguarda la verifica formativa: soltanto 6 schede presentano un'intestazione esplicita dedicata. Anche attività, fonti e collegamenti richiedono una revisione progressiva.
+- *Pillow Talk* è stato rimosso dall'archivio e dall'indice perché l'utente non desidera utilizzarlo. La menzione nelle preferenze editoriali serve soltanto a ricordare di non reinserirlo.
+- Le schede più recenti, numerate 44–58, hanno già obiettivi, attività, domande, collegamenti e fonti, ma restano da completare o verificare per la delimitazione del frammento e il controllo sulla copia scelta. Non inventare timecode.
+- Le priorità sono: uniformare la numerazione e la struttura dei blocchi; assegnare uno stato motivato a tutte le schede; completare verifiche formative e fonti; controllare i frammenti; aggiornare gli indici dopo ogni modifica.
+- Gli SHA dei file e i conteggi sono dati di ricognizione del momento: prima di ogni modifica recuperare sempre la versione corrente dal repository.
 ---
 
 ## 11. Principio guida
