@@ -24,12 +24,14 @@
     return match ? clean(match[1]) : "";
   }
   function statusFrom(block) {
-    const match = block.match(/\*\*Stato:\*\*\s*([^\n]+)/i) || block.match(/Stato della scheda:\s*([^\n]+)/i);
+    let match = block.match(/\\*\\*Stato:\\*\\*\\s*([^\\n]+)/i);
+    if (!match) match = block.match(/^###\\s+Stato della scheda\\s*\\n+([^\\n]+)/im);
+    if (!match) match = block.match(/^Stato della scheda\\s*:?\\s*\\n+([^\\n]+)/im);
     const raw = clean(match?.[1] || "");
     if (/pronta/i.test(raw)) return "PRONTA";
     if (/verificare/i.test(raw)) return "DA VERIFICARE";
     if (/completare/i.test(raw)) return "DA COMPLETARE";
-    return raw.toUpperCase() || "DA COMPLETARE";
+    return raw.toUpperCase() || "NON INDICATO";
   }
   function parseFilms(markdown) {
     const matches = [...markdown.matchAll(/^##\s+(\d+)\.\s+(.+)$/gm)];
