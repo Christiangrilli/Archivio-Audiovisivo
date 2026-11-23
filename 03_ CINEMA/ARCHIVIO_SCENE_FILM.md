@@ -1491,3 +1491,331 @@ Una possibile attività consiste nel progettare la stessa conversazione in due m
 - Peter Verstraten, *Film Narratology*, University of Toronto Press, 2009, in particolare la discussione del movimento laterale della macchina da presa in *Le Mépris*.
 - “Le Mépris: Analysis of mise-en-scène”, *Offscreen*, con precisazione terminologica sul movimento laterale (tracking, non pan): https://offscreen.com/view/mepris_analysis
 - “Fashioning Rebellion”, *Senses of Cinema* (2022), sull'uso dello spazio vuoto e della distanza tra Paul e Camille: https://www.sensesofcinema.com/2022/forms-that-think-jean-luc-godard/fashioning-rebellion/
+
+
+---
+
+# NUOVE SCHEDE — SELEZIONE DA LETTERBOXD
+
+Le seguenti schede sono state aggiunte a partire dalla filmografia fornita dall'utente. La selezione privilegia scene brevi, osservabili e direttamente spendibili nella didattica delle discipline audiovisive.
+
+## 3. *Psycho* (Alfred Hitchcock, 1960)
+
+### Identificazione
+- **Scena:** omicidio di Marion Crane sotto la doccia.
+- **Durata indicativa:** frammento breve; il minutaggio varia secondo l'edizione.
+- **Collocazione nel film:** prima metà del film.
+- **Concetto principale:** montaggio frammentato e costruzione audiovisiva della violenza.
+- **Concetti secondari:** raccordo, punto di vista, fuori campo, suono, ellissi, spettatore.
+- **Tag:** #montaggio #inquadratura #suono #fuori-campo #punto-di-vista #suspense #ellissi
+- **Livello:** Intermedio.
+- **Uso consigliato:** analisi formale / confronto.
+
+### Tecniche e aspetti formali
+- **Messa in scena:** spazio ristretto del bagno; corpo di Marion progressivamente esposto allo sguardo della macchina da presa.
+- **Inquadratura:** alternanza di dettagli, primi piani, frammenti del corpo e inquadrature dell'ambiente.
+- **Movimento di macchina:** subordinato alla frammentazione del découpage.
+- **Montaggio:** montaggio rapidissimo che scompone l'azione e impedisce una rappresentazione continua del gesto omicida.
+- **Suono:** urlo, acqua della doccia e musica contribuiscono alla costruzione percettiva dell'evento.
+- **Spazio:** lo spazio è riconoscibile ma l'azione violenta viene resa attraverso frammenti.
+- **Dialogo:** assente durante il nucleo dell'aggressione.
+
+### Analisi della scena
+Hitchcock costruisce l'omicidio evitando di mostrare in modo continuo il contatto fra coltello e corpo. La violenza è quindi prodotta dall'insieme di inquadrature, raccordi, suono e montaggio, non dalla semplice esposizione dell'atto. La scena è particolarmente utile per distinguere ciò che la macchina da presa mostra da ciò che lo spettatore ricostruisce mentalmente.
+
+### Perché è didatticamente utile
+Permette di dimostrare concretamente che il montaggio non serve soltanto a collegare azioni già date: può costruire un evento percettivamente più forte di una sua rappresentazione continua. La celebre analisi di Laura Mulvey ha inoltre collegato la scena alla dimensione dello sguardo e della scopofilia.
+
+### Obiettivo didattico
+Lo studente deve riconoscere come una scena violenta possa essere costruita attraverso frammentazione, ellissi, suono e punto di vista, distinguendo rappresentazione diretta e costruzione percettiva.
+
+### Come utilizzarla in classe
+Prima visione senza spiegazioni; seconda visione fermando alcuni raccordi; terza visione concentrata soltanto sul suono. Chiedere agli studenti di ricostruire ciò che è effettivamente mostrato e ciò che viene soltanto suggerito.
+
+### Domande
+1. Vediamo realmente il coltello entrare nel corpo?
+2. Quali informazioni produce il montaggio senza mostrarci l'azione in continuità?
+3. Quanto della violenza deriva dalle immagini e quanto da suono e musica?
+
+### Collegamenti
+- **Teoria:** montaggio, sguardo, suspense.
+- **Confronti:** *Lo squalo*, *La finestra sul cortile*, *Touch of Evil*.
+- **Bibliografia:** Laura Mulvey; David Bordwell e Kristin Thompson.
+
+---
+
+## 4. *Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)
+
+### Identificazione
+- **Scena:** apertura del film e successiva conversazione nell'appartamento, costruita attraverso lunghi movimenti della macchina da presa.
+- **Concetto principale:** long take e continuità apparente.
+- **Concetti secondari:** piano-sequenza, movimento di macchina, spazio scenico, raccordo nascosto, teatralità.
+- **Tag:** #movimento-di-macchina #spazio #messa-in-scena #continuità #piano-sequenza
+- **Livello:** Avanzato.
+- **Uso consigliato:** analisi formale / confronto.
+
+### Analisi
+Hitchcock organizza il film come una successione di lunghi piani che simulano una continuità quasi ininterrotta. La durata delle bobine imponeva però limiti tecnici: i passaggi fra segmenti erano spesso mascherati entrando molto vicino a un elemento scuro o al corpo di un personaggio. La scena permette quindi di distinguere il piano-sequenza reale dalla simulazione di continuità attraverso giunzioni nascoste.
+
+### Perché è didatticamente utile
+È un caso ideale per far capire che la durata percepita di un'inquadratura non coincide necessariamente con l'assenza di montaggio.
+
+### Obiettivo didattico
+Distinguere long take, piano-sequenza e montaggio mascherato; riconoscere come movimento di macchina e coreografia degli attori possano sostituire parte della frammentazione del découpage.
+
+### Come utilizzarla in classe
+Far individuare agli studenti i momenti in cui il film potrebbe aver effettuato un cambio di bobina. Successivamente confrontare la scena con *1917*, già presente nell'archivio.
+
+### Domande
+1. Perché questa regia dà l'impressione di essere continua?
+2. Dove potrebbe essere nascosto un taglio?
+3. Cosa cambia nella percezione dello spazio quando la macchina da presa non interrompe l'azione?
+
+### Collegamenti
+- *1917*: continuità simulata.
+- *Lo squalo*: long take e movimento nello spazio.
+- Cinema classico e rapporto fra macchina da presa e spazio scenico.
+
+---
+
+## 5. *Breathless* (*Fino all'ultimo respiro*, Jean-Luc Godard, 1960)
+
+### Identificazione
+- **Scena:** conversazione di Michel e Patricia nell'automobile, con particolare evidenza dei jump cut.
+- **Concetto principale:** jump cut.
+- **Concetti secondari:** discontinuità, spazio, tempo, Nouvelle Vague, marca enunciativa.
+- **Tag:** #jump-cut #montaggio #spazio #tempo #punto-di-vista
+- **Livello:** Base / Intermedio.
+- **Uso consigliato:** introduzione / analisi formale.
+
+### Analisi
+La conversazione in automobile mantiene la situazione e l'orientamento generale, ma interrompe la continuità interna dei movimenti attraverso tagli che eliminano porzioni di tempo. Il risultato rende percepibile il lavoro del montaggio invece di nasconderlo.
+
+Un'analisi accademica della scena la utilizza proprio come esempio di jump cut: la conversazione viene resa attraverso salti temporali e spaziali percepibili, in contrasto con le convenzioni della continuità classica. citeturn623513search0turn623513search1
+
+### Perché è didatticamente utile
+È probabilmente uno dei frammenti più immediati per spiegare la differenza fra montaggio invisibile e montaggio dichiarato.
+
+### Obiettivo didattico
+Riconoscere un jump cut e spiegare quale effetto produce sulla percezione del tempo, dello spazio e della presenza della macchina da presa.
+
+### Come utilizzarla in classe
+Mostrare prima il frammento senza spiegazioni. Chiedere: «Che cosa vi sembra strano?». Solo dopo introdurre il termine jump cut.
+
+### Domande
+1. Che cosa viene eliminato fra un'inquadratura e l'altra?
+2. Perché la continuità non viene ricostruita?
+3. Il salto ci distrae dalla storia o ci fa percepire maggiormente il film come costruzione?
+
+### Collegamenti
+- *Fight Club*: montaggio visibile.
+- *Susanna*: continuità classica.
+- Nouvelle Vague e critica del découpage classico.
+
+---
+
+## 6. *Touch of Evil* (*L'infernale Quinlan*, Orson Welles, 1958)
+
+### Identificazione
+- **Scena:** apertura con il percorso della bomba dal momento in cui viene collocata nell'automobile fino all'esplosione.
+- **Concetto principale:** piano-sequenza / long take.
+- **Concetti secondari:** movimento di macchina, suspense, spazio, informazione narrativa, punto di vista.
+- **Tag:** #movimento-di-macchina #piano-sequenza #suspense #spazio #narrazione
+- **Livello:** Intermedio.
+- **Uso consigliato:** analisi formale.
+
+### Analisi
+La macchina da presa accompagna simultaneamente diversi percorsi nello spazio mentre lo spettatore possiede un'informazione che i personaggi non hanno: la bomba è già stata collocata nell'automobile. La durata della ripresa permette di mantenere in relazione eventi e personaggi senza ricorrere a un montaggio rapido.
+
+La sequenza è inoltre utile per mostrare come il piano-sequenza possa produrre suspense non attraverso l'accelerazione del montaggio, ma attraverso la gestione della durata e dell'informazione narrativa.
+
+### Perché è didatticamente utile
+Permette di confrontare due modi diversi di costruire la suspense: frammentazione rapida (*Psycho*) e continuità prolungata (*Touch of Evil*).
+
+### Obiettivo didattico
+Comprendere che il movimento di macchina può organizzare simultaneamente spazio, tempo e informazione narrativa.
+
+### Come utilizzarla in classe
+Disegnare la traiettoria della macchina da presa e dei personaggi; poi chiedere agli studenti quando hanno capito il pericolo e perché la scena continua a essere tesa anche senza montaggio rapido.
+
+### Domande
+1. Chi sa che la bomba è presente?
+2. Come viene mantenuta la tensione durante una ripresa molto lunga?
+3. Che cosa avrebbe prodotto un montaggio rapido della stessa azione?
+
+### Collegamenti
+- *Rope*: continuità e spazio.
+- *Lo squalo*: movimento e suspense.
+- *Psycho*: montaggio e suspense.
+
+---
+
+## 7. *The Conversation* (*La conversazione*, Francis Ford Coppola, 1974)
+
+### Identificazione
+- **Scena:** registrazione della conversazione nella piazza, con successivi riascolti e rielaborazioni del materiale audio da parte di Harry Caul.
+- **Concetto principale:** punto di ascolto e costruzione narrativa attraverso il suono.
+- **Concetti secondari:** suono fuori campo, ascolto selettivo, ripetizione, rielaborazione, informazione narrativa.
+- **Tag:** #suono #fuori-campo #punto-di-vista #ripetizione #narrazione
+- **Livello:** Intermedio / Avanzato.
+- **Uso consigliato:** analisi formale / esercitazione.
+
+### Analisi
+La scena permette di trattare il suono non come semplice accompagnamento dell'immagine ma come dispositivo narrativo. Harry registra una conversazione che inizialmente appare ambigua; il successivo lavoro di ascolto, isolamento e manipolazione del materiale modifica progressivamente ciò che lo spettatore crede di sapere.
+
+### Perché è didatticamente utile
+È un caso particolarmente efficace per insegnare il concetto di punto di ascolto e per mostrare che anche il montaggio sonoro può produrre suspense, ambiguità e informazione narrativa.
+
+### Obiettivo didattico
+Saper analizzare una scena partendo dal suono e comprendere come una stessa registrazione possa assumere significati differenti attraverso selezione, ripetizione e riascolto.
+
+### Come utilizzarla in classe
+Prima visione con attenzione alle immagini; seconda visione con gli studenti che annotano soltanto ciò che sentono; terza visione mettendo a confronto immagine e suono.
+
+### Domande
+1. Che cosa sappiamo attraverso il suono che non vediamo?
+2. Perché Harry deve riascoltare più volte la stessa registrazione?
+3. Il significato di una registrazione è stabile o dipende dal modo in cui la ascoltiamo?
+
+### Collegamenti
+- *Blow Out*: suono e indagine.
+- *Blow-Up*: fotografia e interpretazione dell'immagine.
+- Fuori campo e punto di vista.
+
+---
+
+## 8. *Blow Out* (Brian De Palma, 1981)
+
+### Identificazione
+- **Scena:** Jack ascolta e analizza la registrazione sonora dell'incidente automobilistico.
+- **Concetto principale:** montaggio audiovisivo e rapporto fra immagine e suono.
+- **Concetti secondari:** sincronizzazione, fuori campo, registrazione, suspense, metacinema.
+- **Tag:** #suono #montaggio #fuori-campo #metacinema #suspense
+- **Livello:** Intermedio.
+- **Uso consigliato:** confronto / analisi formale.
+
+### Analisi
+Il protagonista costruisce un evento a partire da tracce audiovisive separate: la registrazione del suono viene ascoltata, isolata e messa in relazione con immagini fotografiche e filmiche. La scena rende osservabile il lavoro dell'analista audiovisivo: un evento non viene semplicemente visto, ma ricostruito attraverso la relazione fra tracce.
+
+### Perché è didatticamente utile
+È particolarmente adatta a una classe audiovisiva perché trasforma montaggio e postproduzione in elementi diegetici: il personaggio stesso compie un'operazione simile a quella che lo studente deve imparare a fare nell'analisi.
+
+### Obiettivo didattico
+Comprendere la differenza fra evento profilmico e traccia audiovisiva dell'evento; analizzare il rapporto fra suono, immagine e interpretazione.
+
+### Come utilizzarla in classe
+Proporre agli studenti di ricostruire l'evento prima mostrando solo la traccia sonora e poi aggiungendo le immagini.
+
+### Domande
+1. Che cosa cambia quando il suono viene separato dall'immagine?
+2. Come nasce un'ipotesi narrativa da una traccia sonora?
+3. Il montaggio scopre la realtà o la costruisce?
+
+### Collegamenti
+- *The Conversation*: ascolto e manipolazione del suono.
+- *Blow-Up*: ingrandimento fotografico e indeterminazione.
+- Metacinema e dispositivi di registrazione.
+
+---
+
+## 9. *Rashomon* (Akira Kurosawa, 1950)
+
+### Identificazione
+- **Scena:** le diverse testimonianze sull'omicidio e sul rapporto fra i personaggi nella foresta.
+- **Concetto principale:** focalizzazione multipla / narrazione a prospettive divergenti.
+- **Concetti secondari:** narratore inattendibile, punto di vista, ripetizione, variazione, ambiguità.
+- **Tag:** #focalizzazione #punto-di-vista #narrazione #ripetizione #ambiguità
+- **Livello:** Intermedio.
+- **Uso consigliato:** analisi narrativa / confronto.
+
+### Analisi
+Lo stesso evento viene riproposto attraverso versioni incompatibili. La ripetizione non produce quindi semplice ridondanza: ogni nuova versione modifica il rapporto fra spettatore, personaggio e verità dell'evento. La scena è il caso paradigmatico del cosiddetto «Rashomon effect», cioè della costruzione di una vicenda attraverso punti di vista soggettivi e non pienamente conciliabili. citeturn623513search5turn623513search82
+
+### Perché è didatticamente utile
+Permette di distinguere storia e racconto e di mostrare che il punto di vista non riguarda soltanto la posizione della macchina da presa, ma anche l'organizzazione dell'informazione narrativa.
+
+### Obiettivo didattico
+Saper distinguere evento narrato, versione del personaggio e posizione dello spettatore rispetto all'informazione.
+
+### Come utilizzarla in classe
+Dividere la classe in gruppi e assegnare una testimonianza a ciascun gruppo. Ogni gruppo deve ricostruire «la propria» versione dell'evento; successivamente confrontare le discrepanze.
+
+### Domande
+1. Quale versione è vera?
+2. Quali informazioni cambiano da una testimonianza all'altra?
+3. Il film ci chiede di scegliere una verità o di mettere in discussione l'idea stessa di verità unica?
+
+### Collegamenti
+- *Mulholland Drive*: ambiguità e interpretazione.
+- *Memento*: ordine del racconto e informazione.
+- Teoria del punto di vista e narratologia.
+
+---
+
+## 10. *2001: A Space Odyssey* (*2001: Odissea nello spazio*, Stanley Kubrick, 1968)
+
+### Identificazione
+- **Scena:** lancio dell'osso da parte della scimmia e successivo passaggio alla navicella nello spazio.
+- **Concetto principale:** match cut e montaggio per associazione.
+- **Concetti secondari:** ellissi, analogia visiva, tempo storico, raccordo di forma, metafora.
+- **Tag:** #montaggio #raccordo #ellissi #tempo #narrazione
+- **Livello:** Base / Intermedio.
+- **Uso consigliato:** introduzione / analisi.
+
+### Analisi
+Un movimento ascendente dell'osso viene associato visivamente alla forma della navicella spaziale. Il raccordo crea una gigantesca ellissi temporale e collega due oggetti separati da milioni di anni di storia diegetica. Il montaggio non garantisce quindi soltanto continuità: può produrre un rapporto concettuale fra immagini.
+
+### Perché è didatticamente utile
+È uno dei modi più immediati per spiegare che il raccordo può essere costruito anche sulla forma e non soltanto sul movimento o sullo sguardo.
+
+### Obiettivo didattico
+Riconoscere un match cut e distinguere raccordo narrativo, raccordo di movimento e raccordo per analogia visiva.
+
+### Come utilizzarla in classe
+Mostrare esclusivamente i due frammenti consecutivi e chiedere agli studenti di descrivere il rapporto che li unisce prima di introdurre il termine match cut.
+
+### Domande
+1. Perché Kubrick collega proprio questi due oggetti?
+2. Che cosa permette di raccontare il taglio senza mostrare?
+3. Il montaggio qui collega soltanto due immagini o formula anche un'idea?
+
+### Collegamenti
+- *The Godfather Part II*: ellissi e continuità narrativa.
+- *Fight Club*: montaggio visibile.
+- Teoria del montaggio per associazione.
+
+---
+
+## 11. *The Birds* (*Gli uccelli*, Alfred Hitchcock, 1963)
+
+### Identificazione
+- **Scena:** attacco alla scuola e costruzione progressiva della presenza degli uccelli.
+- **Concetto principale:** fuori campo e suspense.
+- **Concetti secondari:** suono, attesa, spazio, montaggio, informazione dello spettatore.
+- **Tag:** #fuori-campo #suono #suspense #spazio #punto-di-vista
+- **Livello:** Base / Intermedio.
+- **Uso consigliato:** introduzione / analisi.
+
+### Analisi
+Hitchcock costruisce la minaccia attraverso l'attesa e l'accumulazione di indizi visivi e sonori. La relazione fra spazio mostrato, spazio non mostrato e suono permette di percepire una minaccia prima che questa occupi pienamente l'inquadratura.
+
+### Perché è didatticamente utile
+La scena consente di spiegare il fuori campo come spazio narrativamente attivo: ciò che non vediamo può essere più importante di ciò che vediamo.
+
+### Obiettivo didattico
+Riconoscere la funzione narrativa del fuori campo e distinguere suspense da sorpresa.
+
+### Come utilizzarla in classe
+Interrompere la scena prima dell'attacco e chiedere agli studenti di prevedere cosa sta per accadere sulla base dei soli indizi audiovisivi.
+
+### Domande
+1. Quando capiamo che gli uccelli sono presenti?
+2. Quali informazioni arrivano dal suono?
+3. Perché l'attesa è più efficace della semplice apparizione immediata della minaccia?
+
+### Collegamenti
+- *Lo squalo*: minaccia spesso mantenuta fuori campo.
+- *Psycho*: montaggio e suspense.
+- *Touch of Evil*: informazione narrativa e suspense.
+
+---
