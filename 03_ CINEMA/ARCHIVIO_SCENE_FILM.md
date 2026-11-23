@@ -1819,3 +1819,209 @@ Interrompere la scena prima dell'attacco e chiedere agli studenti di prevedere c
 - *Touch of Evil*: informazione narrativa e suspense.
 
 ---
+
+
+---
+# NUOVE SCHEDE — CLASSICI FONDAMENTALI PER LA DIDATTICA
+
+## 12. *La corazzata Potëmkin* (*Bronenosets Potemkin*, Sergej Ejzenštejn, 1925)
+- **Scena:** scalinata di Odessa.
+- **Concetto principale:** montaggio ritmico e conflittuale.
+- **Concetti secondari:** dettaglio, durata, ripetizione, direzione del movimento, costruzione dello spazio.
+- **Tag:** #montaggio #montaggio-ritmico #inquadratura #tempo #narrazione
+- **Livello:** Base / Intermedio.
+- **Uso:** introduzione / analisi / confronto.
+
+### Analisi
+La sequenza scompone un evento collettivo in una successione di campi, dettagli, volti, corpi e oggetti. La carrozzina, i soldati e la folla diventano motivi visivi che il montaggio mette in rapporto. L'effetto non deriva dalla semplice registrazione dell'azione, ma dall'organizzazione delle inquadrature e delle loro durate. È il caso classico per spiegare il montaggio sovietico come costruzione di ritmo, intensità e significato. La letteratura didattica di Bordwell e Thompson dedica alla sequenza un capitolo specifico sull'arte del montaggio; studi sulla cultura visuale sovietica ne analizzano inoltre la relazione fra ripresa e montaggio.
+
+### Perché è utile in classe
+Permette di distinguere montaggio come raccordo narrativo da montaggio come produzione di un effetto attraverso l'accostamento delle immagini.
+
+### Attività
+Prima visione libera; seconda visione con conteggio delle variazioni di scala; terza visione chiedendo: «Quale informazione aggiunge ogni nuovo frammento?».
+
+### Domande
+1. Perché l'azione è divisa in tanti frammenti?
+2. Quali immagini vengono ripetute o contrapposte?
+3. Il montaggio organizza soltanto lo spazio o interpreta l'evento?
+
+### Collegamenti e fonti
+- Ejzenštejn, teoria del montaggio; Bordwell/Thompson, *Closely Watched Films*.
+- Confronti: *Psycho*, *Fight Club*, *2001*.
+- Ricerca: [JSTOR, *Closely Watched Films*](https://www.jstor.org/stable/10.1525/j.ctt7zw19h).
+
+## 13. *L'uomo con la macchina da presa* (*Chelovek s kino-apparatom*, Dziga Vertov, 1929)
+- **Scena:** apertura e costruzione della città attraverso lavoro, trasporti, spettacolo e ripresa cinematografica.
+- **Concetto principale:** montaggio come costruzione della realtà e autoriflessività del dispositivo.
+- **Concetti secondari:** metacinema, ritmo, city symphony, macchina da presa, associazione.
+- **Tag:** #montaggio #metacinema #cinema-nel-cinema #spazio #movimento-di-macchina
+- **Livello:** Intermedio.
+
+### Analisi
+Vertov alterna vita urbana e immagini dell'operatore, della macchina da presa e del montaggio. La città non viene semplicemente osservata: viene costruita attraverso la selezione e l'organizzazione delle immagini. La ricerca di Malcolm Turvey colloca il film al centro dell'avanguardia europea degli anni Venti e degli esperimenti sul rapporto fra cinema e modernità.
+
+### Perché è utile in classe
+È un esempio privilegiato per spiegare che il cinema non è una finestra neutra sul reale: seleziona, ordina e mette in relazione.
+
+### Attività e domande
+Dividere il foglio in «cosa vedo» e «come il film me lo fa vedere». Chiedere: perché Vertov mostra l'operatore? Come il montaggio trasforma la città in un'esperienza ritmica?
+
+### Collegamenti e fonti
+- Malcolm Turvey, *The Filming of Modern Life*, MIT Press.
+- *The Men with the Movie Camera*, studi sulla cultura visuale sovietica, JSTOR.
+
+## 14. *Ladri di biciclette* (*Bicycle Thieves*, Vittorio De Sica, 1948)
+- **Scena:** ricerca della bicicletta per Roma, con particolare attenzione ai mercati e agli spazi urbani attraversati da Antonio e Bruno.
+- **Concetto principale:** spazio urbano nel neorealismo.
+- **Concetti secondari:** location, pedinamento, durata, realtà sociale, punto di vista.
+- **Tag:** #spazio #messa-in-scena #punto-di-vista #narrazione #tempo
+- **Livello:** Base / Intermedio.
+
+### Analisi
+La città non è uno sfondo neutro: determina ciò che i personaggi possono vedere, raggiungere e comprendere. Strade, mercati e luoghi di lavoro diventano informazioni narrative e sociali. La bibliografia sul neorealismo insiste proprio sulla relazione fra città, esperienza quotidiana e forma cinematografica; Millicent Marcus e Mark Shiel dedicano al film analisi specifiche.
+
+### Perché è utile in classe
+Permette di evitare una definizione superficiale del neorealismo basata soltanto su esterni e attori non professionisti: la forma dello spazio è parte della narrazione.
+
+### Attività e domande
+Far annotare quali informazioni sociali emergono senza essere esplicitate dal dialogo. Chiedere: cosa racconta Roma oltre alla ricerca della bicicletta? Come lo spazio condiziona l'azione?
+
+### Fonti
+- Millicent Marcus, *Italian Film in the Light of Neorealism*, Princeton UP.
+- Mark Shiel, *Italian Neorealism: Rebuilding the Cinematic City*, Columbia UP.
+- Frank P. Tomasulo, «Bicycle Thieves: A Re-Reading», *Cinema Journal*.
+
+## 15. *M – Il mostro di Düsseldorf* (*M*, Fritz Lang, 1931)
+- **Scena:** il fischio associato al criminale e la progressiva ricerca del colpevole.
+- **Concetto principale:** suono diegetico e informazione fuori campo.
+- **Concetti secondari:** leitmotiv, asincronia, montaggio parallelo, spazio urbano, suspense.
+- **Tag:** #suono #suono-diegetico #fuori-campo #montaggio-parallelo #suspense
+- **Livello:** Intermedio.
+
+### Analisi
+Il motivo del fischio identifica il criminale prima o indipendentemente dalla sua apparizione. Il suono può quindi anticipare l'immagine e diventare un indizio narrativo. *M* è particolarmente importante anche storicamente perché appartiene alla prima fase del cinema sonoro e usa il nuovo mezzo in modo strutturale, non semplicemente illustrativo.
+
+### Perché è utile in classe
+È un caso chiarissimo per spiegare che il suono può fornire informazione, creare uno spazio non visibile e modificare la suspense.
+
+### Attività e domande
+Prima visione con attenzione alle immagini; seconda concentrata soltanto sul suono. Chiedere: cosa sappiamo dal fischio? Dove si trova la fonte? Che cosa cambierebbe sostituendolo con musica extradiegetica?
+
+### Fonti
+- Samm Deighan, *M*, Liverpool University Press.
+- Analisi del passaggio dal muto al sonoro e del cinema di Fritz Lang; fonte accademica: [JSTOR](https://www.jstor.org/stable/j.ctv13841zs).
+
+## 16. *I quattrocento colpi* (*Les Quatre Cents Coups*, François Truffaut, 1959)
+- **Scena:** fuga di Antoine e freeze frame conclusivo sulla spiaggia.
+- **Concetto principale:** freeze frame e finale aperto.
+- **Concetti secondari:** Nouvelle Vague, punto di vista, sospensione narrativa, spazio.
+- **Tag:** #inquadratura #montaggio #tempo #punto-di-vista #narrazione
+- **Livello:** Base / Intermedio.
+
+### Analisi
+Il movimento di Antoine verso il mare si conclude con l'arresto dell'immagine sul volto del ragazzo. La tecnica non serve soltanto a «fermare» un fotogramma: sospende anche la risposta narrativa. La storiografia della Nouvelle Vague considera questo volto congelato una delle immagini canoniche del movimento.
+
+### Perché è utile in classe
+Consente di spiegare come una scelta di montaggio possa trasformare un finale in una domanda rivolta allo spettatore.
+
+### Attività e domande
+Fermare il film un istante prima del freeze frame e chiedere agli studenti di prevedere la conclusione. Poi confrontare le aspettative con l'immagine finale: la storia è davvero conclusa?
+
+### Fonti
+- Richard Neupert, *A History of the French New Wave Cinema*.
+- [JSTOR, storia della Nouvelle Vague](https://www.jstor.org/stable/jj.36106136).
+
+## 17. *Singin' in the Rain* (*Cantando sotto la pioggia*, Stanley Donen e Gene Kelly, 1952)
+- **Scena:** numero musicale «Singin' in the Rain».
+- **Concetto principale:** integrazione di musica, corpo, spazio e macchina da presa.
+- **Concetti secondari:** musical, coreografia, movimento di macchina, montaggio, diegesi.
+- **Tag:** #musica #messa-in-scena #movimento-di-macchina #spazio
+- **Livello:** Base.
+
+### Analisi
+La strada diventa spazio performativo: coreografia, macchina da presa, pioggia, scenografia e musica sono progettati come un unico sistema audiovisivo. La bibliografia sulla realizzazione del film mostra la complessità della progettazione e delle riprese dei numeri musicali.
+
+### Perché è utile in classe
+È un esempio immediato per dimostrare che nel musical la macchina da presa non si limita a documentare una danza, ma partecipa alla costruzione della performance.
+
+### Attività e domande
+Tre visioni: corpo / macchina da presa / rapporto musica-spazio. Chiedere: la macchina registra o coreografa? Come cambia la strada quando diventa scena?
+
+### Fonte
+- Earl J. Hess e Pratibha A. Mehta, *Singin' in the Rain: The Making of an American Masterpiece*, University Press of Kansas / JSTOR.
+- [JSTOR, studi sulla realizzazione del film](https://www.jstor.org/stable/jj.1544771).
+
+## 18. *Persona* (Ingmar Bergman, 1966)
+- **Scena:** prologo, con particolare attenzione alla successione di volti, materiali cinematografici e immagini della pellicola.
+- **Concetto principale:** primo piano come forma espressiva.
+- **Concetti secondari:** volto, metacinema, soggettività, materialità della pellicola, montaggio.
+- **Tag:** #inquadratura #metacinema #montaggio #punto-di-vista
+- **Livello:** Avanzato.
+
+### Analisi
+Il prologo non presenta semplicemente una storia: costruisce un insieme di immagini che rende percepibile il dispositivo cinematografico. Il volto assume una funzione autonoma rispetto alla semplice identificazione del personaggio. La lettura di Gilles Deleuze sul volto come «affection-image» è particolarmente utile per passare dalla definizione tecnica di primo piano alla sua funzione espressiva.
+
+### Perché è utile in classe
+Permette di distinguere la scala dell'inquadratura dalla funzione dell'inquadratura.
+
+### Attività e domande
+Descrivere i volti prima di interpretarli. Chiedere: perché il primo piano può diventare uno spazio narrativo? Perché Bergman mostra anche la pellicola e il dispositivo?
+
+### Fonti
+- Richard Rushton, «Deleuze and Bergman: Persona and the Affection-Image».
+- Bergman, studi sulla funzione del volto; [JSTOR](https://www.jstor.org/stable/j.35297667).
+
+## 19. *Metropolis* (Fritz Lang, 1927)
+- **Scena:** la macchina centrale e la sua trasformazione visiva in figura mostruosa; confronto con la massa dei lavoratori.
+- **Concetto principale:** messa in scena espressionista e simbolizzazione dello spazio.
+- **Concetti secondari:** scenografia, scala, luce, corpo, montaggio, allegoria.
+- **Tag:** #messa-in-scena #composizione #luce #spazio #simbolismo
+- **Livello:** Base / Intermedio.
+
+### Analisi
+Architetture monumentali, masse di corpi, geometrie e contrasti di scala costruiscono un mondo nel quale l'industria domina visivamente il soggetto umano. La macchina diventa figura simbolica attraverso la composizione e il montaggio. La storiografia del cinema tedesco considera *Metropolis* un'opera centrale per la fantascienza e per lo sviluppo della messa in scena cinematografica.
+
+### Perché è utile in classe
+Permette di spiegare la mise-en-scène come organizzazione complessiva di spazio, luce, corpi e oggetti, non come semplice scenografia.
+
+### Attività e domande
+Prima descrivere senza interpretare: linee, masse, scala, luce, movimento. Poi chiedere: come viene costruito visivamente il rapporto uomo/macchina?
+
+### Fonti
+- Thomas Elsaesser, *A German History of Film*.
+- *A Critical History of German Film*, capitolo «Metropolis (1927) or Technology and Sex», [JSTOR](https://www.jstor.org/stable/10.7722/j.ctt16314jf.10).
+
+## 20. *Citizen Kane* (*Quarto potere*, Orson Welles, 1941)
+- **Scena:** una scena costruita su più piani di profondità, da utilizzare per analizzare la profondità di campo e la composizione in profondità.
+- **Concetto principale:** profondità di campo.
+- **Concetti secondari:** messa in scena, gerarchia visiva, spazio narrativo, focalizzazione.
+- **Tag:** #profondità #composizione #messa-in-scena #spazio #punto-di-vista
+- **Livello:** Base / Intermedio.
+
+### Analisi
+La profondità di campo mantiene leggibili elementi posti a distanze differenti dalla macchina da presa. La scena può quindi distribuire più informazioni nello stesso fotogramma invece di obbligare il découpage a isolare ogni elemento. Gli studi accademici su *Citizen Kane* lo trattano come caso paradigmatico di «expressive realism», collegando profondità, composizione e narrazione.
+
+### Perché è utile in classe
+È ideale per distinguere profondità di campo da semplice campo lungo e per mostrare come la messa in scena possa sostituire parte della frammentazione del découpage.
+
+### Attività e domande
+Fermare alcuni fotogrammi e numerare i piani di profondità. Chiedere: quante informazioni sono presenti nello stesso quadro? Cosa cambierebbe con campo/controcampo?
+
+### Fonti
+- Robert Kolker, capitolo su *Citizen Kane* in *Closely Watched Films*.
+- Studi sul realismo espressivo di Welles, [JSTOR](https://www.jstor.org/stable/10.1525/j.ctt7zw19h).
+
+---
+
+# PROGRESSIONE DIDATTICA AGGIORNATA
+
+- **Montaggio:** *La corazzata Potëmkin* → *L'uomo con la macchina da presa* → *Psycho* → *Breathless*.
+- **Spazio e macchina da presa:** *L'ultima risata* → *Touch of Evil* → *Rope*.
+- **Messa in scena:** *Metropolis* → *Citizen Kane* → *The Grand Budapest Hotel*.
+- **Suono:** *M* → *The Conversation* → *Blow Out*.
+- **Cinema moderno:** *I quattrocento colpi* → *Breathless* → *Persona*.
+- **Neorealismo:** *Ladri di biciclette* → *La strada* → *Rocco e i suoi fratelli*.
+- **Musical:** *Singin' in the Rain* → *Moulin Rouge!*.
+
+Questa selezione è stata costruita con un criterio didattico: ogni film deve fornire almeno una scena relativamente autonoma nella quale una scelta audiovisiva sia osservabile, nominabile e confrontabile con altre scene dell'archivio.
