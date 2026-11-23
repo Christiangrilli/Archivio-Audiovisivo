@@ -553,7 +553,7 @@ Le indicazioni sulla durata e sul minutaggio restano volutamente non specificate
 - **Tag:** #inquadratura #montaggio #continuità #raccordo-sul-movimento #spazio #découpage #commedia
 - **Livello:** Base / Intermedio.
 - **Uso consigliato:** introdurre il raccordo sul movimento e mostrare, attraverso il confronto interno allo stesso film, che la continuità non è una regola applicata meccanicamente.
-- **Stato:** **DA COMPLETARE** — i due frammenti devono essere individuati e delimitati sull'edizione effettivamente disponibile. Non sono indicati timecode non controllati.
+**Stato:** DA COMPLETARE — i due frammenti devono essere individuati e delimitati sull'edizione effettivamente disponibile. Non sono indicati timecode non controllati.
 
 ### Contesto essenziale
 David Huxley, paleontologo concentrato sul lavoro al museo, incontra Susan Vance, il cui comportamento imprevedibile altera progressivamente i suoi programmi. Per l'analisi del linguaggio è sufficiente chiarire la situazione immediata dei due frammenti: nel primo Susan si trova nell'ufficio della polizia; nel secondo i personaggi sono sul campo da golf. Non occorre riassumere l'intera trama.
@@ -633,7 +633,7 @@ Consegnare agli studenti una coppia di brevi serie di fotogrammi, una relativa a
 - **Tag:** #narrazione #messa-in-scena #montaggio #metacinema #suspense #recitazione #immagine
 - **Livello:** Intermedio.
 - **Uso consigliato:** mostrare come un racconto cinematografico selezioni dettagli, distribuisca informazioni e costruisca un'attesa senza dover spiegare tutto verbalmente.
-- **Stato:** **DA COMPLETARE** — delimitare i due passaggi sulla copia utilizzata in classe e verificare il punto in cui la rievocazione finale si intreccia con le immagini di Kathleen. Nessun timecode è stato verificato.
+**Stato:** DA COMPLETARE — delimitare i due passaggi sulla copia utilizzata in classe e verificare il punto in cui la rievocazione finale si intreccia con le immagini di Kathleen. Nessun timecode è stato verificato.
 
 ### Contesto essenziale
 Monroe Stahr è un potente responsabile di produzione di uno studio hollywoodiano degli anni Trenta. George Boxley, scrittore proveniente dalla letteratura, fatica a comprendere le esigenze della narrazione cinematografica. Per mostrargli la differenza fra un dialogo brillante e una scena capace di trattenere l'attenzione, Stahr improvvisa un racconto e lo accompagna con gesti e indicazioni rivolte a un interlocutore immaginario. Il nichelino lasciato sul tavolo resta senza spiegazione: proprio questa informazione non risolta suscita la domanda di Boxley.
@@ -712,7 +712,7 @@ In una breve nota, devono spiegare come il finale del film riprenda e trasformi 
 - **Tag:** #punto-di-vista #soggettiva #voice-over #fuori-campo #focalizzazione #flashback
 - **Livello:** Intermedio / Avanzato.
 - **Uso consigliato:** analizzare come un film possa avvicinare lo spettatore alla percezione di un personaggio senza ricorrere sempre a una soggettiva ottica isolata.
-- **Stato:** **DA COMPLETARE** — il commento BFI individua il passaggio intorno a 00:40:37 nella propria scansione della sequenza; il riferimento va confrontato con l'edizione effettivamente utilizzata in classe.
+**Stato:** DA COMPLETARE — il commento BFI individua il passaggio intorno a 00:40:37 nella propria scansione della sequenza; il riferimento va confrontato con l'edizione effettivamente utilizzata in classe.
 
 ### Contesto essenziale
 La famiglia Salina è in viaggio verso Donnafugata. Durante una sosta per il picnic, un servitore si rivolge al Principe e commenta il fatto che la famiglia sia riuscita a lasciare Palermo senza danni. La risposta di Don Fabrizio introduce un passaggio in cui il film assume più chiaramente il suo punto di vista: alcuni personaggi guardano verso la macchina da presa e la voce del Principe accompagna l'accesso a un ricordo legato agli ufficiali garibaldini.
@@ -781,7 +781,7 @@ Fornire agli studenti una breve serie di fotogrammi del frammento e chiedere di:
 - **Livello:** Intermedio / Avanzato.
 - **Uso consigliato:** analizzare come il montaggio possa mettere in relazione due azioni differenti e produrre un significato attraverso il loro contrasto.
 - **Attenzione ai contenuti:** la sequenza comprende violenza sessuale nel contesto narrativo e un omicidio rappresentato in modo esplicito. Per una classe, selezionare con attenzione il frammento e valutare se sia opportuno mostrare l'intera scena o concentrarsi sulla struttura del montaggio, evitando la spettacolarizzazione della violenza.
-- **Stato:** **DA COMPLETARE** — delimitare il frammento e controllare la sua durata sull'edizione disponibile; la verifica didattica deve considerare anche l'adeguatezza del contenuto per la classe.
+**Stato:** DA COMPLETARE — delimitare il frammento e controllare la sua durata sull'edizione disponibile; la verifica didattica deve considerare anche l'adeguatezza del contenuto per la classe.
 
 ### Contesto essenziale
 Rocco ha accettato di diventare pugile professionista per pagare i debiti contratti dal fratello Simone. Nel finale, mentre Rocco disputa un incontro decisivo, Simone raggiunge Nadia all'Idroscalo e la uccide. Il film alterna le due linee d'azione: la vittoria sportiva di Rocco e la morte di Nadia vengono così poste in relazione attraverso un contrasto drammatico e simbolico.
@@ -853,7 +853,7 @@ Consegnare agli studenti una scheda con otto fotogrammi in ordine sparso, tratti
 - **Tag:** #montaggio #montaggio-alternato #melodramma #messa-in-scena #colore #musica-diegetica #spazio
 - **Livello:** Intermedio / Avanzato.
 - **Uso consigliato:** analizzare come il montaggio colleghi due spazi separati e come musica, colore, movimento e composizione producano un significato che supera la semplice successione degli eventi.
-- **Stato:** **DA COMPLETARE** — selezionare il frammento completo e verificare i passaggi di montaggio sull'edizione disponibile; non sono indicati timecode non controllati.
+**Stato:** DA COMPLETARE — selezionare il frammento completo e verificare i passaggi di montaggio sull'edizione disponibile; non sono indicati timecode non controllati.
 
 ### Contesto essenziale
 Marylee Hadley, figlia del ricco magnate Jasper Hadley, vive un rapporto conflittuale con il padre e desidera Mitch Wayne, che ama invece Lucy. Dopo un nuovo scontro con il padre, Marylee rientra nella propria camera e si abbandona a una danza solitaria. Jasper, attirato dal rumore, sale le scale della villa e muore cadendo dalla scalinata. Il film alterna le due azioni, che avvengono in ambienti distinti.
@@ -925,7 +925,7 @@ Gli studenti compilano una tabella a due colonne, una per ciascuno spazio, regis
 - **Tag:** #spazio #tempo #movimento-di-macchina #narrazione #punto-di-vista #continuità #asse-dell-azione
 - **Livello:** Intermedio / Avanzato.
 - **Uso consigliato:** confrontare la costruzione dello spazio nel découpage classico con una sequenza che sospende la continuità e lascia emergere la durata e il paesaggio.
-- **Stato:** **DA COMPLETARE** — selezionare un frammento circoscritto della ricerca sull'isola e controllare i passaggi di montaggio sulla copia utilizzata in classe.
+**Stato:** DA COMPLETARE — selezionare un frammento circoscritto della ricerca sull'isola e controllare i passaggi di montaggio sulla copia utilizzata in classe.
 
 ### Contesto essenziale
 Durante una gita in barca alle isole Eolie, Anna scompare su Lisca Bianca. Il gruppo comincia a cercarla, ma la ricerca non conduce a una soluzione: gli spostamenti si ripetono, le informazioni non chiariscono che cosa sia accaduto e il racconto progressivamente sposta l'attenzione su Claudia e Sandro. Per l'analisi è sufficiente presentare la scomparsa e spiegare che il frammento scelto segue la ricerca sull'isola.
@@ -997,7 +997,7 @@ Consegnare agli studenti una breve sequenza di fotogrammi del frammento e chiede
 - **Tag:** #spazio #tempo #montaggio #fuori-campo #paesaggio #inquadratura #narrazione
 - **Livello:** Intermedio / Avanzato.
 - **Uso consigliato:** mostrare come il film possa spostare il centro dell'attenzione dai personaggi allo spazio, lasciando che la durata e i dettagli urbani diventino materia della sequenza.
-- **Stato:** **DA COMPLETARE** — verificare l'inizio e la fine del montaggio conclusivo sull'edizione utilizzata in classe; il riferimento ai circa sette minuti deriva dalle fonti critiche e non sostituisce il controllo della copia.
+**Stato:** DA COMPLETARE — verificare l'inizio e la fine del montaggio conclusivo sull'edizione utilizzata in classe; il riferimento ai circa sette minuti deriva dalle fonti critiche e non sostituisce il controllo della copia.
 
 ### Contesto essenziale
 Vittoria e Piero hanno stabilito di incontrarsi in un incrocio del quartiere EUR, ma nessuno dei due si presenta. Dopo aver seguito per tutto il film la loro relazione, lo spettatore si aspetta che l'appuntamento produca un nuovo incontro o una conclusione narrativa. Antonioni sceglie invece di mostrare il luogo senza i protagonisti: passanti, mezzi, oggetti e dettagli dello spazio urbano occupano il posto che fino a quel momento era stato riservato alla coppia.
@@ -1074,7 +1074,7 @@ A conclusione, scrivono un breve commento sul modo in cui il finale sposta l'att
 - **Tag:** #punto-di-vista #soggettiva #montaggio #movimento-di-macchina #suono #narrazione #sogno
 - **Livello:** Intermedio.
 - **Uso consigliato:** mostrare come il cinema possa far vivere allo spettatore una percezione soggettiva senza segnalare subito che ciò che vede appartiene a un sogno.
-- **Stato:** **DA COMPLETARE** — verificare la delimitazione della sequenza e la sua durata sulla copia utilizzata in classe; non inserire timecode senza controllo.
+**Stato:** DA COMPLETARE — verificare la delimitazione della sequenza e la sua durata sulla copia utilizzata in classe; non inserire timecode senza controllo.
 
 ### Contesto essenziale
 Guido Anselmi è un regista in crisi creativa, incapace di trovare una direzione per il film che dovrebbe realizzare. Il film si apre con un sogno nel quale Guido è intrappolato in un ingorgo automobilistico. L'esperienza di soffocamento e la fuga impossibile anticipano la condizione psicologica del protagonista: pressione, immobilità e desiderio di liberazione. Soltanto quando Guido si sveglia nel letto dello stabilimento termale lo spettatore comprende che la sequenza precedente non era un evento realistico.
@@ -1148,7 +1148,7 @@ Per ogni fase indicano un elemento visivo, un elemento sonoro e la funzione narr
 - **Tag:** #suono #voce #diegetico #fuori-campo #metacinema #punto-di-vista #narrazione
 - **Livello:** Intermedio / Avanzato.
 - **Uso consigliato:** analizzare come il cinema possa separare il corpo che vediamo dalla voce che ascoltiamo e come la consapevolezza dell'artificio non annulli necessariamente l'emozione.
-- **Stato:** **DA COMPLETARE** — selezionare il frammento completo e verificare la durata sulla copia utilizzata in classe.
+**Stato:** DA COMPLETARE — selezionare il frammento completo e verificare la durata sulla copia utilizzata in classe.
 
 ### Contesto essenziale
 Betty e Rita, dopo aver seguito un richiamo enigmatico, arrivano al Club Silencio, un teatro notturno e quasi vuoto. Sul palco il presentatore, chiamato Bondar, insiste sul fatto che non esiste un'orchestra e che ciò che il pubblico ascolta è una registrazione. Per dimostrarlo, un trombettista sembra suonare dal vivo, ma il suono continua anche quando allontana lo strumento dalle labbra. Poco dopo Rebekah Del Rio canta *Llorando*, versione in spagnolo di *Crying* di Roy Orbison. La cantante crolla sul palco, ma la voce continua a essere ascoltata: lo spettatore comprende che il suono era registrato.
@@ -1217,7 +1217,7 @@ Gli studenti compilano una tabella con quattro colonne: **immagine visibile**, *
 - **Livello:** Base / Intermedio.
 - **Uso consigliato:** analizzare come la macchina da presa possa allineare temporaneamente lo spettatore con una minaccia che il personaggio osservato non può vedere.
 - **Attenzione ai contenuti:** la sequenza mostra un attacco mortale e contiene urla e immagini di forte tensione. Valutare il frammento in rapporto all'età e alla sensibilità della classe.
-- **Stato:** **DA COMPLETARE** — verificare il segmento e la sua durata sull'edizione scelta; non inserire timecode non controllati.
+**Stato:** DA COMPLETARE — verificare il segmento e la sua durata sull'edizione scelta; non inserire timecode non controllati.
 
 ### Contesto essenziale
 Durante una festa notturna sulla spiaggia di Amity Island, Chrissie Watkins e Tom si allontanano dal gruppo per fare un bagno. Tom, ubriaco e assonnato, resta sulla riva; Chrissie nuota da sola e viene attaccata da una presenza che il film non mostra direttamente. La scena introduce lo squalo come minaccia e stabilisce una relazione particolare fra il punto di vista dello spettatore, il corpo della ragazza e lo spazio sott'acqua.
@@ -1287,7 +1287,7 @@ Gli studenti compilano una tabella con quattro colonne: **inquadratura**, **posi
 - **Tag:** #montaggio #montaggio-alternato #raccordo-sul-movimento #intertestualità #punto-di-vista #musica #narrazione
 - **Livello:** Base / Intermedio.
 - **Uso consigliato:** mostrare come il montaggio possa collegare azioni simultanee in luoghi diversi e trasformare un rapporto invisibile fra personaggi in una relazione percepibile attraverso immagini e gesti.
-- **Stato:** **DA COMPLETARE** — delimitare la sequenza e controllare i passaggi di montaggio sulla copia utilizzata in classe.
+**Stato:** DA COMPLETARE — delimitare la sequenza e controllare i passaggi di montaggio sulla copia utilizzata in classe.
 
 ### Contesto essenziale
 Elliott è a scuola, mentre E.T. è rimasto solo a casa. I due sono legati da una connessione telepatica: quando E.T. beve birra, Elliott comincia a comportarsi come se fosse ubriaco. Durante una lezione in cui gli studenti devono dissezionare delle rane, Elliott decide di liberarle. A casa, E.T. osserva oggetti, fumetti e programmi televisivi che gli suggeriscono come comunicare con il proprio pianeta. La sequenza alterna i due ambienti e rende visibile il legame fra le loro azioni.
@@ -1363,7 +1363,7 @@ A conclusione, descrivono il raccordo fra il bacio sul televisore e quello di El
 - **Livello:** Base / Intermedio.
 - **Uso consigliato:** confrontare la gestione della minaccia invisibile in *Lo squalo* con la progressiva apparizione di una creatura che il film può finalmente mostrare.
 - **Attenzione ai contenuti:** la sequenza contiene un attacco violento e la morte di un personaggio; selezionare il frammento in rapporto all'età e alla sensibilità della classe.
-- **Stato:** **DA COMPLETARE** — delimitare il segmento e controllare la durata sulla copia utilizzata in classe.
+**Stato:** DA COMPLETARE — delimitare il segmento e controllare la durata sulla copia utilizzata in classe.
 
 ### Contesto essenziale
 Durante il temporale, il gruppo di visitatori resta bloccato nelle jeep davanti al recinto del Tyrannosaurus rex. La corrente è interrotta e il sistema di sicurezza non funziona. L'animale non si mostra subito: i personaggi avvertono prima i suoi passi, vedono vibrare l'acqua in un bicchiere e si accorgono che la capra lasciata come esca è scomparsa. Solo in seguito il dinosauro entra nel campo visivo e attacca i veicoli.
@@ -1440,7 +1440,7 @@ Per ogni fase indicano **che cosa vede lo spettatore**, **che cosa sente**, **ch
 - **Tag:** #interfaccia #schermo #immagine-digitale #montaggio #punto-di-vista #media-education #tecnologia
 - **Livello:** Intermedio.
 - **Uso consigliato:** analizzare come il cinema rappresenti un'interfaccia e come le immagini diventino oggetti manipolabili all'interno dello spazio narrativo.
-- **Stato:** **DA COMPLETARE** — selezionare un frammento preciso della scena alla PreCrime e verificare la durata sulla copia disponibile.
+**Stato:** DA COMPLETARE — selezionare un frammento preciso della scena alla PreCrime e verificare la durata sulla copia disponibile.
 
 ### Contesto essenziale
 Nel 2054, la polizia utilizza le visioni dei precog per individuare gli omicidi prima che avvengano. John Anderton, responsabile dell'unità PreCrime, consulta le immagini prodotte dai precog attraverso una grande superficie trasparente e curva. Indossa guanti con sensori e usa gesti delle mani per richiamare, spostare, ingrandire e mettere in relazione i frammenti visivi. L'interfaccia è parte del mondo narrativo, ma costituisce anche una rappresentazione cinematografica di un possibile rapporto futuro fra corpo e computer.
@@ -1520,7 +1520,7 @@ A conclusione, progettano un'interfaccia semplificata per la consultazione di un
 - **Tag:** #spazio #punto-di-vista #movimento-di-macchina #intermedialità #cgi #montaggio #videogioco
 - **Livello:** Intermedio.
 - **Uso consigliato:** confrontare la rappresentazione dello spazio fisico con quella dello spazio digitale e osservare come la grammatica cinematografica si avvicini a quella dei videogiochi.
-- **Stato:** **DA COMPLETARE** — individuare l'inizio e la fine del segmento sulla copia scelta e verificare la durata effettiva.
+**Stato:** DA COMPLETARE — individuare l'inizio e la fine del segmento sulla copia scelta e verificare la durata effettiva.
 
 ### Contesto essenziale
 Nel 2045 Wade Watts vive in un quartiere di roulotte sovrapposte, chiamato The Stacks. La vita quotidiana è segnata da precarietà e sovraffollamento; l'OASIS offre invece un ambiente virtuale nel quale gli utenti possono assumere un avatar e muoversi in mondi costruiti digitalmente. Quando Wade indossa il visore, il film passa dal suo spazio fisico al mondo virtuale, introducendo lo spettatore a un ambiente che non obbedisce alle stesse limitazioni della realtà materiale.
@@ -1594,7 +1594,7 @@ Gli studenti realizzano una mappa visiva del passaggio in OASIS, suddividendolo 
 - **Tag:** #spazio #movimento-di-macchina #messa-in-scena #inquadratura #compositing #voce-over #metacinema
 - **Livello:** Intermedio.
 - **Uso consigliato:** analizzare come una sequenza possa dichiarare la propria artificialità e, nello stesso tempo, coinvolgere lo spettatore in un movimento immersivo verso lo spazio narrativo.
-- **Stato:** **DA COMPLETARE** — verificare il segmento e la sua durata sull'edizione scelta; distinguere la prima apertura teatrale dal successivo movimento digitale su Parigi.
+**Stato:** DA COMPLETARE — verificare il segmento e la sua durata sull'edizione scelta; distinguere la prima apertura teatrale dal successivo movimento digitale su Parigi.
 
 ### Contesto essenziale
 Il film si apre come uno spettacolo teatrale. Un sipario rosso si apre, un direttore d'orchestra si rivolge al pubblico e la musica introduce il mondo del Moulin Rouge. La macchina da presa supera poi la cornice del palcoscenico e attraversa una rappresentazione di Parigi che passa dal bianco e nero a una colorazione progressiva, fino a raggiungere la soffitta di Christian, dove il personaggio comincia a raccontare la propria storia.
@@ -1669,7 +1669,7 @@ Gli studenti realizzano uno storyboard di sei vignette che ricostruisca l'apertu
 - **Tag:** #montaggio #ritmo #suono #musica #movimento-di-macchina #messa-in-scena #colore
 - **Livello:** Intermedio.
 - **Uso consigliato:** analizzare come montaggio, musica, colore e movimento costruiscano la percezione di una festa e come la densità audiovisiva possa orientare o disorientare lo spettatore.
-- **Stato:** **DA COMPLETARE** — circoscrivere il segmento della prima festa e verificare il numero e la durata delle inquadrature sulla copia scelta.
+**Stato:** DA COMPLETARE — circoscrivere il segmento della prima festa e verificare il numero e la durata delle inquadrature sulla copia scelta.
 
 ### Contesto essenziale
 Nick Carraway viene invitato alla villa di Gatsby e scopre una festa molto più grande e spettacolare di quanto immaginasse. La sequenza introduce il mondo del protagonista attraverso una successione di immagini, danze, musiche, costumi, decorazioni e reazioni degli ospiti. Il film non presenta subito uno spazio perfettamente leggibile: lo spettatore viene trascinato dentro una serie di attrazioni e dettagli che compongono progressivamente l'ambiente.
@@ -1749,7 +1749,7 @@ A conclusione, scrivono un breve commento sul rapporto fra ritmo musicale, ritmo
 - **Livello:** Base.
 - **Uso consigliato:** mostrare come una scena possa costruire un'aspettativa attraverso la preparazione di un'azione e poi rovesciarla con una soluzione improvvisa e sintetica.
 - **Attenzione alla rappresentazione:** il personaggio dello spadaccino è costruito attraverso un'immagine stereotipata dell'avversario arabo nel mercato orientale. È possibile affiancare all'analisi del tempo comico una breve riflessione sui codici esotizzanti del cinema d'avventura.
-- **Stato:** **DA COMPLETARE** — delimitare il frammento sulla copia disponibile e verificare il rapporto fra la coreografia dello spadaccino, la reazione di Indy e lo sparo.
+**Stato:** DA COMPLETARE — delimitare il frammento sulla copia disponibile e verificare il rapporto fra la coreografia dello spadaccino, la reazione di Indy e lo sparo.
 
 ### Contesto essenziale
 Indiana Jones è alla ricerca di Marion Ravenwood, rapita durante il caos del mercato del Cairo. Dopo aver affrontato diversi avversari, si trova davanti a un uomo armato di scimitarra che esegue una serie di movimenti spettacolari per intimidirlo. Lo spettatore si aspetta un nuovo combattimento, ma Indy interrompe l'esibizione estraendo la pistola e sparando.
@@ -1827,7 +1827,7 @@ Accanto a ogni vignetta indicano la durata relativa (lunga, breve, brevissima) e
 - **Tag:** #inquadratura #composizione #luce #messa-in-scena #spazio #simbolismo
 - **Livello:** Base / Intermedio.
 - **Uso consigliato:** analizzare come disposizione dei corpi, scacchiera, paesaggio e luce costruiscano un confronto filosofico senza bisogno di un montaggio rapido.
-- **Stato:** **DA COMPLETARE** — selezionare il frammento dell'incontro e della prima partita e verificare la delimitazione sulla copia utilizzata in classe.
+**Stato:** DA COMPLETARE — selezionare il frammento dell'incontro e della prima partita e verificare la delimitazione sulla copia utilizzata in classe.
 
 ### Contesto essenziale
 Il cavaliere Antonius Block torna in Svezia dopo le Crociate e trova il paese devastato dalla peste. Sulla spiaggia incontra la Morte, che gli comunica di essere venuta a prenderlo. Block le propone una partita a scacchi: se riuscirà a vincere, potrà continuare a vivere. Il gioco diventa il dispositivo attraverso cui il personaggio tenta di guadagnare tempo e interrogare il senso della propria esistenza.
@@ -1903,7 +1903,7 @@ Gli studenti realizzano una pianta e uno storyboard di quattro inquadrature dell
 - **Tag:** #spazio #movimento-di-macchina #continuità #montaggio #punto-di-vista #effetti-visivi #memoria
 - **Livello:** Intermedio / Avanzato.
 - **Uso consigliato:** mostrare come la continuità possa essere mantenuta in apparenza all'interno di un piano lungo, mentre la geografia dello spazio viene trasformata in modo impossibile.
-- **Stato:** **DA COMPLETARE** — delimitare il passaggio del litigio e controllare sulla copia utilizzata la continuità del movimento fra bagno, cucina e porta d'ingresso.
+**Stato:** DA COMPLETARE — delimitare il passaggio del litigio e controllare sulla copia utilizzata la continuità del movimento fra bagno, cucina e porta d'ingresso.
 
 ### Contesto essenziale
 Joel si sottopone a una procedura per cancellare i ricordi della relazione con Clementine. Il film attraversa le memorie del protagonista mentre queste vengono progressivamente eliminate. Nel ricordo del litigio finale, Joel segue Clementine attraverso diversi ambienti dell'appartamento. La donna sembra spostarsi in modo impossibile da un luogo all'altro, mentre la macchina da presa continua a seguirla e a mantenere un'apparente continuità del movimento.
@@ -1981,7 +1981,7 @@ Gli studenti realizzano una pianta dell'appartamento e uno storyboard di cinque 
 - **Tag:** #piano-sequenza #long-take #montaggio #continuità #raccordo #movimento-di-macchina #spazio #tempo #messa-in-scena
 - **Livello:** Intermedio / Avanzato.
 - **Uso consigliato:** mostrare come una ripresa lunga possa riprodurre le funzioni del découpage classico senza ricorrere a un taglio visibile, e come il movimento di macchina possa controllare ciò che lo spettatore vede e quando lo vede.
-- **Stato:** **DA COMPLETARE** — delimitare i due frammenti sulla copia scelta e verificare la posizione esatta dei raccordi nascosti; non indicare timecode non controllati.
+**Stato:** DA COMPLETARE — delimitare i due frammenti sulla copia scelta e verificare la posizione esatta dei raccordi nascosti; non indicare timecode non controllati.
 
 ### Contesto essenziale
 *Birdman* segue Riggan Thomson, attore un tempo celebre per aver interpretato un supereroe e ora impegnato a dirigere e interpretare uno spettacolo teatrale a Broadway. Il film dà l'impressione di svolgersi in una ripresa continua, seguendo i personaggi attraverso camerini, corridoi, palcoscenico e ambienti adiacenti. L'effetto è costruito attraverso lunghi segmenti di ripresa, movimenti di macchina coreografati e giunzioni nascoste in post-produzione.
@@ -2060,7 +2060,7 @@ Aggiungono una nota in cui spiegano quale funzione del montaggio viene riprodott
 - **Livello:** Intermedio / Avanzato.
 - **Uso consigliato:** mostrare come un'immagine brevissima possa anticipare un'informazione narrativa e assumere un significato diverso dopo la rivelazione finale.
 - **Attenzione ai contenuti:** il film affronta violenza, autolesionismo, ideologie estremiste e rappresentazioni problematiche della mascolinità. Selezionare il frammento in relazione alla classe.
-- **Stato:** **DA COMPLETARE** — individuare tutti gli inserti sulla copia utilizzata e verificarne il numero e la posizione fotogramma per fotogramma.
+**Stato:** DA COMPLETARE — individuare tutti gli inserti sulla copia utilizzata e verificarne il numero e la posizione fotogramma per fotogramma.
 
 ### Contesto essenziale
 Il Narratore è un impiegato insonne e insoddisfatto che frequenta gruppi di sostegno e cerca una forma di sollievo dalla propria vita quotidiana. Tyler Durden viene introdotto più avanti come un personaggio autonomo, incontrato durante un viaggio in aereo. Prima di quel momento, però, la sua immagine compare per brevissimi istanti all'interno di alcune inquadrature. Dopo la rivelazione conclusiva, questi inserti possono essere riletti come anticipazioni della relazione fra i due personaggi.
@@ -2132,7 +2132,7 @@ Gli studenti confrontano una sequenza a velocità normale con la stessa sequenza
 - **Tag:** #composizione #simmetria #colore #spazio #inquadratura #formato #messa-in-scena
 - **Livello:** Base / Intermedio.
 - **Uso consigliato:** introdurre la composizione geometrica e mostrare come il formato dell'immagine condizioni la disposizione dei corpi e degli oggetti.
-- **Stato:** **DA COMPLETARE** — scegliere un frammento circoscritto della hall e verificare sulla copia la durata e la successione delle inquadrature.
+**Stato:** DA COMPLETARE — scegliere un frammento circoscritto della hall e verificare sulla copia la durata e la successione delle inquadrature.
 
 ### Contesto essenziale
 Il Grand Budapest Hotel è un albergo immaginario dell'Europa centrale. La storia principale è ambientata negli anni Trenta, quando M. Gustave ne è il concierge e Zero il giovane fattorino. Il film racconta questa vicenda attraverso più cornici temporali: il formato dell'immagine cambia a seconda dell'epoca narrata. Le scene degli anni Trenta sono girate nel formato Academy 1,37:1, più vicino alle proporzioni del cinema classico precedente al widescreen.
@@ -2211,7 +2211,7 @@ Aggiungono una breve nota sul rapporto fra formato e organizzazione dello spazio
 - **Tag:** #composizione #spazio #messa-in-scena #inquadratura #profondità-di-campo #piano-sequenza #movimento-di-macchina
 - **Livello:** Intermedio.
 - **Uso consigliato:** spiegare come più azioni possano restare simultaneamente leggibili in un'unica inquadratura, senza essere separate da un montaggio analitico.
-- **Stato:** **DA COMPLETARE** — individuare il segmento completo e verificare il punto di inizio e fine sulla copia scelta; non inserire timecode senza controllo.
+**Stato:** DA COMPLETARE — individuare il segmento completo e verificare il punto di inizio e fine sulla copia scelta; non inserire timecode senza controllo.
 
 ### Contesto essenziale
 La madre di Charles Kane ha ereditato una fortuna e decide di affidare il figlio al banchiere Thatcher, che ne amministrerà il patrimonio e ne seguirà l'educazione. Il padre di Charles è contrario, ma non riesce a impedire la decisione. Mentre gli adulti discutono e firmano i documenti all'interno della casa, il bambino continua a giocare nella neve, ignaro di ciò che sta accadendo.
@@ -2290,7 +2290,7 @@ Aggiungono una breve spiegazione del motivo per cui la scena può essere letta s
 - **Tag:** #composizione #spazio #movimento-di-macchina #steadicam #suono #punto-di-vista #suspense
 - **Livello:** Base / Intermedio.
 - **Uso consigliato:** analizzare come il movimento della macchina da presa e il suono possano trasformare un corridoio quotidiano in uno spazio minaccioso.
-- **Stato:** **DA COMPLETARE** — verificare il segmento completo del primo percorso in triciclo e distinguere i diversi ambienti attraversati.
+**Stato:** DA COMPLETARE — verificare il segmento completo del primo percorso in triciclo e distinguere i diversi ambienti attraversati.
 
 ### Contesto essenziale
 Dopo l'arrivo della famiglia Torrance all'Overlook Hotel, Danny comincia a esplorare i corridoi con il suo triciclo. La macchina da presa lo segue da vicino, attraversando la hall, i corridoi e le superfici differenti del pavimento. La scena non presenta ancora un pericolo esplicito, ma introduce l'hotel come uno spazio complesso, nel quale ogni svolta può nascondere qualcosa.
@@ -2368,7 +2368,7 @@ Gli studenti realizzano una mappa del percorso e un'annotazione di tre fotogramm
 - **Tag:** #montaggio #match-cut #graphic-match #ellissi #narrazione #composizione #storia-del-cinema
 - **Livello:** Base / Intermedio.
 - **Uso consigliato:** introdurre il match cut e mostrare come un singolo taglio possa collegare immagini lontane nel tempo e nello spazio, producendo un significato concettuale.
-- **Stato:** **DA COMPLETARE** — individuare il punto esatto del taglio sulla copia utilizzata e verificare la successione dei fotogrammi prima e dopo la transizione.
+**Stato:** DA COMPLETARE — individuare il punto esatto del taglio sulla copia utilizzata e verificare la successione dei fotogrammi prima e dopo la transizione.
 
 ### Contesto essenziale
 Nella sequenza ambientata nella preistoria, un ominide scopre che un osso può essere utilizzato come arma e strumento. Dopo averlo impiegato per colpire uno scheletro, lo lancia in aria. Il film taglia poi a un satellite in orbita intorno alla Terra. In un solo passaggio, la narrazione salta dalla preistoria all'era spaziale e comprime milioni di anni di trasformazioni tecnologiche.
@@ -2447,7 +2447,7 @@ Gli studenti consegnano una coppia di fotogrammi, uno prima e uno dopo il taglio
 - **Tag:** #composizione #simmetria #spazio #movimento-di-macchina #colore #montaggio #messa-in-scena
 - **Livello:** Intermedio.
 - **Uso consigliato:** confrontare due stili visivi molto riconoscibili, evitando di ridurli a formule semplici come «Anderson simmetrico» e «Luhrmann caotico».
-- **Stato:** **DA COMPLETARE** — selezionare due frammenti di durata comparabile e verificare le copie utilizzate.
+**Stato:** DA COMPLETARE — selezionare due frammenti di durata comparabile e verificare le copie utilizzate.
 
 ### Analisi comparativa
 La festa di Gatsby è costruita come un'esperienza audiovisiva mobile e sovraccarica. La macchina da presa attraversa gruppi di persone, decorazioni e ambienti; il montaggio si relaziona alla musica e la composizione cambia rapidamente. Lo spazio della villa non viene sempre presentato in modo ordinato: lo spettatore lo scopre attraverso un percorso fatto di dettagli, movimenti e attrazioni visive. La densità dell'immagine e del suono diventa parte della rappresentazione del lusso e dell'eccesso.
@@ -2510,7 +2510,7 @@ Gli studenti compilano una tabella comparativa con le voci:
 - **Tag:** #movimento-di-macchina #tempo #inquadratura #imax #ripresa-inversa #effetti-visivi #montaggio
 - **Livello:** Intermedio / Avanzato.
 - **Uso consigliato:** confrontare due strategie differenti: l'immersione fisica nella dinamica di un evento e la rappresentazione di un'azione che procede in direzioni temporali opposte.
-- **Stato:** **DA COMPLETARE** — selezionare due frammenti brevi e verificare la loro durata e i passaggi di montaggio sulle copie disponibili.
+**Stato:** DA COMPLETARE — selezionare due frammenti brevi e verificare la loro durata e i passaggi di montaggio sulle copie disponibili.
 
 ### Contesto essenziale
 *Dunkirk* racconta l'evacuazione delle truppe alleate dalla costa francese nel 1940, intrecciando tre linee temporali: terra, mare e aria. Le sequenze aeree sono costruite per collocare lo spettatore vicino ai piloti e alla loro percezione del combattimento.
@@ -2589,7 +2589,7 @@ A conclusione, spiegano in un breve testo perché non è sufficiente parlare gen
 - **Tag:** #luce #colore #spazio #punto-di-vista #movimento-di-macchina #messa-in-scena
 - **Livello:** Base / Intermedio.
 - **Uso consigliato:** introdurre il rapporto fra luce, colore e punto di vista, osservando come il paesaggio venga percepito attraverso lo sguardo di un bambino.
-- **Stato:** **DA COMPLETARE** — verificare la delimitazione dell'apertura e il passaggio fra buio della cavità e paesaggio esterno sulla copia scelta.
+**Stato:** DA COMPLETARE — verificare la delimitazione dell'apertura e il passaggio fra buio della cavità e paesaggio esterno sulla copia scelta.
 
 ### Contesto essenziale
 Il film è ambientato nell'estate del 1978 in un piccolo paese del Sud Italia. Michele e gli altri bambini trascorrono le giornate correndo per le campagne. L'apertura introduce il contrasto fra il mondo luminoso e apparentemente libero dei campi e lo spazio buio e nascosto della cavità in cui si trova Filippo, il bambino rapito. La differenza fra i due ambienti anticipa il conflitto che Michele dovrà affrontare.
@@ -2665,7 +2665,7 @@ Gli studenti scelgono due fotogrammi, uno della cavità e uno del paesaggio este
 - **Livello:** Intermedio / Avanzato.
 - **Uso consigliato:** osservare come le condizioni ambientali e la luce disponibile influenzino la pianificazione della ripresa e come la macchina da presa possa passare da uno sguardo esterno a uno più vicino all'esperienza dei personaggi.
 - **Attenzione ai contenuti:** la sequenza contiene violenza di guerra, ferimenti e immagini di forte impatto. Selezionare il frammento in relazione alla classe.
-- **Stato:** **DA COMPLETARE** — delimitare il segmento e verificare sulla copia la successione dei cambi di punto di vista e le condizioni luminose visibili.
+**Stato:** DA COMPLETARE — delimitare il segmento e verificare sulla copia la successione dei cambi di punto di vista e le condizioni luminose visibili.
 
 ### Contesto essenziale
 Hugh Glass guida un gruppo di cacciatori di pellicce lungo un fiume. L'accampamento viene attaccato e gli uomini sono costretti a disperdersi per cercare riparo e raggiungere l'imbarcazione. La sequenza introduce il protagonista attraverso una situazione di pericolo e mette subito in relazione il corpo umano, il paesaggio e la violenza dell'ambiente.
@@ -2744,7 +2744,7 @@ Aggiungono una breve nota in cui spiegano perché la luce naturale richieda una 
 - **Livello:** Intermedio / Avanzato.
 - **Uso consigliato:** studiare una delle sequenze che hanno contribuito a consolidare il montaggio alternato nel lungometraggio narrativo, analizzando insieme la sua funzione retorica e il contenuto razzista che veicola.
 - **Attenzione ai contenuti:** il film contiene blackface, stereotipi razzisti, rappresentazioni disumanizzanti degli afroamericani e una glorificazione del Ku Klux Klan. Non è un frammento da mostrare senza contestualizzazione storica e critica; valutare se sia necessario utilizzare estratti o fotogrammi selezionati.
-- **Stato:** **DA COMPLETARE** — individuare un frammento circoscritto del climax e verificare la successione delle linee d'azione sulla copia scelta.
+**Stato:** DA COMPLETARE — individuare un frammento circoscritto del climax e verificare la successione delle linee d'azione sulla copia scelta.
 
 ### Contesto essenziale
 *The Birth of a Nation* racconta la Guerra civile americana e la Ricostruzione da una prospettiva apertamente razzista. Nel finale, la famiglia Cameron è assediata in una capanna e il film presenta il Ku Klux Klan come forza di salvataggio. Il montaggio alterna la situazione degli assediati e l'avanzata dei cavalieri, costruendo un'attesa che culmina nell'arrivo del Klan. La sequenza deve essere letta non soltanto come esempio storico di tecnica narrativa, ma anche come dispositivo propagandistico.
@@ -2822,7 +2822,7 @@ Gli studenti ricostruiscono la sequenza in una tabella a due colonne e annotano:
 - **Tag:** #montaggio #montaggio-parallelo #narrazione #ritmo #ellissi #storia-del-cinema
 - **Livello:** Intermedio / Avanzato.
 - **Uso consigliato:** distinguere il montaggio alternato di azioni simultanee dal montaggio parallelo che collega eventi lontani nel tempo attraverso un tema comune.
-- **Stato:** **DA COMPLETARE** — selezionare un segmento breve del crescendo finale e verificare la successione delle quattro linee sulla copia scelta.
+**Stato:** DA COMPLETARE — selezionare un segmento breve del crescendo finale e verificare la successione delle quattro linee sulla copia scelta.
 
 ### Contesto essenziale
 *Intolerance* intreccia quattro storie collocate in epoche e luoghi differenti: la caduta di Babilonia, la vicenda di Cristo, il massacro degli ugonotti nella Francia del Cinquecento e una storia contemporanea ambientata negli Stati Uniti. Le vicende non si svolgono nello stesso momento storico. Sono messe in relazione dal tema dell'intolleranza e dalla struttura del film, che passa progressivamente da una linea all'altra fino a intrecciare i rispettivi momenti culminanti.
@@ -2902,7 +2902,7 @@ Gli studenti compilano una tabella con quattro colonne, una per ogni linea narra
 - **Tag:** #suono #musica #intertestualità #narrazione #immagine #sound-design
 - **Livello:** Base / Intermedio.
 - **Uso consigliato:** mostrare come un film possa utilizzare un'opera precedente per costruire il proprio mondo narrativo e come musica e immagini possano produrre un significato attraverso il contrasto.
-- **Stato:** **DA COMPLETARE** — delimitare i due frammenti e verificare il passaggio dalla musica d'apertura al paesaggio terrestre e la sequenza della visione domestica.
+**Stato:** DA COMPLETARE — delimitare i due frammenti e verificare il passaggio dalla musica d'apertura al paesaggio terrestre e la sequenza della visione domestica.
 
 ### Contesto essenziale
 WALL-E è un robot incaricato di comprimere i rifiuti sulla Terra, ormai abbandonata dagli esseri umani. Vive da solo e raccoglie oggetti che considera interessanti. Fra questi conserva un vecchio lettore e una videocassetta di *Hello, Dolly!*, musical del 1969. Le canzoni del film diventano per lui un modello per immaginare la relazione con un altro essere. Il riferimento non è a Griffith: la citazione centrale è *Hello, Dolly!* di Gene Kelly.
@@ -2983,7 +2983,7 @@ A conclusione, spiegano come *Hello, Dolly!* diventi un modello di comportamento
 - **Tag:** #intertestualità #citazione #montaggio #musica #diegetico #narrazione
 - **Livello:** Base / Intermedio.
 - **Uso consigliato:** mostrare come un film precedente possa diventare un modello visivo e comportamentale per un personaggio di un altro film.
-- **Stato:** **DA COMPLETARE** — delimitare il frammento di *The Quiet Man* effettivamente mostrato sul televisore e verificare i passaggi di montaggio nella sequenza di *E.T.*
+**Stato:** DA COMPLETARE — delimitare il frammento di *The Quiet Man* effettivamente mostrato sul televisore e verificare i passaggi di montaggio nella sequenza di *E.T.*
 
 ### Analisi comparativa
 In *E.T.* il frammento di *The Quiet Man* non è una semplice citazione per spettatori cinefili. È un'immagine che appartiene al mondo narrativo e che viene guardata da E.T. sul televisore. Il film di John Ford è quindi un film nel film: la sua immagine è inserita nella storia e diventa parte dell'esperienza del personaggio.
@@ -3054,7 +3054,7 @@ Indicano il gesto comune, il contesto narrativo di ciascuna immagine e la funzio
 - **Tag:** #suono #voice-over #voice-off #fuori-campo #spazio #durata #asincronia
 - **Livello:** Intermedio / Avanzato.
 - **Uso consigliato:** distinguere la voce narrante sovrapposta alle immagini dalla voce diegetica che proviene da uno spazio non mostrato, e analizzare come il suono renda percepibile ciò che l'immagine esclude.
-- **Stato:** **DA COMPLETARE** — selezionare e verificare i due frammenti sulle edizioni disponibili; per *News from Home* indicare quale versione sonora (francese o inglese) viene utilizzata.
+**Stato:** DA COMPLETARE — selezionare e verificare i due frammenti sulle edizioni disponibili; per *News from Home* indicare quale versione sonora (francese o inglese) viene utilizzata.
 
 ### Analisi comparativa
 In *News from Home* la voce di Akerman legge le lettere inviate dalla madre da Bruxelles mentre la macchina da presa osserva New York. La voce non proviene da una persona presente nello spazio mostrato e non coincide con un dialogo registrato sul luogo. È una voce over che introduce un secondo livello di tempo e di spazio: la madre scrive da lontano, la figlia legge in un momento successivo e le immagini mostrano la città in cui la regista vive e lavora.
