@@ -18,8 +18,9 @@ Questa pagina è la porta d'ingresso all'archivio: permette di trovare una scena
 
 Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena può comparire in più percorsi: il tag segnala un tema affrontato, non necessariamente il concetto principale della scheda.
 
-### Montaggio, raccordi e continuità (37)
+### Montaggio, raccordi e continuità (38)
 
+- [*R.M.N. / Animali selvatici* (Cristian Mungiu, 2022)](ARCHIVIO_SCENE_FILM.md#94-rmn-animali-selvatici-cristian-mungiu-2022-la-riunione-e-il-montaggio-interno)
 - [*Susanna* (*Bringing Up Baby*, Howard Hawks, 1938)](ARCHIVIO_SCENE_FILM.md#1-susanna-bringing-up-baby-howard-hawks-1938)
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976)
 - [*Rocco e i suoi fratelli* (Luchino Visconti, 1960)](ARCHIVIO_SCENE_FILM.md#4-rocco-e-i-suoi-fratelli-luchino-visconti-1960)
@@ -100,7 +101,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*E.T. l'extra-terrestre* (Steven Spielberg, 1982) — silhouette e controluce](ARCHIVIO_SCENE_FILM.md#88-et-lextra-terrestre-steven-spielberg-1982-silhouette-controluce-ed-effetti-ottici)
 - [*Million Dollar Baby* (Clint Eastwood, 2004)](ARCHIVIO_SCENE_FILM.md#85-million-dollar-baby-clint-eastwood-2004-scala-dei-piani-e-intensificazione-del-dialogo)
 - [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962)
-### Spazio, messa in scena e recitazione (54)
+### Spazio, messa in scena e recitazione (55)
 
 - [*Susanna* (*Bringing Up Baby*, Howard Hawks, 1938)](ARCHIVIO_SCENE_FILM.md#1-susanna-bringing-up-baby-howard-hawks-1938)
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976)
@@ -179,7 +180,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Taxi Driver* (Martin Scorsese, 1976)](ARCHIVIO_SCENE_FILM.md#82-taxi-driver-martin-scorsese-1976-movimento-di-macchina-e-voce-fuori-campo)
 - [*C'era una volta il West* (Sergio Leone, 1968)](ARCHIVIO_SCENE_FILM.md#91-cera-una-volta-il-west-sergio-leone-1968-durata-attesa-e-paesaggio-sonoro)
 - [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — piano-sequenza al Copacabana](ARCHIVIO_SCENE_FILM.md#93-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-il-piano-sequenza-al-copacabana)
-### Suono, dialogo e musica (18)
+### Suono, dialogo e musica (19)
 
 - [*News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)](ARCHIVIO_SCENE_FILM.md#34-news-from-home-chantal-akerman-1976-jeanne-dielman-23-quai-du-commerce-1080-bruxelles-chantal-akerman-1975)
 - [*Psycho* (Alfred Hitchcock, 1960)](ARCHIVIO_SCENE_FILM.md#38-psycho-alfred-hitchcock-1960)
@@ -200,7 +201,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Close Encounters of the Third Kind / Incontri ravvicinati del terzo tipo* (Steven Spielberg, 1977)](ARCHIVIO_SCENE_FILM.md#89-close-encounters-of-the-third-kind-incontri-ravvicinati-del-terzo-tipo-steven-spielberg-1977-suono-come-linguaggio)
 - [*C'era una volta il West* (Sergio Leone, 1968)](ARCHIVIO_SCENE_FILM.md#91-cera-una-volta-il-west-sergio-leone-1968-durata-attesa-e-paesaggio-sonoro)
 - [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962)
-### Narrazione, tempo e punto di vista (52)
+### Narrazione, tempo e punto di vista (53)
 
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976)
 - [*Il Gattopardo* (Luchino Visconti, 1963)](ARCHIVIO_SCENE_FILM.md#3-il-gattopardo-luchino-visconti-1963)
@@ -348,6 +349,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Rear Window / La finestra sul cortile* (Alfred Hitchcock, 1954) — SCHEDA OPERATIVA: REGOLA DEI 180°](ARCHIVIO_SCENE_FILM.md#71-rear-window-la-finestra-sul-cortile-alfred-hitchcock-1954-scheda-operativa-regola-dei-180) — regola dei 180° e continuità dello spazio.
 - [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant---redivivo-the-revenant-alejandro-g-iñárritu-2015) — luce naturale e macchina da presa immersiva.
 - [*Rocco e i suoi fratelli* (Luchino Visconti, 1960)](ARCHIVIO_SCENE_FILM.md#4-rocco-e-i-suoi-fratelli-luchino-visconti-1960) — messa in scena del corpo e del melodramma.
+- [*R.M.N. / Animali selvatici* (Cristian Mungiu, 2022)](ARCHIVIO_SCENE_FILM.md#94-rmn-animali-selvatici-cristian-mungiu-2022-la-riunione-e-il-montaggio-interno) — montaggio interno, piano-sequenza, messa in scena e polifonia sonora.
 - [*Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)](ARCHIVIO_SCENE_FILM.md#39-rope-nodo-alla-gola-alfred-hitchcock-1948) — long take e continuità apparente.
 - [*Se mi lasci ti cancello* (*Eternal Sunshine of the Spotless Mind*, Michel Gondry, 2004)](ARCHIVIO_SCENE_FILM.md#19-se-mi-lasci-ti-cancello-eternal-sunshine-of-the-spotless-mind-michel-gondry-2004) — continuità spaziale impossibile e memoria.
 - [*Shining* (Stanley Kubrick, 1980)](ARCHIVIO_SCENE_FILM.md#24-shining-stanley-kubrick-1980) — Steadicam, prospettiva e paesaggio sonoro.
