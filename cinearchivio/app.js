@@ -19,7 +19,7 @@
     return (value || "").replace(/<[^>]*>/g, "").replace(/\*\*/g, "").replace(/\*/g, "").replace(/\s+/g, " ").trim();
   }
   function field(block, label) {
-    const re = new RegExp("^[ \\t]*[-*]?[ \\t]*\\*\\*" + label.replace(/[.*+?^$\{\}()|[\]\\\\]/g, "\\$&") + ":\\*\\*[ \\t]*(.*)$", "im");
+    const re = new RegExp("^[ \\t]*[-*]?[ \\t]*\\*\\*" + label + ":\\*\\*[ \\t]*(.*)$", "im");
     const match = block.match(re);
     return match ? clean(match[1]) : "";
   }
