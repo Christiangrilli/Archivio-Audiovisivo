@@ -4666,6 +4666,98 @@ Prima mostrare un normale dialogo costruito con campo/controcampo; poi la scena 
 La ricerca contemporanea sulla plasticità dello spazio filmico considera la frammentazione e la sua eventuale violazione delle convenzioni di continuità come strumenti capaci di rendere il processo di costruzione dello spazio percepibile allo spettatore. citeturn216999search3
 
 ---
+## 94. *R.M.N. / Animali selvatici* (Cristian Mungiu, 2022) — la riunione e il montaggio interno
+[↑ Torna all'indice](#indice-interattivo)
+
+### Identificazione
+- **Film:** *R.M.N.* (*Animali selvatici*)
+- **Regia:** Cristian Mungiu
+- **Anno:** 2022
+- **Scena:** riunione pubblica nel centro culturale del paese, nella quale gli abitanti discutono dell'assunzione di lavoratori migranti srilankesi da parte del panificio locale.
+- **Durata indicativa:** circa 17 minuti; il frammento e il timecode vanno verificati sull'edizione utilizzata.
+- **Collocazione:** parte finale del film.
+
+### Indicizzazione
+- **Concetto principale:** montaggio interno.
+- **Concetti secondari:** piano-sequenza, long take, messa in scena, blocking, profondità dello spazio, simultaneità, overlapping dialogue, polifonia, durata.
+- **Tag:** #montaggio #montaggio-interno #piano-sequenza #long-take #messa-in-scena #blocking #spazio #recitazione #overlapping-dialogue #suono #dialogo #durata #polifonia
+- **Livello didattico:** Intermedio / Avanzato.
+- **Uso consigliato:** Analisi formale / Introduzione del montaggio interno / Confronto con il montaggio per stacco.
+
+### Tecniche e aspetti formali
+- **Messa in scena:** 26 personaggi parlanti organizzati nello stesso spazio; le posizioni, gli sguardi, i gesti e le reazioni producono continuamente nuovi fuochi d'attenzione.
+- **Inquadratura e composizione:** campo molto ampio che mantiene leggibile l'insieme della riunione e lascia allo spettatore la possibilità di scegliere quale personaggio seguire.
+- **Movimento di macchina:** la scena è costruita come un'unica ripresa; il valore didattico principale non dipende dal movimento della macchina, ma dalla mobilità interna della scena.
+- **Montaggio:** non ci sono stacchi durante la riunione. Il ritmo e la selezione dell'attenzione sono ottenuti attraverso la disposizione e il comportamento dei corpi, il dialogo simultaneo e la durata della ripresa. È quindi un caso particolarmente efficace per spiegare il **montaggio interno** in rapporto al montaggio per stacco.
+- **Suono:** il dialogo è polifonico e comprende sovrapposizioni e interventi simultanei. Mungiu ha lavorato in post-produzione sulle singole piste per selezionare e rendere intelligibili le voci.
+- **Spazio:** lo spazio comune diventa un campo di forze nel quale il gruppo funziona quasi come un unico personaggio collettivo.
+
+### Analisi della scena
+
+La riunione è costruita su una ripresa ininterrotta di circa 17 minuti. La macchina da presa non seleziona continuamente un volto attraverso il découpage: è la **messa in scena a produrre una successione di centri d'interesse all'interno della stessa inquadratura**.
+
+Questo permette di introdurre in modo concreto il concetto di **montaggio interno**: il principio di organizzazione dell'attenzione non scompare in assenza di stacchi, ma viene trasferito all'interno del piano. Gli attori entrano in relazione attraverso posizione, movimento, sguardo, gesto, reazione e sovrapposizione delle battute. Il suono amplia ulteriormente questa mobilità, perché più voci possono competere contemporaneamente per l'attenzione dello spettatore.
+
+Il risultato non equivale semplicemente a un "piano lungo". La durata della ripresa e la disposizione dei corpi obbligano lo spettatore a compiere una selezione attiva. La scena può essere seguita scegliendo personaggi diversi, e ogni scelta produce una lettura parziale della stessa situazione.
+
+Mungiu ha spiegato che la scena fu costruita progressivamente attraverso la sovrapposizione degli interventi: nella versione finale gli attori non aspettano sempre il proprio turno, ma reagiscono e cercano di imporsi nel flusso della discussione. Il regista ha descritto il gruppo come una sorta di **personaggio collettivo**, vicino alla funzione del coro della tragedia antica.
+
+### Perché è didatticamente utile
+
+È un esempio particolarmente forte per correggere un'equazione frequente negli studenti: **montaggio = presenza di stacchi**. La scena permette di mostrare che anche senza tagliare l'immagine è possibile organizzare ritmo, attenzione, gerarchie e relazioni attraverso la messa in scena e il suono.
+
+È inoltre utile per distinguere:
+- **montaggio esterno:** costruzione della sequenza attraverso la successione di inquadrature;
+- **montaggio interno:** organizzazione dinamica dell'attenzione all'interno della singola inquadratura;
+- **piano-sequenza:** una ripresa che mantiene la continuità temporale e spaziale senza stacchi percepibili.
+
+### Obiettivo didattico
+
+Lo studente deve saper riconoscere un caso di montaggio interno, individuare almeno tre elementi della messa in scena che orientano l'attenzione e spiegare come ritmo e gerarchie narrative possano essere costruiti senza ricorrere al découpage per stacchi.
+
+### Come utilizzarla in classe
+
+1. **Prima visione:** chiedere agli studenti di annotare liberamente quale personaggio seguono e perché.
+2. **Seconda visione:** assegnare a piccoli gruppi un personaggio diverso. Ogni gruppo deve registrare quando e perché quel personaggio diventa rilevante.
+3. **Analisi:** ricostruire alla lavagna i diversi "percorsi dello sguardo" ottenuti dalla stessa inquadratura.
+4. **Confronto:** mostrare una scena costruita con campo/controcampo e chiedere quale dei due dispositivi trasferisca maggiormente la selezione dell'informazione allo spettatore.
+5. **Produzione:** chiedere agli studenti di progettare una breve scena di 1–2 minuti che costruisca almeno due centri d'interesse senza stacchi.
+
+### Domande da porre agli studenti
+
+1. Se non ci sono stacchi, come fa la scena a cambiare continuamente centro d'interesse?
+2. Quali movimenti, gesti, sguardi o reazioni vi fanno spostare l'attenzione?
+3. Che ruolo ha la sovrapposizione delle voci nel ritmo della scena?
+4. Che cosa cambierebbe se la stessa riunione fosse montata con un campo/controcampo continuo?
+5. Lo spettatore riceve una lettura già orientata oppure deve scegliere chi seguire?
+
+### Concetti che permette di spiegare
+
+- Montaggio interno.
+- Piano-sequenza e long take.
+- Messa in scena e blocking.
+- Montaggio esterno per stacco, come termine di confronto.
+- Overlapping dialogue e polifonia sonora.
+- Durata e attenzione dello spettatore.
+
+### Collegamenti
+
+- *Rope* — continuità apparente e organizzazione della scena attraverso una ripresa prolungata.
+- *La regola del gioco* — profondità della messa in scena e pluralità dei centri d'interesse.
+- *Il disprezzo* — movimento della macchina e organizzazione dello spazio della conversazione.
+- *Goodfellas* — piano-sequenza e movimento della macchina da presa come organizzazione dello spazio.
+- *His Girl Friday* — overlapping dialogue come costruzione del ritmo attraverso il suono.
+
+### Fonti
+
+- Cristian Mungiu, intervista a Mark Asch, **Film Comment**, 25 maggio 2022: la scena dura circa 17 minuti, comprende 26 personaggi parlanti ed è costruita in una singola ripresa. [Film Comment](https://www.filmcomment.com/cannes-2022-interview-cristian-mungiu-rmn/)
+- Cristian Mungiu, intervista a **Cineuropa**, 2022: costruzione della scena, sovrapposizione delle battute, polifonia e gruppo come personaggio collettivo. [Cineuropa](https://cineuropa.org/interview/431977/en/distributors/)
+- Cristian Mungiu, *R.M.N.* press kit, Mobra Films / Why Not Productions: principio di una ripresa per scena e ritmo "internalizzato"; sequenza collettiva di 17 minuti con 26 personaggi parlanti. [Press kit](https://medias.unifrance.org/medias/85/4/263253/presse/r-m-n-presskit-english.pdf)
+- Marshall Shaffer, “Cristian Mungiu on R.M.N. and the Nature of Evil”, **Slant Magazine**, 27 aprile 2023: approfondimento sulla costruzione sonora e sulla gestione delle numerose voci della riunione. [Slant Magazine](https://www.slantmagazine.com/film/cristian-mungiu-interview-rmn/)
+- Rebecca Wanzo e Anca Parvulescu, “Inconvenience and Its Sisters: Lauren Berlant's Last Affective Meditation”, *boundary 2*, 2024: lettura della riunione come dispositivo per rendere visibili le tensioni affettive e sociali della comunità. [ResearchGate](https://www.researchgate.net/publication/384184743_Inconvenience_and_Its_Sisters_Lauren_Berlant%27s_Last_Affective_Meditation)
+
+**Stato:** DA COMPLETARE — verificare il timecode preciso sulla copia utilizzata e delimitare il frammento didattico ottimale. Il principio formale e la durata complessiva della sequenza sono documentati dalle fonti sopra indicate.
+
 # COSTELLAZIONI DIDATTICHE AGGIORNATE
 
 ### 1. Continuità → discontinuità
