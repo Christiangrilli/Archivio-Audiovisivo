@@ -706,32 +706,69 @@ In una breve nota, devono spiegare come il finale del film riprenda e trasformi 
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** Tancredi arriva a Villa Salina con due ufficiali garibaldini; Don Fabrizio rimane fuori campo e la scena viene costruita secondo il suo punto di vista.
-- **Concetto principale:** punto di vista e fuori campo.
-- **Concetti secondari:** soggettiva, spazio, identificazione, voce, focalizzazione.
-- **Tag:** #punto-di-vista #soggettiva #fuori-campo #spazio #focalizzazione
+- **Sequenza di riferimento:** durante il picnic della famiglia Salina, dopo il dialogo fra il Principe e un servitore, il film mostra tre uomini che guardano verso la macchina da presa. La voce del Principe accompagna il passaggio a un breve flashback legato agli ufficiali garibaldini invitati da Tancredi.
+- **Concetto principale:** punto di vista e inquadratura soggettiva.
+- **Concetti secondari:** focalizzazione, voce over, raccordo fra presente e flashback, rapporto fra spettatore e personaggio, organizzazione dello sguardo.
+- **Tag:** #punto-di-vista #soggettiva #voice-over #fuori-campo #focalizzazione #flashback
 - **Livello:** Intermedio / Avanzato.
-- **Uso:** analisi del punto di vista.
+- **Uso consigliato:** analizzare come un film possa avvicinare lo spettatore alla percezione di un personaggio senza ricorrere sempre a una soggettiva ottica isolata.
+- **Stato:** **DA COMPLETARE** — il commento BFI individua il passaggio intorno a 00:40:37 nella propria scansione della sequenza; il riferimento va confrontato con l'edizione effettivamente utilizzata in classe.
 
-### Analisi
-La scena è utile per distinguere la semplice presenza di un personaggio nell'inquadratura dalla costruzione di un punto di vista. Don Fabrizio può diventare il centro percettivo della scena pur rimanendo materialmente fuori campo. Lo spazio filmico viene così organizzato anche attraverso ciò che lo spettatore non vede.
+### Contesto essenziale
+La famiglia Salina è in viaggio verso Donnafugata. Durante una sosta per il picnic, un servitore si rivolge al Principe e commenta il fatto che la famiglia sia riuscita a lasciare Palermo senza danni. La risposta di Don Fabrizio introduce un passaggio in cui il film assume più chiaramente il suo punto di vista: alcuni personaggi guardano verso la macchina da presa e la voce del Principe accompagna l'accesso a un ricordo legato agli ufficiali garibaldini.
 
-Il fuori campo non coincide quindi con uno spazio irrilevante: può diventare uno strumento per costruire una relazione fra personaggio, spettatore e spazio diegetico.
+### Analisi formale
+Il punto didattico non consiste semplicemente nel riconoscere un personaggio che guarda in macchina. Il commento al DVD del British Film Institute chiarisce che, nel passaggio in cui tre uomini fissano l'obiettivo, la macchina da presa rappresenta il punto di vista del Principe: gli uomini sembrano rivolgersi allo spettatore, ma il loro sguardo è motivato dalla posizione percettiva di Don Fabrizio. La soggettiva produce così una temporanea sovrapposizione fra il posto occupato dal personaggio e quello dello spettatore.
+
+La voce del Principe rafforza questa relazione. Il personaggio non è soltanto colui attraverso il cui sguardo vediamo i volti: diventa anche una voce che organizza il ricordo e guida il passaggio dal presente del viaggio al flashback. Il punto di vista è quindi costruito dall'intreccio fra immagine, posizione della macchina da presa e suono.
+
+È importante delimitare con precisione la sequenza: il commento BFI distingue il momento soggettivo dei tre uomini che guardano verso la macchina da presa dalla continuazione del flashback, nella quale la regia torna a una posizione più esterna e seleziona i volti dei diversi personaggi. Il film non mantiene dunque un'unica focalizzazione per tutto il blocco. Il mutamento è parte dell'interesse della scena: il punto di vista del Principe viene attivato e poi progressivamente allentato.
+
+### Evidenze da far osservare
+1. In quale momento i tre uomini guardano verso la macchina da presa.
+2. Quale personaggio può occupare la posizione da cui viene ripresa l'immagine.
+3. Quale ruolo svolge la voce del Principe durante il passaggio.
+4. Come si riconosce il passaggio dal presente del picnic al flashback.
+5. In quale momento la regia sembra abbandonare la posizione soggettiva e tornare a osservare i personaggi dall'esterno.
+
+### Perché è didatticamente utile
+La sequenza consente di distinguere la soggettiva ottica dalla nozione più ampia di punto di vista. Gli studenti possono verificare che lo sguardo del personaggio non viene costruito soltanto attraverso un'inquadratura che simula ciò che vede, ma anche attraverso la voce, il montaggio e il rapporto fra presente e memoria. È inoltre un buon caso per discutere come il film possa avvicinare lo spettatore alla prospettiva di Don Fabrizio senza trasformare ogni inquadratura in una soggettiva.
 
 ### Obiettivo didattico
-Comprendere come il cinema possa costruire il punto di vista attraverso l'organizzazione dello spazio e del fuori campo.
+Al termine dell'attività, lo studente sa riconoscere un'inquadratura soggettiva, motivare a quale personaggio è attribuita e spiegare come voce e montaggio contribuiscano alla costruzione del punto di vista e al passaggio al flashback.
 
-### Domande
-1. Chi vede ciò che vediamo?
-2. Dove si trova Don Fabrizio rispetto all'inquadratura?
-3. La scena sarebbe identica se il personaggio fosse mostrato?
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare il frammento senza anticipare il concetto. Chiedere agli studenti chi sembra essere il destinatario degli sguardi dei tre uomini.
+2. **Seconda visione:** fermarsi sul momento in cui i personaggi guardano in macchina e chiedere da quale posizione è collocata la macchina da presa.
+3. **Ascolto:** riproporre il passaggio concentrandosi sulla voce del Principe e sulla sua funzione narrativa.
+4. **Confronto:** individuare il momento in cui la sequenza abbandona la posizione soggettiva e torna a mostrare i personaggi da un punto di vista esterno.
+5. **Rielaborazione:** progettare uno storyboard di quattro inquadrature che distingua un campo oggettivo, una soggettiva e il ritorno a una posizione esterna.
+
+### Domande per gli studenti
+1. I tre uomini guardano direttamente lo spettatore oppure un personaggio che occupa il posto della macchina da presa?
+2. Quali elementi permettono di attribuire il punto di vista a Don Fabrizio?
+3. La voce del Principe descrive soltanto le immagini o contribuisce a organizzare il ricordo?
+4. Come viene segnalato il passaggio dal presente al flashback?
+5. Che cosa cambia quando la macchina da presa smette di coincidere con lo sguardo del Principe?
+
+### Verifica formativa
+Fornire agli studenti una breve serie di fotogrammi del frammento e chiedere di:
+- indicare quali immagini possono essere considerate soggettive;
+- attribuire il punto di vista a un personaggio, motivando la risposta;
+- annotare il ruolo della voce del Principe;
+- individuare il passaggio dal presente al flashback e il successivo ritorno a una posizione più esterna.
+
+**Criteri:** correttezza nell'uso di soggettiva e punto di vista, capacità di attribuire lo sguardo con evidenze, distinzione fra immagine e voce, ricostruzione coerente del passaggio temporale.
 
 ### Collegamenti
-- Hitchcock per il punto di vista.
-- Antonioni per il rapporto fra spazio e spettatore.
-- Teorie della focalizzazione e del punto di vista cinematografico.
+- **Punto di vista e sguardo:** *La finestra sul cortile* (*Rear Window*) — limitazione dell'informazione alla percezione del protagonista.
+- **Soggettiva e percezione:** *Vertigo* — rapporto fra sguardo, desiderio e costruzione dell'immagine.
+- **Voce e focalizzazione:** *Apocalypse Now* — voce over e soggettività del protagonista.
+- **Fuori campo:** *Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles* — presenza di una voce senza mostrare il corpo che la produce.
 
----
+### Fonti e riferimenti
+- David Forgacs e Rossana Capitano, commento al DVD *The Leopard / Il Gattopardo*, British Film Institute, 2003. Il commento individua il passaggio del picnic intorno a 00:40:37 e distingue la soggettiva attribuita al Principe dal successivo ritorno a una posizione più esterna: https://www.academia.edu/7586913/The_Leopard_Il_Gattopardo_Luchino_Visconti_1963_
+- Museo Nazionale del Cinema, «Il Museo Nazionale del Cinema presenta la proiezione del nuovo restauro in digitale 2K de *Il Gattopardo* di Luchino Visconti», per il contesto storico e la costruzione della sequenza iniziale: https://www.museocinema.it/it/press/comunicati-stampa/il-museo-nazionale-del-cinema-presenta-la-proiezione-del-nuovo-restauro
 
 ## 4. *Rocco e i suoi fratelli* (Luchino Visconti, 1960)
 [↑ Torna all'indice](#indice-interattivo)
