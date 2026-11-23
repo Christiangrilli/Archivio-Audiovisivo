@@ -1974,48 +1974,81 @@ Gli studenti realizzano una pianta dell'appartamento e uno storyboard di cinque 
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Film:** *Birdman or (The Unexpected Virtue of Ignorance)* (*Birdman*).
-- **Regia:** Alejandro González Iñárritu.
-- **Anno:** 2014.
-- **Scena:** sequenze che seguono Riggan e gli altri personaggi negli spazi del teatro, attraverso corridoi, camerini, palcoscenico e ambienti adiacenti. Per l'attività didattica è opportuno selezionare un segmento circoscritto in cui il movimento della macchina da presa attraversa più ambienti senza un taglio immediatamente percepibile.
-- **Concetto principale:** piano-sequenza apparente e montaggio nascosto.
-- **Concetti secondari:** long take, continuità simulata, raccordo nascosto, movimento di macchina, coreografia degli attori, blocking, gestione dello spazio e del tempo.
+- **Sequenza principale:** il confronto fra Riggan e Mike al bar, durante il quale la macchina da presa passa da una posizione dietro il bancone a una posizione quasi opposta, seguendo il movimento dei clienti che chiedono una fotografia a Riggan.
+- **Sequenza di confronto:** il litigio fra Riggan e Sam, nel quale la macchina da presa si sposta verso la figlia e ritarda la visione della reazione del padre.
+- **Concetto principale:** piano-sequenza apparente e montaggio mimato dal movimento di macchina.
+- **Concetti secondari:** long take, raccordo nascosto, blocking, coreografia degli attori, asse dell'azione, distribuzione dell'informazione, fuori campo, continuità simulata.
 - **Tag:** #piano-sequenza #long-take #montaggio #continuità #raccordo #movimento-di-macchina #spazio #tempo #messa-in-scena
-- **Livello:** Intermedio.
-- **Uso:** analisi tecnica e confronto.
+- **Livello:** Intermedio / Avanzato.
+- **Uso consigliato:** mostrare come una ripresa lunga possa riprodurre le funzioni del découpage classico senza ricorrere a un taglio visibile, e come il movimento di macchina possa controllare ciò che lo spettatore vede e quando lo vede.
+- **Stato:** **DA COMPLETARE** — delimitare i due frammenti sulla copia scelta e verificare la posizione esatta dei raccordi nascosti; non indicare timecode non controllati.
 
-### Analisi
-*Birdman* costruisce per gran parte della sua durata l'impressione di un'unica ripresa continua. Questa continuità è un effetto ottenuto attraverso la combinazione di lunghi segmenti girati in presa diretta, movimenti di macchina coreografati, raccordi nascosti e interventi digitali. La macchina da presa segue i personaggi negli spazi del teatro, li abbandona e li ritrova, attraversa soglie e corridoi e mantiene in movimento il punto di osservazione.
+### Contesto essenziale
+*Birdman* segue Riggan Thomson, attore un tempo celebre per aver interpretato un supereroe e ora impegnato a dirigere e interpretare uno spettacolo teatrale a Broadway. Il film dà l'impressione di svolgersi in una ripresa continua, seguendo i personaggi attraverso camerini, corridoi, palcoscenico e ambienti adiacenti. L'effetto è costruito attraverso lunghi segmenti di ripresa, movimenti di macchina coreografati e giunzioni nascoste in post-produzione.
 
-È importante non definire il film un vero piano-sequenza integrale: la continuità percepita è il risultato di più riprese assemblate in modo da rendere poco visibili le giunzioni. Il film permette quindi di distinguere il piano-sequenza propriamente detto dall'effetto di piano-sequenza prodotto dal montaggio. La mobilità della macchina da presa, inoltre, non è un semplice virtuosismo: contribuisce a legare gli ambienti del teatro e a mantenere lo spettatore vicino all'esperienza dei personaggi.
+### Analisi formale
+La sequenza del bar è particolarmente utile perché mostra come il movimento di macchina possa sostituire alcune funzioni del montaggio analitico. All'inizio Riggan e Mike sono ripresi da dietro il bancone. Quando alcuni clienti riconoscono Riggan e chiedono a Mike di scattare una fotografia, la macchina da presa si sposta intorno al bancone e raggiunge una posizione quasi opposta rispetto a quella iniziale. Il movimento è motivato dall'azione dei personaggi e dall'ingresso dei clienti: la macchina da presa non cambia punto di vista con uno stacco, ma attraversa fisicamente lo spazio.
+
+David Bordwell osserva che, quando Riggan e Mike tornano a rivolgersi al bancone, la posizione della macchina da presa è ormai quasi a 180 gradi rispetto all'inquadratura iniziale. In una scena montata secondo il découpage classico, un cambiamento simile potrebbe essere ottenuto con un taglio e un nuovo asse, motivato dal mutamento della disposizione dei personaggi. In *Birdman* il movimento continuo rende visibile il passaggio e mantiene la percezione di uno spazio ininterrotto.
+
+Il movimento non è però una semplice dimostrazione di abilità tecnica. Durante il percorso, il tempo viene riempito da azioni, dialoghi e reazioni che giustificano lo spostamento della macchina da presa. Il blocking degli attori è progettato in relazione al percorso dell'obiettivo: sono i corpi e le loro azioni a rendere possibile il cambiamento di inquadratura senza taglio.
+
+La sequenza del litigio fra Riggan e Sam mostra un'altra funzione del long take: il controllo dell'informazione. Quando Sam rimprovera il padre, la macchina da presa si sposta verso di lei e rimane sul suo volto, senza mostrare subito la reazione di Riggan. Lo spettatore è costretto a restare con Sam e ad ascoltare il suo discorso; la reazione del padre viene rivelata soltanto in seguito. In una scena costruita con campo/controcampo, il montaggio potrebbe mostrare immediatamente il volto di Riggan. La ripresa lunga, invece, rende la scelta di non mostrare una reazione parte della costruzione narrativa.
+
+Il film non è composto da un unico piano-sequenza integrale. David Bordwell individua sedici inquadrature distinguibili, oltre alle giunzioni che fondono più riprese in una continuità apparente. La maggior parte del film è costituita da un lungo flusso visivo di poco più di cento minuti, ma sono presenti stacchi e un montaggio finale. È quindi più corretto parlare di piano-sequenza apparente o di long take costruito attraverso raccordi nascosti.
+
+La continuità percepita deriva da una combinazione di coreografia, movimento di macchina, gestione della luce e compositing digitale. L'effetto non deve essere ridotto al trucco dei tagli invisibili: la caratteristica più interessante è il modo in cui il film trasferisce alla macchina da presa mobile alcune funzioni normalmente affidate al montaggio, come il passaggio fra personaggi, la selezione delle reazioni e la distribuzione dell'informazione.
+
+### Evidenze da far osservare
+1. Nel bar, da quale posizione parte la macchina da presa e dove arriva dopo aver girato intorno al bancone.
+2. Quale azione dei clienti motiva il movimento e come i personaggi si dispongono nello spazio.
+3. In quale momento il nuovo punto di vista si trova quasi sul lato opposto rispetto a quello iniziale.
+4. Nel litigio con Sam, quando la macchina da presa sceglie di restare sul volto della figlia e quando rivela la reazione di Riggan.
+5. Quali azioni e battute riempiono gli intervalli durante i movimenti di macchina.
+6. Quali passaggi possono nascondere una giunzione fra due riprese e quali invece sono movimenti continui verificabili.
 
 ### Perché è didatticamente utile
-È un esempio particolarmente efficace per mostrare che la sensazione di continuità non coincide necessariamente con l'assenza di montaggio. Consente di osservare insieme il lavoro della macchina da presa, la coreografia degli attori, il blocking e la costruzione dei raccordi invisibili.
+La scheda consente di superare l'idea che il montaggio coincida soltanto con il taglio. Gli studenti possono osservare come una ripresa lunga organizzi lo spazio, selezioni i personaggi e distribuisca l'informazione attraverso il movimento. Il confronto fra la scena del bar e il litigio con Sam mostra due funzioni diverse: nel primo caso la macchina da presa riproduce un cambio di asse; nel secondo ritarda deliberatamente una reazione.
 
 ### Obiettivo didattico
-Saper distinguere piano-sequenza, long take e piano-sequenza apparente; individuare gli indizi visivi che possono segnalare un raccordo nascosto e spiegare come movimento di macchina e messa in scena contribuiscano alla continuità.
+Al termine dell'attività, lo studente sa distinguere piano-sequenza, long take e piano-sequenza apparente; descrivere il blocking e il movimento di macchina; spiegare come una ripresa lunga possa riprodurre il découpage e controllare la distribuzione dell'informazione.
 
 ### Come utilizzarla in classe
-Proporre un frammento circoscritto ambientato negli spazi del teatro. Alla prima visione chiedere agli studenti di descrivere il percorso della macchina da presa e gli spostamenti dei personaggi, senza anticipare la presenza dei tagli. Alla seconda visione invitarli a individuare i punti in cui potrebbe essere stata realizzata una giunzione: passaggi ravvicinati davanti a superfici scure, attraversamenti di soglie, panoramiche rapide o momenti in cui l'immagine perde temporaneamente dettagli riconoscibili. Chiarire che questi sono indizi da verificare, non la prova automatica di un taglio.
+1. **Prima visione:** mostrare la scena del bar senza anticipare la presenza di un raccordo nascosto. Chiedere agli studenti di ricostruire il percorso della macchina da presa.
+2. **Mappa dello spazio:** disegnare una pianta semplificata del bancone e segnare la posizione iniziale e finale della macchina da presa.
+3. **Analisi del blocking:** annotare i movimenti dei clienti, di Riggan e di Mike che rendono possibile lo spostamento.
+4. **Confronto con il découpage:** immaginare come la stessa scena potrebbe essere montata con campo/controcampo e confrontare le due soluzioni.
+5. **Analisi della distribuzione dell'informazione:** mostrare il litigio con Sam e chiedere perché la macchina da presa non mostri subito la reazione di Riggan.
+6. **Rielaborazione:** realizzare un breve piano-sequenza di 30–45 secondi che includa un cambio di posizione della macchina da presa e una reazione trattenuta fuori campo.
 
-### Domande
-1. In che modo la macchina da presa collega gli ambienti del teatro?
-2. Quali movimenti dei personaggi e della macchina contribuiscono a mantenere la continuità?
-3. Quali elementi potrebbero nascondere una giunzione tra due riprese?
-4. Che differenza c'è tra la durata di una singola ripresa e la continuità che percepiamo guardando il film?
+### Domande per gli studenti
+1. Quale funzione del montaggio viene sostituita dal movimento della macchina da presa nel bar?
+2. Perché il movimento è motivato dall'azione dei personaggi e non appare arbitrario?
+3. Che cosa cambia fra mostrare una reazione con un taglio e rivelarla attraverso un movimento continuo?
+4. Perché è improprio definire *Birdman* un film composto da un unico piano-sequenza?
+5. Quale ruolo svolgono blocking e coreografia nella continuità apparente?
+
+### Verifica formativa
+Gli studenti producono due storyboard:
+- **Bar:** quattro o cinque momenti che ricostruiscano il movimento intorno al bancone e il cambio di asse;
+- **Litigio:** tre momenti che mostrino la scelta di restare su Sam e il successivo ritorno a Riggan.
+
+Aggiungono una nota in cui spiegano quale funzione del montaggio viene riprodotta dal movimento di macchina in ciascun caso.
+
+**Criteri:** ricostruzione spaziale corretta, descrizione del blocking, distinzione fra ripresa lunga e film in piano-sequenza integrale, comprensione della distribuzione dell'informazione.
 
 ### Collegamenti
-- *Rope*: continuità apparente e giunzioni nascoste, con una diversa soluzione tecnica e produttiva.
-- *Touch of Evil*: piano-sequenza, movimento e organizzazione dello spazio.
-- *The Magnificent Ambersons*: long take e distribuzione dell'informazione attraverso la messa in scena.
-- *The Shining*: movimento di macchina e costruzione della percezione dello spazio.
+- **Piano-sequenza e montaggio nascosto:** *Rope* (*Nodo alla gola*) — giunzioni mascherate e continuità apparente.
+- **Piano-sequenza e movimento:** *Touch of Evil* (*L'infernale Quinlan*) — apertura e organizzazione dello spazio.
+- **Piano-sequenza e messa in scena:** *The Magnificent Ambersons* — composizione in profondità e movimento degli attori.
+- **Continuità impossibile:** *Se mi lasci ti cancello* — spazio che cambia durante un movimento apparentemente continuo.
 
-### Fonti
+### Fonti e riferimenti
+- David Bordwell, «BIRDMAN: Following Riggan’s orders», *Observations on Film Art*, 23 febbraio 2015. Analizza il numero di inquadrature, le giunzioni nascoste, il movimento intorno al bancone e il modo in cui la ripresa lunga riproduce le funzioni del découpage: https://www.davidbordwell.net/blog/2015/02/23/birdman-following-riggans-orders/
+- Jean Oppenheimer, «Backstage Drama», *American Cinematographer*, 95, n. 12, dicembre 2014, pp. 54–67. Materiali tecnici sulla realizzazione delle riprese, la coreografia della macchina da presa e il lavoro di Emmanuel Lubezki.
 - Emmanuel Lubezki, intervista tecnica su *Birdman*, ARRI: https://www.arri.com/news-en/emmanuel-lubezki-asc-amc-on-birdman
-- David Bordwell, “BIRDMAN: Following Riggan’s orders”, *Observations on Film Art*: https://www.davidbordwell.net/blog/2015/02/23/birdman-following-riggans-orders/
-- Celestino Deleyto e María del Mar Azcona, studio accademico su *Birdman*, long take e continuità digitale: https://zaguan.unizar.es/record/130995/files/texto_completo.pdf
+- Bill Desowitz, «How *Birdman* Was Made to Look Like One Continuous Shot», *IndieWire*, per il lavoro di post-produzione e le giunzioni digitali.
 
-**Stato:** DA COMPLETARE — individuare e verificare sulla copia scelta il frammento preciso da proiettare e il relativo timecode.
 ## 21. *Fight Club* (David Fincher, 1999)
 [↑ Torna all'indice](#indice-interattivo)
 
