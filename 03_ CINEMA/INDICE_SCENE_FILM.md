@@ -56,7 +56,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*The Silence of the Lambs / Il silenzio degli innocenti* (Jonathan Demme, 1991) — montaggio alternato e focalizzazione](ARCHIVIO_SCENE_FILM.md#42-the-silence-of-the-lambs-il-silenzio-degli-innocenti-jonathan-demme-1991-montaggio-alternato-e-focalizzazione)
 
 - [*The Fabelmans* (Steven Spielberg, 2022) — film nel film e montaggio come rivelazione](ARCHIVIO_SCENE_FILM.md#48-the-fabelmans-steven-spielberg-2022-film-nel-film-e-montaggio-come-rivelazione)
-- [*Million Dollar Baby* (Clint Eastwood, 2004) — montaggio ellittico](ARCHIVIO_SCENE_FILM.md#50-million-dollar-baby-clint-eastwood-2004-scala-dei-piani-e-intensificazione-del-dialogo)
+- [*Million Dollar Baby* (Clint Eastwood, 2004) — scala dei piani e intensificazione del dialogo](ARCHIVIO_SCENE_FILM.md#50-million-dollar-baby-clint-eastwood-2004-scala-dei-piani-e-intensificazione-del-dialogo)
 - [*Titanic* (James Cameron, 1997) — montaggio alternato](ARCHIVIO_SCENE_FILM.md#52-titanic-james-cameron-1997-montaggio-alternato-e-gestione-dello-spazio)
 ### Inquadratura, composizione e profondità (38)
 
@@ -325,7 +325,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*M – Il mostro di Düsseldorf* (*M*, Fritz Lang, 1931)](ARCHIVIO_SCENE_FILM.md#15-m-il-mostro-di-düsseldorf-m-fritz-lang-1931) — suono diegetico e informazione fuori campo.
 - [*Memento* (Christopher Nolan, 2000)](ARCHIVIO_SCENE_FILM.md#34-memento-christopher-nolan-2000) — temporalità non lineare.
 - [*Metropolis* (Fritz Lang, 1927)](ARCHIVIO_SCENE_FILM.md#19-metropolis-fritz-lang-1927) — messa in scena espressionista e simbolizzazione dello spazio.
-- [*Million Dollar Baby* (Clint Eastwood, 2004)](ARCHIVIO_SCENE_FILM.md#50-million-dollar-baby-clint-eastwood-2004-scala-dei-piani-e-intensificazione-del-dialogo) — montaggio ellittico e trasformazione del corpo.
+- [*Million Dollar Baby* (Clint Eastwood, 2004)](ARCHIVIO_SCENE_FILM.md#50-million-dollar-baby-clint-eastwood-2004-scala-dei-piani-e-intensificazione-del-dialogo) — scala dei piani e intensificazione del dialogo.
 - [*Minority Report* (Steven Spielberg, 2002)](ARCHIVIO_SCENE_FILM.md#13-minority-report-steven-spielberg-2002) — interfaccia e immagine mediata.
 - [*Moulin Rouge!* (Baz Luhrmann, 2001)](ARCHIVIO_SCENE_FILM.md#15-moulin-rouge-baz-luhrmann-2001) — costruzione dello spazio cinematografico.
 - [*Mulholland Drive* (David Lynch, 2001)](ARCHIVIO_SCENE_FILM.md#9-mulholland-drive-david-lynch-2001) — ambiguità narrativa e statuto dell'immagine.
