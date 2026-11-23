@@ -2205,25 +2205,80 @@ Aggiungono una breve nota sul rapporto fra formato e organizzazione dello spazio
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena/esempi:** composizioni costruite sulla profondità dello spazio.
-- **Concetto principale:** profondità di campo e profondità della composizione.
-- **Concetti secondari:** piano, spazio, messa in scena, narrazione.
-- **Tag:** #composizione #spazio #messa-in-scena #inquadratura
+- **Sequenza:** la scena in cui la madre di Charles Kane firma i documenti che affidano il figlio al banchiere Thatcher. Il bambino continua a giocare nella neve fuori dalla finestra, mentre gli adulti discutono il suo futuro all'interno della casa.
+- **Concetto principale:** profondità di campo e composizione in profondità.
+- **Concetti secondari:** piano-sequenza, movimento di macchina, staging in profondità, simultaneità, fuori campo, profondità narrativa, rapporto fra primo piano, piano medio e sfondo.
+- **Tag:** #composizione #spazio #messa-in-scena #inquadratura #profondità-di-campo #piano-sequenza #movimento-di-macchina
 - **Livello:** Intermedio.
-- **Uso:** analisi della profondità.
+- **Uso consigliato:** spiegare come più azioni possano restare simultaneamente leggibili in un'unica inquadratura, senza essere separate da un montaggio analitico.
+- **Stato:** **DA COMPLETARE** — individuare il segmento completo e verificare il punto di inizio e fine sulla copia scelta; non inserire timecode senza controllo.
 
-### Analisi
-La profondità dell'immagine permette di mantenere contemporaneamente rilevanti più piani dello spazio. La composizione può quindi distribuire l'informazione narrativa lungo la profondità invece di affidarsi esclusivamente alla frammentazione in piani successivi.
+### Contesto essenziale
+La madre di Charles Kane ha ereditato una fortuna e decide di affidare il figlio al banchiere Thatcher, che ne amministrerà il patrimonio e ne seguirà l'educazione. Il padre di Charles è contrario, ma non riesce a impedire la decisione. Mentre gli adulti discutono e firmano i documenti all'interno della casa, il bambino continua a giocare nella neve, ignaro di ciò che sta accadendo.
+
+### Analisi formale
+La scena comincia mostrando il piccolo Charles che gioca all'aperto. La macchina da presa arretra e rivela progressivamente la finestra, la madre e gli altri adulti all'interno della casa. Il movimento continua fino a comprendere nello stesso quadro tre piani d'azione: in primo piano la madre e Thatcher firmano i documenti; nel piano intermedio il padre di Charles manifesta il proprio dissenso; sullo sfondo, attraverso la finestra, il bambino continua a giocare nella neve.
+
+La profondità di campo mantiene leggibili contemporaneamente i diversi piani. Non è quindi necessario alternare un primo piano della madre, un'inquadratura del padre e una del bambino: lo spettatore può scegliere dove dirigere lo sguardo e confrontare le azioni che si svolgono nello stesso momento. La composizione non impone una sola gerarchia visiva, ma mette in relazione la decisione degli adulti e l'innocenza inconsapevole del bambino.
+
+È importante distinguere **profondità di campo** e **messa in scena in profondità**. La prima riguarda l'estensione della zona nitida dell'immagine; la seconda riguarda la disposizione di personaggi e oggetti su diversi piani dello spazio. Nella sequenza le due strategie collaborano: la profondità di campo permette di leggere i diversi piani, mentre il blocking assegna a ciascun personaggio una posizione narrativa e simbolica.
+
+Il movimento della macchina da presa è altrettanto importante. Il dolly indietro trasforma progressivamente una semplice immagine del bambino in una composizione complessa che comprende la casa e la trattativa sul suo futuro. Il quadro non cambia attraverso una serie di tagli, ma attraverso la rivelazione graduale dello spazio. La macchina da presa permette allo spettatore di vedere contemporaneamente ciò che il bambino non sa: la decisione che cambierà la sua vita viene presa mentre lui continua a giocare.
+
+La scena mostra anche il valore narrativo del fuori campo e della cornice interna. La finestra separa fisicamente il bambino dagli adulti e, nello stesso tempo, li mantiene nello stesso campo visivo. Charles è presente ma non partecipa alla conversazione: è il soggetto della decisione, ma non ne è consapevole. La composizione rende visibile questa esclusione.
+
+### Evidenze da far osservare
+1. Da quale immagine parte la sequenza e che cosa viene rivelato dal movimento all'indietro.
+2. Quali personaggi si trovano in primo piano, nel piano intermedio e sullo sfondo.
+3. Se il bambino resta leggibile mentre gli adulti sono in primo piano.
+4. Come la finestra separa e collega i diversi ambienti.
+5. Quale differenza di informazione esiste fra lo spettatore e Charles.
+6. Perché la macchina da presa non ha bisogno di passare da un personaggio all'altro con un montaggio di campi e controcampi.
+
+### Perché è didatticamente utile
+È uno degli esempi più chiari per distinguere profondità di campo e composizione in profondità. La scena dimostra che la messa in scena può distribuire l'informazione su più piani e che lo spettatore può essere invitato a osservare simultaneamente azioni differenti. È inoltre utile per spiegare come il movimento di macchina possa rivelare progressivamente uno spazio e trasformare il significato di un'inquadratura.
 
 ### Obiettivo didattico
-Distinguere profondità di campo, profondità della composizione e semplice sfondo e comprendere la loro funzione narrativa.
+Al termine dell'attività, lo studente sa distinguere profondità di campo e staging in profondità, individuare i diversi piani dell'immagine e spiegare come il movimento di macchina e la composizione rendano simultaneamente visibili azioni differenti.
+
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare la scena senza anticipare il concetto di profondità di campo. Chiedere agli studenti che cosa hanno osservato sullo sfondo mentre gli adulti parlavano.
+2. **Seconda visione:** fermare l'immagine dopo il movimento all'indietro e individuare i tre piani d'azione.
+3. **Analisi del movimento:** ricostruire il percorso della macchina da presa e osservare come cambia la quantità di spazio visibile.
+4. **Analisi della messa in scena:** descrivere la posizione di madre, Thatcher, padre e bambino e spiegare che cosa comunica la loro disposizione.
+5. **Confronto:** mostrare una scena costruita con campo/controcampo e discutere quali informazioni vengono distribuite in modo diverso.
+6. **Rielaborazione:** realizzare una fotografia in profondità con tre azioni simultanee e almeno un elemento di cornice interna, come una porta o una finestra.
+
+### Domande per gli studenti
+1. Che cosa cambia quando la macchina da presa arretra?
+2. Quali azioni restano visibili contemporaneamente?
+3. Qual è la differenza fra profondità di campo e disposizione dei personaggi in profondità?
+4. Perché la finestra è importante nella composizione?
+5. Che cosa sa lo spettatore che il bambino non sa?
+
+### Verifica formativa
+Gli studenti consegnano un fotogramma annotato con:
+- primo piano, piano intermedio e sfondo;
+- personaggi e azioni presenti su ciascun piano;
+- elementi che restano a fuoco;
+- direzione del movimento di macchina;
+- funzione della finestra come cornice interna.
+
+Aggiungono una breve spiegazione del motivo per cui la scena può essere letta senza ricorrere a un campo/controcampo.
+
+**Criteri:** distinzione corretta fra profondità di campo e staging in profondità, individuazione dei piani, comprensione del movimento di macchina, capacità di collegare la composizione alla distribuzione dell'informazione.
 
 ### Collegamenti
-- *Viale del tramonto*.
-- *Shining*.
-- Cinema classico e modernità della messa in scena.
+- **Profondità di campo e composizione:** *Shining* — geometria e punto di fuga.
+- **Profondità e messa in scena:** *La regola del gioco* — più azioni simultanee nello stesso quadro.
+- **Movimento di macchina e spazio:** *Moulin Rouge!* — attraversamento di cornici e ambienti.
+- **Piano-sequenza e composizione:** *Birdman* — movimento che riproduce alcune funzioni del montaggio.
 
----
+### Fonti e riferimenti
+- David Bordwell e Kristin Thompson, *Film Art: An Introduction*, capitolo «The Shot: Mise-en-scène», per la distinzione fra profondità di campo, staging in profondità e composizione.
+- David Bordwell, *On the History of Film Style*, capitolo sullo stile di *Citizen Kane*, per la scena della firma dei documenti e l'uso della profondità di campo: https://thedach.com/storage/2020/10/pp.-74-109-pp.-304-316-Narrative-as-a-formal-system-Style-as-a-formal-system-by-David-Bordwell.pdf
+- James Naremore, *Orson Welles's Citizen Kane: A Casebook*, Oxford University Press, 2004, sezione «Style and Meaning in Citizen Kane», per il movimento all'indietro della macchina da presa e la disposizione dei tre piani: https://www.wwi-warp.net/docs/coursenotes/Citizen%20Kane3-1526890785-1674701750CitizenKane3.pdf
+- Film Education, *Citizen Kane* — scheda didattica sulla scena della firma dei documenti e sulla funzione narrativa della profondità di campo: https://filmeducation.org/pdf/film/citkane.pdf
 
 ## 24. *Shining* (Stanley Kubrick, 1980)
 [↑ Torna all'indice](#indice-interattivo)
