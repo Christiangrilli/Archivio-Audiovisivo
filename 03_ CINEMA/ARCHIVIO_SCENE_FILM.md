@@ -3457,36 +3457,82 @@ Concludono distinguendo l'azione fisica dell'omicidio dalla sua costruzione perc
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** apertura del film e successiva conversazione nell'appartamento, costruita attraverso lunghi movimenti della macchina da presa.
+- **Sequenza principale:** il piano iniziale che conduce dall'esterno dell'edificio all'appartamento e mostra l'omicidio di David Kentley e l'occultamento del corpo nel baule.
+- **Sequenza di confronto:** uno dei passaggi successivi in cui la macchina da presa si avvicina alla schiena di un personaggio fino a oscurare il quadro, mascherando la giunzione fra due riprese.
 - **Concetto principale:** long take e continuità apparente.
-- **Concetti secondari:** piano-sequenza, movimento di macchina, spazio scenico, raccordo nascosto, teatralità.
-- **Tag:** #movimento-di-macchina #spazio #messa-in-scena #continuità #piano-sequenza
+- **Concetti secondari:** movimento di macchina, montaggio nascosto, blocking, spazio scenico mobile, tempo reale, découpage interno, limiti tecnici della pellicola.
+- **Tag:** #piano-sequenza #long-take #movimento-di-macchina #spazio #messa-in-scena #continuità #montaggio
 - **Livello:** Avanzato.
-- **Uso consigliato:** analisi formale / confronto.
+- **Uso consigliato:** distinguere la durata di una ripresa dalla continuità apparente dell'intero film e mostrare come la macchina da presa possa svolgere funzioni normalmente affidate al montaggio.
+- **Stato:** **DA COMPLETARE** — verificare il frammento e identificare sulla copia scelta almeno una giunzione nascosta e una giunzione visibile.
 
-### Analisi
-Hitchcock organizza il film come una successione di lunghi piani che simulano una continuità quasi ininterrotta. La durata delle bobine imponeva però limiti tecnici: i passaggi fra segmenti erano spesso mascherati entrando molto vicino a un elemento scuro o al corpo di un personaggio. La scena permette quindi di distinguere il piano-sequenza reale dalla simulazione di continuità attraverso giunzioni nascoste.
+### Contesto essenziale
+Brandon e Phillip strangolano il compagno David Kentley e nascondono il corpo in un grande baule al centro del salotto. Poco dopo organizzano una festa nello stesso appartamento, invitando amici e familiari della vittima. Il film si svolge quasi interamente in tempo continuo e in un unico ambiente, trasformando l'appartamento in uno spazio nel quale la presenza del cadavere è costantemente percepibile, anche quando nessuno lo nomina.
+
+### Analisi formale
+*Rope* è spesso ricordato come un film girato in un unico piano-sequenza, ma questa definizione è imprecisa. La pellicola è composta da più riprese molto lunghe, alcune vicine ai dieci minuti, unite attraverso tagli nascosti e tagli convenzionali. Il numero esatto delle inquadrature dipende dai criteri di conteggio e dall'inclusione del piano iniziale dei titoli; è quindi più corretto parlare di una continuità apparente costruita con una successione di long take.
+
+Il piano iniziale introduce il luogo e conduce lo spettatore all'interno dell'appartamento. La macchina da presa attraversa lo spazio, si avvicina ai personaggi e registra l'omicidio senza ricorrere a un montaggio frammentato. Il movimento organizza l'informazione: lo spettatore vede il corpo, il baule e i due assassini nello stesso spazio e comprende immediatamente che l'oggetto al centro del salotto diventerà il fulcro della tensione.
+
+La macchina da presa sostituisce alcune funzioni del découpage classico. Può avvicinarsi a un personaggio, spostarsi verso un interlocutore, cambiare scala e orientare l'attenzione senza un taglio visibile. Il movimento e il blocking degli attori sono strettamente coordinati: porte, pareti e mobili devono poter essere spostati fuori campo per consentire il passaggio della macchina da presa. Il set è quindi costruito come uno spazio mobile, non come un appartamento realistico e immutabile.
+
+I tagli nascosti vengono spesso realizzati avvicinando la macchina da presa alla schiena scura di un personaggio o a un oggetto che riempie il quadro. L'immagine diventa quasi completamente nera; la ripresa successiva riparte da una posizione simile, dando l'impressione che il movimento non sia mai stato interrotto. Ma il film contiene anche tagli visibili, che non vanno confusi con le giunzioni mascherate. La presenza di questi tagli è importante: dimostra che l'obiettivo non era eliminare ogni forma di montaggio, ma sperimentare con la durata e con la percezione della continuità.
+
+La limitazione tecnica delle cineprese Technicolor a 35 mm, che potevano contenere circa dieci minuti di pellicola per caricatore, rendeva impossibile girare l'intero film in una sola ripresa. La soluzione adottata da Hitchcock trasforma un vincolo tecnico in una scelta formale: la durata viene mantenuta attraverso una serie di riprese lunghe e la giunzione diventa parte del gioco percettivo.
+
+La continuità apparente non significa che il film rinunci al montaggio. Come osserva Hitchcock nel dialogo con Truffaut, la macchina da presa mobile riproduce molte funzioni del découpage: varia la scala dell'immagine, seleziona le reazioni e organizza il passaggio da un personaggio all'altro. Il film è quindi «pre-montato» attraverso il movimento e la coreografia, prima ancora che attraverso gli stacchi.
+
+### Evidenze da far osservare
+1. Come la macchina da presa entra nell'appartamento e introduce i personaggi.
+2. In quali momenti il movimento sostituisce un campo/controcampo o un cambio di scala.
+3. Come gli attori si spostano per rendere possibile il movimento della camera.
+4. Quali elementi del set possono essere spostati fuori campo.
+5. Come viene mascherata una giunzione sulla schiena di un personaggio.
+6. Quali tagli risultano invece visibili e perché è importante distinguerli.
+7. Come il baule mantiene una presenza narrativa anche quando la macchina da presa segue altri personaggi.
 
 ### Perché è didatticamente utile
-È un caso ideale per far capire che la durata percepita di un'inquadratura non coincide necessariamente con l'assenza di montaggio.
+La sequenza permette di superare l'idea che un piano-sequenza sia semplicemente un'inquadratura molto lunga. Gli studenti possono osservare come la macchina da presa organizzi lo spazio e svolga funzioni di montaggio, e come una continuità percepita possa essere costruita attraverso più riprese. È inoltre un caso storico utile per comprendere il rapporto fra limiti tecnici, organizzazione del set e invenzione formale.
 
 ### Obiettivo didattico
-Distinguere long take, piano-sequenza e montaggio mascherato; riconoscere come movimento di macchina e coreografia degli attori possano sostituire parte della frammentazione del découpage.
+Al termine dell'attività, lo studente sa distinguere long take, piano-sequenza e continuità apparente; riconoscere una giunzione nascosta; descrivere il rapporto fra movimento di macchina, blocking e montaggio.
 
 ### Come utilizzarla in classe
-Far individuare agli studenti i momenti in cui il film potrebbe aver effettuato un cambio di bobina. Successivamente confrontare la scena con *Birdman*, già presente nell'archivio.
+1. **Prima visione:** mostrare il piano iniziale senza anticipare i tagli nascosti. Chiedere agli studenti di seguire il percorso della macchina da presa.
+2. **Mappa dello spazio:** disegnare una pianta semplificata dell'appartamento e segnare i passaggi fra salotto, finestre e altri ambienti.
+3. **Analisi del blocking:** individuare i movimenti degli attori e degli elementi scenografici che permettono alla macchina da presa di spostarsi.
+4. **Ricerca delle giunzioni:** mostrare un passaggio in cui il quadro viene oscurato dalla schiena di un personaggio e spiegare come può essere stato realizzato il raccordo.
+5. **Confronto:** mettere in relazione la scena con *Birdman*, che costruisce una continuità apparente attraverso tecniche digitali e movimenti di macchina differenti.
+6. **Rielaborazione:** progettare un piano-sequenza breve in un ambiente scolastico, indicando quali elementi devono essere spostati e come nascondere un eventuale taglio.
 
-### Domande
-1. Perché questa regia dà l'impressione di essere continua?
-2. Dove potrebbe essere nascosto un taglio?
-3. Cosa cambia nella percezione dello spazio quando la macchina da presa non interrompe l'azione?
+### Domande per gli studenti
+1. Perché è impreciso dire che *Rope* è girato in un unico piano-sequenza?
+2. Quali funzioni del montaggio vengono svolte dal movimento della macchina da presa?
+3. Perché il set deve essere costruito con pareti e mobili mobili?
+4. Come viene mascherato un taglio sulla schiena di un personaggio?
+5. Perché la continuità apparente non equivale all'assenza di montaggio?
+
+### Verifica formativa
+Gli studenti ricostruiscono il percorso della macchina da presa nel piano iniziale con una mappa e uno storyboard di almeno sei momenti. In un secondo passaggio identificano:
+- un movimento che sostituisce un cambio di inquadratura;
+- una giunzione nascosta;
+- un taglio visibile, se presente nel frammento scelto;
+- un elemento del set che deve essere spostato per consentire il movimento.
+
+**Criteri:** ricostruzione corretta dello spazio, distinzione fra long take e piano-sequenza integrale, riconoscimento dei tagli, comprensione del rapporto fra coreografia e macchina da presa.
 
 ### Collegamenti
-- *Birdman*: continuità simulata.
-- *Lo squalo*: long take e movimento nello spazio.
-- Cinema classico e rapporto fra macchina da presa e spazio scenico.
+- **Continuità apparente:** *Birdman* — giunzioni nascoste e movimento continuo.
+- **Piano-sequenza e suspense:** *L'infernale Quinlan* — movimento di macchina e distribuzione dell'informazione.
+- **Montaggio interno e profondità:** *Quarto potere* — movimento e composizione in profondità.
+- **Spazio scenico e coreografia:** *La regola del gioco* — organizzazione dei personaggi in ambienti complessi.
 
----
+### Fonti e riferimenti
+- Matthew Thrift, «Hot takes: a short history of the one-shot movie in 11 attempts», *BFI*, 22 gennaio 2020. Spiega i limiti dei caricatori di pellicola, i passaggi nascosti e il concetto di continuità apparente: https://www.bfi.org.uk/lists/single-take-films
+- Philippe Mather, «Shot Transitions and Narrative Logic in Hitchcock's *Rope*», *Kinema*, Spring 2009. Analizza i tagli nascosti e visibili, il movimento di macchina e la loro funzione narrativa: https://doi.org/10.15353/kinema.vi.1207
+- American Film Institute, *AFI Catalog*, scheda di *Rope* (1948), per i limiti tecnici delle riprese, le prove e la costruzione del set con pareti mobili: https://catalog.afi.com/Film/25703-ROPE
+- BFI Southbank, «Rope (1948)», note di programma, per la struttura in riprese di circa dieci minuti e la continuità temporale della vicenda: https://bfidatadigipres.github.io/big%20screen%20classics/2022/02/10/rope/
+- François Truffaut, *Il cinema secondo Hitchcock*, capitolo dedicato a *Rope*, per le riflessioni del regista sulla sperimentazione del piano lungo e sui limiti del découpage.
 
 ## 40. *Breathless* (*Fino all'ultimo respiro*, Jean-Luc Godard, 1960)
 [↑ Torna all'indice](#indice-interattivo)
