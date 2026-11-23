@@ -58,7 +58,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti.
 - [*The Fabelmans* (Steven Spielberg, 2022) — film nel film e montaggio come rivelazione](ARCHIVIO_SCENE_FILM.md#83-the-fabelmans-steven-spielberg-2022-film-nel-film-e-montaggio-come-rivelazione)
 - [*Million Dollar Baby* (Clint Eastwood, 2004) — scala dei piani e intensificazione del dialogo](ARCHIVIO_SCENE_FILM.md#85-million-dollar-baby-clint-eastwood-2004-scala-dei-piani-e-intensificazione-del-dialogo)
 - [*Titanic* (James Cameron, 1997) — montaggio alternato](ARCHIVIO_SCENE_FILM.md#87-titanic-james-cameron-1997-montaggio-alternato-e-gestione-dello-spazio)
-- [*R.M.N. / Animali selvatici* (Cristian Mungiu, 2022)](ARCHIVIO_SCENE_FILM.md#94-rmn-animali-selvatici-cristian-mungiu-2022-la-riunione-e-il-montaggio-interno)
+- [*R.M.N. / Animali selvatici* (Cristian Mungiu, 2022)](ARCHIVIO_SCENE_FILM.md#scene-94)
 ### Inquadratura, composizione e profondità (39)
 
 - [*Susanna* (*Bringing Up Baby*, Howard Hawks, 1938)](ARCHIVIO_SCENE_FILM.md#1-susanna-bringing-up-baby-howard-hawks-1938)
@@ -340,7 +340,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Rear Window / La finestra sul cortile* (Alfred Hitchcock, 1954) — SCHEDA OPERATIVA: REGOLA DEI 180°](ARCHIVIO_SCENE_FILM.md#71-rear-window-la-finestra-sul-cortile-alfred-hitchcock-1954-scheda-operativa-regola-dei-180) — regola dei 180° e continuità dello spazio.
 - [*Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)](ARCHIVIO_SCENE_FILM.md#29-revenant---redivivo-the-revenant-alejandro-g-iñárritu-2015) — luce naturale e macchina da presa immersiva.
 - [*Rocco e i suoi fratelli* (Luchino Visconti, 1960)](ARCHIVIO_SCENE_FILM.md#4-rocco-e-i-suoi-fratelli-luchino-visconti-1960) — messa in scena del corpo e del melodramma.
-- [*R.M.N. / Animali selvatici* (Cristian Mungiu, 2022)](ARCHIVIO_SCENE_FILM.md#94-rmn-animali-selvatici-cristian-mungiu-2022-la-riunione-e-il-montaggio-interno) — montaggio interno, piano-sequenza, messa in scena e polifonia sonora.
+- [*R.M.N. / Animali selvatici* (Cristian Mungiu, 2022)](ARCHIVIO_SCENE_FILM.md#scene-94) — montaggio interno, piano-sequenza, messa in scena e polifonia sonora.
 - [*Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)](ARCHIVIO_SCENE_FILM.md#39-rope-nodo-alla-gola-alfred-hitchcock-1948) — long take e continuità apparente.
 - [*Se mi lasci ti cancello* (*Eternal Sunshine of the Spotless Mind*, Michel Gondry, 2004)](ARCHIVIO_SCENE_FILM.md#19-se-mi-lasci-ti-cancello-eternal-sunshine-of-the-spotless-mind-michel-gondry-2004) — continuità spaziale impossibile e memoria.
 - [*Shining* (Stanley Kubrick, 1980)](ARCHIVIO_SCENE_FILM.md#24-shining-stanley-kubrick-1980) — Steadicam, prospettiva e paesaggio sonoro.
