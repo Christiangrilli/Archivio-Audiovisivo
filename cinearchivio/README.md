@@ -37,6 +37,23 @@ cinearchivio/
 └── README.md
 ```
 
+## Applicazione macOS
+
+La cartella include anche il contenitore desktop Electron. Il workflow
+`.github/workflows/build-cinearchivio-macos.yml` genera automaticamente due
+immagini disco `.dmg`: una per Mac Apple Silicon (M1/M2/M3/M4) e una per Mac
+con processore Intel. Al termine della compilazione vengono pubblicate nella
+release [Cinearchivio per macOS](https://github.com/Christiangrilli/Archivio-Audiovisivo/releases/tag/cinearchivio-macos-latest).
+
+Per installare: aprire il DMG, trascinare Cinearchivio in Applicazioni ed
+espellere il disco. La prima apertura di una build non firmata e non autenticata
+da Apple può richiedere il consenso in Impostazioni di Sistema > Privacy e
+Sicurezza. L'app non è attualmente notarizzata.
+
+L'applicazione richiede una connessione Internet per scaricare il file Markdown
+sorgente dal repository. La raccolta personale resta salvata localmente nel
+profilo dell'app sul Mac.
+
 ## Avvio e pubblicazione
 
 L'app è statica e non richiede un backend o un processo di build. Per provarla in locale è sufficiente servirla con un server HTTP nella cartella della repository (ad esempio l'estensione Live Server di Visual Studio Code). L'apertura diretta come file locale può impedire il caricamento del Markdown remoto per le regole CORS del browser.
