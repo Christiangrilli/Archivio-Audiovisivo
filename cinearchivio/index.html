@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111315">
+  <meta name="description" content="Cinearchivio — archivio cinematografico interattivo per la didattica dell'audiovisivo.">
+  <title>Cinearchivio — Archivio didattico del cinema</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <div class="film-grain" aria-hidden="true"></div>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="Cinearchivio, homepage">
+      <span class="brand-mark">C<span>·</span>A</span>
+      <span class="brand-copy"><strong>CINEARCHIVIO</strong><small>ATLANTE DIDATTICO DEL CINEMA</small></span>
+    </a>
+    <nav class="topnav" aria-label="Navigazione principale">
+      <a class="active" href="#archivio">Archivio</a>
+      <a href="#raccolta">La mia lezione <span id="collection-count" class="nav-count">0</span></a>
+      <a href="https://github.com/Christiangrilli/Archivio-Audiovisivo/tree/main/03_%20CINEMA" target="_blank" rel="noreferrer">Repository ↗</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="eyebrow-line"></span> STRUMENTO PER IL DOCENTE DI DISCIPLINE AUDIOVISIVE</div>
+        <h1>Imparare a<br><em>guardare</em> il cinema.</h1>
+        <p class="hero-intro">Un archivio di scene, forme e procedimenti cinematografici. Cerca un concetto, trova un esempio, costruisci una lezione.</p>
+        <a class="hero-link" href="#archivio">ESPLORA L'ARCHIVIO <span>↓</span></a>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <div class="reel reel-back"></div><div class="reel reel-front"><div class="reel-core"></div></div>
+        <div class="hero-frame"><span>FRAME 001</span><div class="frame-cross"></div><small>FORMA / SGUARDO / RACCONTO</small></div>
+        <div class="hero-caption">UN ARCHIVIO IN DIVENIRE <b>·</b> DAL 2026</div>
+      </div>
+      <div class="hero-index"><span>01</span><span>ARCHIVIO / SCENE FILM</span><span>↓</span></div>
+    </section>
+
+    <section class="archive-section" id="archivio">
+      <div class="section-heading">
+        <div><div class="eyebrow"><span class="eyebrow-line"></span> IL CATALOGO</div><h2>Esplora le scene</h2></div>
+        <p>Non una filmografia, ma una raccolta di esempi da interrogare: ogni scena è collegata a un problema del linguaggio audiovisivo e a una possibile attività didattica.</p>
+      </div>
+
+      <div class="stats-row">
+        <div class="stat"><strong id="total-count">—</strong><span>SCHEDE IN ARCHIVIO</span></div>
+        <div class="stat"><strong id="visible-count">—</strong><span>RISULTATI VISUALIZZATI</span></div>
+        <div class="stat"><strong id="concept-count">—</strong><span>CONCETTI INDICIZZATI</span></div>
+        <div class="source-status" id="source-status"><span class="status-dot"></span> Connessione all'archivio…</div>
+      </div>
+
+      <div class="toolbar">
+        <label class="searchbox"><span class="search-icon">⌕</span><input id="search-input" type="search" placeholder="Cerca un film, un regista, una tecnica…" autocomplete="off"><kbd> / </kbd></label>
+        <label class="filter-wrap"><span>CONCETTO</span><select id="concept-filter"><option value="">Tutti i concetti</option></select></label>
+        <label class="filter-wrap"><span>LIVELLO</span><select id="level-filter"><option value="">Tutti i livelli</option><option>Base</option><option>Intermedio</option><option>Avanzato</option></select></label>
+        <label class="filter-wrap"><span>STATO</span><select id="status-filter"><option value="">Tutti gli stati</option><option value="PRONTA">Pronta</option><option value="DA COMPLETARE">Da completare</option><option value="DA VERIFICARE">Da verificare</option><option value="NON INDICATO">Stato non indicato</option></select></label>
+        <button id="reset-filters" class="reset-button" type="button">Azzera ↺</button>
+      </div>
+
+      <div class="results-line"><span id="results-label">Caricamento schede…</span><span class="sort-label">ORDINAMENTO <select id="sort-select"><option value="number">Numero scheda</option><option value="title">Titolo A—Z</option><option value="year">Anno</option></select></span></div>
+      <div id="film-grid" class="film-grid" aria-live="polite">
+        <div class="loading-state"><div class="loader"></div><p>Sto consultando l'archivio originale…</p></div>
+      </div>
+      <div id="empty-state" class="empty-state" hidden><span>⌕</span><h3>Nessuna scena trovata</h3><p>Prova a modificare i filtri o la parola cercata.</p></div>
+    </section>
+
+    <section class="lesson-section" id="raccolta">
+      <div class="lesson-icon">✳</div>
+      <div class="lesson-copy"><div class="eyebrow">IL TUO TAVOLO DI LAVORO</div><h2>Costruisci una lezione.</h2><p>Aggiungi le scene che vuoi mettere in relazione. Potrai rivedere la selezione e stamparla come promemoria per la progettazione didattica.</p></div>
+      <div class="lesson-action"><span id="lesson-summary">Nessuna scena selezionata</span><button id="open-collection" class="button-light" type="button">APRI LA RACCOLTA <span>↗</span></button></div>
+    </section>
+  </main>
+
+  <footer><a class="footer-brand" href="./">CINEARCHIVIO</a><span>Un progetto di consultazione e didattica del linguaggio cinematografico.</span><a href="https://github.com/Christiangrilli/Archivio-Audiovisivo" target="_blank" rel="noreferrer">SORGENTE SU GITHUB ↗</a></footer>
+
+  <dialog id="detail-dialog" class="detail-dialog"><div class="dialog-shell"><button class="dialog-close" data-close-dialog aria-label="Chiudi">×</button><div id="detail-content"></div></div></dialog>
+  <dialog id="collection-dialog" class="detail-dialog collection-dialog"><div class="dialog-shell"><button class="dialog-close" data-close-dialog aria-label="Chiudi">×</button><div id="collection-content"></div></div></dialog>
+</body>
+</html>
