@@ -157,13 +157,13 @@ Questa sequenza è una priorità di lavoro, non un vincolo assoluto: può cambia
 
 - L'archivio contiene **93 schede operative** (incluse le schede comparative), numerate progressivamente da 1 a 93. Le sezioni preliminari e le costellazioni didattiche non rientrano in questa numerazione.
 - L'indice contiene **93 destinazioni uniche** e **322 collegamenti** distribuiti fra i percorsi per concetto e l'elenco alfabetico. I sette conteggi dichiarati nelle categorie tematiche corrispondono al numero effettivo di voci elencate.
-- La revisione delle schede 1–34 ha corretto contenuti imprecisi o troppo generici, fra cui il raccordo in *Susanna*, il punto di vista in *Il Gattopardo*, il fuori campo in *Lo squalo* e *Jurassic Park*, il match cut di *2001*, la citazione di *Hello, Dolly!* in *WALL-E* e il rapporto fra continuità e spazio in *Se mi lasci ti cancello*.
+- La revisione delle schede 1–34, 38, 41 e 45 (37 schede in totale) ha corretto contenuti imprecisi o troppo generici, fra cui il raccordo in *Susanna*, il punto di vista in *Il Gattopardo*, il fuori campo in *Lo squalo* e *Jurassic Park*, il match cut di *2001*, la citazione di *Hello, Dolly!* in *WALL-E* e il rapporto fra continuità e spazio in *Se mi lasci ti cancello*.
 - Sono stati corretti otto anchor dell'indice in seguito alla modifica dei titoli delle schede. Il controllo successivo deve confermare nuovamente tutti i 322 collegamenti.
-- La guida operativa riporta ora una fotografia documentale delle 93 schede: 54 presentano uno stato esplicito (53 **DA COMPLETARE**, 1 **DA VERIFICARE**); 39 non hanno ancora uno stato dichiarato. Nessuna scheda risulta contrassegnata **PRONTA**.
-- La verifica formativa è presente con un'intestazione esplicita in 54 schede; 39 non la riportano. Anche attività, fonti e collegamenti richiedono una revisione progressiva.
+- La guida operativa riporta ora una fotografia documentale delle 93 schede: 57 presentano uno stato esplicito (56 **DA COMPLETARE**, 1 **DA VERIFICARE**); 36 non hanno ancora uno stato dichiarato. Nessuna scheda risulta contrassegnata **PRONTA**.
+- La verifica formativa è presente con un'intestazione esplicita in 57 schede; 36 non la riportano. Anche attività, fonti e collegamenti richiedono una revisione progressiva.
 - *Pillow Talk* è stato rimosso dall'archivio e dall'indice perché l'utente non desidera utilizzarlo. La menzione nelle preferenze editoriali serve soltanto a ricordare di non reinserirlo.
 - Le schede più recenti, numerate 79–93, hanno già obiettivi, attività, domande, collegamenti e fonti, ma restano da completare o verificare per la delimitazione del frammento e il controllo sulla copia scelta. Non inventare timecode.
-- Le priorità sono: verificare i frammenti delle schede 1–34; assegnare uno stato motivato a tutte le schede; completare le verifiche formative mancanti; controllare fonti e timecode; aggiornare gli indici dopo ogni modifica e preservare la numerazione progressiva.
+- Le priorità sono: verificare i frammenti delle schede 1–34, 38, 41 e 45; assegnare uno stato motivato a tutte le schede; completare le verifiche formative mancanti; controllare fonti e timecode; aggiornare gli indici dopo ogni modifica e preservare la numerazione progressiva.
 - Gli SHA dei file e i conteggi sono dati di ricognizione del momento: prima di ogni modifica recuperare sempre la versione corrente dal repository.
 ---
 
