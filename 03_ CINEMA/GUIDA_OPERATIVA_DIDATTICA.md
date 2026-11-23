@@ -182,7 +182,7 @@ L'etichetta descrive lo stato documentale della scheda, non il valore artistico 
 
 ### Fotografia dello stato attuale (23 novembre 2026)
 
-La ricognizione dell'archivio individua **93 schede operative**. Le prime 34 schede e le schede 38, 41 e 45 (37 schede in totale) sono state sottoposte a una revisione sostanziale di identificazione della sequenza, terminologia, analisi, obiettivi, attività, domande, verifica e fonti; la ricognizione quantitativa è stata aggiornata di conseguenza. Il conteggio comprende anche schede di confronto fra più film o sequenze: non coincide quindi con il numero dei titoli cinematografici distinti. La verifica seguente cerca intestazioni esplicite e non certifica che un contenuto sia del tutto assente quando è espresso in forma discorsiva o sotto un titolo diverso.
+La ricognizione dell'archivio individua **93 schede operative**. Le prime 34 schede e le schede 38, 39, 40, 41, 42 e 45 (40 schede in totale) sono state sottoposte a una revisione sostanziale di identificazione della sequenza, terminologia, analisi, obiettivi, attività, domande, verifica e fonti; la ricognizione quantitativa è stata aggiornata di conseguenza. Il conteggio comprende anche schede di confronto fra più film o sequenze: non coincide quindi con il numero dei titoli cinematografici distinti. La verifica seguente cerca intestazioni esplicite e non certifica che un contenuto sia del tutto assente quando è espresso in forma discorsiva o sotto un titolo diverso.
 
 | Campo cercato | Schede con etichetta esplicita | Schede senza etichetta esplicita |
 |---|---:|---:|
@@ -191,14 +191,14 @@ La ricognizione dell'archivio individua **93 schede operative**. Le prime 34 sch
 | Obiettivo didattico | 74 | 19 |
 | Attività | 42 | 51 |
 | Domande | 87 | 6 |
-| Verifica formativa | 57 | 36 |
+| Verifica formativa | 60 | 33 |
 | Collegamenti | 83 | 10 |
 | Fonti | 80 | 13 |
-| Stato della scheda | 57 | 36 |
+| Stato della scheda | 60 | 33 |
 
-Fra le 57 schede con uno stato esplicito, **56 sono DA COMPLETARE e 1 è DA VERIFICARE; nessuna è contrassegnata PRONTA**. Le altre 36 non hanno ancora un'etichetta di stato: non vanno considerate automaticamente pronte. La verifica formativa è presente con un'intestazione esplicita in 57 schede, mentre 36 ne sono ancora prive.
+Fra le 60 schede con uno stato esplicito, **59 sono DA COMPLETARE e 1 è DA VERIFICARE; nessuna è contrassegnata PRONTA**. Le altre 33 non hanno ancora un'etichetta di stato: non vanno considerate automaticamente pronte. La verifica formativa è presente con un'intestazione esplicita in 60 schede, mentre 33 ne sono ancora prive.
 
-Il controllo è documentale, non una valutazione qualitativa automatica: una scheda può contenere un'attività o una verifica senza usare l'intestazione prevista. Le 57 verifiche esplicite comprendono anche quelle aggiunte e riformulate durante la revisione delle schede 1–34, 38, 41 e 45. La revisione deve quindi procedere leggendo le schede, non limitandosi a uniformare le etichette.
+Il controllo è documentale, non una valutazione qualitativa automatica: una scheda può contenere un'attività o una verifica senza usare l'intestazione prevista. Le 60 verifiche esplicite comprendono anche quelle aggiunte e riformulate durante la revisione delle schede 1–34, 38, 39, 40, 41, 42 e 45. La revisione deve quindi procedere leggendo le schede, non limitandosi a uniformare le etichette.
 
 Il dato conferma che la priorità non è aggiungere altri film, ma completare l'apparato didattico delle schede esistenti, assegnare a ciascuna uno stato motivato e controllare i frammenti sulle copie effettivamente disponibili.
 
