@@ -33,7 +33,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set)
 - [*Psycho* (Alfred Hitchcock, 1960)](ARCHIVIO_SCENE_FILM.md#38-psycho-alfred-hitchcock-1960)
 - [*Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)](ARCHIVIO_SCENE_FILM.md#39-rope-nodo-alla-gola-alfred-hitchcock-1948)
-- [*Breathless* (*Fino all'ultimo respiro*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-breathless-fino-allultimo-respiro-jean-luc-godard-1960)
+- [*Fino all'ultimo respiro* (*À bout de souffle / Breathless*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-fino-allultimo-respiro-a-bout-de-souffle-breathless-jean-luc-godard-1960)
 - [*Blow Out* (Brian De Palma, 1981)](ARCHIVIO_SCENE_FILM.md#43-blow-out-brian-de-palma-1981)
 - [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962)
 - [*La corazzata Potëmkin* (*Bronenosets Potemkin*, Sergej Ejzenštejn, 1925)](ARCHIVIO_SCENE_FILM.md#47-la-corazzata-potëmkin-bronenosets-potemkin-sergej-ejzenštejn-1925)
@@ -130,7 +130,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set)
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](ARCHIVIO_SCENE_FILM.md#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille)
 - [*Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)](ARCHIVIO_SCENE_FILM.md#39-rope-nodo-alla-gola-alfred-hitchcock-1948)
-- [*Breathless* (*Fino all'ultimo respiro*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-breathless-fino-allultimo-respiro-jean-luc-godard-1960)
+- [*Fino all'ultimo respiro* (*À bout de souffle / Breathless*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-fino-allultimo-respiro-a-bout-de-souffle-breathless-jean-luc-godard-1960)
 - [*L'infernale Quinlan* (*Touch of Evil*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#41-linfernale-quinlan-touch-of-evil-orson-welles-1958)
 - [*The Birds* (*Gli uccelli*, Alfred Hitchcock, 1963)](ARCHIVIO_SCENE_FILM.md#46-the-birds-gli-uccelli-alfred-hitchcock-1963)
 - [*L'uomo con la macchina da presa* (*Chelovek s kino-apparatom*, Dziga Vertov, 1929)](ARCHIVIO_SCENE_FILM.md#48-luomo-con-la-macchina-da-presa-chelovek-s-kino-apparatom-dziga-vertov-1929)
@@ -183,7 +183,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 
 - [*News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)](ARCHIVIO_SCENE_FILM.md#34-news-from-home-chantal-akerman-1976-jeanne-dielman-23-quai-du-commerce-1080-bruxelles-chantal-akerman-1975)
 - [*Psycho* (Alfred Hitchcock, 1960)](ARCHIVIO_SCENE_FILM.md#38-psycho-alfred-hitchcock-1960)
-- [*The Conversation* (*La conversazione*, Francis Ford Coppola, 1974)](ARCHIVIO_SCENE_FILM.md#42-the-conversation-la-conversazione-francis-ford-coppola-1974)
+- [*La conversazione* (*The Conversation*, Francis Ford Coppola, 1974)](ARCHIVIO_SCENE_FILM.md#42-la-conversazione-the-conversation-francis-ford-coppola-1974)
 - [*Blow Out* (Brian De Palma, 1981)](ARCHIVIO_SCENE_FILM.md#43-blow-out-brian-de-palma-1981)
 - [*The Birds* (*Gli uccelli*, Alfred Hitchcock, 1963)](ARCHIVIO_SCENE_FILM.md#46-the-birds-gli-uccelli-alfred-hitchcock-1963)
 - [*M – Il mostro di Düsseldorf* (*M*, Fritz Lang, 1931)](ARCHIVIO_SCENE_FILM.md#50-m-il-mostro-di-düsseldorf-m-fritz-lang-1931)
@@ -225,9 +225,9 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set)
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](ARCHIVIO_SCENE_FILM.md#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille)
 - [*Psycho* (Alfred Hitchcock, 1960)](ARCHIVIO_SCENE_FILM.md#38-psycho-alfred-hitchcock-1960)
-- [*Breathless* (*Fino all'ultimo respiro*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-breathless-fino-allultimo-respiro-jean-luc-godard-1960)
+- [*Fino all'ultimo respiro* (*À bout de souffle / Breathless*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-fino-allultimo-respiro-a-bout-de-souffle-breathless-jean-luc-godard-1960)
 - [*L'infernale Quinlan* (*Touch of Evil*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#41-linfernale-quinlan-touch-of-evil-orson-welles-1958)
-- [*The Conversation* (*La conversazione*, Francis Ford Coppola, 1974)](ARCHIVIO_SCENE_FILM.md#42-the-conversation-la-conversazione-francis-ford-coppola-1974)
+- [*La conversazione* (*The Conversation*, Francis Ford Coppola, 1974)](ARCHIVIO_SCENE_FILM.md#42-la-conversazione-the-conversation-francis-ford-coppola-1974)
 - [*Blow Out* (Brian De Palma, 1981)](ARCHIVIO_SCENE_FILM.md#43-blow-out-brian-de-palma-1981)
 - [*Rashomon* (Akira Kurosawa, 1950)](ARCHIVIO_SCENE_FILM.md#44-rashomon-akira-kurosawa-1950)
 - [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962)
@@ -288,7 +288,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Blade Runner* (Ridley Scott, 1982)](ARCHIVIO_SCENE_FILM.md#90-blade-runner-ridley-scott-1982-fotografia-scenografia-e-costruzione-del-mondo) — fotografia e costruzione del mondo.
 - [*Blow Out* (Brian De Palma, 1981)](ARCHIVIO_SCENE_FILM.md#43-blow-out-brian-de-palma-1981) — montaggio audiovisivo e rapporto fra immagine e suono.
 - [*Blow-Up* (Michelangelo Antonioni, 1966)](ARCHIVIO_SCENE_FILM.md#62-blow-up-michelangelo-antonioni-1966) — fotografia e montaggio come costruzione dell'indizio.
-- [*Breathless* (*Fino all'ultimo respiro*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-breathless-fino-allultimo-respiro-jean-luc-godard-1960) — jump cut.
+- [*Fino all'ultimo respiro* (*À bout de souffle / Breathless*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#40-fino-allultimo-respiro-a-bout-de-souffle-breathless-jean-luc-godard-1960) — jump cut.
 - [*C'era una volta il West* (Sergio Leone, 1968)](ARCHIVIO_SCENE_FILM.md#91-cera-una-volta-il-west-sergio-leone-1968-durata-attesa-e-paesaggio-sonoro) — durata, attesa e paesaggio sonoro.
 - [*Catch Me If You Can / Prova a prendermi* (Steven Spielberg, 2002)](ARCHIVIO_SCENE_FILM.md#86-catch-me-if-you-can-prova-a-prendermi-steven-spielberg-2002-titoli-di-testa-animazione-e-grafica-in-movimento) — titoli di testa e motion graphics.
 - [*Citizen Kane* (*Quarto potere*, Orson Welles, 1941)](ARCHIVIO_SCENE_FILM.md#55-citizen-kane-quarto-potere-orson-welles-1941) — profondità di campo.
@@ -354,7 +354,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Taxi Driver* (Martin Scorsese, 1976)](ARCHIVIO_SCENE_FILM.md#82-taxi-driver-martin-scorsese-1976-movimento-di-macchina-e-voce-fuori-campo) — movimento di macchina e voce fuori campo.
 - [*The Apartment / L'appartamento* (Billy Wilder, 1960)](ARCHIVIO_SCENE_FILM.md#81-the-apartment-lappartamento-billy-wilder-1960-composizione-prospettiva-e-spazio-del-lavoro) — composizione, prospettiva e spazio del lavoro.
 - [*The Birds* (*Gli uccelli*, Alfred Hitchcock, 1963)](ARCHIVIO_SCENE_FILM.md#46-the-birds-gli-uccelli-alfred-hitchcock-1963) — fuori campo e suspense.
-- [*The Conversation* (*La conversazione*, Francis Ford Coppola, 1974)](ARCHIVIO_SCENE_FILM.md#42-the-conversation-la-conversazione-francis-ford-coppola-1974) — punto di ascolto e costruzione narrativa attraverso il suono.
+- [*La conversazione* (*The Conversation*, Francis Ford Coppola, 1974)](ARCHIVIO_SCENE_FILM.md#42-la-conversazione-the-conversation-francis-ford-coppola-1974) — punto di ascolto e costruzione narrativa attraverso il suono.
 - [*The Fabelmans* (Steven Spielberg, 2022)](ARCHIVIO_SCENE_FILM.md#83-the-fabelmans-steven-spielberg-2022-film-nel-film-e-montaggio-come-rivelazione) — montaggio e immagine come rivelazione.
 - [*The Godfather* (Francis Ford Coppola, 1972) — low-key lighting](ARCHIVIO_SCENE_FILM.md#75-the-godfather-francis-ford-coppola-1972-low-key-lighting) — illuminazione low-key e chiaroscuro.
 - [*The Godfather / Il padrino* (Francis Ford Coppola, 1972)](ARCHIVIO_SCENE_FILM.md#65-the-godfather-il-padrino-francis-ford-coppola-1972) — montaggio parallelo.
