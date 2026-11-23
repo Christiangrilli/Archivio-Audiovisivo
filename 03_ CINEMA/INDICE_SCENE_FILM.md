@@ -278,7 +278,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 
 
 
-- [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962) — raccordo concettuale, ellissi e suono-ponte.
+
 - [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-2001-a-space-odyssey-stanley-kubrick-1968) — match cut grafico osso-satellite ed ellissi temporale.
 - [*8½* (Federico Fellini, 1963)](ARCHIVIO_SCENE_FILM.md#8-8½-federico-fellini-1963) — soggettività e spazio mentale.
 - [*À bout de souffle / Fino all'ultimo respiro* (Jean-Luc Godard, 1960) — SCHEda DI CONFRONTO](ARCHIVIO_SCENE_FILM.md#61-à-bout-de-souffle-fino-allultimo-respiro-jean-luc-godard-1960-scheda-di-confronto) — jump cut.
@@ -304,6 +304,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — voice-over](ARCHIVIO_SCENE_FILM.md#74-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-voice-over) — voice-over narrativo.
 - [*Gran Torino* (Clint Eastwood, 2008)](ARCHIVIO_SCENE_FILM.md#84-gran-torino-clint-eastwood-2008-composizione-soglia-e-trasformazione-dei-rapporti) — composizione, soglia e rapporti tra personaggi.
 - [*His Girl Friday* (Howard Hawks, 1940) — overlapping dialogue](ARCHIVIO_SCENE_FILM.md#73-his-girl-friday-howard-hawks-1940-overlapping-dialogue) — overlapping dialogue.
+- [*I predatori dell'arca perduta*](ARCHIVIO_SCENE_FILM.md#17-i-predatori-dellarca-perduta-raiders-of-the-lost-ark-steven-spielberg-1981) — tempo comico e rovesciamento dell'aspettativa.
 - [*I quattrocento colpi* (*Les Quatre Cents Coups*, François Truffaut, 1959)](ARCHIVIO_SCENE_FILM.md#51-i-quattrocento-colpi-les-quatre-cents-coups-françois-truffaut-1959) — freeze frame e finale aperto.
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963)](ARCHIVIO_SCENE_FILM.md#64-il-disprezzo-le-mépris-jean-luc-godard-1963) — spazio della conversazione e rifiuto del découpage classico.
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](ARCHIVIO_SCENE_FILM.md#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille) — carrellata laterale e costruzione dello spazio tra i personaggi.
@@ -311,7 +312,6 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Il grande Gatsby* (Baz Luhrmann, 2013)](ARCHIVIO_SCENE_FILM.md#16-il-grande-gatsby-baz-luhrmann-2013) — montaggio audiovisivo, musica e sovraccarico sensoriale.
 - [*Il grande Gatsby* e *The Grand Budapest Hotel*: confronto sulla composizione e sullo spazio spettacolare](ARCHIVIO_SCENE_FILM.md#26-il-grande-gatsby-e-the-grand-budapest-hotel-confronto-sulla-composizione-e-sullo-spazio-spettacolare)
 - [*Il settimo sigillo* (Ingmar Bergman, 1957)](ARCHIVIO_SCENE_FILM.md#18-il-settimo-sigillo-det-sjunde-inseglet-ingmar-bergman-1957) — composizione, luce e messa in scena dello scontro.
-- [*I predatori dell'arca perduta*](ARCHIVIO_SCENE_FILM.md#17-i-predatori-dellarca-perduta-raiders-of-the-lost-ark-steven-spielberg-1981) — tempo comico e rovesciamento dell'aspettativa.
 - [*Intolerance* (D. W. Griffith, 1916)](ARCHIVIO_SCENE_FILM.md#31-intolerance-d-w-griffith-1916) — montaggio parallelo.
 - [*Io non ho paura* (Gabriele Salvatores, 2003)](ARCHIVIO_SCENE_FILM.md#28-io-non-ho-paura-gabriele-salvatores-2003) — contrasto luce-colore e punto di vista infantile.
 - [*Jaws / Lo squalo* (Steven Spielberg, 1975)](ARCHIVIO_SCENE_FILM.md#56-jaws-lo-squalo-steven-spielberg-1975) — suspense attraverso informazione e punto di vista.
@@ -319,12 +319,14 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*L'avventura* (Michelangelo Antonioni, 1960)](ARCHIVIO_SCENE_FILM.md#6-lavventura-michelangelo-antonioni-1960) — spazio e durata nel cinema moderno.
 - [*L'eclisse* (Michelangelo Antonioni, 1962)](ARCHIVIO_SCENE_FILM.md#7-leclisse-michelangelo-antonioni-1962) — spazio urbano e movimento di macchina.
 - [*L'eclisse* / *L'avventura* / *La dolce vita*: spazio e modernità](ARCHIVIO_SCENE_FILM.md#35-leclisse-lavventura-la-dolce-vita-spazio-e-modernità)
+- [*L'infernale Quinlan* (*Touch of Evil*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#41-linfernale-quinlan-touch-of-evil-orson-welles-1958) — piano-sequenza / long take.
 - [*L'uomo con la macchina da presa* (*Chelovek s kino-apparatom*, Dziga Vertov, 1929)](ARCHIVIO_SCENE_FILM.md#48-luomo-con-la-macchina-da-presa-chelovek-s-kino-apparatom-dziga-vertov-1929) — montaggio come costruzione della realtà e autoriflessività del dispositivo.
 - [*La corazzata Potëmkin* (*Bronenosets Potemkin*, Sergej Ejzenštejn, 1925)](ARCHIVIO_SCENE_FILM.md#47-la-corazzata-potëmkin-bronenosets-potemkin-sergej-ejzenštejn-1925) — montaggio ritmico e conflittuale.
 - [*La finestra sul cortile* (*Rear Window*, Alfred Hitchcock, 1954)](ARCHIVIO_SCENE_FILM.md#63-la-finestra-sul-cortile-rear-window-alfred-hitchcock-1954) — sguardo e punto di vista.
 - [*La nascita di una nazione* (*The Birth of a Nation*, D. W. Griffith, 1915)](ARCHIVIO_SCENE_FILM.md#30-la-nascita-di-una-nazione-the-birth-of-a-nation-d-w-griffith-1915) — montaggio narrativo.
 - [*La regola del gioco* (*La Règle du jeu*, Jean Renoir, 1939)](ARCHIVIO_SCENE_FILM.md#58-la-regola-del-gioco-la-règle-du-jeu-jean-renoir-1939) — profondità di campo e profondità della messa in scena.
 - [*Ladri di biciclette* (*Bicycle Thieves*, Vittorio De Sica, 1948)](ARCHIVIO_SCENE_FILM.md#49-ladri-di-biciclette-bicycle-thieves-vittorio-de-sica-1948) — spazio urbano nel neorealismo.
+- [*Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)](ARCHIVIO_SCENE_FILM.md#45-lawrence-darabia-lawrence-of-arabia-david-lean-1962) — raccordo concettuale, ellissi e suono-ponte.
 - [*Lo squalo* (*Jaws*, Steven Spielberg, 1975)](ARCHIVIO_SCENE_FILM.md#10-lo-squalo-jaws-steven-spielberg-1975) — punto di vista subacqueo e suspense.
 - [*M – Il mostro di Düsseldorf* (*M*, Fritz Lang, 1931)](ARCHIVIO_SCENE_FILM.md#50-m-il-mostro-di-düsseldorf-m-fritz-lang-1931) — suono diegetico e informazione fuori campo.
 - [*Memento* (Christopher Nolan, 2000)](ARCHIVIO_SCENE_FILM.md#69-memento-christopher-nolan-2000) — temporalità non lineare.
@@ -360,17 +362,17 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*The Graduate / Il laureato* (Mike Nichols, 1967) — carrello e composizione](ARCHIVIO_SCENE_FILM.md#78-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione) — blocking e composizione dei corpi nello spazio.
 - [*The Grand Budapest Hotel* (Wes Anderson, 2014)](ARCHIVIO_SCENE_FILM.md#22-the-grand-budapest-hotel-wes-anderson-2014) — composizione dell'inquadratura.
 - [*The Long Goodbye / Il lungo addio* (Robert Altman, 1973)](ARCHIVIO_SCENE_FILM.md#92-the-long-goodbye-il-lungo-addio-robert-altman-1973-dialoghi-sovrapposti-e-spazio-sonoro) — dialoghi sovrapposti e spazio sonoro.
-- [*Un uomo tranquillo* (*The Quiet Man*) / *E.T. l'extra-terrestre*](ARCHIVIO_SCENE_FILM.md#33-un-uomo-tranquillo-the-quiet-man-john-ford-1952-et-lextra-terrestre-et-the-extra-terrestrial-steven-spielberg-1982)
 - [*The Searchers* (John Ford, 1956) — formato e rapporto d'aspetto](ARCHIVIO_SCENE_FILM.md#76-the-searchers-john-ford-1956-formato-e-rapporto-daspetto) — rapporto d'aspetto e composizione panoramica.
 - [*The Searchers / Sentieri selvaggi* (John Ford, 1956)](ARCHIVIO_SCENE_FILM.md#70-the-searchers-sentieri-selvaggi-john-ford-1956) — soglia e composizione dell'inquadratura.
 - [*The Shining* (Stanley Kubrick, 1980)](ARCHIVIO_SCENE_FILM.md#67-the-shining-stanley-kubrick-1980) — movimento di macchina e soggettività spaziale.
 - [*The Silence of the Lambs / Il silenzio degli innocenti* (Jonathan Demme, 1991) — montaggio alternato e focalizzazione](ARCHIVIO_SCENE_FILM.md#77-the-silence-of-the-lambs-il-silenzio-degli-innocenti-jonathan-demme-1991-montaggio-alternato-e-focalizzazione) — montaggio alternato e falsa convergenza spaziale.
 - [*Titanic* (James Cameron, 1997)](ARCHIVIO_SCENE_FILM.md#87-titanic-james-cameron-1997-montaggio-alternato-e-gestione-dello-spazio) — montaggio alternato e spazio.
 - [*Tokyo Story / Viaggio a Tokyo* (Yasujirō Ozu, 1953)](ARCHIVIO_SCENE_FILM.md#57-tokyo-story-viaggio-a-tokyo-yasujirō-ozu-1953) — spazio e montaggio oltre la continuità classica.
-- [*L'infernale Quinlan* (*Touch of Evil*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#41-linfernale-quinlan-touch-of-evil-orson-welles-1958) — piano-sequenza / long take.
 - [*Toy Story* (John Lasseter, 1995)](ARCHIVIO_SCENE_FILM.md#79-toy-story-john-lasseter-1995-macchina-da-presa-virtuale-e-scala-dello-sguardo) — macchina da presa virtuale e scala dello sguardo.
+- [*Un uomo tranquillo* (*The Quiet Man*) / *E.T. l'extra-terrestre*](ARCHIVIO_SCENE_FILM.md#33-un-uomo-tranquillo-the-quiet-man-john-ford-1952-et-lextra-terrestre-et-the-extra-terrestrial-steven-spielberg-1982)
 - [*Vertigo* (Alfred Hitchcock, 1958) — Dolly zoom](ARCHIVIO_SCENE_FILM.md#72-vertigo-alfred-hitchcock-1958-dolly-zoom) — dolly zoom / travelling compensato.
 - [*WALL-E* (Andrew Stanton, 2008)](ARCHIVIO_SCENE_FILM.md#32-wall-e-andrew-stanton-2008) — *Hello, Dolly!*, musica e immagine.
+
 ## Percorso di lavoro
 
 1. **Scegli il concetto** da affrontare e individua una o più scene nell'indice tematico.
