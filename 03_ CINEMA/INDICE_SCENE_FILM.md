@@ -18,7 +18,7 @@ Questa pagina è la porta d'ingresso all'archivio: permette di trovare una scena
 
 Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena può comparire in più percorsi: il tag segnala un tema affrontato, non necessariamente il concetto principale della scheda.
 
-### Montaggio, raccordi e continuità (35)
+### Montaggio, raccordi e continuità (37)
 
 - [*Susanna* (*Bringing Up Baby*, Howard Hawks, 1938)](ARCHIVIO_SCENE_FILM.md#1-susanna-bringing-up-baby-howard-hawks-1938)
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976)
@@ -56,9 +56,9 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*The Silence of the Lambs / Il silenzio degli innocenti* (Jonathan Demme, 1991) — montaggio alternato e focalizzazione](ARCHIVIO_SCENE_FILM.md#42-the-silence-of-the-lambs-il-silenzio-degli-innocenti-jonathan-demme-1991-montaggio-alternato-e-focalizzazione)
 
 - [*The Fabelmans* (Steven Spielberg, 2022) — film nel film e montaggio come rivelazione](ARCHIVIO_SCENE_FILM.md#48-the-fabelmans-steven-spielberg-2022-film-nel-film-e-montaggio-come-rivelazione)
-- [*Million Dollar Baby* (Clint Eastwood, 2004) — montaggio ellittico](ARCHIVIO_SCENE_FILM.md#50-million-dollar-baby-clint-eastwood-2004-montaggio-ellittico-e-trasformazione-del-corpo)
+- [*Million Dollar Baby* (Clint Eastwood, 2004) — montaggio ellittico](ARCHIVIO_SCENE_FILM.md#50-million-dollar-baby-clint-eastwood-2004-scala-dei-piani-e-intensificazione-del-dialogo)
 - [*Titanic* (James Cameron, 1997) — montaggio alternato](ARCHIVIO_SCENE_FILM.md#52-titanic-james-cameron-1997-montaggio-alternato-e-gestione-dello-spazio)
-### Inquadratura, composizione e profondità (32)
+### Inquadratura, composizione e profondità (38)
 
 - [*Susanna* (*Bringing Up Baby*, Howard Hawks, 1938)](ARCHIVIO_SCENE_FILM.md#1-susanna-bringing-up-baby-howard-hawks-1938)
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976)
@@ -97,7 +97,9 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Gran Torino* (Clint Eastwood, 2008)](ARCHIVIO_SCENE_FILM.md#49-gran-torino-clint-eastwood-2008-composizione-soglia-e-trasformazione-dei-rapporti)
 - [*Blade Runner* (Ridley Scott, 1982)](ARCHIVIO_SCENE_FILM.md#55-blade-runner-ridley-scott-1982-fotografia-scenografia-e-costruzione-del-mondo)
 - [*Toy Story* (John Lasseter, 1995)](ARCHIVIO_SCENE_FILM.md#44-toy-story-john-lasseter-1995-macchina-da-presa-virtuale-e-scala-dello-sguardo)
-### Spazio, messa in scena e recitazione (50)
+- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982) — silhouette e controluce](ARCHIVIO_SCENE_FILM.md#53-et-lextra-terrestre-steven-spielberg-1982-silhouette-controluce-ed-effetti-ottici)
+- [*Million Dollar Baby* (Clint Eastwood, 2004)](ARCHIVIO_SCENE_FILM.md#50-million-dollar-baby-clint-eastwood-2004-scala-dei-piani-e-intensificazione-del-dialogo)
+### Spazio, messa in scena e recitazione (55)
 
 - [*Susanna* (*Bringing Up Baby*, Howard Hawks, 1938)](ARCHIVIO_SCENE_FILM.md#1-susanna-bringing-up-baby-howard-hawks-1938)
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976)
@@ -155,7 +157,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Blade Runner* (Ridley Scott, 1982)](ARCHIVIO_SCENE_FILM.md#55-blade-runner-ridley-scott-1982-fotografia-scenografia-e-costruzione-del-mondo)
 - [*C'era una volta il West* (Sergio Leone, 1968)](ARCHIVIO_SCENE_FILM.md#56-cera-una-volta-il-west-sergio-leone-1968-durata-attesa-e-paesaggio-sonoro)
 - [*The Long Goodbye / Il lungo addio* (Robert Altman, 1973)](ARCHIVIO_SCENE_FILM.md#57-the-long-goodbye-il-lungo-addio-robert-altman-1973-dialoghi-sovrapposti-e-spazio-sonoro)
-### Movimenti di macchina e durata (16)
+### Movimenti di macchina e durata (19)
 
 - [*L'avventura* (Michelangelo Antonioni, 1960)](ARCHIVIO_SCENE_FILM.md#6-lavventura-michelangelo-antonioni-1960)
 - [*L'eclisse* (Michelangelo Antonioni, 1962)](ARCHIVIO_SCENE_FILM.md#7-leclisse-michelangelo-antonioni-1962)
@@ -177,7 +179,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Taxi Driver* (Martin Scorsese, 1976)](ARCHIVIO_SCENE_FILM.md#47-taxi-driver-martin-scorsese-1976-movimento-di-macchina-e-voce-fuori-campo)
 - [*C'era una volta il West* (Sergio Leone, 1968)](ARCHIVIO_SCENE_FILM.md#56-cera-una-volta-il-west-sergio-leone-1968-durata-attesa-e-paesaggio-sonoro)
 - [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — piano-sequenza al Copacabana](ARCHIVIO_SCENE_FILM.md#58-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-il-piano-sequenza-al-copacabana)
-### Suono, dialogo e musica (13)
+### Suono, dialogo e musica (17)
 
 - [*News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)](ARCHIVIO_SCENE_FILM.md#34-news-from-home-chantal-akerman-1976-jeanne-dielman-chantal-akerman-1975)
 - [*Psycho* (Alfred Hitchcock, 1960)](ARCHIVIO_SCENE_FILM.md#3-psycho-alfred-hitchcock-1960)
@@ -196,8 +198,8 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Taxi Driver* (Martin Scorsese, 1976)](ARCHIVIO_SCENE_FILM.md#47-taxi-driver-martin-scorsese-1976-movimento-di-macchina-e-voce-fuori-campo)
 - [*The Long Goodbye / Il lungo addio* (Robert Altman, 1973)](ARCHIVIO_SCENE_FILM.md#57-the-long-goodbye-il-lungo-addio-robert-altman-1973-dialoghi-sovrapposti-e-spazio-sonoro)
 - [*Close Encounters of the Third Kind / Incontri ravvicinati del terzo tipo* (Steven Spielberg, 1977)](ARCHIVIO_SCENE_FILM.md#54-close-encounters-of-the-third-kind-incontri-ravvicinati-del-terzo-tipo-steven-spielberg-1977-suono-come-linguaggio)
-- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982) — silhouette e controluce](ARCHIVIO_SCENE_FILM.md#53-et-lextra-terrestre-steven-spielberg-1982-silhouette-controluce-ed-effetti-ottici)
-### Narrazione, tempo e punto di vista (47)
+- [*C'era una volta il West* (Sergio Leone, 1968)](ARCHIVIO_SCENE_FILM.md#56-cera-una-volta-il-west-sergio-leone-1968-durata-attesa-e-paesaggio-sonoro)
+### Narrazione, tempo e punto di vista (51)
 
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976)
 - [*Il Gattopardo* (Luchino Visconti, 1963)](ARCHIVIO_SCENE_FILM.md#3-il-gattopardo-luchino-visconti-1963)
@@ -251,7 +253,7 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Ace in the Hole / L'asso nella manica* (Billy Wilder, 1951)](ARCHIVIO_SCENE_FILM.md#45-ace-in-the-hole-lasso-nella-manica-billy-wilder-1951-messa-in-scena-dello-spettacolo-mediatico)
 - [*Titanic* (James Cameron, 1997)](ARCHIVIO_SCENE_FILM.md#52-titanic-james-cameron-1997-montaggio-alternato-e-gestione-dello-spazio)
 - [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — piano-sequenza al Copacabana](ARCHIVIO_SCENE_FILM.md#58-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-il-piano-sequenza-al-copacabana)
-### Fotografia, luce e colore (9)
+### Fotografia, luce e colore (12)
 
 - [*Come le foglie al vento* (*Written on the Wind*, Douglas Sirk, 1956)](ARCHIVIO_SCENE_FILM.md#5-come-le-foglie-al-vento-written-on-the-wind-douglas-sirk-1956)
 - [*8½* (Federico Fellini, 1963)](ARCHIVIO_SCENE_FILM.md#8-8½-federico-fellini-1963)
@@ -323,7 +325,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*M – Il mostro di Düsseldorf* (*M*, Fritz Lang, 1931)](ARCHIVIO_SCENE_FILM.md#15-m-il-mostro-di-düsseldorf-m-fritz-lang-1931) — suono diegetico e informazione fuori campo.
 - [*Memento* (Christopher Nolan, 2000)](ARCHIVIO_SCENE_FILM.md#34-memento-christopher-nolan-2000) — temporalità non lineare.
 - [*Metropolis* (Fritz Lang, 1927)](ARCHIVIO_SCENE_FILM.md#19-metropolis-fritz-lang-1927) — messa in scena espressionista e simbolizzazione dello spazio.
-- [*Million Dollar Baby* (Clint Eastwood, 2004)](ARCHIVIO_SCENE_FILM.md#50-million-dollar-baby-clint-eastwood-2004-montaggio-ellittico-e-trasformazione-del-corpo) — montaggio ellittico e trasformazione del corpo.
+- [*Million Dollar Baby* (Clint Eastwood, 2004)](ARCHIVIO_SCENE_FILM.md#50-million-dollar-baby-clint-eastwood-2004-scala-dei-piani-e-intensificazione-del-dialogo) — montaggio ellittico e trasformazione del corpo.
 - [*Minority Report* (Steven Spielberg, 2002)](ARCHIVIO_SCENE_FILM.md#13-minority-report-steven-spielberg-2002) — interfaccia e immagine mediata.
 - [*Moulin Rouge!* (Baz Luhrmann, 2001)](ARCHIVIO_SCENE_FILM.md#15-moulin-rouge-baz-luhrmann-2001) — costruzione dello spazio cinematografico.
 - [*Mulholland Drive* (David Lynch, 2001)](ARCHIVIO_SCENE_FILM.md#9-mulholland-drive-david-lynch-2001) — ambiguità narrativa e statuto dell'immagine.
