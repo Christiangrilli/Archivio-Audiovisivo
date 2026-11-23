@@ -1,5 +1,7 @@
 # ARCHIVIO SCENE FILM
 
+> **Navigazione:** [Indice interattivo per concetto e per film](INDICE_SCENE_FILM.md) · [Guida operativa](GUIDA_OPERATIVA_DIDATTICA.md) · [Istruzioni del progetto](ISTRUZIONI_PROGETTO_SCENE_FILM.md)
+
 Archivio di scene cinematografiche selezionate per l'utilizzo nella didattica delle discipline audiovisive.
 
 L'archivio non raccoglie semplicemente scene "significative" dal punto di vista cinematografico: ogni scheda è costruita per chiarire **quale concetto audiovisivo permette di insegnare**, **quali elementi formali possono essere osservati** e **come la scena può essere utilizzata concretamente in classe**.
@@ -39,131 +41,28 @@ Per trasformare una scheda in una lezione completa, consulta la [Guida operativa
 
 # INDICE INTERATTIVO
 
-L'archivio è consultabile in due modi: **per concetto audiovisivo** oppure **per film/scena**. I collegamenti portano direttamente alle schede all'interno di questa pagina. Per tornare qui da una scheda, usa il collegamento «↑ Torna all'indice».
+Per consultare l'archivio in modo rapido usa la pagina dedicata:
 
-## Ricerca per concetto
+**[→ APRI L'INDICE SCENE FILM](INDICE_SCENE_FILM.md)**
 
-Indice selettivo: per ogni nucleo sono indicati gli esempi più pertinenti e didatticamente leggibili, non tutte le schede che contengono incidentalmente quel termine. Le scene possono comparire in più percorsi perché uno stesso procedimento svolge funzioni differenti.
+L'indice esterno raccoglie:
+- ricerca per concetto audiovisivo, con collegamenti diretti alle schede;
+- elenco alfabetico dei film e delle sequenze;
+- percorso di lavoro per usare le schede in classe;
+- legenda degli stati di verifica e collegamenti alla documentazione del progetto.
 
-- **Découpage classico e continuità:** [*Susanna*](#1-susanna-bringing-up-baby-howard-hawks-1938) · [*Ombre rosse*](#24-ombre-rosse-stagecoach-john-ford-1939) · [*La finestra sul cortile* — regola dei 180°](#36-rear-window-la-finestra-sul-cortile-alfred-hitchcock-1954-scheda-operativa-regola-dei-180) · [*Il disprezzo*](#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille)
-- **Campo/controcampo e spazio fra i personaggi:** [*Il disprezzo* — dialogo al tavolo](#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille) · [*Susanna*](#1-susanna-bringing-up-baby-howard-hawks-1938)
-- **Profondità di campo e composizione:** [*Quarto potere*](#20-citizen-kane-quarto-potere-orson-welles-1941) · [*La regola del gioco*](#23-la-regola-del-gioco-la-règle-du-jeu-jean-renoir-1939)
-- **Piano-sequenza e long take:** [*Rope*](#4-rope-nodo-alla-gola-alfred-hitchcock-1948) · [*Touch of Evil*](#6-touch-of-evil-linfernale-quinlan-orson-welles-1958) · [*The Magnificent Ambersons*](#25-piano-sequenza-the-magnificent-ambersons-orson-welles-1942) · [*1917*](#20-1917-sam-mendes-2019)
-- **Soggettiva, sguardo e punto di vista:** [*La finestra sul cortile*](#28-la-finestra-sul-cortile-rear-window-alfred-hitchcock-1954) · [*Vertigo*](#37-vertigo-alfred-hitchcock-1958-dolly-zoom) · [*Rashomon*](#9-rashomon-akira-kurosawa-1950)
-- **Fuori campo e suspense:** [*Lo squalo*](#21-jaws-lo-squalo-steven-spielberg-1975) · [*The Birds*](#11-the-birds-gli-uccelli-alfred-hitchcock-1963) · [*Psycho*](#3-psycho-alfred-hitchcock-1960)
-- **Movimenti di macchina:** [*Touch of Evil*](#6-touch-of-evil-linfernale-quinlan-orson-welles-1958) · [*The Shining*](#32-the-shining-stanley-kubrick-1980) · [*The Graduate* — blocking e composizione](#44-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione) · [*Vertigo* — dolly zoom](#37-vertigo-alfred-hitchcock-1958-dolly-zoom)
-- **Zoom, travelling e dolly zoom:** [*Vertigo*](#37-vertigo-alfred-hitchcock-1958-dolly-zoom) · [*The Shining*](#32-the-shining-stanley-kubrick-1980)
-- **Montaggio alternato e gestione della suspense:** [*Il padrino*](#30-the-godfather-il-padrino-francis-ford-coppola-1972) · [*Il silenzio degli innocenti*](#43-the-silence-of-the-lambs-il-silenzio-degli-innocenti-jonathan-demme-1991-montaggio-alternato-e-focalizzazione) · [*La corazzata Potëmkin*](#12-la-corazzata-potëmkin-bronenosets-potemkin-sergej-ejzenštejn-1925)
-- **Jump cut e discontinuità:** [*Fino all'ultimo respiro*](#5-breathless-fino-allultimo-respiro-jean-luc-godard-1960) · [scheda di confronto](#26-à-bout-de-souffle-fino-allultimo-respiro-jean-luc-godard-1960-scheda-di-confronto)
-- **Montaggio ritmico e associativo:** [*La corazzata Potëmkin*](#12-la-corazzata-potëmkin-bronenosets-potemkin-sergej-ejzenštejn-1925) · [*2001: Odissea nello spazio* — match cut](#10-2001-a-space-odyssey-2001-odissea-nello-spazio-stanley-kubrick-1968) · [*L'uomo con la macchina da presa*](#13-luomo-con-la-macchina-da-presa-chelovek-s-kino-apparatom-dziga-vertov-1929)
-- **Ellissi e temporalità non lineare:** [*Memento*](#34-memento-christopher-nolan-2000) · [*Mulholland Drive*](#9-mulholland-drive-david-lynch-2001) · [*I quattrocento colpi*](#16-i-quattrocento-colpi-les-quatre-cents-coups-françois-truffaut-1959) · [*Dunkirk* / *Tenet*](#27-dunkirk-christopher-nolan-2017-tenet-christopher-nolan-2020)
-- **Suono diegetico, fuori campo e ascolto:** [*M*](#15-m-il-mostro-di-düsseldorf-m-fritz-lang-1931) · [*The Conversation*](#7-the-conversation-la-conversazione-francis-ford-coppola-1974) · [*Blow Out*](#8-blow-out-brian-de-palma-1981) · [*Apocalypse Now*](#31-apocalypse-now-francis-ford-coppola-1979)
-- **Voice-over e voce narrante:** [*Quei bravi ragazzi*](#39-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-voice-over) · [*News from Home* / *Jeanne Dielman*](#34-news-from-home-chantal-akerman-1976-jeanne-dielman-chantal-akerman-1975) · [*Apocalypse Now*](#31-apocalypse-now-francis-ford-coppola-1979)
-- **Overlapping dialogue:** [*His Girl Friday*](#38-his-girl-friday-howard-hawks-1940-overlapping-dialogue)
-- **Split screen e simultaneità:** [*Pillow Talk*](#40-pillow-talk-michael-gordon-1959-split-screen)
-- **Musica e rapporto immagine/suono:** [*Il laureato*](#33-the-graduate-il-laureato-mike-nichols-1967) · [*Cantando sotto la pioggia*](#17-singin-in-the-rain-cantando-sotto-la-pioggia-stanley-donen-e-gene-kelly-1952) · [*Apocalypse Now*](#31-apocalypse-now-francis-ford-coppola-1979)
-- **Illuminazione e chiaroscuro:** [*Il padrino* — low-key lighting](#41-the-godfather-francis-ford-coppola-1972-low-key-lighting) · [*Metropolis*](#19-metropolis-fritz-lang-1927) · [*The Shining*](#32-the-shining-stanley-kubrick-1980)
-- **Formato e rapporto d'aspetto:** [*Sentieri selvaggi*](#42-the-searchers-john-ford-1956-formato-e-rapporto-daspetto) · [*The Grand Budapest Hotel*](#22-the-grand-budapest-hotel-wes-anderson-2014)
-- **Blocking e corpi nello spazio:** [*Il laureato*](#44-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione) · [*La regola del gioco*](#23-la-regola-del-gioco-la-règle-du-jeu-jean-renoir-1939) · [*Metropolis*](#19-metropolis-fritz-lang-1927) · [*Il disprezzo*](#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille)
-- **Metacinema e immagine come costruzione:** [*Blow-Up*](#27-blow-up-michelangelo-antonioni-1966) · [*Blow Out*](#8-blow-out-brian-de-palma-1981) · [*Persona*](#18-persona-ingmar-bergman-1966) · [*L'uomo con la macchina da presa*](#13-luomo-con-la-macchina-da-presa-chelovek-s-kino-apparatom-dziga-vertov-1929)
-- **Colore come sistema narrativo:** da sviluppare con una scheda dedicata e un confronto fra film; al momento l'archivio non offre ancora un esempio paradigmatico sufficientemente isolato.
+## Navigazione interna
 
-## Ricerca per film e scena
-
-<details>
-<summary><strong>Apri l'elenco completo delle schede (79)</strong></summary>
-
-- [1. Susanna (Bringing Up Baby, Howard Hawks, 1938)](#1-susanna-bringing-up-baby-howard-hawks-1938)
-- [2. Gli ultimi fuochi (The Last Tycoon, Elia Kazan, 1976)](#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976)
-- [3. Il Gattopardo (Luchino Visconti, 1963)](#3-il-gattopardo-luchino-visconti-1963)
-- [4. Rocco e i suoi fratelli (Luchino Visconti, 1960)](#4-rocco-e-i-suoi-fratelli-luchino-visconti-1960)
-- [5. Come le foglie al vento (Written on the Wind, Douglas Sirk, 1956)](#5-come-le-foglie-al-vento-written-on-the-wind-douglas-sirk-1956)
-- [6. L'avventura (Michelangelo Antonioni, 1960)](#6-lavventura-michelangelo-antonioni-1960)
-- [7. L'eclisse (Michelangelo Antonioni, 1962)](#7-leclisse-michelangelo-antonioni-1962)
-- [8. 8½ (Federico Fellini, 1963)](#8-8½-federico-fellini-1963)
-- [9. Mulholland Drive (David Lynch, 2001)](#9-mulholland-drive-david-lynch-2001)
-- [10. Lo squalo (Jaws, Steven Spielberg, 1975)](#10-lo-squalo-jaws-steven-spielberg-1975)
-- [11. E.T. l'extra-terrestre (Steven Spielberg, 1982)](#11-et-lextra-terrestre-steven-spielberg-1982)
-- [12. Jurassic Park (Steven Spielberg, 1993)](#12-jurassic-park-steven-spielberg-1993)
-- [13. Minority Report (Steven Spielberg, 2002)](#13-minority-report-steven-spielberg-2002)
-- [14. Ready Player One (Steven Spielberg, 2018)](#14-ready-player-one-steven-spielberg-2018)
-- [15. Moulin Rouge! (Baz Luhrmann, 2001)](#15-moulin-rouge-baz-luhrmann-2001)
-- [16. Il grande Gatsby (Baz Luhrmann, 2013)](#16-il-grande-gatsby-baz-luhrmann-2013)
-- [17. Indiana Jones — sequenza della pistola](#17-indiana-jones-sequenza-della-pistola)
-- [18. Il settimo sigillo (Ingmar Bergman, 1957)](#18-il-settimo-sigillo-ingmar-bergman-1957)
-- [19. Se mi lasci ti cancello (Eternal Sunshine of the Spotless Mind, Michel Gondry, 2004)](#19-se-mi-lasci-ti-cancello-eternal-sunshine-of-the-spotless-mind-michel-gondry-2004)
-- [20. 1917 (Sam Mendes, 2019)](#20-1917-sam-mendes-2019)
-- [21. Fight Club (David Fincher, 1999)](#21-fight-club-david-fincher-1999)
-- [22. The Grand Budapest Hotel (Wes Anderson, 2014)](#22-the-grand-budapest-hotel-wes-anderson-2014)
-- [23. Quarto potere (Citizen Kane, Orson Welles, 1941)](#23-quarto-potere-citizen-kane-orson-welles-1941)
-- [24. Shining (Stanley Kubrick, 1980)](#24-shining-stanley-kubrick-1980)
-- [25. 2001: Odissea nello spazio (Stanley Kubrick, 1968)](#25-2001-odissea-nello-spazio-stanley-kubrick-1968)
-- [26. Il grande Gatsby e The Grand Budapest Hotel: confronto sulla composizione](#26-il-grande-gatsby-e-the-grand-budapest-hotel-confronto-sulla-composizione)
-- [27. Dunkirk (Christopher Nolan, 2017) / Tenet (Christopher Nolan, 2020)](#27-dunkirk-christopher-nolan-2017-tenet-christopher-nolan-2020)
-- [28. Io non ho paura (Gabriele Salvatores, 2003)](#28-io-non-ho-paura-gabriele-salvatores-2003)
-- [29. Revenant - Redivivo (Alejandro G. Iñárritu, 2015)](#29-revenant-redivivo-alejandro-g-iñárritu-2015)
-- [30. La nascita di una nazione (The Birth of a Nation, D. W. Griffith, 1915)](#30-la-nascita-di-una-nazione-the-birth-of-a-nation-d-w-griffith-1915)
-- [31. Intolerance (D. W. Griffith, 1916)](#31-intolerance-d-w-griffith-1916)
-- [32. Wall-E (Andrew Stanton, 2008)](#32-wall-e-andrew-stanton-2008)
-- [33. The Quiet Man (John Ford, 1952) / E.T. l'extra-terrestre (Steven Spielberg, 1982)](#33-the-quiet-man-john-ford-1952-et-lextra-terrestre-steven-spielberg-1982)
-- [34. News from Home (Chantal Akerman, 1976) / Jeanne Dielman (Chantal Akerman, 1975)](#34-news-from-home-chantal-akerman-1976-jeanne-dielman-chantal-akerman-1975)
-- [35. L'eclisse / L'avventura / La dolce vita: spazio e modernità](#35-leclisse-lavventura-la-dolce-vita-spazio-e-modernità)
-- [36. El ser querido (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set)
-- [37. Il disprezzo (Le Mépris, Jean-Luc Godard, 1963) — Il dialogo al tavolo tra Paul e Camille](#37-il-disprezzo-le-mépris-jean-luc-godard-1963-il-dialogo-al-tavolo-tra-paul-e-camille)
-- [3. Psycho (Alfred Hitchcock, 1960)](#3-psycho-alfred-hitchcock-1960)
-- [4. Rope (Nodo alla gola, Alfred Hitchcock, 1948)](#4-rope-nodo-alla-gola-alfred-hitchcock-1948)
-- [5. Breathless (Fino all'ultimo respiro, Jean-Luc Godard, 1960)](#5-breathless-fino-allultimo-respiro-jean-luc-godard-1960)
-- [6. Touch of Evil (L'infernale Quinlan, Orson Welles, 1958)](#6-touch-of-evil-linfernale-quinlan-orson-welles-1958)
-- [7. The Conversation (La conversazione, Francis Ford Coppola, 1974)](#7-the-conversation-la-conversazione-francis-ford-coppola-1974)
-- [8. Blow Out (Brian De Palma, 1981)](#8-blow-out-brian-de-palma-1981)
-- [9. Rashomon (Akira Kurosawa, 1950)](#9-rashomon-akira-kurosawa-1950)
-- [10. 2001: A Space Odyssey (2001: Odissea nello spazio, Stanley Kubrick, 1968)](#10-2001-a-space-odyssey-2001-odissea-nello-spazio-stanley-kubrick-1968)
-- [11. The Birds (Gli uccelli, Alfred Hitchcock, 1963)](#11-the-birds-gli-uccelli-alfred-hitchcock-1963)
-- [12. La corazzata Potëmkin (Bronenosets Potemkin, Sergej Ejzenštejn, 1925)](#12-la-corazzata-potëmkin-bronenosets-potemkin-sergej-ejzenštejn-1925)
-- [13. L'uomo con la macchina da presa (Chelovek s kino-apparatom, Dziga Vertov, 1929)](#13-luomo-con-la-macchina-da-presa-chelovek-s-kino-apparatom-dziga-vertov-1929)
-- [14. Ladri di biciclette (Bicycle Thieves, Vittorio De Sica, 1948)](#14-ladri-di-biciclette-bicycle-thieves-vittorio-de-sica-1948)
-- [15. M – Il mostro di Düsseldorf (M, Fritz Lang, 1931)](#15-m-il-mostro-di-düsseldorf-m-fritz-lang-1931)
-- [16. I quattrocento colpi (Les Quatre Cents Coups, François Truffaut, 1959)](#16-i-quattrocento-colpi-les-quatre-cents-coups-françois-truffaut-1959)
-- [17. Singin' in the Rain (Cantando sotto la pioggia, Stanley Donen e Gene Kelly, 1952)](#17-singin-in-the-rain-cantando-sotto-la-pioggia-stanley-donen-e-gene-kelly-1952)
-- [18. Persona (Ingmar Bergman, 1966)](#18-persona-ingmar-bergman-1966)
-- [19. Metropolis (Fritz Lang, 1927)](#19-metropolis-fritz-lang-1927)
-- [20. Citizen Kane (Quarto potere, Orson Welles, 1941)](#20-citizen-kane-quarto-potere-orson-welles-1941)
-- [21. Jaws / Lo squalo (Steven Spielberg, 1975)](#21-jaws-lo-squalo-steven-spielberg-1975)
-- [22. Tokyo Story / Viaggio a Tokyo (Yasujirō Ozu, 1953)](#22-tokyo-story-viaggio-a-tokyo-yasujirō-ozu-1953)
-- [23. La regola del gioco (La Règle du jeu, Jean Renoir, 1939)](#23-la-regola-del-gioco-la-règle-du-jeu-jean-renoir-1939)
-- [24. Ombre rosse (Stagecoach, John Ford, 1939)](#24-ombre-rosse-stagecoach-john-ford-1939)
-- [25. Piano sequenza / The Magnificent Ambersons (Orson Welles, 1942)](#25-piano-sequenza-the-magnificent-ambersons-orson-welles-1942)
-- [26. À bout de souffle / Fino all'ultimo respiro (Jean-Luc Godard, 1960) — SCHEda DI CONFRONTO](#26-à-bout-de-souffle-fino-allultimo-respiro-jean-luc-godard-1960-scheda-di-confronto)
-- [27. Blow-Up (Michelangelo Antonioni, 1966)](#27-blow-up-michelangelo-antonioni-1966)
-- [28. La finestra sul cortile (Rear Window, Alfred Hitchcock, 1954)](#28-la-finestra-sul-cortile-rear-window-alfred-hitchcock-1954)
-- [29. Il disprezzo (Le Mépris, Jean-Luc Godard, 1963)](#29-il-disprezzo-le-mépris-jean-luc-godard-1963)
-- [30. The Godfather / Il padrino (Francis Ford Coppola, 1972)](#30-the-godfather-il-padrino-francis-ford-coppola-1972)
-- [31. Apocalypse Now (Francis Ford Coppola, 1979)](#31-apocalypse-now-francis-ford-coppola-1979)
-- [32. The Shining (Stanley Kubrick, 1980)](#32-the-shining-stanley-kubrick-1980)
-- [33. The Graduate / Il laureato (Mike Nichols, 1967)](#33-the-graduate-il-laureato-mike-nichols-1967)
-- [34. Memento (Christopher Nolan, 2000)](#34-memento-christopher-nolan-2000)
-- [35. The Searchers / Sentieri selvaggi (John Ford, 1956)](#35-the-searchers-sentieri-selvaggi-john-ford-1956)
-- [36. Rear Window / La finestra sul cortile (Alfred Hitchcock, 1954) — SCHEDA OPERATIVA: REGOLA DEI 180°](#36-rear-window-la-finestra-sul-cortile-alfred-hitchcock-1954-scheda-operativa-regola-dei-180)
-- [37. Vertigo (Alfred Hitchcock, 1958) — Dolly zoom](#37-vertigo-alfred-hitchcock-1958-dolly-zoom)
-- [38. His Girl Friday (Howard Hawks, 1940) — overlapping dialogue](#38-his-girl-friday-howard-hawks-1940-overlapping-dialogue)
-- [39. Goodfellas / Quei bravi ragazzi (Martin Scorsese, 1990) — voice-over](#39-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-voice-over)
-- [40. Pillow Talk (Michael Gordon, 1959) — split screen](#40-pillow-talk-michael-gordon-1959-split-screen)
-- [41. The Godfather (Francis Ford Coppola, 1972) — low-key lighting](#41-the-godfather-francis-ford-coppola-1972-low-key-lighting)
-- [42. The Searchers (John Ford, 1956) — formato e rapporto d'aspetto](#42-the-searchers-john-ford-1956-formato-e-rapporto-daspetto)
-- [43. The Silence of the Lambs / Il silenzio degli innocenti (Jonathan Demme, 1991) — montaggio alternato e focalizzazione](#43-the-silence-of-the-lambs-il-silenzio-degli-innocenti-jonathan-demme-1991-montaggio-alternato-e-focalizzazione)
-- [44. The Graduate / Il laureato (Mike Nichols, 1967) — carrello e composizione](#44-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione)
-
-</details>
-
-## Altre sezioni dell'archivio
-
-- [Come utilizzare l'archivio](#come-utilizzare-larchivio)
 - [Modello di scheda](#modello-di-scheda)
 - [Criteri di selezione](#criteri-di-selezione)
 - [Tag standard](#tag-standard)
 - [Note sulle fonti](#note-sulle-fonti)
-- [Costellazioni didattiche](#costellazioni-didattiche-aggiornate)
+- [Repertorio preliminare delle scene](#scene-già-presenti-nelle-fonti-dellarchivio)
+- [Schede operative](#schede-iniziali--scene-ricavate-dalle-fonti-della-repository)
+- [Progressione didattica](#progressione-didattica-aggiornata)
 - [Mappa di copertura dei concetti](#mappa-di-copertura-dei-concetti)
+
+Da ogni scheda si può tornare a questa sezione con il collegamento **↑ Torna all'indice**.
 
 ---
 
@@ -326,7 +225,7 @@ L'archivio è quindi pensato come una banca di esempi audiovisivi per la progett
 
 ---
 
-# SCENE GIÀ PRESENTI NELLE FONTI DELL'ARCHIVIO
+# REPERTORIO PRELIMINARE — SCENE RICAVATE DALLE FONTI
 
 Questa sezione raccoglie i principali esempi di scene, sequenze o frammenti cinematografici individuati nelle fonti già presenti nella repository. Non sostituisce le schede analitiche complete: costituisce il **bacino iniziale di scene da trasformare progressivamente in schede didattiche**.
 
@@ -635,7 +534,7 @@ Nelle future schede dell'archivio verranno privilegiati i primi due casi. I rife
 
 ---
 
-# SCHEDE INIZIALI — SCENE RICAVATE DALLE FONTI DELLA REPOSITORY
+# SCHEDE OPERATIVE — PRIMA SELEZIONE
 
 Questa sezione trasforma in **vere schede di lavoro** una prima selezione degli esempi già individuati nelle fonti dell'archivio. Sono state privilegiate le scene per le quali la fonte permette di individuare un frammento o una sequenza sufficientemente concreta.
 
@@ -1632,7 +1531,7 @@ Una possibile attività consiste nel progettare la stessa conversazione in due m
 
 ---
 
-# NUOVE SCHEDE — SELEZIONE DA LETTERBOXD
+# SCHEDE OPERATIVE — SELEZIONE DA LETTERBOXD
 
 Le seguenti schede sono state aggiunte a partire dalla filmografia fornita dall'utente. La selezione privilegia scene brevi, osservabili e direttamente spendibili nella didattica delle discipline audiovisive.
 
@@ -1968,7 +1867,7 @@ Interrompere la scena prima dell'attacco e chiedere agli studenti di prevedere c
 
 
 ---
-# NUOVE SCHEDE — CLASSICI FONDAMENTALI PER LA DIDATTICA
+# SCHEDE OPERATIVE — CLASSICI FONDAMENTALI
 
 ## 12. *La corazzata Potëmkin* (*Bronenosets Potemkin*, Sergej Ejzenštejn, 1925)
 [↑ Torna all'indice](#indice-interattivo)
@@ -2349,7 +2248,7 @@ Questa selezione è stata costruita con un criterio didattico: ogni film deve fo
 
 
 ---
-# NUOVE SCHEDE — COSTELLAZIONI DIDATTICHE: MONTAGGIO, SPAZIO, SUONO, MESSA IN SCENA
+# SCHEDE OPERATIVE — MONTAGGIO, SPAZIO E SUONO
 
 ## 21. *Jaws / Lo squalo* (Steven Spielberg, 1975)
 [↑ Torna all'indice](#indice-interattivo)
