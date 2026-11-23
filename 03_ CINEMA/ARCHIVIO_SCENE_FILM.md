@@ -2654,21 +2654,84 @@ Gli studenti scelgono due fotogrammi, uno della cavità e uno del paesaggio este
 - Roberto Nepoti, recensione di *Io non ho paura*, *la Repubblica*, 9 febbraio 2003, riprodotta in una rassegna stampa del film, per il punto di vista ad altezza di bambino: https://www.mymovies.it/film/2003/iononhopaura/rassegnastampa/6421/
 - Gabriele Salvatores, intervista a *Cineuropa*, 8 febbraio 2003, sul paesaggio estivo e sul punto di vista del bambino: https://cineuropa.org/en/film/18285/rl/1/en/interview/52574/
 
-## 29. *Revenant - Redivivo* (Alejandro G. Iñárritu, 2015)
+## 29. *Revenant - Redivivo* (*The Revenant*, Alejandro G. Iñárritu, 2015)
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Esempio:** uso della luce naturale e controllo della fotografia.
-- **Concetto principale:** luce naturale.
-- **Concetti secondari:** esposizione, fotografia, ambiente.
-- **Tag:** #luce #inquadratura #spazio
-- **Livello:** Intermedio.
-- **Uso:** analisi della cinematografia.
+- **Sequenza:** l'imboscata iniziale lungo il fiume, in cui il gruppo di cacciatori viene attaccato e Hugh Glass cerca di guidare gli uomini verso la salvezza.
+- **Concetto principale:** luce naturale e macchina da presa immersiva.
+- **Concetti secondari:** esposizione, luce disponibile, ora del giorno, obiettivo grandangolare, camera a mano, movimento continuo, punto di vista mobile, profondità, paesaggio.
+- **Tag:** #luce #fotografia #movimento-di-macchina #punto-di-vista #spazio #inquadratura
+- **Livello:** Intermedio / Avanzato.
+- **Uso consigliato:** osservare come le condizioni ambientali e la luce disponibile influenzino la pianificazione della ripresa e come la macchina da presa possa passare da uno sguardo esterno a uno più vicino all'esperienza dei personaggi.
+- **Attenzione ai contenuti:** la sequenza contiene violenza di guerra, ferimenti e immagini di forte impatto. Selezionare il frammento in relazione alla classe.
+- **Stato:** **DA COMPLETARE** — delimitare il segmento e verificare sulla copia la successione dei cambi di punto di vista e le condizioni luminose visibili.
+
+### Contesto essenziale
+Hugh Glass guida un gruppo di cacciatori di pellicce lungo un fiume. L'accampamento viene attaccato e gli uomini sono costretti a disperdersi per cercare riparo e raggiungere l'imbarcazione. La sequenza introduce il protagonista attraverso una situazione di pericolo e mette subito in relazione il corpo umano, il paesaggio e la violenza dell'ambiente.
+
+### Analisi formale
+L'apertura è costruita con una macchina da presa molto mobile, che attraversa il gruppo e si avvicina ai corpi durante l'attacco. Iñárritu e Lubezki non mantengono un punto di vista stabile: la camera passa da una posizione più esterna, che permette di leggere la disposizione del gruppo, a momenti in cui sembra aderire alla percezione di Glass e degli altri uomini. Iñárritu ha descritto questa scelta come un passaggio fra punti di vista diversi, con l'obiettivo di far vivere allo spettatore la confusione e l'immediatezza dell'attacco.
+
+La luce è una componente della pianificazione, non un semplice effetto aggiunto in post-produzione. Lubezki ha spiegato che il film fu realizzato utilizzando luce naturale e che la troupe doveva scegliere le location e gli orari in funzione della qualità della luce. Il tempo disponibile per girare era limitato: una stessa area poteva cambiare radicalmente aspetto nel giro di poche ore, passando da una luce più diretta e contrastata a una luce più fredda e diffusa. La fotografia dipende quindi dalle condizioni meteorologiche e dall'orientamento del sole.
+
+La scelta di utilizzare obiettivi grandangolari permette di mantenere i personaggi in relazione con l'ambiente. Anche quando la macchina da presa si avvicina a Glass, il paesaggio resta spesso leggibile e continua a influenzare l'immagine. Il corpo non è isolato su uno sfondo neutro: è immerso nell'acqua, nel fango, nella vegetazione e nel movimento degli altri uomini.
+
+La luce naturale non significa assenza assoluta di controllo. Lubezki ha raccontato che la troupe effettuava sopralluoghi ripetuti, provava i movimenti e programmava le riprese negli orari in cui la luce risultava più espressiva. Il lavoro fotografico consisteva quindi nel preparare la scena per poter sfruttare condizioni ambientali specifiche, non nel limitarsi a registrare ciò che accadeva casualmente.
+
+### Evidenze da far osservare
+1. Come cambia la posizione della macchina da presa durante l'attacco.
+2. Quando la camera mostra il gruppo dall'esterno e quando si avvicina alla percezione di Glass.
+3. Quali elementi del paesaggio restano leggibili anche nelle inquadrature ravvicinate.
+4. Come la luce del cielo, dell'acqua e della vegetazione cambia nel corso del frammento.
+5. Quali differenze si notano fra luce diretta, luce diffusa e ombre.
+6. In che modo il grandangolo mantiene i corpi in relazione con lo spazio circostante.
+
+### Perché è didatticamente utile
+La sequenza permette di affrontare la luce naturale come scelta produttiva e formale, non come semplice assenza di illuminazione artificiale. È inoltre un esempio di macchina da presa immersiva: il movimento e i cambi di punto di vista cercano di collocare lo spettatore dentro l'azione, mantenendo però il paesaggio come parte attiva della composizione.
 
 ### Obiettivo didattico
-Comprendere come condizioni luminose reali possano diventare parte della strategia fotografica e della costruzione dello spazio.
+Al termine dell'attività, lo studente sa descrivere le condizioni luminose di una ripresa, distinguere luce disponibile e luce controllata, riconoscere il ruolo del grandangolo e spiegare come il movimento della macchina da presa modifichi il rapporto fra personaggio e ambiente.
 
----
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare il frammento senza anticipare il lavoro sulla luce. Chiedere agli studenti di descrivere la posizione della macchina da presa e il rapporto fra corpi e paesaggio.
+2. **Analisi del punto di vista:** individuare i passaggi fra visione esterna e vicinanza alla percezione di Glass.
+3. **Analisi luminosa:** fermare alcuni fotogrammi e descrivere direzione, qualità e colore della luce, senza attribuire parametri non verificabili.
+4. **Analisi dello spazio:** osservare come il grandangolo mantenga visibili ambiente e personaggi.
+5. **Confronto produttivo:** leggere un estratto dell'intervista a Lubezki e confrontare le condizioni di ripresa dichiarate con ciò che si osserva nel film.
+6. **Rielaborazione:** realizzare due riprese dello stesso soggetto in orari diversi e confrontare come la luce naturale modifichi atmosfera, contrasto e colore.
+
+### Domande per gli studenti
+1. La macchina da presa mantiene un punto di vista unico durante l'attacco?
+2. In quali momenti lo spettatore sembra essere vicino all'esperienza di Glass?
+3. Quale funzione ha il paesaggio nelle inquadrature ravvicinate?
+4. Perché girare con luce naturale richiede una pianificazione precisa?
+5. Quali differenze ci sono fra usare la luce disponibile e rinunciare a controllare la luce?
+
+### Verifica formativa
+Gli studenti scelgono tre fotogrammi della sequenza e annotano:
+- direzione e qualità della luce;
+- rapporto fra luce e ombra;
+- posizione della macchina da presa;
+- scala dell'inquadratura;
+- rapporto fra personaggio e paesaggio;
+- effetto percettivo prodotto.
+
+Aggiungono una breve nota in cui spiegano perché la luce naturale richieda una pianificazione legata alla location e all'orario.
+
+**Criteri:** descrizione osservabile della luce, uso preciso del lessico fotografico, riconoscimento dei cambi di punto di vista, capacità di collegare condizioni produttive e risultato visivo.
+
+### Collegamenti
+- **Luce naturale e ambiente:** *Barry Lyndon* — luce di candela e controllo dell'esposizione.
+- **Camera immersiva e long take:** *Birdman* — movimento continuo e vicinanza ai personaggi.
+- **Paesaggio e punto di vista:** *L'avventura* — autonomia del paesaggio e disorientamento.
+- **Luce e contrasto:** *Io non ho paura* — passaggio dal campo luminoso alla cavità buia.
+
+### Fonti e riferimenti
+- Hoyte van Hoytema, intervista a *British Cinematographer*, «Emmanuel Lubezki AMC ASC / The Revenant». Lubezki descrive l'uso della luce naturale, la pianificazione in base all'ora del giorno, la camera a mano e le variazioni della palette: https://britishcinematographer.co.uk/emmanuel-lubezki-amc-asc-the-revenant-/
+- Michael Ordoña, «How *The Revenant* immerses its audience in a freezing river, hail of arrows and sense of horror», *Los Angeles Times*, 16 febbraio 2016. Riporta le testimonianze di Iñárritu e Lubezki sui cambi di punto di vista nella sequenza iniziale: https://www.latimes.com/entertainment/envelope/la-en-revenant-scene-20160216-story.html
+- «Wrap Shot: The Revenant», *American Cinematographer*, per le scelte di luce naturale, location e riprese estese: https://staging.ascmag.com/articles/wrap-shot-the-revenant
+- Emmanuel Lubezki, intervista a *Awards Daily*, 18 dicembre 2015, sulla luce naturale e sulla necessità di sopralluoghi e prove in diverse ore del giorno: https://www.awardsdaily.com/2015/12/18/interview-cinematographer-emmanuel-lubezki-talks-shooting-the-revenant-and-bear-attacks/
 
 ## 30. *La nascita di una nazione* (*The Birth of a Nation*, D. W. Griffith, 1915)
 [↑ Torna all'indice](#indice-interattivo)
