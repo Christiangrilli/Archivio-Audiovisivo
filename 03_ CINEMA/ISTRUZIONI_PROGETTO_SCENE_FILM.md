@@ -139,6 +139,8 @@ La prossima sequenza di revisione già individuata è:
 
 Questa sequenza è una priorità di lavoro, non un vincolo assoluto: può cambiare se l'utente chiede una scena o un concetto specifico.
 
+**Preferenze editoriali aggiornate:** non inserire o mantenere titoli che l'utente non conosce e non desidera utilizzare (rimosso *Pillow Talk*). Privilegiare film che l'utente conosce o intende approfondire. Non duplicare un film quando esiste già una scheda: aggiungere una seconda scheda solo se individua una scena e un concetto realmente distinti, come fatto per *Goodfellas* e *E.T.*.
+
 ## 9. Modalità di collaborazione con l'utente
 
 - L'utente vuole che l'assistente agisca come collaboratore editoriale e didattico del progetto, non soltanto come interlocutore che dà suggerimenti.
@@ -151,10 +153,10 @@ Questa sequenza è una priorità di lavoro, non un vincolo assoluto: può cambia
 - Se il materiale o il timecode non è verificabile, lasciare esplicita la verifica da fare invece di colmare il vuoto con supposizioni.
 - Preservare la voce editoriale dell'archivio: italiano disciplinare preciso, chiaro e non artificiosamente accademico; evitare formulazioni generiche o ripetitive.
 
-## 10. Stato del progetto al 23 novembre 2026
+## 10. Stato del progetto al 23 novembre 2026 — aggiornamento
 
-- L'archivio principale contiene circa 79 schede/heading di scena; il numero va ricontrollato perché la raccolta è in evoluzione e alcuni heading possono rappresentare schede di confronto o approfondimenti.
-- L'indice interattivo è stato riorganizzato con una selezione di esempi per concetto; gli anchor sono stati sottoposti a controllo automatico, ma è necessaria una revisione editoriale continua.
+- L'archivio è stato ampliato con nuove schede dedicate a *Toy Story*, *Ace in the Hole*, *The Apartment*, *Taxi Driver*, *The Fabelmans*, *Gran Torino*, *Million Dollar Baby*, *Catch Me If You Can*, *Titanic*, *Close Encounters of the Third Kind*, *Blade Runner*, *C'era una volta il West* e *The Long Goodbye*. Sono state aggiunte anche schede distinte per il piano-sequenza del Copacabana in *Goodfellas* e per il volo delle biciclette in *E.T.*, già presenti nell'archivio con altri nuclei di analisi. Il conteggio aggiornato va verificato automaticamente.
+- L'indice interattivo è stato aggiornato per le nuove schede e per la rimozione di *Pillow Talk*. Il film è stato eliminato perché l'utente non lo conosce e non desidera utilizzarlo. Le sezioni successive sono state rinumerate; verificare sempre gli anchor dopo ogni ulteriore modifica.
 - È stato creato `INDICE_SCENE_FILM.md` come pagina di ingresso autonoma, con ricerca per concetto e indice alfabetico delle 79 schede/nuclei di confronto. I collegamenti alle schede sono stati controllati (281 link tematici e alfabetici); tutte le 79 schede operative hanno un collegamento di ritorno all'indice. `ARCHIVIO_SCENE_FILM.md` mantiene i contenuti integrali e rimanda alla nuova pagina di navigazione.
 - È stata creata la guida operativa didattica con protocollo di visione, struttura della lezione, obiettivi, valutazione formativa, accessibilità, progressione nel quinquennio, modello di scheda e distinzioni terminologiche.
 - Cinque schede sono state recentemente integrate con obiettivi, evidenze, attività, domande, verifiche, note e fonti: `Ladri di biciclette`, `M`, `I quattrocento colpi`, `Metropolis`, `Citizen Kane`.
