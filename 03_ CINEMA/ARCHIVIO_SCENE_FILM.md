@@ -30,6 +30,10 @@ L'indice verrà aggiornato progressivamente con l'inserimento delle scene.
 - Piano sequenza
 - Composizione dell'inquadratura
 - Raccordi
+- Raccordo di sguardo
+- Raccordo sull'asse
+- Regola dei 180°
+- Soggettiva
 - Fuori campo
 - Punto di vista
 - Soggettiva
@@ -2296,3 +2300,292 @@ La ricerca contemporanea sulla plasticità dello spazio filmico considera la fra
 
 ### 7. Long take / piano-sequenza
 *The Last Laugh* → *The Magnificent Ambersons* → *Rope* → *Touch of Evil* → *1917*
+
+
+## 30. *The Godfather / Il padrino* (Francis Ford Coppola, 1972)
+- **Scena:** battesimo di Michael Rizzi e montaggio parallelo degli omicidi.
+- **Concetto principale:** montaggio parallelo.
+- **Concetti secondari:** contrasto audiovisivo, musica, ellissi, ritmo, costruzione tematica.
+- **Tag:** #montaggio-parallelo #montaggio #musica #narrazione #ritmo
+- **Livello:** Base / Intermedio.
+
+### Analisi della scena
+Il rito religioso e gli omicidi vengono alternati attraverso un montaggio che costruisce simultaneamente due livelli dell'azione e li mette in rapporto tematico. Le formule liturgiche pronunciate da Michael acquistano un significato ironico e drammatico quando sono seguite dalle immagini degli assassinii da lui ordinati. Il montaggio non si limita quindi a mostrare due azioni contemporanee: produce un'idea attraverso il loro accostamento. La Berkeley *Anatomy of a Film* e l'AFI Catalog analizzano la sequenza come un esempio paradigmatico di cross-cutting e montaggio parallelo.
+
+### Perché è didatticamente utile
+È uno degli esempi più chiari per distinguere montaggio alternato come organizzazione di azioni parallele e montaggio parallelo come costruzione di un contrasto concettuale.
+
+### Obiettivo didattico
+Riconoscere come l'accostamento di due linee d'azione possa produrre un significato che nessuna delle due scene possiede isolatamente.
+
+### Come utilizzarla in classe
+Prima visione senza spiegazione. Seconda visione: dividere la lavagna in «battesimo» e «omicidi» e registrare ciò che cambia ritmicamente e semanticamente a ogni passaggio.
+
+### Domande da porre agli studenti
+1. Cosa comunica il film attraverso il passaggio dal rito all'omicidio?
+2. Che cosa cambierebbe mostrando i due eventi separatamente?
+3. Come contribuisce la musica alla relazione fra le due linee d'azione?
+
+### Collegamenti
+- *La corazzata Potëmkin*: significato prodotto dall'accostamento.
+- *Psycho*: montaggio come costruzione della violenza.
+- *The Conversation*: rapporto fra informazione sonora e montaggio.
+
+### Fonti
+- Berkeley, *The Godfather: Anatomy of a Film*, sezione «Baptism Scene».
+- AFI Catalog, *The Godfather*.
+
+## 31. *Apocalypse Now* (Francis Ford Coppola, 1979)
+- **Scena:** apertura: Willard nella stanza d'albergo, ventilatore, elicotteri, incendio e dissolvenze sovrapposte.
+- **Concetto principale:** asincronia audiovisiva / rapporto immagine-suono.
+- **Concetti secondari:** sound bridge, soggettività, montaggio sovrimpresso, suono soggettivo, dissolvenza.
+- **Tag:** #suono #asincronia #sound-bridge #montaggio #soggettiva #musica
+- **Livello:** Intermedio / Avanzato.
+
+### Analisi della scena
+Il rumore delle pale degli elicotteri viene associato inizialmente alle immagini della guerra e progressivamente al ventilatore del soffitto. Immagine e suono non coincidono più stabilmente: il suono diventa un elemento della soggettività di Willard e collega presente, memoria e percezione. Rasmus Greiner analizza l'apertura proprio come una costruzione in cui il suono dell'elicottero viene trasferito al ventilatore, dissolvendo i confini fra realtà filmica e immaginazione.
+
+### Perché è didatticamente utile
+Fa capire che il suono cinematografico non deve riprodurre semplicemente ciò che vediamo: può anticipare, trasformare, collegare o contraddire l'immagine.
+
+### Obiettivo didattico
+Distinguere sincronizzazione, asincronia, sound bridge e suono soggettivo.
+
+### Come utilizzarla in classe
+Prima visione con audio. Seconda senza audio. Terza concentrata esclusivamente sulla provenienza dei suoni.
+
+### Domande da porre agli studenti
+1. Quando sentiamo l'elicottero e quando lo vediamo?
+2. Perché il ventilatore viene associato agli elicotteri?
+3. Il suono appartiene allo spazio o alla mente del protagonista?
+
+### Collegamenti
+- *The Conversation*.
+- *Blow Out*.
+- *M*.
+- *The Graduate*.
+
+### Fonti
+- Rasmus Greiner, «Sonic Histospheres», *Research in Film and History*.
+- Todd Decker, *Hymns for the Fallen: Combat Movie Music and Sound after Vietnam*, University of California Press.
+
+## 32. *The Shining* (Stanley Kubrick, 1980)
+- **Scena:** Danny percorre i corridoi dell'Overlook Hotel sul triciclo.
+- **Concetto principale:** movimento di macchina e soggettività spaziale.
+- **Concetti secondari:** Steadicam, travelling, spazio labirintico, suspense, punto di vista.
+- **Tag:** #movimento-di-macchina #travelling #steadicam #spazio #suspense #punto-di-vista
+- **Livello:** Base / Intermedio.
+
+### Analisi della scena
+La macchina da presa segue Danny con un movimento fluido e ravvicinato che rende il percorso nello spazio fisicamente percepibile. Il travelling non serve soltanto a seguire l'azione: costruisce l'architettura dell'Overlook come spazio da esplorare e rende l'attesa parte dell'esperienza spettatoriale. Gli studi sulla storia della Steadicam collocano *The Shining* fra i casi fondamentali per comprendere l'estetica della macchina stabilizzata.
+
+### Perché è didatticamente utile
+Permette di distinguere inquadratura statica e movimento di macchina e di mostrare come il movimento possa modificare la percezione dello spazio.
+
+### Attività
+Far tracciare agli studenti il percorso di Danny e chiedere cosa apprendono dello spazio grazie al movimento della macchina.
+
+### Domande da porre agli studenti
+1. Cosa perderemmo se la scena fosse costruita con inquadrature fisse?
+2. La macchina segue Danny o sembra controllarlo?
+3. Perché la fluidità del movimento può produrre inquietudine?
+
+### Collegamenti
+- *Rope*.
+- *Touch of Evil*.
+- *1917*.
+- *The Last Laugh*.
+
+### Fonti
+- Kevin E. Bird, studi sulla Steadicam e sulla stabilizzazione dell'immagine, University of Pittsburgh.
+- Studi tecnici sulla storia della Steadicam.
+
+## 33. *The Graduate / Il laureato* (Mike Nichols, 1967)
+- **Scena:** montaggio della vita di Benjamin fra casa, hotel e piscina, accompagnato dalle canzoni di Simon & Garfunkel.
+- **Concetto principale:** musica extradiegetica come elemento di montaggio.
+- **Concetti secondari:** ellissi, sound bridge, durata, ripetizione, New Hollywood.
+- **Tag:** #musica #suono-extradiegetico #sound-bridge #ellissi #montaggio
+- **Livello:** Base / Intermedio.
+
+### Analisi della scena
+Le canzoni accompagnano una serie di ellissi temporali e passaggi fra luoghi diversi, fornendo continuità sonora a una sequenza visivamente frammentata. La musica contribuisce a costruire la percezione dello stato esistenziale di Benjamin e a tenere insieme temporalità diverse. Studi sulla funzione della popular music nel cinema hanno osservato proprio la capacità delle canzoni del film di smussare le discontinuità del montaggio.
+
+### Perché è didatticamente utile
+È un esempio efficace per distinguere musica extradiegetica, musica diegetica e funzione narrativa della canzone.
+
+### Attività
+Mostrare prima la sequenza senza musica e poi con la colonna sonora. Chiedere cosa cambia nella percezione del tempo e del personaggio.
+
+### Domande da porre agli studenti
+1. La canzone illustra ciò che vediamo o aggiunge un significato?
+2. Come collega luoghi e momenti diversi?
+3. Cosa accadrebbe con una musica completamente diversa?
+
+### Collegamenti
+- *Apocalypse Now*.
+- *Moulin Rouge!*.
+- *The Conversation*.
+
+### Fonti
+- Claudia Gorbman, *Unheard Melodies: Narrative Film Music*.
+- Studi sulla funzione della popular music nel cinema e sul montaggio musicale de *Il laureato*.
+
+## 34. *Memento* (Christopher Nolan, 2000)
+- **Scena:** apertura con la fotografia Polaroid che si riavvolge e confronto con la struttura della linea a colori.
+- **Concetto principale:** temporalità non lineare.
+- **Concetti secondari:** flashback, inversione cronologica, ellissi, focalizzazione, narratore, spettatore.
+- **Tag:** #tempo #flashback #ellissi #narrazione #focalizzazione
+- **Livello:** Intermedio / Avanzato.
+
+### Analisi della scena
+*Memento* non presenta semplicemente una storia raccontata «al contrario»: la linea a colori procede in ordine cronologico inverso mentre quella in bianco e nero procede in avanti, fino alla convergenza. Andrew Kania e Claire Molloy mostrano come questa struttura obblighi lo spettatore a ricostruire rapporti causali e temporali che la narrazione ha deliberatamente frammentato.
+
+### Perché è didatticamente utile
+Permette di distinguere ordine degli eventi della storia e ordine della narrazione, introducendo in modo concreto flashback, analessi, ellissi e narrazione non lineare.
+
+### Attività
+Dare agli studenti tre momenti fuori ordine e chiedere di ricostruire la cronologia prima di spiegare il dispositivo del film.
+
+### Domande da porre agli studenti
+1. Cosa sappiamo prima e cosa scopriamo dopo?
+2. La struttura temporale modifica il nostro rapporto con Leonard?
+3. Un flashback racconta necessariamente il passato in modo completo e affidabile?
+
+### Collegamenti
+- *Rashomon*.
+- *Mulholland Drive*.
+- *The Conversation*.
+
+### Fonti
+- Andrew Kania, «What Is Memento? Ontology and Interpretation in Mainstream Film», Routledge.
+- Claire Molloy, «Puzzle Films, Ambiguity and Technologically-enabled Narrative», Oxford/Edinburgh Scholarship Online.
+
+## 35. *The Searchers / Sentieri selvaggi* (John Ford, 1956)
+- **Scena:** apertura e finale attraverso la porta della casa.
+- **Concetto principale:** soglia e composizione dell'inquadratura.
+- **Concetti secondari:** spazio interno/esterno, profondità, dissolvenza, motivo visivo, esclusione/inclusione.
+- **Tag:** #composizione #spazio #messa-in-scena #dissolvenza #motivo-visivo
+- **Livello:** Intermedio.
+
+### Analisi della scena
+La porta diventa un dispositivo compositivo che separa interno ed esterno e definisce la posizione del protagonista rispetto alla comunità. Apertura e conclusione instaurano una rima visiva: il film costruisce il significato attraverso la ripetizione di una configurazione spaziale modificata dal percorso narrativo. Studi accademici sul film hanno analizzato il motivo delle soglie e dei passaggi come elemento strutturale della sua forma.
+
+### Perché è didatticamente utile
+Dimostra che una scenografia può diventare struttura narrativa e simbolica e che un'inquadratura può acquisire significato attraverso ripetizione e confronto.
+
+### Attività
+Mostrare apertura e finale senza commento e chiedere agli studenti di individuare cosa è uguale e cosa è cambiato.
+
+### Domande da porre agli studenti
+1. Perché Ethan rimane fuori dalla porta?
+2. Che funzione ha la ripetizione della stessa composizione?
+3. La porta è solo un elemento scenografico?
+
+### Collegamenti
+- *Metropolis*.
+- *The Grand Budapest Hotel*.
+- *Persona*.
+
+### Fonti
+- Peter Lehman, studi sul motivo delle soglie in *The Searchers*.
+- Dominic Lash, studi sulla figurazione e sui passaggi spaziali nel cinema di John Ford.
+
+## 36. *Rear Window / La finestra sul cortile* (Alfred Hitchcock, 1954) — SCHEDA OPERATIVA: REGOLA DEI 180°
+- **Scena:** dialoghi Jeff/Stella/Lisa e osservazione del cortile, da analizzare rispetto all'asse dei personaggi.
+- **Concetto principale:** regola dei 180° e continuità dello spazio.
+- **Concetti secondari:** campo/controcampo, raccordo di sguardo, orientamento, POV.
+- **Tag:** #continuità #raccordo #regola-180 #campo-controcampo #punto-di-vista
+- **Livello:** Base.
+
+### Analisi della scena
+La conversazione permette di visualizzare la convenzione dell'asse: mantenendo la macchina da presa sullo stesso lato della linea immaginaria fra i personaggi, gli sguardi e le direzioni rimangono coerenti. La ricerca sperimentale sulla continuità mostra che gli spettatori riconoscono le violazioni della regola dei 180°; studi recenti sulla costruzione dello spazio descrivono inoltre raccordo di sguardo, reverse angle e raccordo sul movimento come strategie che rendono invisibile la frammentazione spaziale.
+
+### Perché è didatticamente utile
+È una scheda operativa: serve per insegnare agli studenti a ricostruire l'asse invece di limitarsi a memorizzarne la definizione.
+
+### Attività
+Disegnare due personaggi, tracciare l'asse e segnare le posizioni della macchina da presa. Successivamente chiedere cosa accadrebbe attraversando l'asse.
+
+### Domande da porre agli studenti
+1. Dov'è l'asse?
+2. In quale direzione guardano i due personaggi?
+3. Perché il raccordo rende lo spazio comprensibile?
+4. Cosa succederebbe attraversando l'asse?
+
+### Collegamenti
+- *Stagecoach*: continuità classica.
+- *Tokyo Story*: violazione controllata dell'asse.
+- *Il disprezzo*: rifiuto del découpage classico.
+
+### Fonti
+- George V. Kachkovski et al., «Exploring the Effects of Violating the 180-Degree Rule on Film Viewing Preferences», *Communication Research* (2019).
+- Chiao-I Tseng, Theo van Leeuwen, Emilia Djonov, «The fragmentation and plasticity of space in film» (2025).
+
+---
+# COSTELLAZIONI DIDATTICHE — AGGIORNAMENTO 2
+
+### Montaggio parallelo
+*La corazzata Potëmkin* → *Il padrino* → *Psycho*
+
+### Suono: immagine, soggettività e dislocazione
+*M* → *The Conversation* → *The Graduate* → *Apocalypse Now* → *Blow Out*
+
+### Movimento di macchina
+*The Last Laugh* → *The Shining* → *Rope* → *Touch of Evil* → *1917*
+
+### Temporalità e narrazione non lineare
+*I quattrocento colpi* → *Memento* → *Rashomon* → *Mulholland Drive*
+
+### Soglia e spazio narrativo
+*The Searchers* → *The Grand Budapest Hotel* → *Metropolis*
+
+### Continuità e regola dei 180°
+*Stagecoach* → *Rear Window* → *Tokyo Story* → *Breathless* → *Il disprezzo*
+
+---
+# MAPPA DI COPERTURA DEI CONCETTI
+
+### Ben coperti
+- Montaggio ritmico
+- Montaggio parallelo
+- Jump cut
+- Continuità classica
+- Raccordo sul movimento
+- Raccordo di sguardo
+- Regola dei 180°
+- Profondità di campo
+- Piano-sequenza / long take
+- Fuori campo
+- POV / soggettiva
+- Suspense
+- Suono diegetico/extradiegetico
+- Sound bridge
+- Asincronia
+- Musica e immagini
+- Movimento di macchina
+- Steadicam
+- Temporalità non lineare
+- Flashback / analessi
+- Ellissi
+- Metacinema
+- Mise-en-scène
+- Spazio narrativo
+- Ambiguità dell'immagine
+
+### Da coprire nelle prossime tornate
+- **Panoramica** come concetto specifico, distinto dal travelling
+- **Carrello laterale e frontale** come forme autonome
+- **Zoom** e differenza ottica rispetto al movimento di macchina
+- **Raccordo sull'asse** con un esempio specifico
+- **Raccordo di direzione / match on action** con una scena paradigmatica
+- **Split screen**
+- **Dissolvenza, tendina, iris e altre transizioni**
+- **Voice-over / voice-off** con scene canoniche
+- **Overlapping dialogue** e costruzione del parlato
+- **Illuminazione espressionista e high/low-key lighting**
+- **Colore come sistema narrativo**
+- **Formato e rapporto d'aspetto**
+- **Blocking e direzione degli attori**
+- **Recitazione cinematografica vs teatrale**
+- **Montaggio ellittico**
+- **Match cut / graphic match** oltre al già presente *2001*
