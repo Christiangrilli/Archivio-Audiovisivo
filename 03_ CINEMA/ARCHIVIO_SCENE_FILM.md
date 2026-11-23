@@ -3372,47 +3372,86 @@ Le seguenti schede sono state aggiunte a partire dalla filmografia fornita dall'
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** omicidio di Marion Crane sotto la doccia.
-- **Durata indicativa:** frammento breve; il minutaggio varia secondo l'edizione.
-- **Collocazione nel film:** prima metà del film.
+- **Sequenza:** l'omicidio di Marion Crane sotto la doccia, dall'apertura della tenda fino al raccordo conclusivo fra lo scarico e l'occhio della donna.
 - **Concetto principale:** montaggio frammentato e costruzione audiovisiva della violenza.
-- **Concetti secondari:** raccordo, punto di vista, fuori campo, suono, ellissi, spettatore.
+- **Concetti secondari:** variazione della scala dei piani, jump cut, ellissi, fuori campo, punto di vista, musica, sound design, raccordo grafico.
 - **Tag:** #montaggio #inquadratura #suono #fuori-campo #punto-di-vista #suspense #ellissi
 - **Livello:** Intermedio.
-- **Uso consigliato:** analisi formale / confronto.
+- **Uso consigliato:** analizzare come il montaggio possa suggerire un evento violento senza mostrarne direttamente il contatto fisico, e come il suono completi ciò che l'immagine frammenta.
+- **Attenzione ai contenuti:** la scena rappresenta un omicidio e contiene nudità parziale, urla e immagini di violenza. Valutare con attenzione l'estratto e la sua adeguatezza per la classe.
+- **Stato:** **DA COMPLETARE** — delimitare la sequenza e verificare sulla copia il numero di stacchi e il raccordo finale; i dati di produzione non sostituiscono l'analisi della versione effettivamente utilizzata.
 
-### Tecniche e aspetti formali
-- **Messa in scena:** spazio ristretto del bagno; corpo di Marion progressivamente esposto allo sguardo della macchina da presa.
-- **Inquadratura:** alternanza di dettagli, primi piani, frammenti del corpo e inquadrature dell'ambiente.
-- **Movimento di macchina:** subordinato alla frammentazione del découpage.
-- **Montaggio:** montaggio rapidissimo che scompone l'azione e impedisce una rappresentazione continua del gesto omicida.
-- **Suono:** urlo, acqua della doccia e musica contribuiscono alla costruzione percettiva dell'evento.
-- **Spazio:** lo spazio è riconoscibile ma l'azione violenta viene resa attraverso frammenti.
-- **Dialogo:** assente durante il nucleo dell'aggressione.
+### Contesto essenziale
+Marion Crane, dopo aver rubato una somma di denaro, si ferma al Bates Motel. Decide di restituire il denaro e di ricominciare la propria vita. Dopo aver fatto la doccia, viene aggredita da una figura che lo spettatore associa alla madre di Norman Bates. L'omicidio interrompe bruscamente il percorso narrativo di Marion e sposta il centro del film su Norman e sulla gestione del segreto.
 
-### Analisi della scena
-Hitchcock costruisce l'omicidio evitando di mostrare in modo continuo il contatto fra coltello e corpo. La violenza è quindi prodotta dall'insieme di inquadrature, raccordi, suono e montaggio, non dalla semplice esposizione dell'atto. La scena è particolarmente utile per distinguere ciò che la macchina da presa mostra da ciò che lo spettatore ricostruisce mentalmente.
+### Analisi formale
+La scena dura circa 45 secondi, ma è composta da una quantità eccezionale di inquadrature. L'AFI Catalog riporta oltre settanta inquadrature; il documentario *78/52* richiama il numero di 78 posizioni di macchina e 52 stacchi. È importante distinguere i due dati: i set-up sono le diverse posizioni e configurazioni di ripresa, mentre i tagli sono le giunzioni che organizzano il materiale nel montaggio.
+
+Hitchcock evita di mostrare in modo continuo il contatto fra coltello e corpo. La lama attraversa lo spazio dell'inquadratura, ma il film non offre una visione chiara e prolungata della penetrazione. Il montaggio alterna dettagli della lama, frammenti del corpo, reazioni del volto, tenda, acqua e gesti dell'aggressore. Lo spettatore ricostruisce mentalmente un'azione che il film non mostra mai in modo completo. La violenza è prodotta dall'accostamento delle immagini e dalla rapidità con cui vengono presentate.
+
+La scena utilizza anche salti di continuità e variazioni brusche del punto di vista. Alcuni tagli interrompono la fluidità del movimento e accentuano la sensazione di aggressione. La tenda della doccia e le superfici del bagno diventano elementi compositivi che frammentano il corpo e lo spazio. Il quadro non offre una geografia stabile dell'omicidio: l'attenzione viene spostata continuamente fra dettagli e reazioni.
+
+La musica di Bernard Herrmann, composta esclusivamente per archi, è decisiva. Gli acuti ripetuti degli archi non descrivono realisticamente il suono del coltello, ma traducono in forma musicale l'aggressione. Il suono sembra rendere udibile ciò che l'immagine non mostra: la violenza viene suggerita anche attraverso la qualità tagliente e insistente della partitura. L'acqua della doccia continua a scorrere e, dopo l'uscita dell'aggressore, il rumore ambientale torna in primo piano.
+
+Il raccordo finale fra l'acqua che gira nello scarico e l'occhio di Marion collega due forme circolari e due movimenti rotatori. La macchina da presa si allontana progressivamente dal volto della donna, trasformando la morte in un'immagine di immobilità. Il raccordo non mostra soltanto la conclusione dell'omicidio: produce una relazione visiva fra il vortice dell'acqua e lo sguardo ormai privo di vita.
+
+La sequenza è stata spesso interpretata attraverso il tema del voyeurismo. Il dipinto che Norman sposta per osservare Marion nella doccia richiama la tradizione iconografica di Susanna e i vecchioni; il film mette così in relazione lo sguardo del personaggio, quello della macchina da presa e quello dello spettatore. Questa lettura va proposta come una chiave critica, non come unica interpretazione possibile.
+
+### Evidenze da far osservare
+1. Come cambia la scala dei piani durante l'aggressione.
+2. Quali parti del corpo e dell'azione vengono mostrate e quali restano fuori campo.
+3. Se il coltello viene mai mostrato mentre penetra chiaramente il corpo.
+4. Come la musica di Herrmann si relaziona ai gesti e ai tagli.
+5. Quali suoni ambientali restano udibili durante e dopo l'omicidio.
+6. Come viene costruito il raccordo fra scarico e occhio.
+7. Quali elementi della scena richiamano il tema dello sguardo e del voyeurismo.
 
 ### Perché è didatticamente utile
-Permette di dimostrare concretamente che il montaggio non serve soltanto a collegare azioni già date: può costruire un evento percettivamente più forte di una sua rappresentazione continua. La celebre analisi di Laura Mulvey ha inoltre collegato la scena alla dimensione dello sguardo e della scopofilia.
+La sequenza dimostra che il montaggio può costruire un evento più intenso di una sua rappresentazione continua. Gli studenti possono distinguere ciò che viene effettivamente mostrato da ciò che viene ricostruito mentalmente e osservare come musica e sound design completino l'informazione visiva. È inoltre un caso efficace per analizzare la relazione fra forma, punto di vista e sguardo dello spettatore.
 
 ### Obiettivo didattico
-Lo studente deve riconoscere come una scena violenta possa essere costruita attraverso frammentazione, ellissi, suono e punto di vista, distinguendo rappresentazione diretta e costruzione percettiva.
+Al termine dell'attività, lo studente sa descrivere la frammentazione del découpage, riconoscere l'uso del fuori campo e dell'ellissi e spiegare come musica, rumori e montaggio costruiscano la percezione della violenza.
 
 ### Come utilizzarla in classe
-Prima visione senza spiegazioni; seconda visione fermando alcuni raccordi; terza visione concentrata soltanto sul suono. Chiedere agli studenti di ricostruire ciò che è effettivamente mostrato e ciò che viene soltanto suggerito.
+1. **Contestualizzazione:** chiarire che la sequenza rappresenta un omicidio e che l'attività riguarda la costruzione audiovisiva, non la spettacolarizzazione della violenza.
+2. **Prima visione:** mostrare il frammento senza fermarlo e chiedere agli studenti di descrivere che cosa ritengono di aver visto.
+3. **Seconda visione:** individuare alcuni passaggi fra dettagli, reazioni e parti dell'ambiente, distinguendo ciò che viene mostrato da ciò che viene soltanto suggerito.
+4. **Ascolto mirato:** rivedere il frammento concentrandosi prima sulla musica e poi sui rumori della doccia.
+5. **Analisi del finale:** osservare il raccordo fra scarico e occhio e descrivere le somiglianze di forma e movimento.
+6. **Rielaborazione:** realizzare uno storyboard di una scena di tensione non violenta, in cui un evento venga suggerito attraverso dettagli, suono e fuori campo.
 
-### Domande
+### Domande per gli studenti
 1. Vediamo realmente il coltello entrare nel corpo?
 2. Quali informazioni produce il montaggio senza mostrarci l'azione in continuità?
 3. Quanto della violenza deriva dalle immagini e quanto da suono e musica?
+4. Perché il rumore della doccia continua a essere importante dopo l'aggressione?
+5. Quale relazione visiva viene costruita fra scarico e occhio?
+6. Chi guarda Marion e quale posizione viene assegnata allo spettatore?
+
+### Verifica formativa
+Gli studenti realizzano una breve analisi di sei passaggi della sequenza. Per ciascuno indicano:
+- scala del piano;
+- elemento mostrato;
+- elemento lasciato fuori campo;
+- funzione del suono;
+- effetto prodotto dal taglio.
+
+Concludono distinguendo l'azione fisica dell'omicidio dalla sua costruzione percettiva attraverso montaggio e suono.
+
+**Criteri:** precisione nella descrizione, distinzione fra immagine e ricostruzione mentale, riconoscimento della funzione musicale, uso corretto di fuori campo, ellissi e raccordo.
 
 ### Collegamenti
-- **Teoria:** montaggio, sguardo, suspense.
-- **Confronti:** *Lo squalo*, *La finestra sul cortile*, *Touch of Evil*.
-- **Bibliografia:** Laura Mulvey; David Bordwell e Kristin Thompson.
+- **Montaggio frammentato e violenza:** *Rocco e i suoi fratelli* — alternanza fra boxe e omicidio.
+- **Fuori campo e suspense:** *Lo squalo* — minaccia non mostrata direttamente.
+- **Piano-sequenza e suspense:** *Touch of Evil* — durata e informazione narrativa.
+- **Sguardo e voyeurismo:** *La finestra sul cortile* — spettatore, osservatore e osservato.
 
----
+### Fonti e riferimenti
+- Oliver Lunn, «10 things you (probably) never knew about the shower scene in *Psycho*», *BFI*, 25 ottobre 2017. Riporta i dati di 78 set-up e 52 stacchi, la costruzione del finale e le osservazioni sul voyeurismo: https://www.bfi.org.uk/interviews/psycho-shower-scene-alfred-hitchcock
+- American Film Institute, *AFI Catalog*, scheda di *Psycho* (1960), per la durata di circa 45 secondi, il numero di inquadrature e la storia produttiva della sequenza: https://catalog.afi.com/Catalog/MovieDetails/53260
+- Royal Holloway, University of London, «Bernard Herrmann's Film Music: *Psycho* and Others», analisi della partitura per archi, delle dissonanze e della relazione fra gesto e musica: https://www.royalholloway.ac.uk/research-and-education/subjects/music/about-us/teacherhubmusic/bernard-herrmanns-film-music-psycho-and-others/
+- Turner Classic Movies, «Behind the Camera — *Psycho*», per il lavoro di Hitchcock e Herrmann e la scelta di utilizzare soltanto gli archi: https://www.tcm.com/articles/191164/behind-the-camera-psycho
+- Alexandre O. Philippe, *78/52: Hitchcock's Shower Scene*, documentario, 2017, per l'analisi fotogramma per fotogramma e le testimonianze di tecnici, studiosi e cineasti.
 
 ## 39. *Rope* (*Nodo alla gola*, Alfred Hitchcock, 1948)
 [↑ Torna all'indice](#indice-interattivo)
