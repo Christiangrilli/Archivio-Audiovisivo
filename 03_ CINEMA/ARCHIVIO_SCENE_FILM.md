@@ -3043,18 +3043,84 @@ Indicano il gesto comune, il contesto narrativo di ciascuna immagine e la funzio
 - American Film Institute, *AFI Catalog*, scheda di *E.T. the Extra-Terrestrial* (1982), per la sequenza scolastica e il riferimento a *The Quiet Man*: https://catalog.afi.com/Film/56678-E-T-THEEXTRATERRESTRIAL
 - Steven Spielberg, commento audio al DVD di *E.T. the Extra-Terrestrial*, per la funzione della scena di *The Quiet Man* e il collegamento fra il bacio sul televisore e il comportamento di Elliott.
 
-## 34. *News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)
+## 34. *News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles* (Chantal Akerman, 1975)
 [↑ Torna all'indice](#indice-interattivo)
 
-### Concetto comune
-- **Concetto principale:** voce e fuori campo.
-- **Concetti secondari:** voice-over, voice-off, spazio, dispositivo, soggettività.
-- **Tag:** #suono #voice-over #voice-off #fuori-campo #spazio
+### Identificazione
+- **Primo esempio:** *News from Home*: la voce di Chantal Akerman legge le lettere della madre mentre le immagini mostrano strade, metropolitane, edifici e passanti di New York.
+- **Secondo esempio:** *Jeanne Dielman*: la sequenza iniziale in cucina, in cui il campanello annuncia l'arrivo di un cliente; Jeanne esce dal quadro e la macchina da presa resta nella stanza mentre si sentono la porta, la voce dell'uomo e il saluto di Jeanne fuori campo.
+- **Concetto principale:** disgiunzione fra voce, immagine e spazio diegetico.
+- **Concetti secondari:** voice-over, voce off, suono acousmatico, fuori campo, asincronia, paesaggio sonoro, durata, punto di ascolto.
+- **Tag:** #suono #voice-over #voice-off #fuori-campo #spazio #durata #asincronia
+- **Livello:** Intermedio / Avanzato.
+- **Uso consigliato:** distinguere la voce narrante sovrapposta alle immagini dalla voce diegetica che proviene da uno spazio non mostrato, e analizzare come il suono renda percepibile ciò che l'immagine esclude.
+- **Stato:** **DA COMPLETARE** — selezionare e verificare i due frammenti sulle edizioni disponibili; per *News from Home* indicare quale versione sonora (francese o inglese) viene utilizzata.
 
-### Uso didattico
-Le due opere sono particolarmente utili per introdurre la distinzione fra voce associata allo spazio diegetico e voce extradiegetica, chiedendo agli studenti di domandarsi non solo «chi parla?», ma «da quale spazio proviene la voce secondo la costruzione del film?».
+### Analisi comparativa
+In *News from Home* la voce di Akerman legge le lettere inviate dalla madre da Bruxelles mentre la macchina da presa osserva New York. La voce non proviene da una persona presente nello spazio mostrato e non coincide con un dialogo registrato sul luogo. È una voce over che introduce un secondo livello di tempo e di spazio: la madre scrive da lontano, la figlia legge in un momento successivo e le immagini mostrano la città in cui la regista vive e lavora.
 
----
+Il rapporto fra voce e immagine non è illustrativo. Le lettere parlano di famiglia, preoccupazioni quotidiane e distanza affettiva; le immagini mostrano strade, passanti, metropolitane e palazzi che non corrispondono direttamente a ciò che viene letto. La voce attribuisce una dimensione intima a immagini urbane spesso anonime, mentre il rumore della città può coprire e rendere meno intelligibile la lettura. L'effetto nasce dalla non coincidenza fra i due livelli: il film mette in relazione casa e lontananza, madre e figlia, intimità e spazio pubblico.
+
+In *Jeanne Dielman* la voce fuori campo svolge una funzione diversa. Nella sequenza iniziale, il campanello suona mentre Jeanne prepara la cena. La donna toglie il grembiule, esce dalla cucina e la macchina da presa resta sullo spazio vuoto. Si sentono l'apertura della porta, il saluto di Jeanne e la voce dell'uomo, ma l'incontro non viene mostrato immediatamente. Il suono rende presente una persona che resta fuori dall'inquadratura e permette allo spettatore di ricostruire l'azione attraverso indizi acustici.
+
+La differenza fra i due film è fondamentale. In *News from Home* la voce over appartiene a un livello di enunciazione che non è localizzato nello spazio delle immagini; in *Jeanne Dielman* la voce dell'uomo è diegetica e proviene da un ambiente contiguo, anche se il corpo resta fuori campo. La prima separa deliberatamente il tempo della parola e quello delle immagini; la seconda utilizza il suono per estendere lo spazio oltre i confini del quadro.
+
+Entrambe le opere mostrano che il suono non è un semplice accompagnamento dell'immagine. Può costruire una relazione fra luoghi lontani, rendere presente un corpo non visibile o modificare il modo in cui lo spettatore interpreta uno spazio vuoto.
+
+### Evidenze da far osservare
+1. In *News from Home*, quale rapporto esiste fra il contenuto delle lettere e le immagini della città.
+2. Quando il rumore urbano copre o rende meno comprensibile la voce.
+3. In *Jeanne Dielman*, quali suoni segnalano l'arrivo del cliente prima che il suo corpo venga mostrato.
+4. Per quanto tempo la macchina da presa resta nella cucina vuota.
+5. Da quale spazio proviene la voce dell'uomo e come lo spettatore può ricostruirlo.
+6. Qual è la differenza fra una voce over e una voce diegetica fuori campo.
+
+### Perché è didatticamente utile
+Il confronto permette di distinguere con precisione voice-over e voce off, evitando di usare le due espressioni come sinonimi. Gli studenti possono comprendere che una voce può appartenere a un livello narrativo esterno allo spazio mostrato oppure provenire da un ambiente diegetico che resta fuori inquadratura. Le due sequenze dimostrano inoltre che il suono può creare connessioni e spazi che l'immagine non mostra.
+
+### Obiettivo didattico
+Al termine dell'attività, lo studente sa distinguere voice-over e voce fuori campo diegetica, individuare la fonte sonora e spiegare come il rapporto fra voce, rumore ambientale e immagine contribuisca alla costruzione dello spazio e del significato.
+
+### Come utilizzarla in classe
+1. **Prima visione:** mostrare un breve estratto di *News from Home* e chiedere agli studenti di distinguere la voce delle lettere dai rumori della città.
+2. **Analisi della fonte:** stabilire se la voce appartiene a un personaggio presente nell'immagine, a una voce narrante o a una fonte non visibile.
+3. **Seconda visione:** mostrare l'apertura di *Jeanne Dielman* e chiedere agli studenti di ricostruire l'arrivo del cliente soltanto attraverso i suoni.
+4. **Mappa dello spazio:** disegnare una pianta della cucina e del corridoio, indicando dove si trovano la macchina da presa, Jeanne e il cliente nei diversi momenti.
+5. **Confronto:** mettere in relazione i due procedimenti e spiegare perché in un caso si tratta di voice-over e nell'altro di voce off diegetica.
+6. **Rielaborazione:** registrare una breve scena in cui un personaggio parla da una stanza non visibile, mantenendo la macchina da presa in un altro ambiente.
+
+### Domande per gli studenti
+1. La voce di *News from Home* proviene dallo stesso spazio mostrato dalle immagini?
+2. Perché le lettere della madre non illustrano direttamente ciò che vediamo a New York?
+3. In *Jeanne Dielman*, che cosa sappiamo dell'uomo prima di vederlo?
+4. Quale differenza c'è fra una voce over e una voce fuori campo?
+5. Come cambia la percezione dello spazio quando la macchina da presa resta in una stanza vuota mentre sentiamo un'azione che avviene altrove?
+
+### Verifica formativa
+Gli studenti compilano una tabella comparativa con:
+- fonte della voce;
+- collocazione diegetica o extradiegetica;
+- rapporto temporale con le immagini;
+- presenza di rumori ambientali;
+- spazio mostrato;
+- spazio evocato dal suono.
+
+A conclusione, scrivono una breve definizione di voice-over e voce off, utilizzando un esempio per ciascuna.
+
+**Criteri:** distinzione corretta fra i due procedimenti, individuazione della fonte sonora, capacità di ricostruire lo spazio fuori campo, uso preciso del lessico.
+
+### Collegamenti
+- **Voice-over e soggettività:** *Apocalypse Now* — voce di Willard e immagini del presente.
+- **Voce e immagine disgiunte:** *Mulholland Drive* — separazione fra corpo e voce registrata.
+- **Suono fuori campo:** *Jeanne Dielman* — presenza del cliente senza mostrarne immediatamente il corpo.
+- **Paesaggio sonoro urbano:** *The Conversation* — ascolto e interpretazione dei rumori della città.
+
+### Fonti e riferimenti
+- Michael Koresky, «Keeping a distance: Chantal Akerman’s *Jeanne Dielman*», *Sight and Sound*, BFI. Analizza la distanza della macchina da presa, la sequenza iniziale e la voce della madre in *News from Home*: https://www.bfi.org.uk/sight-and-sound/features/keeping-distance-chantal-akerman-jeanne-dielman
+- Paul Hegarty, «Grid Intensities: Hearing Structures in Chantal Akerman’s Films of the 1970s», in Holly Rogers e Jeremy Barham (a cura di), *The Music and Sound of Experimental Film*, Oxford University Press, 2017, pp. 149–166. Analizza le separazioni fra traccia sonora e visiva, la voce e il suono diegetico nei due film: https://doi.org/10.1093/acprof:oso/9780190469894.003.0008
+- «The Women at the Keyhole», Indiana University Press, capitolo dedicato a *Jeanne Dielman* e alla relazione fra spazio domestico, fuori campo e suoni quotidiani: https://publish.iupress.indiana.edu/read/the-women-at-the-keyhole/section/3a21490c-4e60-42c5-8d66-d4a71ea91363
+- «The embodiment of postmemory: encounters with a family's past in the films of Akerman», per la lettura delle lettere materne e della disgiunzione fra voce e immagini in *News from Home*: https://www.eca.usp.br/acervo/producao-academica/002790942.pdf
+- Moselle Kleiner, «News from Home programme notes», UCL Urban Laboratory, per il rapporto fra voce, rumore urbano e immagine della città: https://www.ucl.ac.uk/bartlett/sites/bartlett/files/news_from_home_programme_notes.pdf
 
 ## 35. *L'eclisse* / *L'avventura* / *La dolce vita*: spazio e modernità
 [↑ Torna all'indice](#indice-interattivo)
