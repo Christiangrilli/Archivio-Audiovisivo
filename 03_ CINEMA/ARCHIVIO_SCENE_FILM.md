@@ -2436,14 +2436,68 @@ Gli studenti consegnano una coppia di fotogrammi, uno prima e uno dopo il taglio
 - Blain Brown, *Cinematography: Theory and Practice*, 2ª ed., Focal Press, sezione sul conceptual cut e sul match cut, con riferimento alla transizione osso/satellite.
 - David Bordwell e Kristin Thompson, *Film Art: An Introduction*, capitolo sul montaggio, per la distinzione fra raccordo, ellissi e relazioni grafiche fra inquadrature.
 
-## 26. *Il grande Gatsby* e *The Grand Budapest Hotel*: confronto sulla composizione
+## 26. *Il grande Gatsby* e *The Grand Budapest Hotel*: confronto sulla composizione e sullo spazio spettacolare
 [↑ Torna all'indice](#indice-interattivo)
 
-Questa coppia può essere utilizzata come **scheda comparativa**: Wes Anderson rende la geometria dell'inquadratura sistematica e riconoscibile; Baz Luhrmann utilizza una composizione più mobile e spettacolare, nella quale la continuità e l'organizzazione dello spazio possono essere sottoposte a maggiore dinamismo.
+### Identificazione
+- **Primo esempio:** la prima grande festa nella villa di Gatsby, in *Il grande Gatsby* (Baz Luhrmann, 2013).
+- **Secondo esempio:** le scene nella hall del Grand Budapest Hotel negli anni Trenta, in *The Grand Budapest Hotel* (Wes Anderson, 2014).
+- **Concetto principale:** composizione dell'inquadratura e organizzazione dello spazio.
+- **Concetti secondari:** simmetria, centralità, movimento di macchina, profondità, densità visiva, formato, colore, montaggio e musica.
+- **Tag:** #composizione #simmetria #spazio #movimento-di-macchina #colore #montaggio #messa-in-scena
+- **Livello:** Intermedio.
+- **Uso consigliato:** confrontare due stili visivi molto riconoscibili, evitando di ridurli a formule semplici come «Anderson simmetrico» e «Luhrmann caotico».
+- **Stato:** **DA COMPLETARE** — selezionare due frammenti di durata comparabile e verificare le copie utilizzate.
 
-**Obiettivo:** comprendere che una stessa categoria — composizione, simmetria, continuità — può assumere funzioni stilistiche differenti.
+### Analisi comparativa
+La festa di Gatsby è costruita come un'esperienza audiovisiva mobile e sovraccarica. La macchina da presa attraversa gruppi di persone, decorazioni e ambienti; il montaggio si relaziona alla musica e la composizione cambia rapidamente. Lo spazio della villa non viene sempre presentato in modo ordinato: lo spettatore lo scopre attraverso un percorso fatto di dettagli, movimenti e attrazioni visive. La densità dell'immagine e del suono diventa parte della rappresentazione del lusso e dell'eccesso.
 
----
+Nelle scene della hall del Grand Budapest Hotel, invece, la composizione tende a rendere immediatamente leggibili gli assi, le simmetrie e la disposizione dei personaggi. Porte, banconi, lampadari e corridoi vengono organizzati in modo geometrico; il movimento degli attori e della macchina da presa è spesso preciso e controllato. Il formato 1,37:1 delle sequenze ambientate negli anni Trenta condiziona la distribuzione dei corpi e degli oggetti nel quadro, privilegiando l'altezza e la disposizione frontale.
+
+La differenza non deve essere trasformata in un'opposizione rigida. Luhrmann non rinuncia alla composizione e Anderson non rinuncia al movimento. In entrambi i casi lo spazio è progettato con grande precisione, ma i due registi adottano strategie differenti per guidare l'attenzione. Nel film di Luhrmann la macchina da presa e il montaggio spostano continuamente il centro percettivo; in Anderson la geometria del quadro e la disposizione degli elementi offrono spesso un'organizzazione più stabile.
+
+Il confronto permette di distinguere due forme di spettacolarità: una fondata sulla mobilità, sulla densità e sulla sovrapposizione di stimoli; l'altra sulla precisione geometrica, sulla centralità e sulla leggibilità della composizione. Entrambe sono costruzioni artificiali e consapevoli dello spazio cinematografico.
+
+### Obiettivo didattico
+Al termine dell'attività, lo studente sa confrontare due diverse organizzazioni dello spazio, riconoscere simmetria e centralità, descrivere il ruolo del movimento di macchina e spiegare come montaggio, musica, formato e composizione orientino l'attenzione dello spettatore.
+
+### Come utilizzarla in classe
+1. Mostrare i due frammenti senza anticipare le differenze stilistiche.
+2. Per ciascuno, individuare il centro dell'inquadratura, i principali assi e il numero di elementi che competono per l'attenzione.
+3. Ricostruire i movimenti della macchina da presa e verificare quando il punto di attenzione cambia.
+4. Confrontare il rapporto fra montaggio e musica nella festa di Gatsby con la maggiore stabilità compositiva della hall di Anderson.
+5. Analizzare il formato dell'immagine nelle scene degli anni Trenta del Grand Budapest Hotel e confrontarlo con il formato panoramico del film di Luhrmann.
+6. Chiedere agli studenti di progettare due fotografie dello stesso ambiente: una costruita sulla simmetria e una sulla mobilità e sulla densità degli elementi.
+
+### Domande per gli studenti
+1. In quale dei due frammenti è più semplice individuare un centro geometrico?
+2. In che modo il movimento di macchina modifica la composizione nella festa di Gatsby?
+3. La simmetria del Grand Budapest Hotel rende lo spazio più realistico o più artificiale?
+4. Quale ruolo svolgono colore e musica nella costruzione della festa?
+5. Quali elementi dimostrano che entrambi gli stili sono il risultato di una progettazione precisa?
+
+### Verifica formativa
+Gli studenti compilano una tabella comparativa con le voci:
+- organizzazione del quadro;
+- simmetria e centralità;
+- movimento di macchina;
+- ritmo del montaggio;
+- rapporto con la musica;
+- formato e colore;
+- effetto sullo spettatore.
+
+**Criteri:** capacità di confrontare evidenze concrete, precisione terminologica, distinzione fra descrizione e interpretazione, riconoscimento delle strategie di composizione.
+
+### Collegamenti
+- *Moulin Rouge!* — movimento digitale e spazio spettacolare.
+- *The Grand Budapest Hotel* — formato e composizione centrata.
+- *Birdman* — movimento di macchina e blocking.
+- *Quarto potere* — profondità e distribuzione dell'informazione nel quadro.
+
+### Fonti e riferimenti
+- Carol Vernallis, «Partying in *The Great Gatsby*: Baz Luhrmann’s Audiovisual Sublime», in *Indefinite Visions: Cinema and the Attractions of Uncertainty*, Edinburgh University Press, 2017, pp. 180–206: https://doi.org/10.3366/edinburgh/9781474407120.003.0011
+- David Bordwell, «THE GRAND BUDAPEST HOTEL: Wes Anderson takes the 4:3 challenge», *Observations on Film Art*, 26 marzo 2014: https://www.davidbordwell.net/blog/2014/03/26/the-grand-budapest-hotel-wes-anderson-takes-the-43-challenge/
+- Robert Yeoman, «Lighting the Grand Budapest Hotel», *ARRI News*, 2014: https://www.arri.com/resource/blob/32348/3770439c5df20a12a526d6cf98122ab4/2014-4-arri-news-english-data.pdf
 
 ## 27. *Dunkirk* (Christopher Nolan, 2017) / *Tenet* (Christopher Nolan, 2020)
 [↑ Torna all'indice](#indice-interattivo)
