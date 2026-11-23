@@ -53,9 +53,11 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Apocalypse Now* (Francis Ford Coppola, 1979)](ARCHIVIO_SCENE_FILM.md#31-apocalypse-now-francis-ford-coppola-1979)
 - [*The Graduate / Il laureato* (Mike Nichols, 1967)](ARCHIVIO_SCENE_FILM.md#33-the-graduate-il-laureato-mike-nichols-1967)
 - [*Rear Window / La finestra sul cortile* (Alfred Hitchcock, 1954) — SCHEDA OPERATIVA: REGOLA DEI 180°](ARCHIVIO_SCENE_FILM.md#36-rear-window-la-finestra-sul-cortile-alfred-hitchcock-1954-scheda-operativa-regola-dei-180)
-- [*Pillow Talk* (Michael Gordon, 1959) — split screen](ARCHIVIO_SCENE_FILM.md#40-pillow-talk-michael-gordon-1959-split-screen)
-- [*The Silence of the Lambs / Il silenzio degli innocenti* (Jonathan Demme, 1991) — montaggio alternato e focalizzazione](ARCHIVIO_SCENE_FILM.md#43-the-silence-of-the-lambs-il-silenzio-degli-innocenti-jonathan-demme-1991-montaggio-alternato-e-focalizzazione)
+- [*The Silence of the Lambs / Il silenzio degli innocenti* (Jonathan Demme, 1991) — montaggio alternato e focalizzazione](ARCHIVIO_SCENE_FILM.md#42-the-silence-of-the-lambs-il-silenzio-degli-innocenti-jonathan-demme-1991-montaggio-alternato-e-focalizzazione)
 
+- [*The Fabelmans* (Steven Spielberg, 2022) — film nel film e montaggio come rivelazione](ARCHIVIO_SCENE_FILM.md#48-the-fabelmans-steven-spielberg-2022-film-nel-film-e-montaggio-come-rivelazione)
+- [*Million Dollar Baby* (Clint Eastwood, 2004) — montaggio ellittico](ARCHIVIO_SCENE_FILM.md#50-million-dollar-baby-clint-eastwood-2004-montaggio-ellittico-e-trasformazione-del-corpo)
+- [*Titanic* (James Cameron, 1997) — montaggio alternato](ARCHIVIO_SCENE_FILM.md#52-titanic-james-cameron-1997-montaggio-alternato-e-gestione-dello-spazio)
 ### Inquadratura, composizione e profondità (32)
 
 - [*Susanna* (*Bringing Up Baby*, Howard Hawks, 1938)](ARCHIVIO_SCENE_FILM.md#1-susanna-bringing-up-baby-howard-hawks-1938)
@@ -87,10 +89,14 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Tokyo Story / Viaggio a Tokyo* (Yasujirō Ozu, 1953)](ARCHIVIO_SCENE_FILM.md#22-tokyo-story-viaggio-a-tokyo-yasujirō-ozu-1953)
 - [*La regola del gioco* (*La Règle du jeu*, Jean Renoir, 1939)](ARCHIVIO_SCENE_FILM.md#23-la-regola-del-gioco-la-règle-du-jeu-jean-renoir-1939)
 - [*The Searchers / Sentieri selvaggi* (John Ford, 1956)](ARCHIVIO_SCENE_FILM.md#35-the-searchers-sentieri-selvaggi-john-ford-1956)
-- [*Pillow Talk* (Michael Gordon, 1959) — split screen](ARCHIVIO_SCENE_FILM.md#40-pillow-talk-michael-gordon-1959-split-screen)
-- [*The Searchers* (John Ford, 1956) — formato e rapporto d'aspetto](ARCHIVIO_SCENE_FILM.md#42-the-searchers-john-ford-1956-formato-e-rapporto-daspetto)
-- [*The Graduate / Il laureato* (Mike Nichols, 1967) — carrello e composizione](ARCHIVIO_SCENE_FILM.md#44-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione)
+- [*The Searchers* (John Ford, 1956) — formato e rapporto d'aspetto](ARCHIVIO_SCENE_FILM.md#41-the-searchers-john-ford-1956-formato-e-rapporto-daspetto)
+- [*The Graduate / Il laureato* (Mike Nichols, 1967) — carrello e composizione](ARCHIVIO_SCENE_FILM.md#43-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione)
 
+- [*The Apartment / L'appartamento* (Billy Wilder, 1960)](ARCHIVIO_SCENE_FILM.md#46-the-apartment-lappartamento-billy-wilder-1960-composizione-prospettiva-e-spazio-del-lavoro)
+- [*Ace in the Hole / L'asso nella manica* (Billy Wilder, 1951)](ARCHIVIO_SCENE_FILM.md#45-ace-in-the-hole-lasso-nella-manica-billy-wilder-1951-messa-in-scena-dello-spettacolo-mediatico)
+- [*Gran Torino* (Clint Eastwood, 2008)](ARCHIVIO_SCENE_FILM.md#49-gran-torino-clint-eastwood-2008-composizione-soglia-e-trasformazione-dei-rapporti)
+- [*Blade Runner* (Ridley Scott, 1982)](ARCHIVIO_SCENE_FILM.md#55-blade-runner-ridley-scott-1982-fotografia-scenografia-e-costruzione-del-mondo)
+- [*Toy Story* (John Lasseter, 1995)](ARCHIVIO_SCENE_FILM.md#44-toy-story-john-lasseter-1995-macchina-da-presa-virtuale-e-scala-dello-sguardo)
 ### Spazio, messa in scena e recitazione (50)
 
 - [*Susanna* (*Bringing Up Baby*, Howard Hawks, 1938)](ARCHIVIO_SCENE_FILM.md#1-susanna-bringing-up-baby-howard-hawks-1938)
@@ -139,11 +145,16 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*The Searchers / Sentieri selvaggi* (John Ford, 1956)](ARCHIVIO_SCENE_FILM.md#35-the-searchers-sentieri-selvaggi-john-ford-1956)
 - [*Vertigo* (Alfred Hitchcock, 1958) — Dolly zoom](ARCHIVIO_SCENE_FILM.md#37-vertigo-alfred-hitchcock-1958-dolly-zoom)
 - [*His Girl Friday* (Howard Hawks, 1940) — overlapping dialogue](ARCHIVIO_SCENE_FILM.md#38-his-girl-friday-howard-hawks-1940-overlapping-dialogue)
-- [*Pillow Talk* (Michael Gordon, 1959) — split screen](ARCHIVIO_SCENE_FILM.md#40-pillow-talk-michael-gordon-1959-split-screen)
-- [*The Godfather* (Francis Ford Coppola, 1972) — low-key lighting](ARCHIVIO_SCENE_FILM.md#41-the-godfather-francis-ford-coppola-1972-low-key-lighting)
-- [*The Searchers* (John Ford, 1956) — formato e rapporto d'aspetto](ARCHIVIO_SCENE_FILM.md#42-the-searchers-john-ford-1956-formato-e-rapporto-daspetto)
-- [*The Graduate / Il laureato* (Mike Nichols, 1967) — carrello e composizione](ARCHIVIO_SCENE_FILM.md#44-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione)
+- [*The Godfather* (Francis Ford Coppola, 1972) — low-key lighting](ARCHIVIO_SCENE_FILM.md#40-the-godfather-francis-ford-coppola-1972-low-key-lighting)
+- [*The Searchers* (John Ford, 1956) — formato e rapporto d'aspetto](ARCHIVIO_SCENE_FILM.md#41-the-searchers-john-ford-1956-formato-e-rapporto-daspetto)
+- [*The Graduate / Il laureato* (Mike Nichols, 1967) — carrello e composizione](ARCHIVIO_SCENE_FILM.md#43-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione)
 
+- [*Ace in the Hole / L'asso nella manica* (Billy Wilder, 1951)](ARCHIVIO_SCENE_FILM.md#45-ace-in-the-hole-lasso-nella-manica-billy-wilder-1951-messa-in-scena-dello-spettacolo-mediatico)
+- [*The Apartment / L'appartamento* (Billy Wilder, 1960)](ARCHIVIO_SCENE_FILM.md#46-the-apartment-lappartamento-billy-wilder-1960-composizione-prospettiva-e-spazio-del-lavoro)
+- [*Gran Torino* (Clint Eastwood, 2008)](ARCHIVIO_SCENE_FILM.md#49-gran-torino-clint-eastwood-2008-composizione-soglia-e-trasformazione-dei-rapporti)
+- [*Blade Runner* (Ridley Scott, 1982)](ARCHIVIO_SCENE_FILM.md#55-blade-runner-ridley-scott-1982-fotografia-scenografia-e-costruzione-del-mondo)
+- [*C'era una volta il West* (Sergio Leone, 1968)](ARCHIVIO_SCENE_FILM.md#56-cera-una-volta-il-west-sergio-leone-1968-durata-attesa-e-paesaggio-sonoro)
+- [*The Long Goodbye / Il lungo addio* (Robert Altman, 1973)](ARCHIVIO_SCENE_FILM.md#57-the-long-goodbye-il-lungo-addio-robert-altman-1973-dialoghi-sovrapposti-e-spazio-sonoro)
 ### Movimenti di macchina e durata (16)
 
 - [*L'avventura* (Michelangelo Antonioni, 1960)](ARCHIVIO_SCENE_FILM.md#6-lavventura-michelangelo-antonioni-1960)
@@ -163,6 +174,9 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*The Shining* (Stanley Kubrick, 1980)](ARCHIVIO_SCENE_FILM.md#32-the-shining-stanley-kubrick-1980)
 - [*Vertigo* (Alfred Hitchcock, 1958) — Dolly zoom](ARCHIVIO_SCENE_FILM.md#37-vertigo-alfred-hitchcock-1958-dolly-zoom)
 
+- [*Taxi Driver* (Martin Scorsese, 1976)](ARCHIVIO_SCENE_FILM.md#47-taxi-driver-martin-scorsese-1976-movimento-di-macchina-e-voce-fuori-campo)
+- [*C'era una volta il West* (Sergio Leone, 1968)](ARCHIVIO_SCENE_FILM.md#56-cera-una-volta-il-west-sergio-leone-1968-durata-attesa-e-paesaggio-sonoro)
+- [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — piano-sequenza al Copacabana](ARCHIVIO_SCENE_FILM.md#58-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-il-piano-sequenza-al-copacabana)
 ### Suono, dialogo e musica (13)
 
 - [*News from Home* (Chantal Akerman, 1976) / *Jeanne Dielman* (Chantal Akerman, 1975)](ARCHIVIO_SCENE_FILM.md#34-news-from-home-chantal-akerman-1976-jeanne-dielman-chantal-akerman-1975)
@@ -179,6 +193,10 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*His Girl Friday* (Howard Hawks, 1940) — overlapping dialogue](ARCHIVIO_SCENE_FILM.md#38-his-girl-friday-howard-hawks-1940-overlapping-dialogue)
 - [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — voice-over](ARCHIVIO_SCENE_FILM.md#39-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-voice-over)
 
+- [*Taxi Driver* (Martin Scorsese, 1976)](ARCHIVIO_SCENE_FILM.md#47-taxi-driver-martin-scorsese-1976-movimento-di-macchina-e-voce-fuori-campo)
+- [*The Long Goodbye / Il lungo addio* (Robert Altman, 1973)](ARCHIVIO_SCENE_FILM.md#57-the-long-goodbye-il-lungo-addio-robert-altman-1973-dialoghi-sovrapposti-e-spazio-sonoro)
+- [*Close Encounters of the Third Kind / Incontri ravvicinati del terzo tipo* (Steven Spielberg, 1977)](ARCHIVIO_SCENE_FILM.md#54-close-encounters-of-the-third-kind-incontri-ravvicinati-del-terzo-tipo-steven-spielberg-1977-suono-come-linguaggio)
+- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982) — silhouette e controluce](ARCHIVIO_SCENE_FILM.md#53-et-lextra-terrestre-steven-spielberg-1982-silhouette-controluce-ed-effetti-ottici)
 ### Narrazione, tempo e punto di vista (47)
 
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976)
@@ -227,8 +245,12 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*Memento* (Christopher Nolan, 2000)](ARCHIVIO_SCENE_FILM.md#34-memento-christopher-nolan-2000)
 - [*Rear Window / La finestra sul cortile* (Alfred Hitchcock, 1954) — SCHEDA OPERATIVA: REGOLA DEI 180°](ARCHIVIO_SCENE_FILM.md#36-rear-window-la-finestra-sul-cortile-alfred-hitchcock-1954-scheda-operativa-regola-dei-180)
 - [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — voice-over](ARCHIVIO_SCENE_FILM.md#39-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-voice-over)
-- [*The Silence of the Lambs / Il silenzio degli innocenti* (Jonathan Demme, 1991) — montaggio alternato e focalizzazione](ARCHIVIO_SCENE_FILM.md#43-the-silence-of-the-lambs-il-silenzio-degli-innocenti-jonathan-demme-1991-montaggio-alternato-e-focalizzazione)
+- [*The Silence of the Lambs / Il silenzio degli innocenti* (Jonathan Demme, 1991) — montaggio alternato e focalizzazione](ARCHIVIO_SCENE_FILM.md#42-the-silence-of-the-lambs-il-silenzio-degli-innocenti-jonathan-demme-1991-montaggio-alternato-e-focalizzazione)
 
+- [*The Fabelmans* (Steven Spielberg, 2022)](ARCHIVIO_SCENE_FILM.md#48-the-fabelmans-steven-spielberg-2022-film-nel-film-e-montaggio-come-rivelazione)
+- [*Ace in the Hole / L'asso nella manica* (Billy Wilder, 1951)](ARCHIVIO_SCENE_FILM.md#45-ace-in-the-hole-lasso-nella-manica-billy-wilder-1951-messa-in-scena-dello-spettacolo-mediatico)
+- [*Titanic* (James Cameron, 1997)](ARCHIVIO_SCENE_FILM.md#52-titanic-james-cameron-1997-montaggio-alternato-e-gestione-dello-spazio)
+- [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — piano-sequenza al Copacabana](ARCHIVIO_SCENE_FILM.md#58-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-il-piano-sequenza-al-copacabana)
 ### Fotografia, luce e colore (9)
 
 - [*Come le foglie al vento* (*Written on the Wind*, Douglas Sirk, 1956)](ARCHIVIO_SCENE_FILM.md#5-come-le-foglie-al-vento-written-on-the-wind-douglas-sirk-1956)
@@ -239,29 +261,42 @@ Le voci raggruppano le schede in base ai tag effettivamente presenti. Una scena 
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set)
 - [*Metropolis* (Fritz Lang, 1927)](ARCHIVIO_SCENE_FILM.md#19-metropolis-fritz-lang-1927)
 - [*Blow-Up* (Michelangelo Antonioni, 1966)](ARCHIVIO_SCENE_FILM.md#27-blow-up-michelangelo-antonioni-1966)
-- [*The Godfather* (Francis Ford Coppola, 1972) — low-key lighting](ARCHIVIO_SCENE_FILM.md#41-the-godfather-francis-ford-coppola-1972-low-key-lighting)
+- [*The Godfather* (Francis Ford Coppola, 1972) — low-key lighting](ARCHIVIO_SCENE_FILM.md#40-the-godfather-francis-ford-coppola-1972-low-key-lighting)
 
+- [*Blade Runner* (Ridley Scott, 1982)](ARCHIVIO_SCENE_FILM.md#55-blade-runner-ridley-scott-1982-fotografia-scenografia-e-costruzione-del-mondo)
+- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982) — silhouette e controluce](ARCHIVIO_SCENE_FILM.md#53-et-lextra-terrestre-steven-spielberg-1982-silhouette-controluce-ed-effetti-ottici)
+- [*The Apartment / L'appartamento* (Billy Wilder, 1960)](ARCHIVIO_SCENE_FILM.md#46-the-apartment-lappartamento-billy-wilder-1960-composizione-prospettiva-e-spazio-del-lavoro)
 ## Indice per film
 
 Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegamento apre direttamente la sezione corrispondente nel documento principale.
 
-- [*Birdman* (Alejandro González Iñárritu, 2014)](ARCHIVIO_SCENE_FILM.md#20-birdman-alejandro-gonzález-iñárritu-2014) — piano-sequenza simulato e montaggio invisibile.
+
+
 - [*2001: A Space Odyssey* (*2001: Odissea nello spazio*, Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#10-2001-a-space-odyssey-2001-odissea-nello-spazio-stanley-kubrick-1968) — match cut e montaggio per associazione.
 - [*2001: Odissea nello spazio* (Stanley Kubrick, 1968)](ARCHIVIO_SCENE_FILM.md#25-2001-odissea-nello-spazio-stanley-kubrick-1968) — geometria dell'inquadratura.
 - [*8½* (Federico Fellini, 1963)](ARCHIVIO_SCENE_FILM.md#8-8½-federico-fellini-1963) — soggettività e spazio mentale.
 - [*À bout de souffle / Fino all'ultimo respiro* (Jean-Luc Godard, 1960) — SCHEda DI CONFRONTO](ARCHIVIO_SCENE_FILM.md#26-à-bout-de-souffle-fino-allultimo-respiro-jean-luc-godard-1960-scheda-di-confronto) — jump cut.
+- [*Ace in the Hole / L'asso nella manica* (Billy Wilder, 1951)](ARCHIVIO_SCENE_FILM.md#45-ace-in-the-hole-lasso-nella-manica-billy-wilder-1951-messa-in-scena-dello-spettacolo-mediatico) — spettacolo mediatico e messa in scena della folla.
 - [*Apocalypse Now* (Francis Ford Coppola, 1979)](ARCHIVIO_SCENE_FILM.md#31-apocalypse-now-francis-ford-coppola-1979) — asincronia audiovisiva / rapporto immagine-suono.
+- [*Birdman* (Alejandro González Iñárritu, 2014)](ARCHIVIO_SCENE_FILM.md#20-birdman-alejandro-gonzález-iñárritu-2014) — piano-sequenza simulato e montaggio invisibile.
+- [*Blade Runner* (Ridley Scott, 1982)](ARCHIVIO_SCENE_FILM.md#55-blade-runner-ridley-scott-1982-fotografia-scenografia-e-costruzione-del-mondo) — fotografia e costruzione del mondo.
 - [*Blow Out* (Brian De Palma, 1981)](ARCHIVIO_SCENE_FILM.md#8-blow-out-brian-de-palma-1981) — montaggio audiovisivo e rapporto fra immagine e suono.
 - [*Blow-Up* (Michelangelo Antonioni, 1966)](ARCHIVIO_SCENE_FILM.md#27-blow-up-michelangelo-antonioni-1966) — fotografia e montaggio come costruzione dell'indizio.
 - [*Breathless* (*Fino all'ultimo respiro*, Jean-Luc Godard, 1960)](ARCHIVIO_SCENE_FILM.md#5-breathless-fino-allultimo-respiro-jean-luc-godard-1960) — jump cut.
+- [*C'era una volta il West* (Sergio Leone, 1968)](ARCHIVIO_SCENE_FILM.md#56-cera-una-volta-il-west-sergio-leone-1968-durata-attesa-e-paesaggio-sonoro) — durata, attesa e paesaggio sonoro.
+- [*Catch Me If You Can / Prova a prendermi* (Steven Spielberg, 2002)](ARCHIVIO_SCENE_FILM.md#51-catch-me-if-you-can-prova-a-prendermi-steven-spielberg-2002-titoli-di-testa-animazione-e-grafica-in-movimento) — titoli di testa e motion graphics.
 - [*Citizen Kane* (*Quarto potere*, Orson Welles, 1941)](ARCHIVIO_SCENE_FILM.md#20-citizen-kane-quarto-potere-orson-welles-1941) — profondità di campo.
+- [*Close Encounters of the Third Kind / Incontri ravvicinati del terzo tipo* (Steven Spielberg, 1977)](ARCHIVIO_SCENE_FILM.md#54-close-encounters-of-the-third-kind-incontri-ravvicinati-del-terzo-tipo-steven-spielberg-1977-suono-come-linguaggio) — suono come linguaggio.
 - [*Come le foglie al vento* (*Written on the Wind*, Douglas Sirk, 1956)](ARCHIVIO_SCENE_FILM.md#5-come-le-foglie-al-vento-written-on-the-wind-douglas-sirk-1956) — stile melodrammatico e composizione.
 - [*Dunkirk* (Christopher Nolan, 2017) / *Tenet* (Christopher Nolan, 2020)](ARCHIVIO_SCENE_FILM.md#27-dunkirk-christopher-nolan-2017-tenet-christopher-nolan-2020) — tecnica di ripresa e percezione del movimento.
 - [*E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#11-et-lextra-terrestre-steven-spielberg-1982) — identificazione e messa in scena della relazione.
+- [*E.T. l'extra-terrestre* (Steven Spielberg, 1982) — silhouette e controluce](ARCHIVIO_SCENE_FILM.md#53-et-lextra-terrestre-steven-spielberg-1982-silhouette-controluce-ed-effetti-ottici) — fotografia e composizione.
 - [*El ser querido* (Rodrigo Sorogoyen, 2026) — La sequenza della cena sul set](ARCHIVIO_SCENE_FILM.md#36-el-ser-querido-rodrigo-sorogoyen-2026-la-sequenza-della-cena-sul-set) — direzione degli attori e costruzione della performance attraverso la ripetizione.
 - [*Fight Club* (David Fincher, 1999)](ARCHIVIO_SCENE_FILM.md#21-fight-club-david-fincher-1999) — montaggio visibile.
 - [*Gli ultimi fuochi* (*The Last Tycoon*, Elia Kazan, 1976)](ARCHIVIO_SCENE_FILM.md#2-gli-ultimi-fuochi-the-last-tycoon-elia-kazan-1976) — découpage e costruzione della scena.
+- [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — piano-sequenza al Copacabana](ARCHIVIO_SCENE_FILM.md#58-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-il-piano-sequenza-al-copacabana) — piano-sequenza e movimento di macchina.
 - [*Goodfellas / Quei bravi ragazzi* (Martin Scorsese, 1990) — voice-over](ARCHIVIO_SCENE_FILM.md#39-goodfellas-quei-bravi-ragazzi-martin-scorsese-1990-voice-over) — voice-over narrativo.
+- [*Gran Torino* (Clint Eastwood, 2008)](ARCHIVIO_SCENE_FILM.md#49-gran-torino-clint-eastwood-2008-composizione-soglia-e-trasformazione-dei-rapporti) — composizione, soglia e rapporti tra personaggi.
 - [*His Girl Friday* (Howard Hawks, 1940) — overlapping dialogue](ARCHIVIO_SCENE_FILM.md#38-his-girl-friday-howard-hawks-1940-overlapping-dialogue) — overlapping dialogue.
 - [*I quattrocento colpi* (*Les Quatre Cents Coups*, François Truffaut, 1959)](ARCHIVIO_SCENE_FILM.md#16-i-quattrocento-colpi-les-quatre-cents-coups-françois-truffaut-1959) — freeze frame e finale aperto.
 - [*Il disprezzo* (*Le Mépris*, Jean-Luc Godard, 1963)](ARCHIVIO_SCENE_FILM.md#29-il-disprezzo-le-mépris-jean-luc-godard-1963) — spazio della conversazione e rifiuto del découpage classico.
@@ -288,6 +323,7 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*M – Il mostro di Düsseldorf* (*M*, Fritz Lang, 1931)](ARCHIVIO_SCENE_FILM.md#15-m-il-mostro-di-düsseldorf-m-fritz-lang-1931) — suono diegetico e informazione fuori campo.
 - [*Memento* (Christopher Nolan, 2000)](ARCHIVIO_SCENE_FILM.md#34-memento-christopher-nolan-2000) — temporalità non lineare.
 - [*Metropolis* (Fritz Lang, 1927)](ARCHIVIO_SCENE_FILM.md#19-metropolis-fritz-lang-1927) — messa in scena espressionista e simbolizzazione dello spazio.
+- [*Million Dollar Baby* (Clint Eastwood, 2004)](ARCHIVIO_SCENE_FILM.md#50-million-dollar-baby-clint-eastwood-2004-montaggio-ellittico-e-trasformazione-del-corpo) — montaggio ellittico e trasformazione del corpo.
 - [*Minority Report* (Steven Spielberg, 2002)](ARCHIVIO_SCENE_FILM.md#13-minority-report-steven-spielberg-2002) — interfaccia e immagine mediata.
 - [*Moulin Rouge!* (Baz Luhrmann, 2001)](ARCHIVIO_SCENE_FILM.md#15-moulin-rouge-baz-luhrmann-2001) — costruzione dello spazio cinematografico.
 - [*Mulholland Drive* (David Lynch, 2001)](ARCHIVIO_SCENE_FILM.md#9-mulholland-drive-david-lynch-2001) — ambiguità narrativa e statuto dell'immagine.
@@ -295,7 +331,6 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Ombre rosse* (*Stagecoach*, John Ford, 1939)](ARCHIVIO_SCENE_FILM.md#24-ombre-rosse-stagecoach-john-ford-1939) — costruzione dello spazio d'azione nel cinema classico.
 - [*Persona* (Ingmar Bergman, 1966)](ARCHIVIO_SCENE_FILM.md#18-persona-ingmar-bergman-1966) — primo piano come forma espressiva.
 - [*Piano sequenza / The Magnificent Ambersons* (Orson Welles, 1942)](ARCHIVIO_SCENE_FILM.md#25-piano-sequenza-the-magnificent-ambersons-orson-welles-1942) — piano-sequenza e continuità spaziale.
-- [*Pillow Talk* (Michael Gordon, 1959) — split screen](ARCHIVIO_SCENE_FILM.md#40-pillow-talk-michael-gordon-1959-split-screen) — split screen.
 - [*Psycho* (Alfred Hitchcock, 1960)](ARCHIVIO_SCENE_FILM.md#3-psycho-alfred-hitchcock-1960) — montaggio frammentato e costruzione audiovisiva della violenza.
 - [*Quarto potere* (*Citizen Kane*, Orson Welles, 1941)](ARCHIVIO_SCENE_FILM.md#23-quarto-potere-citizen-kane-orson-welles-1941) — profondità di campo e profondità della composizione.
 - [*Rashomon* (Akira Kurosawa, 1950)](ARCHIVIO_SCENE_FILM.md#9-rashomon-akira-kurosawa-1950) — focalizzazione multipla / narrazione a prospettive divergenti.
@@ -308,23 +343,28 @@ Elenco alfabetico delle schede operative e dei nuclei di confronto. Il collegame
 - [*Shining* (Stanley Kubrick, 1980)](ARCHIVIO_SCENE_FILM.md#24-shining-stanley-kubrick-1980) — composizione geometrica.
 - [*Singin' in the Rain* (*Cantando sotto la pioggia*, Stanley Donen e Gene Kelly, 1952)](ARCHIVIO_SCENE_FILM.md#17-singin-in-the-rain-cantando-sotto-la-pioggia-stanley-donen-e-gene-kelly-1952) — integrazione di musica, corpo, spazio e macchina da presa.
 - [*Susanna* (*Bringing Up Baby*, Howard Hawks, 1938)](ARCHIVIO_SCENE_FILM.md#1-susanna-bringing-up-baby-howard-hawks-1938) — découpage classico e costruzione della continuità.
+- [*Taxi Driver* (Martin Scorsese, 1976)](ARCHIVIO_SCENE_FILM.md#47-taxi-driver-martin-scorsese-1976-movimento-di-macchina-e-voce-fuori-campo) — movimento di macchina e voce fuori campo.
+- [*The Apartment / L'appartamento* (Billy Wilder, 1960)](ARCHIVIO_SCENE_FILM.md#46-the-apartment-lappartamento-billy-wilder-1960-composizione-prospettiva-e-spazio-del-lavoro) — composizione, prospettiva e spazio del lavoro.
 - [*The Birds* (*Gli uccelli*, Alfred Hitchcock, 1963)](ARCHIVIO_SCENE_FILM.md#11-the-birds-gli-uccelli-alfred-hitchcock-1963) — fuori campo e suspense.
 - [*The Conversation* (*La conversazione*, Francis Ford Coppola, 1974)](ARCHIVIO_SCENE_FILM.md#7-the-conversation-la-conversazione-francis-ford-coppola-1974) — punto di ascolto e costruzione narrativa attraverso il suono.
+- [*The Fabelmans* (Steven Spielberg, 2022)](ARCHIVIO_SCENE_FILM.md#48-the-fabelmans-steven-spielberg-2022-film-nel-film-e-montaggio-come-rivelazione) — montaggio e immagine come rivelazione.
+- [*The Godfather* (Francis Ford Coppola, 1972) — low-key lighting](ARCHIVIO_SCENE_FILM.md#40-the-godfather-francis-ford-coppola-1972-low-key-lighting) — illuminazione low-key e chiaroscuro.
 - [*The Godfather / Il padrino* (Francis Ford Coppola, 1972)](ARCHIVIO_SCENE_FILM.md#30-the-godfather-il-padrino-francis-ford-coppola-1972) — montaggio parallelo.
-- [*The Godfather* (Francis Ford Coppola, 1972) — low-key lighting](ARCHIVIO_SCENE_FILM.md#41-the-godfather-francis-ford-coppola-1972-low-key-lighting) — illuminazione low-key e chiaroscuro.
 - [*The Graduate / Il laureato* (Mike Nichols, 1967)](ARCHIVIO_SCENE_FILM.md#33-the-graduate-il-laureato-mike-nichols-1967) — musica extradiegetica come elemento di montaggio.
-- [*The Graduate / Il laureato* (Mike Nichols, 1967) — carrello e composizione](ARCHIVIO_SCENE_FILM.md#44-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione) — blocking e composizione dei corpi nello spazio.
+- [*The Graduate / Il laureato* (Mike Nichols, 1967) — carrello e composizione](ARCHIVIO_SCENE_FILM.md#43-the-graduate-il-laureato-mike-nichols-1967-carrello-e-composizione) — blocking e composizione dei corpi nello spazio.
 - [*The Grand Budapest Hotel* (Wes Anderson, 2014)](ARCHIVIO_SCENE_FILM.md#22-the-grand-budapest-hotel-wes-anderson-2014) — composizione dell'inquadratura.
+- [*The Long Goodbye / Il lungo addio* (Robert Altman, 1973)](ARCHIVIO_SCENE_FILM.md#57-the-long-goodbye-il-lungo-addio-robert-altman-1973-dialoghi-sovrapposti-e-spazio-sonoro) — dialoghi sovrapposti e spazio sonoro.
 - [*The Quiet Man* (John Ford, 1952) / *E.T. l'extra-terrestre* (Steven Spielberg, 1982)](ARCHIVIO_SCENE_FILM.md#33-the-quiet-man-john-ford-1952-et-lextra-terrestre-steven-spielberg-1982)
+- [*The Searchers* (John Ford, 1956) — formato e rapporto d'aspetto](ARCHIVIO_SCENE_FILM.md#41-the-searchers-john-ford-1956-formato-e-rapporto-daspetto) — rapporto d'aspetto e composizione panoramica.
 - [*The Searchers / Sentieri selvaggi* (John Ford, 1956)](ARCHIVIO_SCENE_FILM.md#35-the-searchers-sentieri-selvaggi-john-ford-1956) — soglia e composizione dell'inquadratura.
-- [*The Searchers* (John Ford, 1956) — formato e rapporto d'aspetto](ARCHIVIO_SCENE_FILM.md#42-the-searchers-john-ford-1956-formato-e-rapporto-daspetto) — rapporto d'aspetto e composizione panoramica.
 - [*The Shining* (Stanley Kubrick, 1980)](ARCHIVIO_SCENE_FILM.md#32-the-shining-stanley-kubrick-1980) — movimento di macchina e soggettività spaziale.
-- [*The Silence of the Lambs / Il silenzio degli innocenti* (Jonathan Demme, 1991) — montaggio alternato e focalizzazione](ARCHIVIO_SCENE_FILM.md#43-the-silence-of-the-lambs-il-silenzio-degli-innocenti-jonathan-demme-1991-montaggio-alternato-e-focalizzazione) — montaggio alternato e falsa convergenza spaziale.
+- [*The Silence of the Lambs / Il silenzio degli innocenti* (Jonathan Demme, 1991) — montaggio alternato e focalizzazione](ARCHIVIO_SCENE_FILM.md#42-the-silence-of-the-lambs-il-silenzio-degli-innocenti-jonathan-demme-1991-montaggio-alternato-e-focalizzazione) — montaggio alternato e falsa convergenza spaziale.
+- [*Titanic* (James Cameron, 1997)](ARCHIVIO_SCENE_FILM.md#52-titanic-james-cameron-1997-montaggio-alternato-e-gestione-dello-spazio) — montaggio alternato e spazio.
 - [*Tokyo Story / Viaggio a Tokyo* (Yasujirō Ozu, 1953)](ARCHIVIO_SCENE_FILM.md#22-tokyo-story-viaggio-a-tokyo-yasujirō-ozu-1953) — spazio e montaggio oltre la continuità classica.
 - [*Touch of Evil* (*L'infernale Quinlan*, Orson Welles, 1958)](ARCHIVIO_SCENE_FILM.md#6-touch-of-evil-linfernale-quinlan-orson-welles-1958) — piano-sequenza / long take.
+- [*Toy Story* (John Lasseter, 1995)](ARCHIVIO_SCENE_FILM.md#44-toy-story-john-lasseter-1995-macchina-da-presa-virtuale-e-scala-dello-sguardo) — macchina da presa virtuale e scala dello sguardo.
 - [*Vertigo* (Alfred Hitchcock, 1958) — Dolly zoom](ARCHIVIO_SCENE_FILM.md#37-vertigo-alfred-hitchcock-1958-dolly-zoom) — dolly zoom / travelling compensato.
 - [*Wall-E* (Andrew Stanton, 2008)](ARCHIVIO_SCENE_FILM.md#32-wall-e-andrew-stanton-2008) — citazione cinematografica e intertestualità.
-
 ## Percorso di lavoro
 
 1. **Scegli il concetto** da affrontare e individua una o più scene nell'indice tematico.
