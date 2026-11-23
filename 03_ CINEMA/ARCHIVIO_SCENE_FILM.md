@@ -3823,36 +3823,85 @@ Proporre agli studenti di ricostruire l'evento prima mostrando solo la traccia s
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** le diverse testimonianze sull'omicidio e sul rapporto fra i personaggi nella foresta.
-- **Concetto principale:** focalizzazione multipla / narrazione a prospettive divergenti.
-- **Concetti secondari:** narratore inattendibile, punto di vista, ripetizione, variazione, ambiguità.
-- **Tag:** #focalizzazione #punto-di-vista #narrazione #ripetizione #ambiguità
-- **Livello:** Intermedio.
-- **Uso consigliato:** analisi narrativa / confronto.
+- **Sequenza:** le quattro ricostruzioni dell'incontro nella foresta e della morte del samurai, raccontate dal bandito Tajōmaru, dalla moglie Masako, dal samurai attraverso una medium e dal taglialegna.
+- **Concetto principale:** focalizzazione multipla e variazione del racconto attraverso punti di vista divergenti.
+- **Concetti secondari:** narratore inattendibile, flashback, ripetizione, variazione della messa in scena, montaggio, punto di vista, distribuzione dell'informazione.
+- **Tag:** #focalizzazione #punto-di-vista #narrazione #ripetizione #ambiguità #montaggio
+- **Livello:** Intermedio / Avanzato.
+- **Uso consigliato:** distinguere l'evento narrato dalle diverse versioni che i personaggi ne costruiscono e osservare come la forma audiovisiva renda riconoscibili le loro prospettive.
+- **Attenzione ai contenuti:** la vicenda comprende violenza sessuale e omicidio. Valutare l'estratto e la sua adeguatezza per la classe; è possibile lavorare sulle testimonianze senza mostrare i momenti più espliciti.
+- **Stato:** **DA COMPLETARE** — scegliere una coppia di testimonianze da confrontare e verificare i frammenti sulla copia utilizzata.
 
-### Analisi
-Lo stesso evento viene riproposto attraverso versioni incompatibili. La ripetizione non produce quindi semplice ridondanza: ogni nuova versione modifica il rapporto fra spettatore, personaggio e verità dell'evento. La scena è il caso paradigmatico del cosiddetto «Rashomon effect», cioè della costruzione di una vicenda attraverso punti di vista soggettivi e non pienamente conciliabili. citeturn623513search5turn623513search82
+### Contesto essenziale
+Un samurai viene trovato morto nella foresta e la moglie denuncia di essere stata violentata da un bandito. Durante l'inchiesta vengono ascoltate tre testimonianze: quella del bandito, quella della moglie e quella del samurai, che parla attraverso una medium. In seguito il taglialegna racconta a un sacerdote e a un uomo comune ciò che sostiene di aver visto. Le versioni non coincidono: ciascun testimone attribuisce a sé stesso e agli altri ruoli e responsabilità differenti.
+
+### Analisi formale
+Il film alterna una cornice narrativa ambientata sotto la porta di Rashōmon e i flashback che ricostruiscono l'evento nella foresta. Le testimonianze non vengono presentate come semplici racconti verbali accompagnati da immagini illustrative: ogni versione diventa una vera e propria messa in scena dell'evento. Il film ripete gesti e situazioni, ma modifica la disposizione dei corpi, la durata delle azioni, la scala dei piani e il ritmo del montaggio.
+
+Le differenze non riguardano soltanto il contenuto delle dichiarazioni. Il bandito racconta il duello come un confronto dinamico e spettacolare, nel quale può presentarsi come un guerriero coraggioso. La moglie descrive l'evento concentrandosi sulla propria esperienza e sulla reazione del marito. Il samurai, attraverso la medium, costruisce una versione in cui il proprio onore e la propria morte assumono un significato diverso. Il taglialegna sembra offrire un resoconto più distaccato, ma la sua testimonianza non risolve definitivamente il mistero: anche la sua posizione è parziale e interessata.
+
+Nick Redfern ha analizzato le differenze stilistiche fra le quattro versioni, mostrando che cambiano anche la durata media delle inquadrature, la frequenza dei movimenti di macchina, la scala dei piani e l'uso delle soggettive e dei raccordi. La versione del bandito tende a essere più rapida e dinamica; quella del marito è più lenta e presenta una maggiore variazione nella durata dei piani; quella del taglialegna combina elementi delle altre testimonianze, ma introduce anche un diverso grado di incertezza. La forma audiovisiva non si limita quindi a rappresentare la soggettività: la costruisce.
+
+È importante distinguere il punto di vista ottico dalla focalizzazione narrativa. Una soggettiva mostra ciò che un personaggio vede da una determinata posizione; la focalizzazione riguarda invece la quantità e la qualità delle informazioni che il racconto concede allo spettatore. In *Rashomon* il problema non è soltanto chi guarda, ma chi racconta, quali informazioni possiede e quali motivazioni possono deformare la sua versione.
+
+Il cosiddetto «effetto Rashomon» viene spesso utilizzato per indicare una situazione in cui più persone descrivono lo stesso evento in modi incompatibili. In ambito didattico è utile, però, non trasformarlo in una formula generica secondo cui «ognuno ha la propria verità». Il film mette in scena testimonianze interessate, differenze di memoria e conflitti fra racconto e responsabilità; non dimostra che tutte le versioni siano equivalenti o che la verità sia sempre irraggiungibile.
+
+### Evidenze da far osservare
+1. Quali elementi dell'evento vengono mantenuti nelle quattro versioni e quali cambiano.
+2. Come il bandito mette in scena il duello e quale immagine di sé costruisce.
+3. Come cambia la rappresentazione della moglie nelle diverse testimonianze.
+4. Quali differenze si notano nella durata dei piani e nel ritmo del montaggio.
+5. Come vengono utilizzati soggettive, campi/controcampi e movimenti di macchina.
+6. Perché la testimonianza del taglialegna non risolve definitivamente il racconto.
+7. Quali informazioni appartengono alla cornice sotto la porta e quali ai flashback.
 
 ### Perché è didatticamente utile
-Permette di distinguere storia e racconto e di mostrare che il punto di vista non riguarda soltanto la posizione della macchina da presa, ma anche l'organizzazione dell'informazione narrativa.
+La sequenza permette di distinguere focalizzazione, punto di vista e narratore inattendibile. Gli studenti possono osservare che la ripetizione di uno stesso evento non produce necessariamente una versione più completa: ogni racconto seleziona, omette e riorganizza le informazioni. È inoltre un esempio particolarmente efficace per mostrare come le differenze narrative siano sostenute da scelte formali di ripresa e montaggio.
 
 ### Obiettivo didattico
-Saper distinguere evento narrato, versione del personaggio e posizione dello spettatore rispetto all'informazione.
+Al termine dell'attività, lo studente sa distinguere evento narrato e versione testimoniale, riconoscere le diverse focalizzazioni e descrivere come scala dei piani, durata, movimento di macchina e montaggio contribuiscano a costruire prospettive differenti.
 
 ### Come utilizzarla in classe
-Dividere la classe in gruppi e assegnare una testimonianza a ciascun gruppo. Ogni gruppo deve ricostruire «la propria» versione dell'evento; successivamente confrontare le discrepanze.
+1. **Prima contestualizzazione:** presentare i quattro testimoni e la cornice dell'inchiesta, senza anticipare quale versione sia più attendibile.
+2. **Prima visione:** mostrare due testimonianze dello stesso episodio, per esempio quella del bandito e quella del taglialegna.
+3. **Tabella comparativa:** dividere la classe in gruppi e assegnare a ciascuno una versione, chiedendo di ricostruire azioni, responsabilità e omissioni.
+4. **Analisi formale:** confrontare durata delle inquadrature, scala dei piani, movimenti di macchina e uso delle soggettive.
+5. **Discussione:** distinguere ciò che cambia nel contenuto da ciò che cambia nella forma del racconto.
+6. **Rielaborazione:** chiedere agli studenti di raccontare un piccolo evento scolastico da due punti di vista diversi, progettando anche le differenze di inquadratura e montaggio.
 
-### Domande
-1. Quale versione è vera?
-2. Quali informazioni cambiano da una testimonianza all'altra?
-3. Il film ci chiede di scegliere una verità o di mettere in discussione l'idea stessa di verità unica?
+### Domande per gli studenti
+1. Quali elementi dell'evento sono comuni a tutte le testimonianze?
+2. In che modo ogni personaggio costruisce un'immagine di sé?
+3. Quali differenze formali distinguono il racconto del bandito da quello del taglialegna?
+4. La soggettiva coincide sempre con la focalizzazione?
+5. Perché la versione del taglialegna non può essere considerata automaticamente oggettiva?
+6. Che cosa significa parlare di narratore inattendibile in questo film?
+
+### Verifica formativa
+Gli studenti compilano una tabella per due testimonianze, indicando:
+- azioni narrate;
+- responsabilità attribuite ai personaggi;
+- informazioni presenti e assenti;
+- scala dei piani;
+- durata e ritmo delle inquadrature;
+- movimenti di macchina e soggettive;
+- immagine di sé costruita dal testimone.
+
+A conclusione, scrivono un breve testo che spieghi come il film trasformi la ripetizione dello stesso evento in quattro racconti differenti.
+
+**Criteri:** distinzione fra evento e testimonianza, riconoscimento delle differenze formali, uso corretto di focalizzazione e soggettiva, capacità di sostenere l'interpretazione con dettagli osservabili.
 
 ### Collegamenti
-- *Mulholland Drive*: ambiguità e interpretazione.
-- *Memento*: ordine del racconto e informazione.
-- Teoria del punto di vista e narratologia.
+- **Narratore inattendibile e focalizzazione:** *Memento* — ordine del racconto e informazione parziale.
+- **Ambiguità e livelli narrativi:** *Mulholland Drive* — immagini e ricostruzione dello spettatore.
+- **Memoria e ripetizione:** *Se mi lasci ti cancello* — ricordi che si trasformano durante la narrazione.
+- **Montaggio e punti di vista:** *L'avventura* — discontinuità e difficoltà di ricostruzione dello spazio.
 
----
+### Fonti e riferimenti
+- Nick Redfern, «Film Style and Narration in *Rashomon*», *Journal of Japanese and Korean Cinema*, 5, nn. 1–2, 2013, pp. 21–36, DOI: 10.1080/17564905.2013.10820070. Analizza statisticamente durata dei piani, movimenti di macchina, scale e soggettive nelle quattro versioni: https://doi.org/10.1080/17564905.2013.10820070
+- Jasper Sharp, «The Rashomon effect: a new look at Akira Kurosawa’s cinematic milestone of post-truth», *BFI*, 3 gennaio 2023. Ricostruisce la struttura narrativa, le quattro testimonianze e il contesto storico: https://www.bfi.org.uk/features/rashomon-effect-akira-kurosawa
+- BFI Southbank, «Rashomon», note di programma, per la cornice narrativa, le testimonianze e il ruolo della fotografia di Kazuo Miyagawa: https://bfidatadigipres.github.io/member%20mondays/2024/07/08/rashomon/
+- Stephen Prince, *The Warrior's Camera: The Cinema of Akira Kurosawa*, Princeton University Press, 1991, per il rapporto fra stile visivo, punto di vista e costruzione della narrazione.
 
 ## 45. *Lawrence d'Arabia* (*Lawrence of Arabia*, David Lean, 1962)
 [↑ Torna all'indice](#indice-interattivo)
