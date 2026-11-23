@@ -3766,7 +3766,7 @@ Disegnare una pianta semplificata del percorso compiuto dalla macchina da presa.
 *C'era una volta il West* → *Goodfellas* → *Rope* → *Touch of Evil* → *Birdman*
 
 ### Montaggio e compressione del tempo
-*Million Dollar Baby* → *The Graduate* → *Memento* → *Titanic*
+*The Graduate* → *Memento* → *Titanic*
 
 ### Tecniche di transizione ancora da coprire
 - match on action specifico
