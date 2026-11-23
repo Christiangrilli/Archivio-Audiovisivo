@@ -3525,42 +3525,90 @@ Mostrare prima il frammento senza spiegazioni. Chiedere: «Che cosa vi sembra st
 
 ---
 
-## 41. *Touch of Evil* (*L'infernale Quinlan*, Orson Welles, 1958)
+## 41. *L'infernale Quinlan* (*Touch of Evil*, Orson Welles, 1958)
 [↑ Torna all'indice](#indice-interattivo)
 
 ### Identificazione
-- **Scena:** apertura con il percorso della bomba dal momento in cui viene collocata nell'automobile fino all'esplosione.
-- **Concetto principale:** piano-sequenza / long take.
-- **Concetti secondari:** movimento di macchina, suspense, spazio, informazione narrativa, punto di vista.
-- **Tag:** #movimento-di-macchina #piano-sequenza #suspense #spazio #narrazione
-- **Livello:** Intermedio.
-- **Uso consigliato:** analisi formale.
+- **Sequenza:** il piano-sequenza d'apertura, dall'innesco della bomba e dal suo posizionamento nel bagagliaio fino al movimento della macchina da presa che accompagna l'automobile e la coppia Vargas lungo le strade della città di frontiera, prima dell'esplosione fuori campo.
+- **Concetto principale:** long take e costruzione della suspense attraverso durata e informazione.
+- **Concetti secondari:** gru, carrello, movimento di macchina, blocking, profondità, montaggio interno, fuori campo, suono diegetico, punto di vista spettatoriale.
+- **Tag:** #piano-sequenza #long-take #movimento-di-macchina #suspense #spazio #fuori-campo #suono
+- **Livello:** Intermedio / Avanzato.
+- **Uso consigliato:** confrontare la suspense costruita con un montaggio frammentato con quella prodotta da una ripresa lunga che mantiene insieme più azioni e informazioni.
+- **Stato:** **DA COMPLETARE** — verificare quale versione del film viene utilizzata (montaggio originale o ricostruzione del 1998), poiché crediti e colonna sonora dell'apertura differiscono.
 
-### Analisi
-La macchina da presa accompagna simultaneamente diversi percorsi nello spazio mentre lo spettatore possiede un'informazione che i personaggi non hanno: la bomba è già stata collocata nell'automobile. La durata della ripresa permette di mantenere in relazione eventi e personaggi senza ricorrere a un montaggio rapido.
+### Contesto essenziale
+Il film si apre con un uomo che colloca una bomba nel bagagliaio di un'automobile. La macchina da presa segue poi l'auto attraverso una città di frontiera, mentre Vargas e la moglie Susie attraversano la stessa zona a piedi. Lo spettatore sa che la bomba è attiva e conosce il pericolo, mentre i personaggi proseguono ignari. La sequenza termina con l'esplosione dell'automobile, che avviene fuori campo.
 
-La sequenza è inoltre utile per mostrare come il piano-sequenza possa produrre suspense non attraverso l'accelerazione del montaggio, ma attraverso la gestione della durata e dell'informazione narrativa.
+### Analisi formale
+Il piano-sequenza dura poco più di tre minuti e organizza una grande quantità di azioni e personaggi in un unico movimento di macchina. La ripresa inizia con un dettaglio delle mani che impostano il timer della bomba, segue l'uomo che la colloca nel bagagliaio e poi si allontana. La macchina da presa sale con una gru, si sposta lungo la strada e segue l'automobile, ma non resta sempre legata a essa: in alcuni momenti si allontana, attraversa lo spazio e si concentra su Vargas e Susie, per poi ricongiungere le diverse linee d'azione.
+
+Il movimento non è un semplice esercizio virtuosistico. Il piano-sequenza distribuisce le informazioni in modo preciso: lo spettatore sa che la bomba è attiva, ma non conosce il momento esatto dell'esplosione. L'automobile entra ed esce dal quadro; quando è lontana, la musica proveniente dalla radio e i rumori della strada diventano più deboli, mentre tornano più evidenti quando il veicolo si avvicina. La distanza visiva e quella sonora contribuiscono a costruire la percezione dello spazio.
+
+La macchina da presa segue più percorsi: quello dell'automobile, quello della coppia e quello dei passanti e degli altri personaggi che occupano la strada. Il blocking e la coreografia degli attori sono coordinati con il movimento della gru e della macchina da presa. La ripresa sembra libera e spontanea, ma dipende da una pianificazione rigorosa di entrate, uscite, incroci e tempi.
+
+La suspense nasce dal contrasto fra ciò che lo spettatore sa e ciò che i personaggi ignorano. La bomba non viene più mostrata dopo essere stata collocata, ma la sua presenza continua a condizionare la visione. Ogni rallentamento dell'automobile, ogni attraversamento pedonale e ogni fermata al posto di controllo diventano potenziali occasioni per l'esplosione. Il piano-sequenza non accelera il montaggio: dilata l'attesa e obbliga lo spettatore a seguire il tempo che scorre.
+
+L'esplosione avviene fuori campo rispetto alla coppia che sta per baciarsi. La macchina da presa non interrompe la ripresa per mostrare immediatamente la distruzione dell'auto: il suono dell'esplosione interrompe il momento romantico e costringe i personaggi a voltarsi. La scelta dimostra che la suspense può essere costruita anche attraverso un evento che non viene mostrato nel momento in cui accade.
+
+È importante specificare la versione del film. Nel montaggio distribuito nel 1958, l'apertura è accompagnata dai titoli di testa e dalla musica di Henry Mancini. La ricostruzione del 1998, realizzata seguendo il memorandum di Welles, rimuove i titoli sovrapposti e modifica la gestione della musica, dando maggiore spazio alle sorgenti sonore diegetiche della città. Le due versioni producono esperienze differenti e possono diventare oggetto di confronto.
+
+### Evidenze da far osservare
+1. Da quale dettaglio parte la ripresa e quando lo spettatore comprende che si tratta di una bomba.
+2. Come la macchina da presa passa dal bagagliaio alla strada e ai personaggi.
+3. Quando l'automobile entra ed esce dal quadro e come il suono ne segnala la distanza.
+4. Quali azioni avvengono contemporaneamente e come vengono mantenute nello stesso flusso visivo.
+5. Quale informazione possiede lo spettatore che Vargas e Susie non hanno.
+6. Come viene rappresentata l'esplosione e perché resta fuori campo.
+7. Quali differenze si notano fra la versione del 1958 e quella ricostruita nel 1998.
 
 ### Perché è didatticamente utile
-Permette di confrontare due modi diversi di costruire la suspense: frammentazione rapida (*Psycho*) e continuità prolungata (*Touch of Evil*).
+La sequenza permette di dimostrare che un piano-sequenza può costruire suspense senza ricorrere a un montaggio rapido. La durata mantiene attiva un'informazione e organizza più percorsi nello spazio. È inoltre un caso particolarmente utile per analizzare il rapporto fra movimento di macchina, blocking, suono e fuori campo.
 
 ### Obiettivo didattico
-Comprendere che il movimento di macchina può organizzare simultaneamente spazio, tempo e informazione narrativa.
+Al termine dell'attività, lo studente sa ricostruire il percorso della macchina da presa, individuare le azioni mantenute simultaneamente in campo e spiegare come la durata e la distribuzione dell'informazione costruiscano la suspense.
 
 ### Come utilizzarla in classe
-Disegnare la traiettoria della macchina da presa e dei personaggi; poi chiedere agli studenti quando hanno capito il pericolo e perché la scena continua a essere tesa anche senza montaggio rapido.
+1. **Prima visione:** mostrare la sequenza senza anticipare la funzione della bomba. Chiedere agli studenti quando comprendono il pericolo.
+2. **Mappa del percorso:** disegnare una pianta semplificata della strada e tracciare il movimento della macchina da presa, dell'automobile e della coppia.
+3. **Analisi della durata:** dividere il piano in blocchi e descrivere quale azione o personaggio viene seguito in ciascuno.
+4. **Analisi del suono:** individuare la distanza dell'automobile attraverso la variazione della radio e dei rumori ambientali.
+5. **Analisi dell'informazione:** annotare ciò che sa lo spettatore e ciò che sanno Vargas e Susie.
+6. **Confronto fra versioni:** se disponibili, mostrare l'apertura del 1958 e quella del 1998, distinguendo musica, titoli e suoni diegetici.
+7. **Rielaborazione:** progettare un piano-sequenza breve in cui lo spettatore conosca un pericolo che il personaggio non ha ancora individuato.
 
-### Domande
-1. Chi sa che la bomba è presente?
-2. Come viene mantenuta la tensione durante una ripresa molto lunga?
-3. Che cosa avrebbe prodotto un montaggio rapido della stessa azione?
+### Domande per gli studenti
+1. Quale informazione viene fornita all'inizio e perché è così importante?
+2. La macchina da presa segue sempre la stessa azione?
+3. Come il movimento di macchina mantiene in relazione automobile e coppia?
+4. Perché l'esplosione fuori campo può essere più efficace di una sua rappresentazione diretta?
+5. In che modo il suono permette di percepire la distanza dell'automobile?
+6. Quali differenze produce la presenza o l'assenza dei titoli e della musica extradiegetica?
+
+### Verifica formativa
+Gli studenti realizzano una mappa del piano-sequenza con almeno otto passaggi. Per ciascuno indicano:
+- posizione e movimento della macchina da presa;
+- personaggio o oggetto seguito;
+- azione che si svolge;
+- informazione posseduta dallo spettatore;
+- funzione del suono.
+
+A conclusione, scrivono un breve commento spiegando come la durata e il fuori campo costruiscano la suspense.
+
+**Criteri:** ricostruzione corretta del movimento, comprensione della distribuzione dell'informazione, riconoscimento della funzione del suono, distinzione fra long take e piano-sequenza, uso preciso del lessico.
 
 ### Collegamenti
-- *Rope*: continuità e spazio.
-- *Lo squalo*: movimento e suspense.
-- *Psycho*: montaggio e suspense.
+- **Piano-sequenza e continuità apparente:** *Rope* — giunzioni nascoste e limiti della pellicola.
+- **Piano-sequenza e blocking:** *Birdman* — movimento che sostituisce alcune funzioni del découpage.
+- **Suspense frammentata:** *Psycho* — montaggio rapido e violenza suggerita.
+- **Minaccia fuori campo:** *Lo squalo* — informazione anticipata allo spettatore.
 
----
+### Fonti e riferimenti
+- «A Cop Gone Wrong: *Touch of Evil*», *American Cinematographer*, 2019. Ricostruisce il piano-sequenza di apertura, il lavoro della gru e della macchina da presa e la coreografia di Russell Metty e Phil Lathrop: https://theasc.com/article/a-nbsp-cop-gone-wrong-nbsp-touch-of-evil/
+- «Touch of Evil (1958)», *Turner Classic Movies*, per la durata superiore ai tre minuti, il percorso della macchina da presa e la preparazione dell'esplosione: https://www.tcm.com/articles/noir/12687/touch-of-evil-1958
+- Jonathan Rosenbaum, «*Touch of Evil* Retouched», per le differenze fra la versione distribuita nel 1958 e la ricostruzione del 1998, inclusi crediti e colonna sonora: https://jonathanrosenbaum.net/2023/10/touch-of-evil-retouched/
+- «Context and Comprehension in Film», University of Adelaide, analisi della sequenza come esempio di suspense costruita attraverso indizi e predizione dello spettatore: https://ualresearchonline.arts.ac.uk/id/eprint/21127/2/6e09a9e8-5285-46e8-9947-56152793f42b.pdf
+- Walter Murch, intervista a *Fresh Air*, NPR, per la durata del piano e la funzione del timer nella costruzione della suspense: https://freshairarchive.org/segments/archives-film-editor-and-sound-designer-walter-murch
 
 ## 42. *The Conversation* (*La conversazione*, Francis Ford Coppola, 1974)
 [↑ Torna all'indice](#indice-interattivo)
